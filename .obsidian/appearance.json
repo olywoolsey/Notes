@@ -1,0 +1,11 @@
+{
+  "accentColor": "#6bff90",
+  "nativeMenus": true,
+  "theme": "obsidian",
+  "cssTheme": "OlyTheme",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono,Monocraft",
+  "textFontFamily": "Noto Sans Mono CJK HK,Arial",
+  "showViewHeader": true,
+  "baseFontSize": 18
+}

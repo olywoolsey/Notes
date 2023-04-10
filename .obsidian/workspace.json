@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "0def02060054ef8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c735e48dda03a07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83a5094def0e96c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b6069181c791d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester2/COLO1070-Imaging/Section 7 -.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f808233ce6794d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester2/COLO1070-Imaging/Section 4 - Image Capture Mediums.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11e49b919da2097f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester2/COLO1070-Imaging/Section 5 - Camera Filters & Lighting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4344e0998034f1f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester2/COLO1070-Imaging/Section 6 - Digital Printing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d132adba6563df3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b16a149c673b3cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "001d78c8943c4120",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf7ea943d9c16b76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "231bc0dff34bce1c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "39d6b828b6c92792",
+    "type": "split",
+    "children": [
+      {
+        "id": "2623a6b2ba42e475",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce1147f5e60aabae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ea39a92c94fa0019",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97b25f6e76016b7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56b0d6ce46bfa759",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "aaa33d19e9184330",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "001d78c8943c4120",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Semester2/COMP1721-OOP/Sets, Maps & Other Collections.md",
+    "Semester2/COMP1721-OOP/Java Syntax.md",
+    "Semester2/COMP1721-OOP/Intro.md",
+    "Semester2/COMP1721-OOP/Inheritance.md",
+    "Semester2/COMP1721-OOP/Arrays in Java.md",
+    "Semester2/COLO1070-Imaging/Section 7 -.md",
+    "Semester2/COLO1070-Imaging/Section 6 - Digital Printing.md",
+    "Semester2/COLO1070-Imaging/Section 5 - Camera Filters & Lighting.md",
+    "Semester2/COLO1070-Imaging/Section 4 - Image Capture Mediums.md",
+    "Semester2/COLO1070-Imaging/Section 3 - Lenses.md",
+    "Semester2/COLO1070-Imaging/Section 2 - Cameras.md",
+    "Semester2/COLO1070-Imaging/Section 1 - History of Photography.md",
+    "Semester1/TRAN1011-ChallengesInTransport_Mobility/Transport _ Data.md",
+    "Semester2/COMP1921-ProgrammingProject/Debugging - cli.md",
+    "Semester2/COMP1921-ProgrammingProject/Command Line Test Scripts.md",
+    "Semester2/COMP1921-ProgrammingProject/Bit Twiddling.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Resources.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Proofs.md",
+    "Semester2/COMP1511-DiscreteMathmatics/PigeonHole Principle.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Permutations and Combinations.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Counting Methods.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Binomial Coefficients and Identities.md",
+    "Semester2/COMP1212-ComputerProcessors/Overview.md",
+    "Semester2/COMP1212-ComputerProcessors/HDL.md",
+    "Semester2/COMP1212-ComputerProcessors/Common Logic Configurations.md",
+    "Semester2/COLO1070-Imaging/Images/Pasted image 20230327153003.png",
+    "Semester2/COLO1070-Imaging/Images/Pasted image 20230327152531.png",
+    "Semester2/COLO1070-Imaging/Images/Pasted image 20230327151012.png",
+    "Semester2/COLO1070-Imaging/Untitled",
+    "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152720.png",
+    "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152652.png",
+    "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152633.png",
+    "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152514.png",
+    "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152500.png",
+    "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152129.png",
+    "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152114.png",
+    "Semester2/COMP1721-OOP/Images",
+    "Semester2"
+  ]
+}
