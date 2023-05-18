@@ -29,7 +29,7 @@ Features common to both are as below:
 - The Orange G filter darkens the blue sky even more and the Red 25A filter converts the blue sky to almost black
 
 ## Lighting
-- Light sources used for photography are referredt o as white light sources – they produce a mixture of all colours and a continuous spectrum
+- Light sources used for photography are referred to as white light sources – they produce a mixture of all colours and a continuous spectrum
 - The colour of the white light source is measured in degrees Kelvin (K) – starting at absolute zero(-273°C)
 - Derived from the heating of metal – colour changes at increasing temperatures –red/orange/yellow/white/blue
 ![[Pasted image 20230320152017.png]]
@@ -88,12 +88,10 @@ Features common to both are as below:
 - 80B for use with 3400K lamps
 - For the use of tungsten balanced colour films in daylight
 - 85 decreases the colour temperature from 5500K to 3400K for Type A films
-- 85B converts 5500Kto 3200K for Type B films
+- 85B converts 5500K to 3200K for Type B films
 - Conversion filters with odd reference numbers(81A & 85B) are yellow/orange in colour for lowering the colour temperature (K) of the light source
 - Conversion filters with even reference numbers(80A & 8OB) are blue to raise the colour temperature (K) of the light source
-- Conversion filters with odd reference numbers(81A & 85B) are yellow/orange in colour for lowering the colour temperature (K) of the light source
-- Conversion filters with even reference numbers(80A & 8OB) are blue to raise the colour temperature (K) of the light source
-- Much paler filters -purpose is to control eitherthe red, green or blue partof the visible spectrumand allow the other twocolours to pass through
+- Much paler filters -purpose is to control either the red, green or blue part of the visible spectrum and allow the other two colours to pass through
 - Available in six colours –each containing various colour strengths
 - Used to provide fine lighting adjustments
 - When using daylight film with fluorescent lighting,a greenish colour cast is prevalent

@@ -3,9 +3,9 @@
   "nativeMenus": true,
   "theme": "obsidian",
   "cssTheme": "OlyTheme",
-  "interfaceFontFamily": "",
-  "monospaceFontFamily": "JetBrains Mono,Monocraft",
-  "textFontFamily": "Noto Sans Mono CJK HK,Arial",
+  "interfaceFontFamily": "Arial",
+  "monospaceFontFamily": "Hack Nerd Font Mono",
+  "textFontFamily": "Arial",
   "showViewHeader": true,
   "baseFontSize": 18
 }

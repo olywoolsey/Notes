@@ -1,3 +1,4 @@
+
 #COLO1070
 ## Lens imperfections 
 ### direct aberrations
@@ -173,7 +174,56 @@ Thus at 1/250th second or faster, a narrow slit moves quickly across in front of
 As this blind combination is never fully open – a flash gun cannot be used
 ![[Pasted image 20230306155256.png]]
 
-## Leaf Shutter
-- Associated with the lens &located between the lens elements
+### Leaf Shutter
+- Associated with the lens & located between the lens elements
 - Constructed of a number of overlapping thin metal plates which prevent light from passing through to the film/sensor
-- When the shutter is activated the leaves spring open to allow light to pass through Maximum speed 1/1000th second Associated with medium format and large format cameras
+- When the shutter is activated the leaves spring open to allow light to pass through
+- Maximum speed 1/1000th second
+- Associated with medium format and large format cameras
+### Camera Shutters
+- DSLR cameras have electro-mechanical shutters similar to SLR cameras
+- Compact digital cameras have electronic shutters
+- These can be global type (for high speed moving objects) or rolling type (for static or slow moving objects)
+
+## Aperture & Exposure
+- Lens aperture in combination with the camera shutter control the level of light reaching the film/sensor
+- Control of the aperture size in determined by the Iris Diaphram which is a series of cresent shaped blades that make a circular opening in the centre of the lens
+- Small apertures e.g. f22 let in low light levels but give good depth of field
+- LArge apertures e.g. f2.8 let in more light but give poor depth of field
+- With 35mm cameras the Iris Diaphram reamains fully open until the expesure ad then the apeture closes down to the selected apeture (specific to SLR & DSLR)
+- Aperture ring on the lens is calibrated with a series of numbers called f-stops
+- These are measures of the lens aperture
+- The aeries normally starts at f1.2, f1.4,  f1.8 or f2 (fully open) & increases in stages to f2.8, f4, f5.6, f8, f16, f22 (even f32 & f64 with some lenses)
+- If we were only limited to f-stops that were full stops, the scale would look like this:
+	f/1, f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16, f/22, f/32
+![[Pasted image 20230502220655.png]]
+- Each setting of the aperture ring from f22 towards f1.8 allows twice as much light through as the previous setting
+- Thus at f8 the level of light reaching the film/sensor is double that at f11 but only half that at f5.6
+- Note the similarity here to the doubling/halving associated with shutter speeds
+- Thus if the cameras light meter indicates that the correct exposure can be achieved by a combination of 1/60th second at f5.6, then equal exposure can also be achieved by a combination of 1/125th second at f4
+- However, the depth of field will be greater for the 1/60th second at f5.6
+
+## Depth of field
+- Governed by aperture setting
+- A wide aperture such as f1.8 gives an inferior DOF compared with a narrow aperture such as f22
+- Other factors include lens focal length, subject distance & degree of print enlagement
+- A 300mm telephoto lens will have a shallower DOF than a 24 mm wide-angle lens
+![[Pasted image 20230502221134.png]]
+
+## Camera Exposure Modes
+- Auto: the camera automatically selects all the exposure settings
+- Program(P): camera automatically select Aperture and the shutter speed - you choose corresponding ISO speed and any exposure compensation required
+- Aperture Priority: You select the Aperture and ISO the cameras metering determins the corresponding shutter speed
+- Shutter Priority: You specify the Shutter Speed and ISO and the camera's metering determins the corresponding Aperture
+- Manual: You select the Aperture, ISO and Shutter Speed
+
+## Image Stabilisation
+- Lens-based optical image stabilisation (OIS)
+	- Achieved by means of a single floating lens element positioned within the compound lens
+	- The lens shifts to compensate for the camera and hence image movement
+- Camera-based image stabilisation
+	- Here the sensor moves to compensate for the shaky camera movement instead of the lens
+	- however the degree of correction is less than an OIS system
+- Electronic image stabilisation (EIS)
+	- Achieved by software processing
+	- The system works to redice blur on the captured pixels that make up the image

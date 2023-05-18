@@ -1,4 +1,33 @@
 #COLO1070
+## Monochrome Film
+- similar physical structure to other film types
+- photographic emulsion coated into substrate (Cellulose acetate / PET)
+- In early Days the emulsion was only sensitive to UV and violet / blue light
+- final product is panchromatic - sensitive to all colours in the visible spectrum
+### Structure:
+Gelatin binder | Sliver halide in suspension
+Celluloid base
+Physical Handling protective back
+### Image Capture
+- camera shutter opening exposes AgX crystals on the film to light
+- AgX crystals change to the Mattalic Ag but cannot be seen by the naked eye
+- the invisible image is referred to as the latent image
+#### Latent Image Formation
+- defects in the crystal structure act as traps for the electrons
+- these are released when bromide ions revert to bromine atoms as a result of light striking the crystal
+- the electrons build up around the fault forming a negative charge
+- htis attracts positivley charged silver ions - combine with electrons to firm pure silver 
+- the remaining bromine atoms diffuse out
+### Film development Process
+- Reduction Process
+- Silver halidde crystals exposed to light are now fully reduced to metallic silver (dark specks form on the exposed crystals & grow until each crystal has turned black)
+- Development process increases the minor levels of silver halide present by a factor of over 1mil
+### Film Fixation Stage
+- Removes non exposed AgX material in gelatin layer
+- to stop whole image darkening on exposure to light
+- insoluble Agx is transformed onto soluble compounds and removed by washing
+![[Pasted image 20230428171546.png]]
+
 ## Colour Film
 ### Colour Negative Film
 - The most popular film recording medium for both amateur and professional photographers
@@ -15,18 +44,24 @@
 - Red areas of the image will register in the third emulsion layer (Cyan Dye)
 - Orange areas (a mixture of red + green light) will register in both the second & third emulsion layers
 #### Development
-A silver (Ag) image is produced in the emulsion layers of the film where light of the appropriate colours fall
-Oxidation products react with the colour couplers to form coloured dyes
+- A silver (Ag) image is produced in the emulsion layers of the film where light of the appropriate colours fall
+- Oxidation products react with the colour couplers to form coloured dyes
 #### Bleaching
 - The bleach bath converts the metallic silver (Ag) back into silver halides (AgX)and also removes the yellow filter
 #### Fixation
 - Silver halide (AgX) is removed from the film in the fixing bath, leaving only the dye image in each layer in the complementary colours of the light that struck the film
+### Overview
+- The negative coloured dye images formed during the colour development stage are perfect replicas of the monochrome silver images originally formed following the first development stage
+- The final bleach/fix stages remove the three negative silver images together with the filter layer and the unexposed silver halide crystals
+- Following the washing stage the only material left is the layered dye images
+- The colour printing stage reverses the negative image back to a positive image
+- The chemicals and paper which reverse the image, together with its colours and tone, are very similar to the film and chemicals used to create the initial negative image
 
-### Colour Transparency Film
+## Colour Transparency Film
 - Often referred to as slide or positive film
 - Superior image quality to colour negative film– has finer grain structure, with the image dyes having brighter and cleaner colours
 - Prints can be obtained direct using Ilford Ilfochrome Classic materials
-#### Image Capture Process
+### Image Capture Process
 - Colour transparency film is very similar to colour negative film with respect to construction
 - Colour negative film has coloured couplers whereas those in transparency film are colourless
 - Exposure response is similar, with a latent image being formed within each of the emulsion layers
@@ -42,7 +77,7 @@ Oxidation products react with the colour couplers to form coloured dyes
 - The final bleach/fix stage removes both positive and negative silver images leaving only the positive layered dye images
 -  It is the grains of silver initially unexposed that act as the template for the production of the positive dye image that ultimately forms the final image
 - As the larger AgX grains are the most sensitive to the incoming light, it follows that these will be the first to be exposed
-- Thus the unexposed grains will be the finer grains It is these that form the template for the final dye image
+- Thus the unexposed grains will be the finer grains - It is these that form the template for the final dye image
 - Transparency film has limited exposure latitude meaning that only half an f-stop can mean the difference between a successful image and an ordinary image
 - Transparency film is also sensitive to the vagaries of light and often requires added filtration
 
