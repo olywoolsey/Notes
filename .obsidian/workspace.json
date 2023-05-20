@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Resources.md",
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a563331700e5363b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Resources.md",
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Resources.md",
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Resources.md"
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md"
               }
             }
           },
@@ -158,7 +172,17 @@
   },
   "active": "60681dceda2216d1",
   "lastOpenFiles": [
+    "Semester2/COMP1511-DiscreteMathmatics/Resources.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Proofs.md",
+    "Semester2/COMP1511-DiscreteMathmatics/PigeonHole Principle.md",
     "Semester2/COMP1511-DiscreteMathmatics/Permutations and Combinations.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Binomial Coefficients and Identities.md",
+    "Virtual Machines.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Semester2/COMP1212-ComputerProcessors/Common Logic Configurations.md",
     "Semester2/COMP1212-ComputerProcessors/Sequential Logic & Memory.md",
     "Semester2/COMP1212-ComputerProcessors/Overview.md",
@@ -173,20 +197,10 @@
     "Semester2/COLO1070-Imaging/Section 7 -  Aspects of Digital Imaging.md",
     "Semester2/COLO1070-Imaging/Section 6 - Digital Printing.md",
     "File Types.md",
-    "Virtual Machines.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Resources.md",
     "Semester1/COMP1711-ProcedualProgramming/Input and Output.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
     "Semester2/COMP1721-OOP/Arrays in Java.md",
     "Semester2/COMP1721-OOP/Java Syntax.md",
-    "Semester2/COMP1721-OOP/Inheritance.md",
-    "Physics.md",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230428171546.png",
-    "Semester2/COMP1511-DiscreteMathmatics/Binomial Coefficients and Identities.md",
-    "Semester2/COLO1070-Imaging/Section 2 - Cameras.md",
-    "Semester2/COLO1070-Imaging/Section 1 - History of Photography.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230327153003.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230327152531.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230327151012.png",
