@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60681dceda2216d1",
+            "id": "a563331700e5363b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "a563331700e5363b",
+            "id": "54966509cf6253d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
+                "file": "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#COLO1070",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,12 +170,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60681dceda2216d1",
+  "active": "a563331700e5363b",
   "lastOpenFiles": [
-    "Semester2/COMP1511-DiscreteMathmatics/Resources.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/SAT-Solving.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Logically implies.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Logic Laws.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Functions and Relations.md",
     "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
     "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
+    "Semester1/COMP1211-ComputerArchitecture/Memory.md",
     "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Resources.md",
+    "Pigeon hole principle.md",
     "Semester2/COMP1511-DiscreteMathmatics/Proofs.md",
     "Semester2/COMP1511-DiscreteMathmatics/PigeonHole Principle.md",
     "Semester2/COMP1511-DiscreteMathmatics/Permutations and Combinations.md",
@@ -188,18 +198,8 @@
     "Semester2/COMP1212-ComputerProcessors/Overview.md",
     "Semester2/COMP1212-ComputerProcessors/Machine Language.md",
     "Semester2/COMP1212-ComputerProcessors/HDL.md",
-    "Semester2/COMP1212-ComputerProcessors/Assembler.md",
-    "Semester2/COLO1070-Imaging/Section 5 - Camera Filters & Lighting.md",
-    "Semester2/COLO1070-Imaging/Section 4 - Image Capture Mediums.md",
-    "Semester2/COLO1070-Imaging/Section 3 - Lenses.md",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230502221134.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230502220655.png",
-    "Semester2/COLO1070-Imaging/Section 7 -  Aspects of Digital Imaging.md",
-    "Semester2/COLO1070-Imaging/Section 6 - Digital Printing.md",
-    "File Types.md",
-    "Semester1/COMP1711-ProcedualProgramming/Input and Output.md",
-    "Semester2/COMP1721-OOP/Arrays in Java.md",
-    "Semester2/COMP1721-OOP/Java Syntax.md",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230428171546.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230327153003.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230327152531.png",

@@ -1,4 +1,5 @@
-[book 6.1 - 6.5](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYWVlZG9vbjF8Z3g6N2JmM2Y5YWEzMmRlNWUzNw)
+#COMP1511
+[K.H.Rosen Discrete Mathematics and it's applications - Chapter 6.1 - 6.5](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYWVlZG9vbjF8Z3g6N2JmM2Y5YWEzMmRlNWUzNw)
 The study of arrangements of objects
 It is used, for example, in determining the complexity of algorithms, determining whether there are enough Internet protocol addressees to meet the demand, and when probabilities of events are computed.
 
