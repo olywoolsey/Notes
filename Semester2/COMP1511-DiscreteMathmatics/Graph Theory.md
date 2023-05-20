@@ -37,12 +37,12 @@ $Proof:$ Each loop contributes 2 to the summation and each edge $e=uv$ that is n
 - Used with the [[Combinatrics - Counting Methods#Pigeon hole principle |Pigeon hole principle]]
 $Proof:$ Let $G$ be a simple graph with vertex set $V(G) = \{v_1, ...,v_n\}$ denoting the people at the party
 - Edges of $G$ are defined as: $uv\in E(G)$ if $u$ and $v$ are friends
-- for $i=1,..,n$, $d(v_i)$ number of friends$v_i$
+- for $i=1,..,n$, $d(v_i)$ number of friends $v_i$
 	$CASE1:$ Everyone has at least one friend
 	- for every $i=1,..,n,1\leq d(v_i) \leq n-1$
 	- Since $n$ variables $d(v_1),...,d(v_n)$ are each assigned one of $n-1$ number from the set $/{1,..,n-1/}$, then at least two must be the same value
 	$CASE2:$ Someone does not have any friends
-	- For some $i \in \{1,..,n\},d(v_i) \leq n-2\}$
+	- For some $i \in \{1,..,n\},d(v_i) \leq n-2$
 	- So for every $i=1, ..,n,0 \leq d(v_i) \leq n-2$
 	- Since $n$ variables $d(v_i),..,d(v_n)$ are each assigned one of $n-1$ numbers from the set $\{0,..,n-2\}$, at least two of them must have the same value
 

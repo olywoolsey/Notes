@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md"
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md"
               }
             }
           },
@@ -172,6 +171,8 @@
   },
   "active": "a563331700e5363b",
   "lastOpenFiles": [
+    "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
     "Semester1/COMP1421-FundamentalMathConcepts/SAT-Solving.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
@@ -180,8 +181,6 @@
     "Semester1/COMP1421-FundamentalMathConcepts/Logically implies.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Logic Laws.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Functions and Relations.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
     "Semester1/COMP1211-ComputerArchitecture/Memory.md",
     "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
     "Semester2/COMP1511-DiscreteMathmatics/Resources.md",
