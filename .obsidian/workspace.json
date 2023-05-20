@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54966509cf6253d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md"
+                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md"
               }
             }
           },
@@ -155,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +157,10 @@
   },
   "active": "a563331700e5363b",
   "lastOpenFiles": [
-    "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
+    "Semester1/InternationalDevelopment/Gender in Global Politics.md",
     "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
     "Semester1/COMP1421-FundamentalMathConcepts/SAT-Solving.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
@@ -182,7 +170,6 @@
     "Semester1/COMP1421-FundamentalMathConcepts/Logic Laws.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Functions and Relations.md",
     "Semester1/COMP1211-ComputerArchitecture/Memory.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
     "Semester2/COMP1511-DiscreteMathmatics/Resources.md",
     "Pigeon hole principle.md",
     "Semester2/COMP1511-DiscreteMathmatics/Proofs.md",
@@ -196,7 +183,6 @@
     "Semester2/COMP1212-ComputerProcessors/Sequential Logic & Memory.md",
     "Semester2/COMP1212-ComputerProcessors/Overview.md",
     "Semester2/COMP1212-ComputerProcessors/Machine Language.md",
-    "Semester2/COMP1212-ComputerProcessors/HDL.md",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230502221134.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230502220655.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230428171546.png",

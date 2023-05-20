@@ -47,7 +47,8 @@ $Proof:$ Let $G$ be a simple graph with vertex set $V(G) = \{v_1, ...,v_n\}$ den
 	- Since $n$ variables $d(v_i),..,d(v_n)$ are each assigned one of $n-1$ numbers from the set $\{0,..,n-2\}$, at least two of them must have the same value
 
 ## Paths and Cycles
-Caution: Other Sources will often use different terminology so always check
+>[!warning]
+Other Sources will often use different terminology so always check
 ### Path
 Let $v_0$ and $v_n$ be vertices in a graph $G$. A path in $G$ from $v_0$ to $v_n$ of length $n$ is an alternating sequence of $n+1$ vertices and $n$ edges, $v_0e_1v_1e_2 ... v_{n-1}e_nv_n$, in which edge $e_i$ is incident on vertices $v_i−1$ and $v_i$ for every $i = 1,...,n$
 - Note that in a simple graph, to denote a path we just need to list the sequence of vertices since two vertices are connected by only one edge, e.g. $v_0v_1 ... v_n$.
