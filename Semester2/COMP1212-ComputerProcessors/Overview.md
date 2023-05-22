@@ -13,7 +13,7 @@ https://nand2tetris.org
 - [[Machine language]]
 
 ## Part 4:
-- [[Building our computer]]
+- [[Building Our Computer]]
 
 ## Part 5:
 - Connecting out software to the machine

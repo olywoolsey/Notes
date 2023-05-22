@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+                "file": "Semester2/COMP1121-Databases/Ethics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+                "file": "Semester2/COMP1121-Databases/Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+                "file": "Semester2/COMP1121-Databases/Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md"
+                "file": "Semester2/COMP1121-Databases/Ethics.md"
               }
             }
           },
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +159,11 @@
   },
   "active": "a563331700e5363b",
   "lastOpenFiles": [
-    "Semester1/InternationalDevelopment/Gender in Global Politics.md",
+    "Semester2/COMP1212-ComputerProcessors/Building Our Computer.md",
+    "Semester2/COMP1121-Databases/Normalisation.md",
+    "Semester2/COMP1121-Databases/Ethics.md",
     "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+    "Semester1/InternationalDevelopment/Gender in Global Politics.md",
     "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
     "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
@@ -180,9 +185,6 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "Semester2/COMP1212-ComputerProcessors/Common Logic Configurations.md",
-    "Semester2/COMP1212-ComputerProcessors/Sequential Logic & Memory.md",
-    "Semester2/COMP1212-ComputerProcessors/Overview.md",
-    "Semester2/COMP1212-ComputerProcessors/Machine Language.md",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230502221134.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230502220655.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230428171546.png",
