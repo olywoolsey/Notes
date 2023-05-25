@@ -1,4 +1,4 @@
-#-1711 #semester-1 
+#COMP1711 #semester-1 
 ## Overview
 - C is for operating systems
 - Procedural - takes input and produces output

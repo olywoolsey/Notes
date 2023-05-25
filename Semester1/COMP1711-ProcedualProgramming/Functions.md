@@ -1,3 +1,4 @@
+#COMP1711
 ## The Procedural Paradigm
 - Procedures (or functions) change the state of values of data
 	- they operate on program data

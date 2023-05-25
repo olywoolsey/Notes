@@ -1,3 +1,4 @@
+#COMP1711
 - Because pointers can store a memory address they can “point to”heap memory locations
 - This is generally termed dynamic memory and is allocated at run-time when it is requested
  This dynamic memory is allocated at run-time

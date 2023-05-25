@@ -1,8 +1,8 @@
 #COMP1511
 [K.H.Rosen Discrete Mathematics and it's applications - Chapter 10 / 11](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYWVlZG9vbjF8Z3g6N2JmM2Y5YWEzMmRlNWUzNw)
-## Graph Theory
+## Basic Graphs
 - A simple graph $G=(V(G),E(G))$ with $p$ vertices and $q$ edges consists of a vertex set( or node set) $V(G)= \{v_1, .. v_p\}$ and an edge set $E(G) = \{e_1, ..e_q\}$ 
-- each edge os an unordered pair of vertices
+- each edge is an unordered pair of vertices
 - An edge $e = \{uv\}$, is also denoted by $uv$ or $vu$
 - The vertices in an edge $e$ are it's endpoints (or endnodes or endvertices) and $e$ is said to connect $u$ and $v$
 - An edge is said to be incident to it's endpoints
@@ -10,7 +10,7 @@
 - Two edges that are incident to the same vertex are said to be adjacent edges
 - Two adjacent vertices are also called neighbouring vertices
 
-### Multigraphs
+### Multi-graphs
 - allow loops (edges joining a vertex to itself)
 - allow parallel edges (several edges joining the same two vertices)
 ### Directed Graphs
@@ -34,7 +34,7 @@ determine in polynomial time whether two graphs are isomorphic. (This is a very 
 $THEOREM1$ If $G$ is a graph with vertices $V_1, v_2,...v_n$ then $\sum\limits_{i=1}^n d(v_i) = 2|E(G)|$
 $Proof:$ Each loop contributes 2 to the summation and each edge $e=uv$ that is not a loop is counted exactly twice, once in $d(u)$ and once in $d(v)$ 
 ### Friendship puzzle
-- Used with the [[Combinatrics - Counting Methods#Pigeon hole principle |Pigeon hole principle]]
+- Used with the [[Combinatorics#Pigeon hole principle|Pigeon hole principle]]
 $Proof:$ Let $G$ be a simple graph with vertex set $V(G) = \{v_1, ...,v_n\}$ denoting the people at the party
 - Edges of $G$ are defined as: $uv\in E(G)$ if $u$ and $v$ are friends
 - for $i=1,..,n$, $d(v_i)$ number of friends $v_i$

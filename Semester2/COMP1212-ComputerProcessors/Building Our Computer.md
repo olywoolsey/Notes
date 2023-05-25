@@ -1,3 +1,4 @@
+#COMP1212
 ## Stored program computer
 - computer has a fixed set of instructions  
 - Instructions can be used and combined constructing arbitrarily complex programs  

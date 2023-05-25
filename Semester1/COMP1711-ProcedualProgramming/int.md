@@ -1,3 +1,4 @@
+#COMP1711
 int name;
 - commonly takes up 4 bytes
 	- short int - 2 bytes

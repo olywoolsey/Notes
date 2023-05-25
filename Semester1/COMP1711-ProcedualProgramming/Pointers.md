@@ -1,3 +1,4 @@
+#COMP1711
 - Pointers give us access to heap memory addresses
 - The standard library tools allow us to allocate and use heap memory
 - This dynamic memory is allocated at run-time

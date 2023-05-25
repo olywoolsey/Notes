@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester2/COMP1121-Databases/Ethics.md",
+                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#COLO1070",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester2/COMP1121-Databases/Ethics.md",
+                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester2/COMP1121-Databases/Ethics.md",
+                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester2/COMP1121-Databases/Ethics.md"
+                "file": "Semester1/InternationalDevelopment/J.S MILL.md"
               }
             }
           },
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,32 +157,34 @@
   },
   "active": "a563331700e5363b",
   "lastOpenFiles": [
-    "Semester2/COMP1212-ComputerProcessors/Building Our Computer.md",
-    "Semester2/COMP1121-Databases/Normalisation.md",
-    "Semester2/COMP1121-Databases/Ethics.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
     "Semester1/InternationalDevelopment/Gender in Global Politics.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Combinatrics - Counting Methods.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
     "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/SAT-Solving.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+    "Semester2/COLO1070-Imaging/Aspects of Digital Imaging.md",
+    "Semester2/COLO1070-Imaging/Digital Printing.md",
+    "Semester2/COLO1070-Imaging/Camera Filters & Lighting.md",
+    "Semester2/COLO1070-Imaging/Image Capture Mediums.md",
+    "Semester2/COLO1070-Imaging/Lenses.md",
+    "Semester2/COLO1070-Imaging/Cameras.md",
+    "Semester2/COLO1070-Imaging/History of Photography.md",
+    "Semester2/COMP1121-Databases/Normalisation.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Logically implies.md",
+    "Semester1/COMP1711-ProcedualProgramming/Arguments.md",
+    "Semester1/COMP1911-ProfessionalComputing/UML.md",
+    "Semester1/COMP1911-ProfessionalComputing/The First Computers.md",
+    "Semester1/COMP1911-ProfessionalComputing/Test Driven Development.md",
+    "Semester1/COMP1911-ProfessionalComputing/Systems Modelling.md",
+    "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md",
+    "Semester1/COMP1911-ProfessionalComputing/Network Development.md",
+    "Semester1/COMP1911-ProfessionalComputing/Doing an Investigation.md",
+    "Semester1/COMP1911-ProfessionalComputing/Coursework Help.md",
+    "Semester1/COMP1911-ProfessionalComputing/Agile.md",
+    "Semester1/COMP1911-ProfessionalComputing/A Day in The Life of a Software Engineer.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Logic Laws.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Functions and Relations.md",
-    "Semester1/COMP1211-ComputerArchitecture/Memory.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Resources.md",
-    "Pigeon hole principle.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Proofs.md",
-    "Semester2/COMP1511-DiscreteMathmatics/PigeonHole Principle.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Permutations and Combinations.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Binomial Coefficients and Identities.md",
-    "Virtual Machines.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Semester2/COMP1212-ComputerProcessors/Common Logic Configurations.md",
+    "Semester1/COMP1211-ComputerArchitecture/OverFlow and Underflow.md",
+    "Semester1/COMP1711-ProcedualProgramming/While loop in C.md",
+    "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230302214538.png",
+    "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230220133956.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230502221134.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230502220655.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230428171546.png",
@@ -194,8 +194,6 @@
     "Semester2/COLO1070-Imaging/Untitled",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152720.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152652.png",
-    "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152633.png",
-    "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152514.png",
     "Semester2/COMP1721-OOP/Images",
     "Semester2"
   ]

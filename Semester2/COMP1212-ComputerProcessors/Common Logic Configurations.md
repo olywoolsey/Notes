@@ -1,3 +1,4 @@
+#COMP1212
 ## Config Gates with Nand
 ### Not
 ![[Pasted image 20230208101202.png]]

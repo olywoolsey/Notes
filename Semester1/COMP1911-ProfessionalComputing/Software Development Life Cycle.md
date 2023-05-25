@@ -1,3 +1,4 @@
+#COMP1911
 ### software development life cycle
  - value of software decreases over time, have to kill software if provides negative value
 #### Initiation

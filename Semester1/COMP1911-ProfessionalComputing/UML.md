@@ -1,3 +1,4 @@
+#COMP1911
 ## Unified Modelling Standard
 - the de facto standard for modelling systems
 “The Unified Modeling Language (UML) is a language for specifying, visualizing,constructing, and documenting the artifacts of software systems, as well as forbusiness modeling and other non-software systems. The UML represents acollection of best engineering practices that have proven successful in themodeling of large and complex systems.” - www.omg.org

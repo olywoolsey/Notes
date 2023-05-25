@@ -1,4 +1,4 @@
-#-1711 #semester-1 
+#COMP1711
 - We pass data from the calling function using the argument_list
 	- Each item is strongly typed
 	- Can include primitive types, arrays, pointer

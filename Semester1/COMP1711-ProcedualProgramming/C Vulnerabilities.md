@@ -1,4 +1,4 @@
-#-1711 #semester-1 
+#COMP1711 #semester-1 
 - C can behave differently on different platforms
 - has close access to system 
 - When errors occur they will behave differently in different systems

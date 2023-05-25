@@ -1,3 +1,4 @@
+#COMP1711
 - arrays of characters are often thought of as strings
 - there is a subtle difference between a string and a [[char]] [[Arrays in C]]
 #### Char Array

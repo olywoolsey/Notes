@@ -1,3 +1,4 @@
+#COMP1212
 - Optimising some Criteria
 	- no. transistors
 	- no. of different type gates

@@ -1,3 +1,4 @@
+#COMP1711
 ## Memory
 #### The Stack
 - compiler allocates static data types to the stack during [[Compilation]]

@@ -1,3 +1,4 @@
+#COMP1711
 - A linked list is a simple data structure that allows insertion and deletion at any position
 - Any item in the list stores some local data values and the location of the next item
 - A natural fit for [[Structures]], pointers and functions in C

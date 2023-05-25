@@ -1,4 +1,4 @@
-#-1711 #semester-1
+#COMP1711 #semester-1
 ## Key Principles
 - Define [[Variables in C|Variables]] with meaningful names
 - Define [[Data Types]] with meaningful names, which allows us to define new data types that encapsulate problem-specific information

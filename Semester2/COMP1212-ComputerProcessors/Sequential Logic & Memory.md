@@ -1,3 +1,4 @@
+#COMP1212
 ## Clocks
 - In most computers the passage of time is represented by a master clock  
 - A clock has two phases tick/tock (or low/high)  

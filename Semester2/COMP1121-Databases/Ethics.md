@@ -1,3 +1,4 @@
+#COMP1121
 ## GDPR
 - Data Governance:  the control of data collection, processing and storage, through a set of processes which ensure certain standards are maintained.
 - Data Controller: determines the purposes and means of processing personal data

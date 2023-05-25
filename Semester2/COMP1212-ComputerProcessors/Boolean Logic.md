@@ -1,3 +1,4 @@
+#COMP1212
 ## Logic Gates
 ### And
 ![[Pasted image 20230201101551.png]]

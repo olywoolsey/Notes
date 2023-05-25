@@ -1,3 +1,4 @@
+#COMP1212
 A machine language is an agreed upon formalism, designed to code low level programs as a series of machine instruction
 - low level operations
 	- manipulating memory

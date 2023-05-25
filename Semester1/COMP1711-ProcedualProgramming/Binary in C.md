@@ -1,4 +1,4 @@
-#-1711 #semester-1 
+#COMP1711 #semester-1 
 ## Why
 - faster - direct as don' t need to translate
 - more compact - as bits rather than (multiple) bytes per item

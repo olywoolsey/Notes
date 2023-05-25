@@ -1,3 +1,4 @@
+#COMP1711
 ## Structures and ${syntax}$
 - Is like a normal [[Data Types]] data type and can be used as such
 - define more complex data types
