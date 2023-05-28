@@ -1,3 +1,4 @@
+#COMP1121
 - Used to define the [[Relational Model]] in terms of algebra
 ## Components of a Data Model
 - Structural - set of rules
