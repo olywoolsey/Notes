@@ -1,11 +1,11 @@
 - Analysis data requirements in a systematic way to help produce a well designed database
 ## Notations
-- UML - Unified Modelling Language<br>
+- UML - Unified Modelling Language
 ![UMLExample](images/UMLExample.png)
--  Chen's Notation<br>
+-  Chen's Notation
 ![ChensExample](images/ChensExample.png)
-- Crow's feet notation<br>
-![CrowsExample][images/CrowsExample.png]
+- Crow's feet notation
+![CrowsExample](images/CrowsExample.png)
 
 ## Three major concepts:
 ### Entities
