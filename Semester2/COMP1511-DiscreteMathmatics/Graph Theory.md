@@ -76,6 +76,16 @@ $THEOREM4$ for a simple graph $G$ with $n$ vertices $n \leq 1$, the following ar
 	2. $G$ is connected and has $n-1$ edges
 	3. $G$ has $n-1$ edges and no cycles
 	4. For every pair$u,v \in V(G)$, $G$ has exactly one simple path from $u$ to $v$
-
-
+```mermaid
+graph LR;
+A<-->B;
+B<-->C;
+C<-->E;
+C<-->D;
+E<-->F;
+E<-->G;
+E<-->I;
+F<-->G;
+I<-->H;
+```
 [^1]: graph search - using for example Breadth First Search or Depth First Search algorithms
