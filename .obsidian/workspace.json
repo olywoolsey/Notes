@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
+                "file": "Semester2/COMP1121-Databases/Entity Relationship Moddeling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
+                "file": "Semester2/COMP1121-Databases/Entity Relationship Moddeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
+                "file": "Semester2/COMP1121-Databases/Entity Relationship Moddeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester1/InternationalDevelopment/J.S MILL.md"
+                "file": "Semester2/COMP1121-Databases/Entity Relationship Moddeling.md"
               }
             }
           },
@@ -157,8 +157,19 @@
   },
   "active": "a563331700e5363b",
   "lastOpenFiles": [
-    "Semester1/InternationalDevelopment/Gender in Global Politics.md",
+    "Semester2/COMP1121-Databases/images/UMLExample.png",
+    "Semester2/COMP1121-Databases/Entity Relationship Moddeling.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+    "Semester2/COMP1121-Databases/Relational Model.md",
+    "Semester2/COMP1121-Databases/Relational Algebra.md",
+    "Semester2/COMP1121-Databases/Databases.md",
+    "Semester2/COMP1121-Databases/images/ChensExample.png",
+    "Semester2/COMP1121-Databases/images/CrowsExample.png",
+    "Semester2/COMP1121-Databases/images",
+    "Semester2/COMP1511-DiscreteMathmatics/Combinatorics.md",
     "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+    "Semester1/InternationalDevelopment/J.S MILL.md",
+    "Semester1/InternationalDevelopment/Gender in Global Politics.md",
     "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
     "Semester2/COLO1070-Imaging/Aspects of Digital Imaging.md",
     "Semester2/COLO1070-Imaging/Digital Printing.md",
@@ -175,14 +186,6 @@
     "Semester1/COMP1911-ProfessionalComputing/Test Driven Development.md",
     "Semester1/COMP1911-ProfessionalComputing/Systems Modelling.md",
     "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md",
-    "Semester1/COMP1911-ProfessionalComputing/Network Development.md",
-    "Semester1/COMP1911-ProfessionalComputing/Doing an Investigation.md",
-    "Semester1/COMP1911-ProfessionalComputing/Coursework Help.md",
-    "Semester1/COMP1911-ProfessionalComputing/Agile.md",
-    "Semester1/COMP1911-ProfessionalComputing/A Day in The Life of a Software Engineer.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Logic Laws.md",
-    "Semester1/COMP1211-ComputerArchitecture/OverFlow and Underflow.md",
-    "Semester1/COMP1711-ProcedualProgramming/While loop in C.md",
     "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230302214538.png",
     "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230220133956.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230502221134.png",
@@ -190,10 +193,7 @@
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230428171546.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230327153003.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230327152531.png",
-    "Semester2/COLO1070-Imaging/Images/Pasted image 20230327151012.png",
     "Semester2/COLO1070-Imaging/Untitled",
-    "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152720.png",
-    "Semester2/COLO1070-Imaging/Images/Pasted image 20230320152652.png",
     "Semester2/COMP1721-OOP/Images",
     "Semester2"
   ]
