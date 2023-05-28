@@ -55,7 +55,7 @@
 - Multi-image recording – 4/12 frames per second capability
 
 - Produce different film for different parts of the world
-![BabyPhoto](images/BabyImage.png)
+![BabyPhoto](Images/BabyImage.png)
 | red     | Green           | Warm   |
 | ------- | --------------- | ------ |
 | Blue    | Inc Saturation  | Cyan   |
