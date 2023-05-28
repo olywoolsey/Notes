@@ -56,10 +56,11 @@
 
 - Produce different film for different parts of the world
 ![BabyPhoto](Images/BabyImage.png)
-| red     | Green           | Warm   |
-| ------- | --------------- | ------ |
-| Blue    | Inc Saturation  | Cyan   |
-| Magenta | As Shot         | Yellow | 
+
+| red     | Green          | Warm   |
+| ------- | -------------- | ------ |
+| Blue    | Inc Saturation | Cyan   |
+| Magenta | As Shot        | Yellow |
 
 ## Digital Cameras / One-Exposure Single Matrix
 ![[Pasted image 20230220153905.png]]
