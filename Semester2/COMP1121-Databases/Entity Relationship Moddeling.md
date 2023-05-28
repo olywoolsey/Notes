@@ -1,7 +1,7 @@
 - Analysis data requirements in a systematic way to help produce a well designed database
 ## Notations
 - UML - Unified Modelling Language
-![UMLExample](UMLExample.png)
+![UMLExample](images/UMLExample.png)
 -  Chen's Notation
 ![ChensExample.png](COMP1121-Databases/images/ChensExample.png)
 - Crow's feet notation
