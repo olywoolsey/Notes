@@ -12,12 +12,15 @@
 - a set of attributes that collectively can identify each record in a table
 - can be multiple columns that will always have different values
 - Relations may have multiple super keys
-### Primary Key
-- A specific type of super key
-- Is based on the minimal attribute set and its stability over time
 ### Candidate Key
 - Is a super key without any extraneous attributes
 - Each candidate satisfies the properties of minimality and uniqueness
+### Primary Key
+- A specific type of super key
+- Is based on the minimal attribute set and its stability over time
+### Alternate Keys
+- the other candidate keys that aren't used as the primary key
+- can also be used to reference items in the database
 ### Foreign Key
 - A set of columns in a table that refer to the primary key of another table
 - establishes a relationship between two tables
