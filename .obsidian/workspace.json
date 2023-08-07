@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester2/COMP1121-Databases/Transaction Managment.md",
-                "mode": "preview",
+                "file": "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester2/COMP1121-Databases/Transaction Managment.md",
+                "file": "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester2/COMP1121-Databases/Transaction Managment.md",
+                "file": "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester2/COMP1121-Databases/Transaction Managment.md"
+                "file": "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md"
               }
             }
           },
@@ -170,6 +170,16 @@
   },
   "active": "583bc6ff9b4da3af",
   "lastOpenFiles": [
+    "Semester1/COMP1421-FundamentalMathConcepts/Truth Tables.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/SAT-Solving.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Logically implies.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Functions and Relations.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Logic Laws.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
+    "Semester2/COMP1121-Databases/Transaction Managment.md",
     "Semester2/COMP1121-Databases/Security & Administration.md",
     "Images/20230220153607.png.md",
     "Semester2/COMP1121-Databases/Entity Relationship Moddeling.md",
@@ -179,7 +189,6 @@
     "Semester2/COMP1121-Databases/Database Design.md",
     "Semester2/COMP1121-Databases/Normalisation.md",
     "Semester1/COMP1211-ComputerArchitecture/CISC.md~",
-    "Semester2/COMP1121-Databases/Transaction Managment.md",
     "Semester2/COMP1121-Databases/Relational Algebra.md",
     "Semester2/COLO1070-Imaging/Cameras.md",
     "Semester2/COLO1070-Imaging/Images/BabyImage.png",
@@ -188,21 +197,12 @@
     "Semester2/COLO1070-Imaging/Aspects of Digital Imaging.md",
     "images.md",
     "Semester2/COMP1121-Databases/images/UMLExample.png",
-    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
     "Semester2/COMP1121-Databases/images/ChensExample.png",
     "Semester2/COMP1121-Databases/images/CrowsExample.png",
     "Semester2/COMP1121-Databases/images",
     "Semester2/COMP1511-DiscreteMathmatics/Combinatorics.md",
     "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
     "Semester1/InternationalDevelopment/J.S MILL.md",
-    "Semester1/InternationalDevelopment/Gender in Global Politics.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
-    "Semester2/COLO1070-Imaging/Digital Printing.md",
-    "Semester2/COLO1070-Imaging/Image Capture Mediums.md",
-    "Semester2/COLO1070-Imaging/Lenses.md",
-    "Semester2/COLO1070-Imaging/History of Photography.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
-    "Semester1/COMP1711-ProcedualProgramming/Arguments.md",
     "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230302214538.png",
     "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230220133956.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230502221134.png",

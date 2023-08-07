@@ -1,22 +1,26 @@
 #logic
-## Overview
-- prove circuits work correctly
-- basis of SQL
-- **proposition** - declarative statement (true XOR false)
-- Convention uses p, q, r, s, p<sub>1</sub>...
-- Natural numbers start from 0 (unless denoted N<sub>>0</sub>)
-- truth denoted as T or 1
-- false denoted as F or 0 or⊥
-- All propositional logic can be displayed in [[Truth Tables]] and visa versa
-- [[Logic Laws]]
-- 
+## Proposition
+- declarative statement (true XOR false)
+	- Convention uses p, q, r, s, p<sub>1</sub>...
+	- Natural numbers start from 0 (unless denoted N<sub>>0</sub>)
+	- truth denoted as T or 1
+	- false denoted as F or 0 or⊥
+	- All propositional logic can be displayed in [[Truth Tables]] and visa versa
+	- [[Logic Laws]]
 ---
 ## Symbols
 - Logically equal:     $\equiv$
 - [[Logically implies]]:   |=
+- Negation: ¬
+- Conjunction: $\wedge$
+- Disjunction: $\vee$
+- [[Truth Tables#Implication $ rightarrow$|Implication]]: $\rightarrow$
+- [[Truth Tables#Bi-conditional $ leftrightarrow$|Biconditional]]: $\leftrightarrow$
 ---
 ## Tautology
 - True under every truth assignment(every row in the truth table is true)
+- **Logical Equivalence**
+	- $p \equiv q$ if $p \leftrightarrow q$ is a tautology
 ## Contradiction
 - False under every truth assignment(every row in the truth table is false)
 ## Contingency
@@ -32,17 +36,17 @@
 | ->       | 3          |
 | <->      | 3          |
 - Brackets should be used when there's operators with the same precedence
-	eg; p -> q <-> r
+	eg; $p \rightarrow q \leftrightarrow r$
 
 ## Syntax tree
-		 $\wedge$
-	  /     \
+-
+		/\
+	   /  \
   $\vee$           ->
 /     \        /   \
 p     q    ¬      r
              |
              p
- 
 ---
 
 ### Literal
@@ -68,14 +72,14 @@ For every propositional formula p there is a formula p\d and p\c in DNF and CNF 
 - this is true as for every propositional formula you can write a truth table then follow instructions at start of notes to create a formula in DNF to create an equivalent formula
 ### Finding logic from a truth table:
 #### DNF
-	1. find a formula for every row that satsfies the assignment(is true) that satisfies only that row
-	2. or all the formulas together
+1. find a formula for every row that satisfies the assignment(is true) that satisfies only that row
+2. or all the formulas together
 #### CNF
-	1. replace each occurence of T and F with their logical equivelnces
-	2. replace each p <-> q with q -> q /\ q-> p
-	3. replace each q -> p by ¬qVp
-	4. apply demorgans and double negation till all in literals
-	5. apply distrubative law
+1. replace each occurence of T and F with their logical equivelnces
+2. replace each p <-> q with q -> q /\ q-> p
+3. replace each q -> p by ¬q V p
+4. apply DeMorgans and double negation till all in literals
+5. apply distributive law
 	**or**
-	1. find a formula for every row that dissatsfies the assignment(is false), that satisfies only that row
-	2. and all the formulas together
+1. find a formula for every row that dissatisfies the assignment(is false), that satisfies only that row
+2. add all the formulas together
