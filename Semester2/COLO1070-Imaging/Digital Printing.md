@@ -6,8 +6,7 @@
 ## Ink Jet Printing
 ### Piezo Electric 
 - Epson propriety method of ink delivery
-- 
-Thermal Dye Transfer
+- Thermal Dye Transfer
 
 ## Thermal Dye Transfer Printing
 - Principle competitor to ink jet printing

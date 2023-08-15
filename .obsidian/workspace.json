@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c21be4b4a9ff49c8",
+        "id": "b89d85d6d449257c",
         "type": "tabs",
         "children": [
           {
-            "id": "583bc6ff9b4da3af",
+            "id": "e3e9ee12823a968d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+                "file": "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "bffa7137cf47e9ad",
+            "id": "90429c8cfe9aa347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester2/COMP1121-Databases/Transaction Managment.md",
+                "file": "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#COMP1421",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+                "file": "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+                "file": "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md"
+                "file": "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md"
               }
             }
           },
@@ -168,41 +168,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "583bc6ff9b4da3af",
+  "active": "e3e9ee12823a968d",
   "lastOpenFiles": [
-    "Semester1/COMP1421-FundamentalMathConcepts/Truth Tables.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/All Fun Symbols.md",
+    "implication.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
     "Semester1/COMP1421-FundamentalMathConcepts/SAT-Solving.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Logically implies.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Functions and Relations.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Logic Laws.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Relations.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
-    "Semester2/COMP1121-Databases/Transaction Managment.md",
-    "Semester2/COMP1121-Databases/Security & Administration.md",
-    "Images/20230220153607.png.md",
-    "Semester2/COMP1121-Databases/Entity Relationship Moddeling.md",
-    "Semester2/COMP1121-Databases/Relational Model.md",
-    "Semester2/COMP1121-Databases/Ethics.md",
-    "Semester2/COMP1121-Databases/Databases.md",
-    "Semester2/COMP1121-Databases/Database Design.md",
-    "Semester2/COMP1121-Databases/Normalisation.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Matrices.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Logically implies.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Logic Laws.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Functions.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/COMP1421.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Truth Tables.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Combinatorics.md",
+    "Semester1/COMP1711-ProcedualProgramming/Input and Output.md",
+    "Semester1/COMP1211-ComputerArchitecture/Bias Notation.md",
+    "Semester1/COMP1211-ComputerArchitecture/Binary.md",
+    "Two's Compliment.md",
+    "Semester1/COMP1211-ComputerArchitecture/Binary Coded Decimal(BCD).md",
+    "Semester1/COMP1211-ComputerArchitecture/Byte Ordering.md",
+    "Semester1/COMP1211-ComputerArchitecture/Pipelining.md",
+    "Semester1/COMP1211-ComputerArchitecture/RISC.md",
+    "Semester1/COMP1211-ComputerArchitecture/Parity Bits.md",
     "Semester1/COMP1211-ComputerArchitecture/CISC.md~",
-    "Semester2/COMP1121-Databases/Relational Algebra.md",
-    "Semester2/COLO1070-Imaging/Cameras.md",
     "Semester2/COLO1070-Imaging/Images/BabyImage.png",
     "Images",
-    "Semester2/COLO1070-Imaging/Camera Filters & Lighting.md",
-    "Semester2/COLO1070-Imaging/Aspects of Digital Imaging.md",
-    "images.md",
     "Semester2/COMP1121-Databases/images/UMLExample.png",
     "Semester2/COMP1121-Databases/images/ChensExample.png",
     "Semester2/COMP1121-Databases/images/CrowsExample.png",
     "Semester2/COMP1121-Databases/images",
-    "Semester2/COMP1511-DiscreteMathmatics/Combinatorics.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
-    "Semester1/InternationalDevelopment/J.S MILL.md",
     "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230302214538.png",
     "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230220133956.png",
     "Semester2/COLO1070-Imaging/Images/Pasted image 20230502221134.png",

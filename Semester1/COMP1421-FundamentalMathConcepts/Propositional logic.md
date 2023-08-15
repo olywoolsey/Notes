@@ -1,4 +1,4 @@
-#logic
+#logic #COMP1421 
 ## Proposition
 - declarative statement (true XOR false)
 	- Convention uses p, q, r, s, p<sub>1</sub>...

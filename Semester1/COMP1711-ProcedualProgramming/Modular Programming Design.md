@@ -2,7 +2,7 @@
 ## Key Principles
 - Define [[Variables in C|Variables]] with meaningful names
 - Define [[Data Types]] with meaningful names, which allows us to define new data types that encapsulate problem-specific information
-- Define [[Functions]] with meaningful names, that encapsulate the specific behaviour
+- Define [[Semester1/COMP1711-ProcedualProgramming/Functions]] with meaningful names, that encapsulate the specific behaviour
 - Name source code meaningfully
 - compiled file should have similar name
 - can split source code into different files

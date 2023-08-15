@@ -1,8 +1,7 @@
-#logic
+#logic #COMP1421 
 ## Cantor's definition
 A set is a gathering together into a whole of definite, distinct objects of our perception or of our thought – which are called elements of the set.’
 - not the most formal statement, bit naive
-
 ## Notation
 - x $\in$ A denotes that x is an element of the set A
 - x $\notin$ A denotes that x is not an element of the set A
@@ -11,6 +10,7 @@ A set is a gathering together into a whole of definite, distinct objects of our 
 - commas can be used instead of "and"
 - cardinality: the number of elements in a given mathematical set
 - for n ∈ N, we let $A^n$ := A × ... × A, where this is product consists of n factors
+- {x ∈ A | x has property (properties) P}
 
 ### Roster method (extensional set notation)
 - list all the values
@@ -66,6 +66,7 @@ A & B are sets
 ## Power Set
 - the power set of a set is the the set that contains all subsets
 - $\mathcal{P}$(S) := {X | X ⊆ S}
+- e.g. $S:={a, 3}$ $\rightarrow$ $\mathcal{P}(S) := \{\emptyset , \{a\}, \{3\}, \{a,3\}\}$
 
 ## Tuple
 - Denoted with ( )

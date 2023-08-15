@@ -1,4 +1,4 @@
-#logic
+#logic #COMP1421 
 ## Truth assignment
 - assigning each propositional variable a truth value(each row in the truth table)
 

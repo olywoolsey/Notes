@@ -1,4 +1,4 @@
-#logic
+#logic #COMP1421 
 ## Idempotent Law
 - p $\wedge$ p $\equiv$ p
 - p V p $\equiv$ p

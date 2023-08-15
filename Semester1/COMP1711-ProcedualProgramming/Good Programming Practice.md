@@ -22,7 +22,7 @@ code...   // Can also go after lines
 - give everything a meaningful name
 	**we can name:**
 	- the code file
-	- [[Functions]] we define
+	- [[Semester1/COMP1711-ProcedualProgramming/Functions]] we define
 	- Variables we define
 
 ### Brackets

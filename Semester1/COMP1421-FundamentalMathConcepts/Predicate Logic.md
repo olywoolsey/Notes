@@ -1,4 +1,4 @@
-#logic
+#logic #COMP1421 
 - [[Propositional logic]] isn't always suitable ie, it doesn't work with variables
 - Predicate logic includes variables
 ## One variable statement
@@ -42,7 +42,7 @@ The domain of x is a set. We have to specify the domain of x.An element for whic
 - Often not one way of modelling things
 ### Universal
 - for the negation of ∀x P(x):
-	- ¬∀x P(x) ≡ ∃x ¬P(x)#
+	- ¬∀x P(x) ≡ ∃x ¬P(x)
 ### Existential
 - for the negation of ∃x Q(x):
 	- ¬∃x Q(x) ≡ ∀x ¬Q(x)
@@ -52,7 +52,7 @@ The domain of x is a set. We have to specify the domain of x.An element for whic
 1. **Negate "there is an honest politician"**
 	- Let H(x) denote ‘x is honest’.
 	- The statement ‘there is an honest politician’ is modelled by ∃x H(x),where the domain consists of all politicians.
-	- The negation of this statement is ¬∃x H(x), which is equivalent to∀x ¬H(x)
+	- The negation of this statement is ¬∃x H(x), which is equivalent to ∀x ¬H(x)
 	- This negation can be expressed as ‘every politician is dishonest.’
 2. ¬∀x (P(x) → Q(x)) $\equiv$ ∃x ¬(P(x) → Q(x)) $\equiv$ ∃x (P(x) ∧ ¬Q(x))
 3. ∀x ∃y (x + y = 0)
@@ -72,3 +72,29 @@ The domain of x is a set. We have to specify the domain of x.An element for whic
 -   ∀x ∃y Q(x, y )    and    ∃y ∀x Q(x, y ) 
 	- ∀x ∃y Q(x, y ) means that for any number there exists a number which when added equals 0 therefore is true
 	- ∃y ∀x Q(x, y ) means that for a specific number all numbers add to make zero which is false
+
+## Empty Domains
+- You should always define a domain for these logic statements
+- If the domain is empty then:
+	- $\forall x P(x)\equiv True$
+	- $\exists x P(x) \equiv False$
+ 
+## Logical Bidmas
+| operator  | Precedence |
+| --------- | ---------- |
+| $\forall$ | 1          |
+| $\exists$ | 1          |
+| ¬         | 2          |
+| $\wedge$  | 3          |
+| $\vee$    | 3          |
+| ->        | 4          |
+| <->       | 4          |
+
+## Free, Bound and Scope
+- Free: Variable not in the quantifier 
+- Bound: Variable is being quantified
+- Scope: The part of a logical expression to which a quantifier is applied.
+- Consider the formula ∃x (x + y = 1)
+	The x variable is bound and the y variable is free
+	The scope is $\exists x$
+- An expression involving predicates and quantifiers, that does not have free variables is called a sentence of predicate logic

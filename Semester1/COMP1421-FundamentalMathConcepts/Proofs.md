@@ -1,11 +1,11 @@
-#COMP1421
+#logic #COMP1421 
 ## Direct Proof
-In a direct proof, the statement is proven ‘directly’, i. e. without any‘detours
-###### E.g.
-The integer n is even if there exists an integer k such that n = 2k, and nis odd if there exists an integer k such that n = 2k + 1
+In a direct proof, the statement is proven ‘directly’, i. e. without any detours
+Often in a chain of implications, equalities or equivalences
+	The integer $n$ is even if there exists an integer $k$ such that $n = 2k$, and n is odd if there exists an integer $k$ such that $n = 2k + 1$
 
-## Contraposition
-In a proof by contraposition, a statement of the form ‘p → q’ is proved by showing ‘¬q → ¬p’. This is correct, because the statements are logically equivalent
+## Contra-position
+In a proof by contra-position, a statement of the form $p → q$ is proved by showing $¬q → ¬p$. This is correct, because the statements are logically equivalent
 
 ## Contradiction
 - By Proving there is a fault when the opposite is assumed then you prove that's it's always correct
@@ -17,6 +17,11 @@ In a proof by contraposition, a statement of the form ‘p → q’ is proved by
 - If is true for a value (n = 1)
 - and is true for the next value assuming was true for the previous one (n = k, n = k+1)
 - then is true for all values (n $\in \mathbb{N}$)
+- Steps:
+	1. Basis: Prove for lowest number
+	2. Inductive: $P(n) \rightarrow P(n+1)$
+	3. Assume: $P(n)$
+	4. 
 
 ## Common Mistakes
 - inadmissible argumentation with examples,
