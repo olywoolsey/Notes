@@ -38,6 +38,7 @@
 - cost of support is greater than buisness benifit
 - new idea 
 - old systems often called legacy systems
+## Models
 ### Waterfall model
 ![[Pasted image 20221017135449.png]]
 ### Iterative model

@@ -20,6 +20,6 @@
 		- remaining bits give memory address
 		- contents interpreted as an operand
 ## Interrupts
-- every cycle the CPU can receive an [[Interrupts |Interrupt]] which will stop the CPU, run the process then the CPU can carry on afterwards
-![[Interrupts#Interrupt cycle]]
+- every cycle the CPU can receive an [[Semester1/COMP1211-ComputerArchitecture/Interrupts|Interrupt]] which will stop the CPU, run the process then the CPU can carry on afterwards
+![[Semester1/COMP1211-ComputerArchitecture/Interrupts#Interrupt cycle]]
 

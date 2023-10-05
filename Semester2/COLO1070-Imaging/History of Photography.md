@@ -170,7 +170,7 @@
 - Only on sale for few years, yet selling 40,000 plates in 1911 alone
 - The system was around for over 40 years, with the most successful product being the DUFAYCOLOR process
 
-## Intro In Leica
+## Leica comes in
 - 1923
 - Designed by Oskar Barnack it was the first film camera to use 35 mm perforated film (originally designed for cinematographic use)
 - The launch was a major breakthrough in photography, with the 35 mm format becoming a dominant force
