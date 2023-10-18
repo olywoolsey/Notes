@@ -16,3 +16,27 @@ For final year project try to use the Unified Process style
 ![[Pasted image 20231003094940.png]]
 Similar to [[Test Driven Development]] 
 [[Software Development Life Cycle]]
+<marquee>I LOVE AGILE  </marguee>
+## Disciplined Agile Development
+- DAD is the most recent form of the unified process
+- 4 Phases of a Unified Process Project
+	1. Inception
+	2. Elaboration
+	3. Construction
+	4. Transition
+
+## eXtreme Programming
+- New versions built several times a day
+- Increments delivered every 2 weeks
+- All tests must be run for every build and is only accepted if all tests run correctly
+
+## Scrum
+- Comes from rugby
+- Sprints are 2-4 weeks
+- Has a product backlog which in each sprint you decide which problem needs to be solved
+- No more than 7 in a team (8 should be 2 teams of 4)
+
+## Kanban
+- For 5 year olds
+- Have Backlog, To-do, Doing, Done
+- Can work alongside scrum

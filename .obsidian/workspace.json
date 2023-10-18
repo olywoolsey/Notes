@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90429c8cfe9aa347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
+                "file": "Semester3/COMP2711-Algorithms1/Big O.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#COMP1421",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
+                "file": "Semester3/COMP2711-Algorithms1/Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
+                "file": "Semester3/COMP2711-Algorithms1/Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md"
+                "file": "Semester3/COMP2711-Algorithms1/Big O.md"
               }
             }
           },
@@ -151,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,49 +156,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3e9ee12823a968d",
+  "active": "001d78c8943c4120",
   "lastOpenFiles": [
-    "Semester1/COMP1421-FundamentalMathConcepts/All Fun Symbols.md",
-    "implication.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Set Theory.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/SAT-Solving.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Relations.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
+    "Semester3/COMP2711-Algorithms1/Natasha's Ramblings.md",
+    "Semester3/COMP2711-Algorithms1/Iterative Algorithms.md",
+    "Semester3/COMP2711-Algorithms1/Pseudocode.md",
+    "Semester3/COMP2711-Algorithms1/Big O.md",
+    "Semester3/Deadlines.md",
+    "Pasted image 20231018101018.png",
+    "Semester3/COMP2811-UserInterfaces/UI Principles.md",
+    "Semester3/COMP2811-UserInterfaces/C++ vs Java.md",
+    "Semester3/COMP2811-UserInterfaces/C++.md",
+    "Semester3/COMP2211-OperatingSystems/OS Services.md",
+    "Semester3/COMP2421-NumericatComputation/Matricies.md",
+    "Semester3/COMP2211-OperatingSystems/Processor Systems.md",
+    "Semester3/COMP2421-NumericatComputation/Vectors.md",
+    "Pasted image 20231011102448.png",
+    "Semester3/COMP2711-AlgorithmsI/Books.md",
+    "Semester3/COMP2211-OperatingSystems/Interrupts.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Matrices.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Logically implies.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Logic Laws.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Functions.md",
+    "Semester3/COMP2421-NumericatComputation/Numerical Algorithms.md",
+    "Semester1/COMP1211-ComputerArchitecture/Interrupts.md",
+    "Semester3/COMP2211-OperatingSystems/Intro.md",
+    "Semester2/COLO1070-Imaging/History of Photography.md",
+    "Semester3/COMP2421-NumericatComputation/intro.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
     "Semester1/COMP1421-FundamentalMathConcepts/COMP1421.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Truth Tables.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Graph Theory.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Combinatorics.md",
-    "Semester1/COMP1711-ProcedualProgramming/Input and Output.md",
-    "Semester1/COMP1211-ComputerArchitecture/Bias Notation.md",
-    "Semester1/COMP1211-ComputerArchitecture/Binary.md",
-    "Two's Compliment.md",
-    "Semester1/COMP1211-ComputerArchitecture/Binary Coded Decimal(BCD).md",
-    "Semester1/COMP1211-ComputerArchitecture/Byte Ordering.md",
-    "Semester1/COMP1211-ComputerArchitecture/Pipelining.md",
-    "Semester1/COMP1211-ComputerArchitecture/RISC.md",
-    "Semester1/COMP1211-ComputerArchitecture/Parity Bits.md",
+    "Semester3/COMP2421-NumericatComputation/Untitled 1.md",
+    "Dijkstra.md",
+    "Semester3/COMP2421-NumericatComputation",
+    "COMP",
+    "Semester3/COMP2711-Algorithms1",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231003094940.png",
+    "Semester3/COMP2811-UserInterfaces",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231003092832.png",
+    "Semester3/COMP2211-OperatingSystems",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231002093414.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples",
+    "Semester3",
     "Semester1/COMP1211-ComputerArchitecture/CISC.md~",
     "Semester2/COLO1070-Imaging/Images/BabyImage.png",
     "Images",
     "Semester2/COMP1121-Databases/images/UMLExample.png",
     "Semester2/COMP1121-Databases/images/ChensExample.png",
     "Semester2/COMP1121-Databases/images/CrowsExample.png",
-    "Semester2/COMP1121-Databases/images",
-    "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230302214538.png",
-    "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230220133956.png",
-    "Semester2/COLO1070-Imaging/Images/Pasted image 20230502221134.png",
-    "Semester2/COLO1070-Imaging/Images/Pasted image 20230502220655.png",
-    "Semester2/COLO1070-Imaging/Images/Pasted image 20230428171546.png",
-    "Semester2/COLO1070-Imaging/Images/Pasted image 20230327153003.png",
-    "Semester2/COLO1070-Imaging/Untitled",
-    "Semester2/COMP1721-OOP/Images",
-    "Semester2"
+    "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230302214538.png"
   ]
 }

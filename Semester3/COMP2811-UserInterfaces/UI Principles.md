@@ -1,5 +1,5 @@
 #COMP2811
-## Assesments
+## Assessments
 #### ASSESSMENT 1: caveplusplus
 - Launch: Soon...
 - Deadline: 2023/10/27
