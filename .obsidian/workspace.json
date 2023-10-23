@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester3/Deadlines.md",
+                "file": "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester3/Deadlines.md",
+                "file": "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester3/Deadlines.md",
+                "file": "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester3/Deadlines.md"
+                "file": "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md"
               }
             }
           },
@@ -156,11 +156,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3e9ee12823a968d",
+  "active": "001d78c8943c4120",
   "lastOpenFiles": [
+    "Semester1/COMP1911-ProfessionalComputing/Network Development.md",
+    "Semester1/COMP1911-ProfessionalComputing/Coursework Help.md",
+    "Semester1/COMP1911-ProfessionalComputing/Doing an Investigation.md",
+    "Semester1/COMP1911-ProfessionalComputing/Comp1911-overview.md",
+    "Semester1/COMP1911-ProfessionalComputing/Agile.md",
+    "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135449.png",
+    "Semester1/COMP1911-ProfessionalComputing/A Day in The Life of a Software Engineer.md",
+    "Semester3/Deadlines.md",
     "Semester3/COMP2421-NumericatComputation/Pasted image 20231023144442.png",
     "Semester3/Assessment Calendar.png",
-    "Semester3/Deadlines.md",
     "Semester3/COMP2211-OperatingSystems/Interrupts.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
     "Two's Compliment.md",
@@ -180,11 +187,6 @@
     "Semester1/COMP1211-ComputerArchitecture/Memory.md",
     "Semester1/COMP1211-ComputerArchitecture/Interrupts.md",
     "Semester1/COMP1211-ComputerArchitecture/Instruction Sets.md",
-    "Semester1/COMP1211-ComputerArchitecture/Instruction Cycle.md",
-    "Semester1/COMP1211-ComputerArchitecture/Fetch, execute cycle.md",
-    "Semester1/COMP1211-ComputerArchitecture/Exponential Notation.md",
-    "Semester1/COMP1211-ComputerArchitecture/COMP1211.md",
-    "Semester1/COMP1211-ComputerArchitecture/CISC.md",
     "Semester3/COMP2811-UserInterfaces/Images/Pasted image 20231020162741.png",
     "Semester3/COMP2811-UserInterfaces/Images/Pasted image 20231020163320.png",
     "Semester3/COMP2811-UserInterfaces/Images",
@@ -202,8 +204,6 @@
     "Semester3/COMP2912-SoftwareEngineeringPrinciples",
     "Semester3",
     "Semester1/COMP1211-ComputerArchitecture/CISC.md~",
-    "Semester2/COLO1070-Imaging/Images/BabyImage.png",
-    "Semester2/COMP1121-Databases/images/UMLExample.png",
-    "Semester2/COMP1121-Databases/images/ChensExample.png"
+    "Semester2/COLO1070-Imaging/Images/BabyImage.png"
   ]
 }
