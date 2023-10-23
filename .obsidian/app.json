@@ -8,5 +8,6 @@
   "showInlineTitle": true,
   "autoConvertHtml": true,
   "vimMode": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
 }
