@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211 
 ## Sign-Magnitude Rep
 - a method to represent negative [[Binary]] numbers
 - left most bit is the sign bit

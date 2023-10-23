@@ -1,5 +1,5 @@
-#Architecture
-- the smallest [[Memory]] type
+#COMP1211 
+- the smallest [[Semester1/COMP1211-ComputerArchitecture/Memory]] type
 - are very quick because of the size
 ![[Pasted image 20221020133910.png]]
 

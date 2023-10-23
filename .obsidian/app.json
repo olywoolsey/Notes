@@ -1,11 +1,12 @@
 {
   "promptDelete": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showLineNumber": true,
   "rightToLeft": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "autoConvertHtml": true,
-  "vimMode": true
+  "vimMode": true,
+  "newLinkFormat": "relative"
 }

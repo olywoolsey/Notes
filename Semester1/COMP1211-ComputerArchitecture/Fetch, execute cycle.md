@@ -1,6 +1,6 @@
-#Architecture
+#COMP1211 
 ## 2 Steps
-- **Fetch** an instruction from [[Memory]]
+- **Fetch** an instruction from [[Semester1/COMP1211-ComputerArchitecture/Memory]]
 - **Execute** that instruction
 ![[Pasted image 20221020134137.png]]
 ## Fetch

@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211 
 ## What you need
 1. Sign
 2. Mantissa (magnitude)

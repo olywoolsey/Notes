@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211  
 - [[Von Neumann]] architecture is used to store all data and code in current machines
 ## Program
 - A program is a sequence of instructions
@@ -13,7 +13,7 @@
 ## Components
 - [[Central Processing Unit |CPU]]
 - [[Input and Output]]
-- [[Memory]]
+- [[Semester1/COMP1211-ComputerArchitecture/Memory]]
 ![[Pasted image 20221020133910.png]]
 
 ## Instruction Cycle

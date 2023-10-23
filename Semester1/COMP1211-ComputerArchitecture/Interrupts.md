@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211 
 Computers provide a mechanism by which other modules may interrupt the normal processing sequence
 - Some devices can be many orders of magnitude slower than the CPU
 - Interrupts allow the CPU to work, pausing to service external devices only when they signal that they require attention

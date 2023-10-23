@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211 
 - type of error detection
 - goes with binary at the end 
 - can detect errors but can't correct it

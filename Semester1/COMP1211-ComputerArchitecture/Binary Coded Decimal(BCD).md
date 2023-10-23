@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211 
 - instead of counting in [[Binary]] replace each denary digit by its 4 bit binary representation
 - Complicated to do binary conversion to display numbers
 - Unsigned integer

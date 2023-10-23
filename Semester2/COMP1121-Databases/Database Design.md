@@ -1,3 +1,4 @@
+#COMP1121
 - Conceptual design:
 	The process of constructing a model of the data used in an enterprise, independent of all physical considerations
 - Logical design:

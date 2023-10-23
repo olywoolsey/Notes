@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211 
 ## Memory Hierarchy
 ![[Pasted image 20221117131747.png]]
 

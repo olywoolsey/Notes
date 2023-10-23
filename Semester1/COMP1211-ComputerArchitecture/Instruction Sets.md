@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211 
 ## Characteristics and functions
 - Operation Code (opcode) - do this
 - Source Operand refrence - to this

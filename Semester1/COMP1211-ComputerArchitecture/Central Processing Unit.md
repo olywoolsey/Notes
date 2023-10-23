@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211 
 ## Control Unit (CU)
 - an instruction interpreter
 - It takes instructions from memory and then decodes and executes these instructions
@@ -11,5 +11,5 @@
 - There can be more than one ALU in a CPU
 - ALUs can be used for maintaining timers that help run the computer
 ## Cache
-- Quick [[Memory |RAM]] for copying and receiving instructions
+- Quick [[Semester1/COMP1211-ComputerArchitecture/Memory|RAM]] for copying and receiving instructions
 - It uses [[Registers]] to store data being used in current instruction units

@@ -8,7 +8,7 @@ Fewer than 1/5th of images are ever printed
 ### Flatbed Scanner
 - Connected to computer via USB port
 - Imports photographic prints via own software or photo editor
-- Has own built-in flourescent, halogen, or LED lightsource and a trilinear CCD sensor(RGB), or Compact Image Sensor
+- Has own built-in flourescent, halogen, or LED light source and a trilinear CCD sensor(RGB), or Compact Image Sensor
 - Sensor fitted to screw-thread tracking rod that travels beneath the image
 - Image is illuminated and reflected light is detected in a single pass
 - Able to minimise gain from photographic print to digital file

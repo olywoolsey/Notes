@@ -1,3 +1,4 @@
+#COMP1121
 ## What is a Transaction
 - Action, or series of actions, carried out by user or application, which reads or updates contents of database
 	- Logical unit of work on the database

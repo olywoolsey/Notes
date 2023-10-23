@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211
 ![[Pasted image 20221027132642.png]]
 ## 3 addresses
 Operand 1, operand 2, result

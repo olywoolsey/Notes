@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211 
 ## Definitions
 - Bit: binary digit
 - Byte: 8 bits

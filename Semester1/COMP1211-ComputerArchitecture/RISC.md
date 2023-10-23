@@ -1,4 +1,4 @@
-#Architecture
+#COMP1211 
 ## Reduced instruction set computers
 - Limited instruction set;fixed format
 - Large number of [[Registers]], or compiler that optimises register usage

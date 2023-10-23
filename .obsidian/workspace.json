@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Big O.md",
+                "file": "Semester3/Deadlines.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#logic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Big O.md",
+                "file": "Semester3/Deadlines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Big O.md",
+                "file": "Semester3/Deadlines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Big O.md"
+                "file": "Semester3/Deadlines.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,35 +156,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "001d78c8943c4120",
+  "active": "e3e9ee12823a968d",
   "lastOpenFiles": [
-    "Semester3/COMP2711-Algorithms1/Natasha's Ramblings.md",
-    "Semester3/COMP2711-Algorithms1/Iterative Algorithms.md",
-    "Semester3/COMP2711-Algorithms1/Pseudocode.md",
-    "Semester3/COMP2711-Algorithms1/Big O.md",
+    "Semester3/COMP2421-NumericatComputation/Pasted image 20231023144442.png",
+    "Assessment Calendar.png",
     "Semester3/Deadlines.md",
-    "Pasted image 20231018101018.png",
-    "Semester3/COMP2811-UserInterfaces/UI Principles.md",
-    "Semester3/COMP2811-UserInterfaces/C++ vs Java.md",
-    "Semester3/COMP2811-UserInterfaces/C++.md",
-    "Semester3/COMP2211-OperatingSystems/OS Services.md",
-    "Semester3/COMP2421-NumericatComputation/Matricies.md",
-    "Semester3/COMP2211-OperatingSystems/Processor Systems.md",
-    "Semester3/COMP2421-NumericatComputation/Vectors.md",
-    "Pasted image 20231011102448.png",
-    "Semester3/COMP2711-AlgorithmsI/Books.md",
     "Semester3/COMP2211-OperatingSystems/Interrupts.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Matrices.md",
-    "Semester3/COMP2421-NumericatComputation/Numerical Algorithms.md",
-    "Semester1/COMP1211-ComputerArchitecture/Interrupts.md",
-    "Semester3/COMP2211-OperatingSystems/Intro.md",
-    "Semester2/COLO1070-Imaging/History of Photography.md",
-    "Semester3/COMP2421-NumericatComputation/intro.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+    "Two's Compliment.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Functions.md",
     "Semester1/COMP1421-FundamentalMathConcepts/COMP1421.md",
-    "Semester3/COMP2421-NumericatComputation/Untitled 1.md",
-    "Dijkstra.md",
+    "Semester1/COMP1211-ComputerArchitecture/Von Neumann.md",
+    "Semester1/COMP1211-ComputerArchitecture/Types of operations.md",
+    "Semester1/COMP1211-ComputerArchitecture/Two_s Compliment.md",
+    "Semester1/COMP1211-ComputerArchitecture/RISC.md",
+    "Semester1/COMP1211-ComputerArchitecture/Registers.md",
+    "Semester1/COMP1211-ComputerArchitecture/Pipelining.md",
+    "Semester1/COMP1211-ComputerArchitecture/Parity Bits.md",
+    "Semester1/COMP1211-ComputerArchitecture/OverFlow and Underflow.md",
+    "Semester1/COMP1211-ComputerArchitecture/One_s compliment.md",
+    "Semester1/COMP1211-ComputerArchitecture/Moores_ Law.md",
+    "Semester1/COMP1211-ComputerArchitecture/Memory.md",
+    "Semester1/COMP1211-ComputerArchitecture/Interrupts.md",
+    "Semester1/COMP1211-ComputerArchitecture/Instruction Sets.md",
+    "Semester1/COMP1211-ComputerArchitecture/Instruction Cycle.md",
+    "Semester1/COMP1211-ComputerArchitecture/Fetch, execute cycle.md",
+    "Semester1/COMP1211-ComputerArchitecture/Exponential Notation.md",
+    "Semester1/COMP1211-ComputerArchitecture/COMP1211.md",
+    "Semester1/COMP1211-ComputerArchitecture/CISC.md",
+    "Semester3/COMP2811-UserInterfaces/Images/Pasted image 20231020162741.png",
+    "Semester3/COMP2811-UserInterfaces/Images/Pasted image 20231020163320.png",
+    "Semester3/COMP2811-UserInterfaces/Images",
+    "Untitled.canvas",
+    "Pasted image 20231011102448.png",
     "Semester3/COMP2421-NumericatComputation",
     "COMP",
     "Semester3/COMP2711-Algorithms1",
@@ -198,10 +203,7 @@
     "Semester3",
     "Semester1/COMP1211-ComputerArchitecture/CISC.md~",
     "Semester2/COLO1070-Imaging/Images/BabyImage.png",
-    "Images",
     "Semester2/COMP1121-Databases/images/UMLExample.png",
-    "Semester2/COMP1121-Databases/images/ChensExample.png",
-    "Semester2/COMP1121-Databases/images/CrowsExample.png",
-    "Semester2/COMP1511-DiscreteMathmatics/images/Pasted image 20230302214538.png"
+    "Semester2/COMP1121-Databases/images/ChensExample.png"
   ]
 }

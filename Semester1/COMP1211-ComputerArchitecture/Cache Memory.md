@@ -1,5 +1,5 @@
-#Architecture
-Normal [[Memory]] is so slow
+#COMP1211 
+Normal [[Semester1/COMP1211-ComputerArchitecture/Memory]] is so slow
 - bigger memory is slower
 - can take 400 clock cycles to retrieve an item from memory
 - cache memory is a lot faster
