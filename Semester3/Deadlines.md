@@ -1,4 +1,5 @@
 ![[Assessment Calendar.png]]
+!(Assessment Calender)[./Assessment Calendar]
 ## Software Eng Principles
 1. Somerville, Ian, Software Engineering, Global Edition, Pearson, 2015 (or 10th Edition, 2016/2017)
 2. Sommerville, Ian, Engineering Software Products, An Introduction to Modern Software Engineering, 2020 (or the 2019 Edition/Global Edition)

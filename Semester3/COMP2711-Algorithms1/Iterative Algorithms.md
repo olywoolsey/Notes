@@ -2,7 +2,7 @@
 ## Simple Loops
 An iterative algorithm consists of statements repeated a number of times in a loop
 
-Big O for both is O(n)
+[[Big O]] for both is O(n)
 for $i\leftarrow 1$ to n do
 	application code
 

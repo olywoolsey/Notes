@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md",
+                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#logic",
+                "query": "tag:#Maths",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md",
+                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md",
+                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md"
+                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md"
               }
             }
           },
@@ -138,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,54 +155,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "001d78c8943c4120",
+  "active": "e3e9ee12823a968d",
   "lastOpenFiles": [
-    "Semester1/COMP1911-ProfessionalComputing/Network Development.md",
-    "Semester1/COMP1911-ProfessionalComputing/Coursework Help.md",
-    "Semester1/COMP1911-ProfessionalComputing/Doing an Investigation.md",
-    "Semester1/COMP1911-ProfessionalComputing/Comp1911-overview.md",
-    "Semester1/COMP1911-ProfessionalComputing/Agile.md",
-    "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135449.png",
-    "Semester1/COMP1911-ProfessionalComputing/A Day in The Life of a Software Engineer.md",
+    "Pasted image 20231116165023.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
+    "Pasted.md",
     "Semester3/Deadlines.md",
-    "Semester3/COMP2421-NumericatComputation/Pasted image 20231023144442.png",
+    "Pasted image 20231116164953.png",
     "Semester3/Assessment Calendar.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231003094940.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231003092832.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231002093414.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
+    "Semester3/COMP2211-OperatingSystems/Processor Systems.md",
     "Semester3/COMP2211-OperatingSystems/Interrupts.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
-    "Two's Compliment.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Proofs.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Functions.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/COMP1421.md",
-    "Semester1/COMP1211-ComputerArchitecture/Von Neumann.md",
-    "Semester1/COMP1211-ComputerArchitecture/Types of operations.md",
-    "Semester1/COMP1211-ComputerArchitecture/Two_s Compliment.md",
-    "Semester1/COMP1211-ComputerArchitecture/RISC.md",
-    "Semester1/COMP1211-ComputerArchitecture/Registers.md",
-    "Semester1/COMP1211-ComputerArchitecture/Pipelining.md",
-    "Semester1/COMP1211-ComputerArchitecture/Parity Bits.md",
-    "Semester1/COMP1211-ComputerArchitecture/OverFlow and Underflow.md",
-    "Semester1/COMP1211-ComputerArchitecture/One_s compliment.md",
-    "Semester1/COMP1211-ComputerArchitecture/Moores_ Law.md",
-    "Semester1/COMP1211-ComputerArchitecture/Memory.md",
-    "Semester1/COMP1211-ComputerArchitecture/Interrupts.md",
-    "Semester1/COMP1211-ComputerArchitecture/Instruction Sets.md",
+    "Semester3/COMP2211-OperatingSystems/OS Services.md",
+    "Semester3/COMP2211-OperatingSystems/Intro.md",
+    "Semester1/TRAN1011-ChallengesInTransport_Mobility/Transport _ Data.md",
+    "Semester1/TRAN1011-ChallengesInTransport_Mobility/TRAN1011-Overview.md",
+    "Semester3/COMP2421-NumericatComputation/Vectors.md",
+    "Semester3/COMP2421-NumericatComputation/Numerical Algorithms.md",
+    "Semester3/COMP2421-NumericatComputation/Pasted image 20231023144442.png",
+    "Semester3/COMP2421-NumericatComputation/Matricies.md",
+    "Semester3/COMP2421-NumericatComputation/Linear Equations.md",
+    "Semester3/COMP2421-NumericatComputation/Floating Point Numbers.md",
+    "Semester3/COMP2711-Algorithms1/Pseudocode.md",
+    "Semester3/COMP2711-Algorithms1/Natasha's Ramblings.md",
+    "Semester3/COMP2711-Algorithms1/Iterative Algorithms.md",
+    "Semester3/COMP2711-Algorithms1/Big O.md",
+    "Semester3/COMP2811-UserInterfaces/Perception.md",
+    "Semester3/COMP2811-UserInterfaces/UI Principles.md",
+    "Semester3/COMP2811-UserInterfaces/Memory.md",
+    "Semester3/COMP2811-UserInterfaces/C++ vs Java.md",
+    "Semester3/COMP2811-UserInterfaces/C++.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/All Fun Symbols.md",
+    "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135449.png",
     "Semester3/COMP2811-UserInterfaces/Images/Pasted image 20231020162741.png",
     "Semester3/COMP2811-UserInterfaces/Images/Pasted image 20231020163320.png",
     "Semester3/COMP2811-UserInterfaces/Images",
     "Untitled.canvas",
-    "Pasted image 20231011102448.png",
     "Semester3/COMP2421-NumericatComputation",
     "COMP",
     "Semester3/COMP2711-Algorithms1",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231003094940.png",
     "Semester3/COMP2811-UserInterfaces",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231003092832.png",
     "Semester3/COMP2211-OperatingSystems",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231002093414.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples",
     "Semester3",
-    "Semester1/COMP1211-ComputerArchitecture/CISC.md~",
-    "Semester2/COLO1070-Imaging/Images/BabyImage.png"
+    "Semester1/COMP1211-ComputerArchitecture/CISC.md~"
   ]
 }

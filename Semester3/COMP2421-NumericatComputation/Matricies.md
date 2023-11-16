@@ -9,12 +9,12 @@ We call $A$ an $m×n$ matrix
 ### Matrix Addition
 - Must be same size
 - $C_{ij} = A_{ij} + B_{ij}$
-### Vectors
+### [[Vectors]]
 - A matrix with only one row or columns
 - $\begin{pmatrix} 1 2 3 \end{pmatrix}$called a row vector
 - $\begin{pmatrix} 1 \\ 2 \\ 3 \end{pmatrix}$called a column vector
 ### Dot Product
-- Vectors must have the same length
+- [[Vectors]] must have the same length
 - multiply corresponding elements then add together
 - $\begin{pmatrix} 1 \\ 2 \\ 3 \end{pmatrix} .\begin{pmatrix} 1 \\ 2 \\ 3 \end{pmatrix} = 1 + 4 + 9 = 14$
 ### Matrix Multiplication
