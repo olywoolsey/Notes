@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
+                "file": "Semester3/COMP2211-OperatingSystems/Memory Mangment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
+                "file": "Semester3/COMP2211-OperatingSystems/Memory Mangment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
+                "file": "Semester3/COMP2211-OperatingSystems/Memory Mangment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md"
+                "file": "Semester3/COMP2211-OperatingSystems/Memory Mangment.md"
               }
             }
           },
@@ -157,43 +157,43 @@
   },
   "active": "e3e9ee12823a968d",
   "lastOpenFiles": [
-    "Images/Pasted image 20231003092832.png.md",
+    "Semester3/COMP2211-OperatingSystems/Images/Memory_Management_Unit.png",
+    "Semester3/COMP2211-OperatingSystems/Memory Mangment.md",
+    "Semester3/COMP2211-OperatingSystems/Images",
+    "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
+    "Semester2/COMP1511-DiscreteMathmatics/Combinatorics.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Relations.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/SAT-Solving.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Logic Laws.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Logically implies.md",
+    "Semester1/COMP1421-FundamentalMathConcepts/Functions.md",
+    "Semester3/COMP2421-NumericatComputation/Numerical Algorithms.md",
+    "Semester3/COMP2421-NumericatComputation/Vectors.md",
+    "Semester3/COMP2421-NumericatComputation/Linear Equations.md",
+    "Semester3/COMP2421-NumericatComputation/Floating Point Numbers.md",
+    "Semester3/COMP2421-NumericatComputation/Matricies.md",
+    "fhsd.md",
+    "Semester3/Deadlines.md",
+    "Derivitives.md",
+    "Lecture 11.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
+    "Images/Pasted image 20231003092832.png.md",
     "Images",
     "Pasted image 20231116165023.png",
     "Pasted.md",
-    "Semester3/Deadlines.md",
     "Pasted image 20231116164953.png",
     "Semester3/Assessment Calendar.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231003094940.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231003092832.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231002093414.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
     "Semester3/COMP2211-OperatingSystems/Processor Systems.md",
     "Semester3/COMP2211-OperatingSystems/Interrupts.md",
     "Semester3/COMP2211-OperatingSystems/OS Services.md",
-    "Semester3/COMP2211-OperatingSystems/Intro.md",
-    "Semester1/TRAN1011-ChallengesInTransport_Mobility/Transport _ Data.md",
-    "Semester1/TRAN1011-ChallengesInTransport_Mobility/TRAN1011-Overview.md",
-    "Semester3/COMP2421-NumericatComputation/Vectors.md",
-    "Semester3/COMP2421-NumericatComputation/Numerical Algorithms.md",
     "Semester3/COMP2421-NumericatComputation/Pasted image 20231023144442.png",
-    "Semester3/COMP2421-NumericatComputation/Matricies.md",
-    "Semester3/COMP2421-NumericatComputation/Linear Equations.md",
-    "Semester3/COMP2421-NumericatComputation/Floating Point Numbers.md",
-    "Semester3/COMP2711-Algorithms1/Pseudocode.md",
-    "Semester3/COMP2711-Algorithms1/Natasha's Ramblings.md",
-    "Semester3/COMP2711-Algorithms1/Iterative Algorithms.md",
-    "Semester3/COMP2711-Algorithms1/Big O.md",
-    "Semester3/COMP2811-UserInterfaces/Perception.md",
-    "Semester3/COMP2811-UserInterfaces/UI Principles.md",
-    "Semester3/COMP2811-UserInterfaces/Memory.md",
-    "Semester3/COMP2811-UserInterfaces/C++ vs Java.md",
-    "Semester3/COMP2811-UserInterfaces/C++.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/All Fun Symbols.md",
     "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135449.png",
     "Semester3/COMP2811-UserInterfaces/Images/Pasted image 20231020162741.png",
-    "Semester3/COMP2811-UserInterfaces/Images/Pasted image 20231020163320.png",
     "Semester3/COMP2811-UserInterfaces/Images",
     "Untitled.canvas",
     "Semester3/COMP2421-NumericatComputation",
@@ -202,7 +202,6 @@
     "Semester3/COMP2811-UserInterfaces",
     "Semester3/COMP2211-OperatingSystems",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples",
-    "Semester3"
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples"
   ]
 }

@@ -13,7 +13,7 @@ As software is not set in stone you can change it therefore it is easy to change
 
 https://web.archive.org/web/20160910002130/http:/worrydream.com/refs/Brooks-NoSilverBullet.pdf
 For final year project try to use the Unified Process style
-![[Pasted image 20231003094940.png]]
+![](./Images/Pasted%20image%2020231003094940.png)
 Similar to [[Test Driven Development]] 
 [[Software Development Life Cycle]]
 <marquee>I LOVE AGILE  </marguee>
