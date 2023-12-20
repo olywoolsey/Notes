@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester3/COMP2811-UserInterfaces/Perception.md",
+                "file": "Semester3/COMP2421-NumericatComputation/Vectors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester3/COMP2811-UserInterfaces/Perception.md",
+                "file": "Semester3/COMP2421-NumericatComputation/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester3/COMP2811-UserInterfaces/Perception.md",
+                "file": "Semester3/COMP2421-NumericatComputation/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester3/COMP2811-UserInterfaces/Perception.md"
+                "file": "Semester3/COMP2421-NumericatComputation/Vectors.md"
               }
             }
           },
@@ -157,11 +157,17 @@
   },
   "active": "001d78c8943c4120",
   "lastOpenFiles": [
+    "Semester3/COMP2421-NumericatComputation/Numerical Algorithms.md",
+    "Semester3/COMP2421-NumericatComputation/Matricies.md",
+    "Semester3/COMP2421-NumericatComputation/Linear Equations.md",
+    "Semester3/COMP2421-NumericatComputation/Floating Point Numbers.md",
+    "Semester3/COMP2421-NumericatComputation/Derivitives.md",
+    "Semester3/COMP2211-OperatingSystems/Interrupts.md",
+    "Semester3/COMP2811-UserInterfaces/Perception.md",
     "Semester3/COMP2811-UserInterfaces/C++.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
     "Semester3/Deadlines.md",
-    "Semester3/COMP2421-NumericatComputation/Derivitives.md",
     "Semester3/COMP2211-OperatingSystems/Memory Mangment.md",
     "Semester3/COMP2211-OperatingSystems/Images/Memory_Management_Unit.png",
     "Semester3/COMP2211-OperatingSystems/Images",
@@ -173,11 +179,7 @@
     "Semester1/COMP1421-FundamentalMathConcepts/Logic Laws.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Logically implies.md",
     "Semester1/COMP1421-FundamentalMathConcepts/Functions.md",
-    "Semester3/COMP2421-NumericatComputation/Numerical Algorithms.md",
     "Semester3/COMP2421-NumericatComputation/Vectors.md",
-    "Semester3/COMP2421-NumericatComputation/Linear Equations.md",
-    "Semester3/COMP2421-NumericatComputation/Floating Point Numbers.md",
-    "Semester3/COMP2421-NumericatComputation/Matricies.md",
     "fhsd.md",
     "Lecture 11.md",
     "Images/Pasted image 20231003092832.png.md",
@@ -190,8 +192,6 @@
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231003092832.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Pasted image 20231002093414.png",
     "Semester3/COMP2211-OperatingSystems/Processor Systems.md",
-    "Semester3/COMP2211-OperatingSystems/Interrupts.md",
-    "Semester3/COMP2211-OperatingSystems/OS Services.md",
     "Semester3/COMP2421-NumericatComputation/Pasted image 20231023144442.png",
     "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135449.png",
     "Semester3/COMP2811-UserInterfaces/Images/Pasted image 20231020162741.png",
