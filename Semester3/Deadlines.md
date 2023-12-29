@@ -1,5 +1,4 @@
-![](Assessment%20Calendar.png)
-!(Assessment Calender)[./Assessment Calendar]
+![](Assessment_Calendar.png)
 ## Software Eng Principles
 1. Somerville, Ian, Software Engineering, Global Edition, Pearson, 2015 (or 10th Edition, 2016/2017)
 2. Sommerville, Ian, Engineering Software Products, An Introduction to Modern Software Engineering, 2020 (or the 2019 Edition/Global Edition)
@@ -51,4 +50,3 @@ https://alt-6100e9398f586.blackboard.com/bbcswebdav/pid-11535458-dt-content-rid-
 - Coursework 1 (40%) - Website
 	- Due: 16:00 2nd November 2023
 - Coursework 2 (60%) - Something else
-![[COMP2421-NumericatComputation/Pasted image 20231023144442.png]]

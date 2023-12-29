@@ -47,11 +47,11 @@ We require contrasting colours (will be detailed further in Visual Layout Design
 
 ## Optical Illusions
 lateral inhibition
-![[Pasted image 20231020162741.png]]
+![[Images/OpticalIllusion1.png]]
 ### Reification
 - The brain’s ability to infer whole forms from unrelated components
 - Part of the Gestalt theory, and closely related to visual desing patterns – e.g. useful to suggest groupings
-![[Pasted image 20231020163320.png]]
+![[Images/OpticalIllusion2.png]]
 Human vision is very sensitive to edges
 Caused by boosted response to high spatial frequencies
 ### Mach Bands
