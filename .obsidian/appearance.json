@@ -3,7 +3,7 @@
   "nativeMenus": false,
   "theme": "obsidian",
   "cssTheme": "OlyTheme",
-  "interfaceFontFamily": "Arial",
+  "interfaceFontFamily": "DejaVu Sans,Arial",
   "monospaceFontFamily": "Hack Nerd Font Mono",
   "textFontFamily": "Arial",
   "showViewHeader": true,
