@@ -1,3 +1,4 @@
+#COMP2211
 - Logical Memory: The memory the program sees
 - Physical Memory: How memory is actually represented on the disk
 ## Memory Management Unit
