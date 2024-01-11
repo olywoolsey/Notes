@@ -26,7 +26,6 @@ A data structure which has front end and rear end and supports only two operatio
 ### Linked List
 - To maintain efficiency for enqueue there will be links from front-to-rear and rear-to-front
 - Enqueue and Dequeue are O(1) time
-
 ## Comparison
 | Circular Array Implementation | Linked List Implementation |
 | --- | --- |

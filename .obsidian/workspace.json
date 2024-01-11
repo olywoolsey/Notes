@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b89d85d6d449257c",
+        "id": "29918924ff5fdb48",
         "type": "tabs",
         "children": [
           {
-            "id": "e3e9ee12823a968d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Lists.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb4c57e9987d1ca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Stacks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f4de3751075e9d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Queues.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dfafbf05a7e7983",
+            "id": "cef445fc4b1c375e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -196,54 +155,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dfafbf05a7e7983",
+  "active": "cef445fc4b1c375e",
   "lastOpenFiles": [
-    "Semester3/COMP2711-Algorithms1/Iterative Algorithms.md",
+    "Semester3/COMP2711-Algorithms1/Priority Queues.md",
     "Semester3/COMP2711-Algorithms1/Big O.md",
     "Semester3/COMP2711-Algorithms1/Queues.md",
     "Semester3/COMP2711-Algorithms1/Stacks.md",
     "Semester3/COMP2711-Algorithms1/Pseudocode.md",
-    "Semester3/COMP2711-Algorithms1/Priority Queues.md",
-    "Semester3/COMP2711-Algorithms1/Natasha's Ramblings.md",
-    "Semester3/COMP2711-Algorithms1/Lists.md",
-    "Semester3/COMP2711-Algorithms1/Images/Priorety_Queue.png",
-    "Semester3/COMP2711-Algorithms1/Images/Linked_List.png",
-    "Semester3/COMP2711-Algorithms1/Images",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Advanced Use Cases.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
-    "Semester3/COMP2811-UserInterfaces/Perception.md",
-    "Semester3/COMP2811-UserInterfaces/UI Principles.md",
-    "Semester3/Deadlines.md",
-    "Semester3/Assessment_Calendar.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
-    "Semester3/COMP2811-UserInterfaces/Images/OpticalIllusion1.png",
-    "Semester3/COMP2811-UserInterfaces/Images/OpticalIllusion2.png",
+    "Semester3/COMP2211-OperatingSystems/OS Services.md",
+    "Semester3/COMP2211-OperatingSystems/Threads.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/UseCaseDiagram.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/LegoOwen.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/AdaptiveFrameworks.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/AbandonmentReasons.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/LegoOwen.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/UseCaseDiagram.png",
+    "Semester3/COMP2711-Algorithms1/Images/Priorety_Queue.png",
+    "Semester3/COMP2711-Algorithms1/Images/Linked_List.png",
+    "Semester3/COMP2811-UserInterfaces/Images/OpticalIllusion2.png",
+    "Semester3/COMP2811-UserInterfaces/Images/OpticalIllusion1.png",
+    "Semester3/COMP2211-OperatingSystems/Images/Threads.png",
+    "Semester3/COMP2211-OperatingSystems/Images/Memory_Management_Unit.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Advanced Use Cases.md",
+    "Semester3/COMP2711-Algorithms1/Natasha's Ramblings.md",
+    "Semester3/COMP2711-Algorithms1/Lists.md",
+    "Semester3/COMP2711-Algorithms1/Iterative Algorithms.md",
+    "Semester3/COMP2711-Algorithms1/Images",
+    "Semester3/COMP2811-UserInterfaces/UI Principles.md",
+    "Semester3/COMP2811-UserInterfaces/Perception.md",
+    "Semester3/COMP2811-UserInterfaces/Memory.md",
+    "Semester3/COMP2811-UserInterfaces/Images",
+    "Semester3/COMP2811-UserInterfaces/C++.md",
+    "Semester3/COMP2811-UserInterfaces/C++ vs Java.md",
     "Semester3/COMP2421-NumericatComputation/Vectors.md",
     "Semester3/COMP2421-NumericatComputation/Numerical Algorithms.md",
     "Semester3/COMP2421-NumericatComputation/Matricies.md",
     "Semester3/COMP2421-NumericatComputation/Linear Equations.md",
     "Semester3/COMP2421-NumericatComputation/Floating Point Numbers.md",
     "Semester3/COMP2421-NumericatComputation/Derivitives.md",
-    "Semester3/COMP2211-OperatingSystems/Interrupts.md",
-    "Semester3/COMP2811-UserInterfaces/C++.md",
-    "Semester3/COMP2211-OperatingSystems/Memory Mangment.md",
-    "Semester3/COMP2211-OperatingSystems/Images/Memory_Management_Unit.png",
+    "Semester3/COMP2211-OperatingSystems/Scheduling.md",
+    "Semester3/COMP2211-OperatingSystems/Processor Systems.md",
     "Semester3/COMP2211-OperatingSystems/Images",
-    "Semester2/COMP1511-DiscreteMathmatics/Discrete Probability Theory.md",
-    "Semester2/COMP1511-DiscreteMathmatics/Combinatorics.md",
-    "Semester1/COMP1421-FundamentalMathConcepts/Relations.md",
-    "Images",
-    "Semester3/COMP2811-UserInterfaces/Images",
-    "Untitled.canvas",
-    "Semester3/COMP2421-NumericatComputation",
-    "COMP",
-    "Semester3/COMP2711-Algorithms1",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples",
     "Semester3/COMP2811-UserInterfaces",
+    "Semester3/COMP2711-Algorithms1",
+    "Semester3/COMP2421-NumericatComputation",
     "Semester3/COMP2211-OperatingSystems",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images"
+    "Semester3",
+    "Untitled.canvas"
   ]
 }
