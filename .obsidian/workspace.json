@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Big O.md",
+                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4cf6a01367947e71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a957ff528c9409a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester3/COMP2711-Algorithms1/Lists.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Big O.md",
+                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Big O.md",
+                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Big O.md"
+                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md"
               }
             }
           },
@@ -155,13 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cef445fc4b1c375e",
+  "active": "001d78c8943c4120",
   "lastOpenFiles": [
-    "Semester3/COMP2711-Algorithms1/Priority Queues.md",
-    "Semester3/COMP2711-Algorithms1/Big O.md",
     "Semester3/COMP2711-Algorithms1/Queues.md",
     "Semester3/COMP2711-Algorithms1/Stacks.md",
+    "Semester3/COMP2711-Algorithms1/Lists.md",
+    "Semester1/COMP1711-ProcedualProgramming/Linked Lists.md",
+    "Semester3/COMP2711-Algorithms1/Priority Queues.md",
     "Semester3/COMP2711-Algorithms1/Pseudocode.md",
+    "Semester3/COMP2711-Algorithms1/Big O.md",
     "Semester3/COMP2211-OperatingSystems/OS Services.md",
     "Semester3/COMP2211-OperatingSystems/Threads.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/UseCaseDiagram.png",
@@ -179,7 +200,6 @@
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Advanced Use Cases.md",
     "Semester3/COMP2711-Algorithms1/Natasha's Ramblings.md",
-    "Semester3/COMP2711-Algorithms1/Lists.md",
     "Semester3/COMP2711-Algorithms1/Iterative Algorithms.md",
     "Semester3/COMP2711-Algorithms1/Images",
     "Semester3/COMP2811-UserInterfaces/UI Principles.md",
@@ -195,7 +215,6 @@
     "Semester3/COMP2421-NumericatComputation/Floating Point Numbers.md",
     "Semester3/COMP2421-NumericatComputation/Derivitives.md",
     "Semester3/COMP2211-OperatingSystems/Scheduling.md",
-    "Semester3/COMP2211-OperatingSystems/Processor Systems.md",
     "Semester3/COMP2211-OperatingSystems/Images",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples",
     "Semester3/COMP2811-UserInterfaces",

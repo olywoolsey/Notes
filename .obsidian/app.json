@@ -5,10 +5,11 @@
   "rightToLeft": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "autoConvertHtml": true,
   "vimMode": true,
   "newLinkFormat": "relative",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./"
 }

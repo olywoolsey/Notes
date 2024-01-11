@@ -1,15 +1,19 @@
+# Priority Queues
+#COMP2711 #DataStructures 
 Data structure which has two main operations:
 - Insert
 - Delete: Removes the element with the largest priority
 ## Implementations
-|  | Unsorted Sequence (array or linked list) | Sorted Sequence (array or linked list) | Heap |
+|  | Unsorted Sequence ([Array or Linked List](Lists.md)) | Sorted Sequence ([Array or Linked Lists](../../Semester1/COMP1711-ProcedualProgramming/Linked%20Lists.md)) | Heap |
 | ---- | ---- | ---- | ---- |
 | Inserting  a new element | O(1) | O(n) | O(logn) |
 | Deleting the element with the maximum key | O(n) | O(1) | O(logn) |
+- Priority Queues can be implemented as a Sorted array, an unsorted array or heap
+- The arrays are just a list
 ### Heap
-A heap is a complete binary tree down to a depth of d-1 and the nodes of depth d are as far to the left as possible.
-The keys are assigned to the nodes in such a way that the key in each node is larger (or no less) than the keys stored at each of its child nodes.
-A heap is often called a partially ordered binary tree. It is ordered since each child-parent pair is ordered, but it is not completely ordered since the order of the two children is immaterial (it does not matter whether the largest of two children is in the left or the right sub tree).
+- A heap is a complete binary tree down to a depth of d-1 and the nodes of depth d are as far to the left as possible.
+- The keys are assigned to the nodes in such a way that the key in each node is larger (or no less) than the keys stored at each of its child nodes.
+- A heap is often called a partially ordered binary tree. It is ordered since each child-parent pair is ordered, but it is not completely ordered since the order of the two children is immaterial (it does not matter whether the largest of two children is in the left or the right sub tree).
 #### Properties
 - Root of the Heap always contains it's largest element
 - The depth $d$ of a heap with $n$ elements is $log_2n$
