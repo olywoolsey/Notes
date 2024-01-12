@@ -25,8 +25,8 @@ If there are n elements, then we use the first n positions of array A.
 - Left child of the node corresponding to A[i] is in A[2i+1]
 - Right child of the node corresponding to A[i] is in A[2i+2]
 
-| 40 | 32 | 23 | 20 | 14 | 15 | 13 | 11 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 40 | 32 | 23 | 20 | 14 | 15 | 13 | 11 | 12 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 ```mermaid
 graph TD
 id0(40)
@@ -37,6 +37,7 @@ id1 --> id4(14)
 id2 --> id5(15)
 id2 --> id6(13)
 id3 --> id7(11)
+id3 --> id8(12)
 ```
 ##### Adding a new element
 1. Attach a new node with key K after the last leaf of the existing heap

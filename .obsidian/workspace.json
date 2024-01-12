@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "29918924ff5fdb48",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cef445fc4b1c375e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4cf6a01367947e71",
         "type": "tabs",
         "children": [
@@ -32,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Lists.md",
+                "file": "Quick Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "378f1d6a6692273b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39f4b4cb7a4c0151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester3/COMP2711-Algorithms1/Merge Sort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md",
+                "file": "Semester3/COMP2711-Algorithms1/Merge Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md",
+                "file": "Semester3/COMP2711-Algorithms1/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md"
+                "file": "Semester3/COMP2711-Algorithms1/Merge Sort.md"
               }
             }
           },
@@ -174,13 +175,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "001d78c8943c4120",
+  "active": "39f4b4cb7a4c0151",
   "lastOpenFiles": [
+    "Quick Sort.md",
+    "Semester3/COMP2711-Algorithms1/Merge Sort.md",
+    "Semester3/COMP2711-Algorithms1/Lists.md",
+    "Semester3/COMP2711-Algorithms1/Priority Queues.md",
     "Semester3/COMP2711-Algorithms1/Queues.md",
     "Semester3/COMP2711-Algorithms1/Stacks.md",
-    "Semester3/COMP2711-Algorithms1/Lists.md",
     "Semester1/COMP1711-ProcedualProgramming/Linked Lists.md",
-    "Semester3/COMP2711-Algorithms1/Priority Queues.md",
     "Semester3/COMP2711-Algorithms1/Pseudocode.md",
     "Semester3/COMP2711-Algorithms1/Big O.md",
     "Semester3/COMP2211-OperatingSystems/OS Services.md",
@@ -213,8 +216,6 @@
     "Semester3/COMP2421-NumericatComputation/Matricies.md",
     "Semester3/COMP2421-NumericatComputation/Linear Equations.md",
     "Semester3/COMP2421-NumericatComputation/Floating Point Numbers.md",
-    "Semester3/COMP2421-NumericatComputation/Derivitives.md",
-    "Semester3/COMP2211-OperatingSystems/Scheduling.md",
     "Semester3/COMP2211-OperatingSystems/Images",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples",
     "Semester3/COMP2811-UserInterfaces",
