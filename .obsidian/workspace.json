@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Sort.md",
+                "file": "Semester3/COMP2711-Algorithms1/Quick Sort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -175,9 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39f4b4cb7a4c0151",
+  "active": "001d78c8943c4120",
   "lastOpenFiles": [
-    "Quick Sort.md",
+    "Semester3/COMP2711-Algorithms1/Quick Sort.md",
     "Semester3/COMP2711-Algorithms1/Merge Sort.md",
     "Semester3/COMP2711-Algorithms1/Lists.md",
     "Semester3/COMP2711-Algorithms1/Priority Queues.md",
