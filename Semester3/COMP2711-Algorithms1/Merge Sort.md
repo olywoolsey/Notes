@@ -1,4 +1,5 @@
 # Merge Sort
+#COMP2711 #Sort
 ## The Process
 - This is how the arrays are split however be careful as in code it will use recursion and will go back up the tree not down again
 - In implementation the algorithm will do the left side as far down first before the right side so 7 3 5 6 will be completely sorted before 2 4 1 8 is touched

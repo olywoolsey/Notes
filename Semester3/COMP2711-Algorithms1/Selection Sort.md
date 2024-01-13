@@ -1,4 +1,5 @@
 # Selection Sort
+#COMP2711 #Sort
 ## The Process
 1. Search the array for the smallest element
 2. Swap with the first element

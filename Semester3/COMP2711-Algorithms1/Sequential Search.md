@@ -1,4 +1,5 @@
 # Sequential Search
+#COMP2711 #Search
 - Slower than [Binary Search](Binary%20Search.md), but works on unsorted arrays
 - Uses Brute-force Strategy
 - Time Complexity $= O(n)$

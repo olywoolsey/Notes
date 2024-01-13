@@ -1,3 +1,4 @@
+# Stacks
 #COMP2711 #DataStructures 
 *(Special type of [List](Lists.md))*
 Is a data structure which has a top and bottom end; only supports two operations:

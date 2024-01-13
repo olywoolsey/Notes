@@ -1,4 +1,5 @@
 # Bubble Sort
+#COMP2711 #Sort
 ## The Process
 1. Move along the array and swap and time the next value is less than the current value
 2. Once at the end go to the beginning and repeat

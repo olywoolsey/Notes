@@ -1,4 +1,5 @@
 # Insertion Sort
+#COMP2711 #Sort
 ## The Process
 1. Split the array into 2 sub arrays; sorted and unsorted
 2. Iterate through the unsorted array and an place each value in the sorted array

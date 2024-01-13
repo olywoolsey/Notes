@@ -1,4 +1,5 @@
 # Quick Sort
+#COMP2711 #Sort
 ## The Process
 1. Find pivot (in this case Array[0])
 2. Move items < to left array and > to right array. Pivot goes in middle (green)

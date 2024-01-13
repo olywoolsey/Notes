@@ -1,3 +1,4 @@
+# Big O
 #COMP2711 
 - Worst case efficiency for input of size n
 - Time complexity does not matter for small $n$

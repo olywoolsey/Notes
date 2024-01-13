@@ -1,4 +1,5 @@
 # Binary Search
+#COMP2711 #Search
 - Much faster than [Sequential Search](Sequential%20Search.md), but only works on sorted arrays
 - Time Complexity $= O(logn)$
 ## The Process
