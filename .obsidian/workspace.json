@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89a2ed8a35457707",
+            "id": "0c6347a9371bf73b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursive Algorithms.md",
+                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sort  ",
+                "query": "tag: #Sort  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursive Algorithms.md",
+                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursive Algorithms.md",
+                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursive Algorithms.md"
+                "file": "Semester3/COMP2711-Algorithms1/Priority Queues.md"
               }
             }
           },
@@ -169,26 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89a2ed8a35457707",
+  "active": "001d78c8943c4120",
   "lastOpenFiles": [
-    "Semester3/COMP2711-Algorithms1/Iterative Algorithms.md",
-    "Recursive Algorithms.md",
-    "Pasted image 20240113181057.png",
-    "Semester3/COMP2711-Algorithms1/Big O.md",
-    "Semester3/COMP2711-Algorithms1/Selection Sort.md",
     "Semester3/COMP2711-Algorithms1/Quick Sort.md",
-    "Semester3/COMP2711-Algorithms1/Merge Sort.md",
+    "Semester3/COMP2711-Algorithms1/Big O.md",
+    "Semester3/COMP2711-Algorithms1/Iterative Algorithms.md",
+    "Semester3/COMP2711-Algorithms1/Images/Recursion.png",
+    "Semester3/COMP2711-Algorithms1/Selection Sort.md",
     "Semester3/COMP2711-Algorithms1/Insertion Sort.md",
     "Semester3/COMP2711-Algorithms1/Bubble Sort.md",
+    "Semester3/COMP2711-Algorithms1/Sequential Search.md",
+    "Semester3/COMP2711-Algorithms1/Queues.md",
+    "Semester3/COMP2711-Algorithms1/Stacks.md",
+    "Semester3/COMP2711-Algorithms1/Priority Queues.md",
+    "Semester3/COMP2711-Algorithms1/Lists.md",
+    "Semester3/COMP2711-Algorithms1/Recursive Algorithms.md",
+    "Semester3/COMP2711-Algorithms1/Merge Sort.md",
     "Semester1/COMP1711-ProcedualProgramming/Linked Lists.md",
     "Semester3/COMP2211-OperatingSystems/Interrupts.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Advanced Use Cases.md",
-    "Semester3/COMP2711-Algorithms1/Stacks.md",
-    "Semester3/COMP2711-Algorithms1/Sequential Search.md",
-    "Semester3/COMP2711-Algorithms1/Queues.md",
-    "Semester3/COMP2711-Algorithms1/Priority Queues.md",
     "Semester3/COMP2711-Algorithms1/Natasha's Ramblings.md",
-    "Semester3/COMP2711-Algorithms1/Lists.md",
     "Semester3/COMP2711-Algorithms1/Binary Search.md",
     "Semester3/COMP2421-NumericatComputation/Derivitives.md",
     "Semester2/COMP1921-ProgrammingProject/Command Line Test Scripts.md",
