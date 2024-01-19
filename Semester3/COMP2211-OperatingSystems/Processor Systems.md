@@ -1,9 +1,10 @@
+# Processor Systems
 #COMP2211
 ## Main Terms
 - CPU: The hardware that executes instructions.
 - Process: A physical chip that contains one or more CPUs
 - Core: The basic computation unit of the CPU.
-- Multicore: Including multiple computing cores on the same CPU.
+- Multi-core: Including multiple computing cores on the same CPU.
 - Multiprocessor: Including multiple processors
 ## Single-Processor Systems
 - Single processor containing one CPU with a single processing core - many years ago.
@@ -18,22 +19,20 @@
 
 ## Multiprogramming
 - Single Programs can't keep CPU occupied due to wait times so will switch between programs to keep busy
+- When 1 process pauses executing as it's waiting for an I/O, the CPU is allocated to another process that is ready to run.
 
 ## Multitasking
 - Similar to multiprogramming, but the switches between processes are very frequent to provide users with a fast response time
+## User/Kernel Modes
+- Incorrect or malicious programs should not be able to break the OS, execute code that belongs to [OS services](OS%20Services.md), or take over hardware resources
+- $\therefore$ Split apps into user mode
+- [OS services](OS%20Services.md) and the kernel are executed in the system mode
+- User programs are in user mode. 
+- Once program requests some important resources, it can go into the kernel mode forsome specific tasks, system calls
+![](Images/User_Program_System_Call.png)
 
 ## Timer: Periodic [[Interrupts]] from OS
 - For the OS to maintain control over the CPU we need protection against user program getting stuck in infinite loop or similar.
 - Timer is set to [[Semester3/COMP2211-OperatingSystems/Interrupts|Interrupt]] the computer after a specified period.
 - Period can be fixed or variable.OS sets up the timer before transferring control to user programs. When the timer interrupt occurs OS gets control and can decide whether to abort the program or let it run longer.
 - Instructions that set up the timer are privileged instructions—hardware operations that can only be executed in kernel mode
-
-## Processor Management
-- Processes need resources: CPU, memory, I/O, files, initialisation data.
-- A program is not a process—it’s a passive entity.
-- Processes instead are active entities.
-- A single-threaded process has one program counter specifying the next instruction to execute.
-- Sequential execution: CPU executes instructions one at a time, until the process terminates.
-- Two processes can be associated to the same program, but are considered separate entities, separate execution sequences.
-- Multi threaded processes have multiple program counters—we will address threads later in the module.
-- Typically many processes exist, some belong to OS executing in kernel mode, some to user, executing in user mode: OS multiplexes between these processes on single or multi-core CPUs.

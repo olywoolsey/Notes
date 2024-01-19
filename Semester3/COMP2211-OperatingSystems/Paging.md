@@ -18,7 +18,7 @@
 ## Sharing Pages Between Processes
 ### Shared Code
 - One copy of read-only (re-entrant) code shared among processes (i.e., texteditors, compilers, window systems)
-- Similar to multiple threads sharing the same process space
+- Similar to multiple [threads](Threads.md) sharing the same process space
 - Also useful for interprocess communication if sharing of read-write pages is allowed
 ### Private code and data
 - Each process keeps a separate copy of the code and data
@@ -30,5 +30,12 @@
 - Multi-Level Page Tables: Typically involves two or more levels (e.g., two-level paging,three-level paging).
 - Reduced Memory Usage: Only the needed parts of the page table are in memory,reducing the total memory footprint
 ### Hashed Page Tables
+- Hashing Mechanism: Uses a hash table to store page table entries, enabling faster access.
+- Handling Large Address Spaces: Ideal for handling large address spaces in64-bit architectures.
+- Collision Resolution: Handles collisions using techniques like linked lists.
+- Efficient Search Time: Offers efficient search time for page numbers,especially in sparse address spaces
 ### Inverted Page Tables
-
+- Single Entry Per Frame: Contains one entry for each frame of physical memory, unlike traditional page tables.
+- Reduced Memory Size: Significantly reduces the size of the page table for large memory systems.
+- Page Number as Key: Uses the page number as a key into the table to find the corresponding frame.
+- Supports Large Physical Memory: Particularly efficient for systems with large physical memory.

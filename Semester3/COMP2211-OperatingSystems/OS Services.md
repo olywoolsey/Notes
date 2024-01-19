@@ -29,9 +29,12 @@
 	- Once done, files should be closed (system calls)
 ### Parameter Passing
 - Three methods to pass parameters
-	- Through Registors
-	- Store in a table and the address is passed through a register
-	- Pushed to a stack by a program and popped off the stack by the OS
+#### Through Registers
+![](Images/Parameter_Passing_Register.png)
+#### Tables
+- Store in a table and the address is passed through a register
+#### Stacks
+- Pushed to a stack by a program and popped off the stack by the OS
 ### Types
 System calls can be put into 3 categories
 #### Process control
@@ -76,10 +79,8 @@ Processes use system calls to create and gain access to regions of memory owned 
 - With Internet all systems started to get concerned about protection.
 - System calls include setting permission on files and disks.
 - User allow/deny access systems calls
-## API - Application Programming Interface
+## [API](API.md) - Application Programming Interface
 - APIs hide this away behind a set of standard functions which are made available to programmers, for performing common tasks when developing applications
-## Linkers and Loaders
-
 ## Applications being OS specific
 - Use interpreted languages like Python, Ruby: interpreter on each system goes through the source code and executes correct instructions and system calls. Interpreter can be limited.
 - Use language like Java that runs on Java Virtual Machine (JVM): virtual machine is ported to different systems and programmers use the universal interface of the JVM rather than the specific OS
