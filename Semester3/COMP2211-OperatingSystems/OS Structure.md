@@ -1,4 +1,5 @@
 # OS Structure
+#COMP2211
 ## Monolithic Kernel
 - OG Unix used this approach
 - Place all kernel functions into single, static bin file

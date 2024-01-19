@@ -1,4 +1,5 @@
 # Backwards Substitution
+#COMP2711 
 ## Recurrence Relations
 1. Find your recurrence relation $M(n) = \dots$
 2. Substitute the Relation into the formula where it is called i.e. M(n-1) 
