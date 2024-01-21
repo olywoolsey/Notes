@@ -14,13 +14,13 @@ Processes change states during execution
 - Waiting: Waiting for an event (e.g. I/O)
 - Ready
 - Terminated
-![](Pasted%20image%2020240119160536.png)
+![](Images/Pasted%20image%2020240119160536.png)
 Only one process can be running on a core; others may be ready or waiting
 ## Process Control Block (PCB)
 - Process state
 - Program Counter (PC)
 - CPU registers: along with the PC, these have to be saved when process is interrupted
-- CPU-scheduling information: priority and other scheduling parameters
+- CPU-scheduling information: priority and other [scheduling](Scheduling.md) parameters
 - Memory-management information: Location of various memories assigned to the process
 - Accounting information
 - I/O status information: I/O devices allocated to the process, open files

@@ -19,5 +19,5 @@
 - [[Software Development Life Cycle]]
 - [[Agile]]
 - [[Coursework Help]]
-- [[Doing an Investigation]]
+- [[SQIRO]]
 - [[Test Driven Development]]

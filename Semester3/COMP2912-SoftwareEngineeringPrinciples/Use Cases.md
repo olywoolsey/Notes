@@ -1,34 +1,16 @@
 # Advanced Use Cases
 #COMP2912
+Use cases represent a transaction of value
+Use Case Modelling is based on the assumption that for a use case to be used there must be a positive [[Value Proposal]] which explains why a person would want to do it
 ## Use Case Diagrams
 ![](Images/UseCaseDiagram.png)
 **Functional Requirements** - what system should do for users
+### Black Box Perspective
+- From an outsiders perspective the system we are modelling is .. a black box
+- The user shouldn't need to know how the internal system works
+- We just need to put what they need to know and hide the backend
 ### Non-Functional Requirements
 **Non Functional Requirements** - what design qualities the functions and whole system must have(how well it should do what it does)
-#### Use Case
-Is a model of a class of transactions between the user and the system of measurable value. Use cases must have a positive value proposal, i.e. Reward > Effort.
-#### Usability
-Lower connotative effort to perform a task. If a task is enjoyable it can also increase the reward.
-- Effectiveness
-	- Users find what they want
-	- **Use Case** completes seccessfully
-- Efficiency
-	- Users use minimal resources or effort
-	- **Effort** is minimal to increase value proposal
-- Satisfaction
-	- Users enjoy the experience
-	- **Reward** is increased to increase value proposal
-##### Learning Curve
-- Vary by individual’s aptitude, motivation,intellect, experience, state-of-mind etc.
-- Vary by how much the system aids the cognitive learning processes
-- Are different for first-timers and experienced users
-- First timers have to learn “everything”,experts “know” already
-#### Performance
-Has a neutral effect, UNLESS is slower than the user's cognitive process. if so it increases effort.
-Performance is an emergent property of all computing elements in a system – all of the hardware, networks and software used to support the use case.
-Two main issues: 
-- Latency – the time lag between user action and computer response
-- Reliability – not crashing, free from error, consistent
 #### Security
 Two main issues: 
 - Securing sensitive data from theft or abuse

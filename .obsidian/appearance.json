@@ -1,6 +1,6 @@
 {
   "accentColor": "#6bff90",
-  "nativeMenus": false,
+  "nativeMenus": true,
   "theme": "obsidian",
   "cssTheme": "OlyTheme",
   "interfaceFontFamily": "DejaVu Sans,Arial",

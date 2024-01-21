@@ -1,5 +1,6 @@
-#COMP1911
-## SQIRO
+# SQIRO / ORIQS
+#COMP1911 #COMP2912 
+Investigating "in the field"
 - **S**ample Documents
 - **Q**uestionnaires
 - **I**nterviewing
@@ -7,16 +8,15 @@
 - **O**bservation
 ## Observation
 - See how an office runs as you walk in
-- how much paper is there
-- look for disorganisation and how to improve it
-- frequency of processes
-- info going in and out
-- gather basic metrics
-- watch people do their job
-	**Hawthorn Effect**
-	- When people know they're being observed they behaved differently
-- Avoid Hawthorn effect - secret shopper
-- can be time consuming
+- How much paper is there
+- Look for disorganisation and how to improve it
+- Frequency of processes
+- Info going in and out
+- Gather basic metrics
+- Watch people do their job
+- Can be time consuming
+- **Hawthorn Effect** - When people know they're being observed they behaved differently
+- Avoid Hawthorn effect - secret shopper, cameras, 
 ## Reading
 - Internal
 	- Web Site
