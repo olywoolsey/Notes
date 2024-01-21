@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "da30db0fb50fd424",
+        "id": "e811bc274abb1e81",
         "type": "tabs",
         "children": [
           {
-            "id": "3cd4a639f9e2f912",
+            "id": "48ba266c2f45eeef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Analysis and Design.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f55f7bf13ca3c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Use Cases.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Use Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Use Cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Use Cases.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,46 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f55f7bf13ca3c3f",
+  "active": "48ba266c2f45eeef",
   "lastOpenFiles": [
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Implementation Diagram.md",
-    "Semester1/COMP1911-ProfessionalComputing/SQIRO.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Analysis and Design.md",
+    "Semester1/COMP1911-ProfessionalComputing/images/Use_Case.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/UseCaseDiagram.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Unified_Process.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Rational_Unified_Process.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/LegoOwen.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Implementation_Diagram.png",
-    "Semester1/COMP1911-ProfessionalComputing/Network Development.md",
-    "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Scenario.md",
-    "Semester3/COMP2811-UserInterfaces/Perception.md",
-    "Semester3/COMP2811-UserInterfaces/UI Principles.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/DAD.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/AdaptiveFrameworks.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/AbandonmentReasons.png",
+    "Semester3/COMP2811-UserInterfaces/Images/OpticalIllusion2.png",
+    "Semester3/COMP2811-UserInterfaces/Images/OpticalIllusion1.png",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/eXtreme Programming.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Value Proposal.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Use Cases.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Engineering Definitions.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Scenario.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/eXtreme Programming.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Implementation Diagram.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/DSDM.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/DAD.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Analysis and Design.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Agile Manifesto.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Unified_Process.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/DAD.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/DAD.png",
-    "Semester1/COMP1911-ProfessionalComputing/Agile.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Rational_Unified_Process.png",
-    "Semester3/COMP2211-OperatingSystems/Process Management.md",
-    "Semester3/COMP2211-OperatingSystems/Threads.md",
-    "Semester3/COMP2211-OperatingSystems/Storage Structure.md",
-    "Semester3/COMP2211-OperatingSystems/Scheduling.md",
-    "Semester3/COMP2211-OperatingSystems/Processor Systems.md",
-    "Semester3/COMP2211-OperatingSystems/Process.md",
-    "Semester3/COMP2211-OperatingSystems/Paging.md",
-    "Semester3/COMP2211-OperatingSystems/Images/Pasted image 20240119160536.png",
-    "Semester3/COMP2211-OperatingSystems/Images/Stack_vs_Heap.png",
-    "Semester3/COMP2211-OperatingSystems/Images/OS_Layered_Structure.png",
-    "Semester3/COMP2211-OperatingSystems/Images/Linker_Loader.png",
-    "Pasted image 20240119145933.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images",
-    "Semester3/COMP2711-Algorithms1/Images",
+    "Semester3/COMP2811-UserInterfaces/UI Principles.md",
+    "Semester3/COMP2811-UserInterfaces/Perception.md",
+    "Semester3/COMP2811-UserInterfaces/Memory.md",
     "Semester3/COMP2811-UserInterfaces/Images",
+    "Semester3/COMP2811-UserInterfaces/C++.md",
+    "Semester3/COMP2811-UserInterfaces/C++ vs Java.md",
+    "Semester3/COMP2711-Algorithms1/Stacks.md",
+    "Semester3/COMP2711-Algorithms1/Sequential Search.md",
+    "Semester3/COMP2711-Algorithms1/Selection Sort.md",
+    "Semester3/COMP2711-Algorithms1/Recursive Algorithms.md",
+    "Semester3/COMP2711-Algorithms1/Quick Sort.md",
+    "Semester3/COMP2711-Algorithms1/Queues.md",
+    "Semester3/COMP2711-Algorithms1/Priority Queues.md",
+    "Semester3/COMP2711-Algorithms1/Natasha's Ramblings.md",
+    "Semester3/COMP2711-Algorithms1/Images",
     "Semester3/COMP2211-OperatingSystems/Images",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples",
     "Semester3/COMP2811-UserInterfaces",
