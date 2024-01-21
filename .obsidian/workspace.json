@@ -11,14 +11,12 @@
             "id": "0aba660ac7dd0f15",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Semester1/InternationalDevelopment/Hell.canvas",
-                "viewState": {
-                  "x": -490,
-                  "y": -370,
-                  "zoom": 0
-                }
+                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135521.png",
+                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135521.png",
+                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135521.png"
+                "file": "Semester1/InternationalDevelopment/J.S MILL.md"
               }
             }
           },
@@ -164,8 +162,8 @@
   },
   "active": "0aba660ac7dd0f15",
   "lastOpenFiles": [
-    "Semester1/InternationalDevelopment/J.S MILL.md",
     "Semester1/InternationalDevelopment/Hell.canvas",
+    "Semester1/InternationalDevelopment/J.S MILL.md",
     "Semester1/InternationalDevelopment/Gender in Global Politics.md",
     "Semester1/COMP1911-ProfessionalComputing/UML.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/ACID.md",
@@ -196,7 +194,6 @@
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/UseCaseDiagram.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Rational_Unified_Process.png",
     "Semester2/COMP1121-Databases/Security & Administration.md",
-    "Semester2/COMP1121-Databases/Relational Model.md",
     "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135521.png",
     "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221027175405.png",
     "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221107134449.png",
