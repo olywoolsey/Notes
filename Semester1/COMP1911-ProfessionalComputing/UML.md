@@ -1,9 +1,10 @@
+# UML
 #COMP1911
 ## Unified Modelling Language (UML)
-- the de-facto standard for modelling systems
+- The de-facto standard for modelling systems
 “The Unified Modelling Language (UML) is a language for specifying, visualising,constructing, and documenting the artefacts of software systems, as well as for business modelling and other non-software systems. The UML represents a collection of best engineering practices that have proven successful in the modelling of large and complex systems.” - www.omg.org   
 
----  
+---
 ### Diagrams
 - Often spilt into structural information diagrams or behaviour diagrams
 ![](UML_Diagram_Chart.png)
@@ -11,7 +12,7 @@
 ## Requirements View
 ---
 ### Use Case Diagram
-- Use cases were developed originally to support requirements investigation and are incorporated into UML.
+- [Use cases](Use%20Cases.md) were developed originally to support requirements investigation and are incorporated into UML.
 - Use case diagrams provide a user friendly overview of what the system does
 ![](images/Use_Case.png)
 ---
@@ -35,17 +36,17 @@ Class diagrams can be refined by modelling to form a logical model which can be 
 ---
 ## Dynamic Views
 ### Collaboration Diagram
-- Note that these are Object diagrams with added message arrows to showthe messages.
+- Note that these are Object diagrams with added message arrows to show the messages.
 - These diagrams show the sequence of message sent between collaborating objects for a particular task.
 - The diagrams highlight the relationships between the collaborating objects
-![[Collaboration_Diagram.png]]
+![](Collaboration_Diagram.png)
 ### Sequence Diagram
 - These diagrams show the sequence of message sent between collaborating objects for a particular task
 - They highlight the flow of control between the objects
-![[Sequence_Diagram.png]]
+![](Sequence_Diagram.png)
 ### State Diagram
 - finite state machine
-![[State_Diagram.png]]
+![](State_Diagram.png)
 ### Activity Diagrams
 - basically like a flow chart
 - They have
@@ -57,11 +58,11 @@ Class diagrams can be refined by modelling to form a logical model which can be 
 ### Component Diagrams
 - Component diagrams illustrate the physical structure of the system in terms of its Software
 - They show the software components and the dependencies between them
-![[Component_Diagram.png]]
+![](Component_Diagram.png)
 ### Deployment diagrams
 - Physical Architecture in terms of hardware
 - Will always have communication links between nodes
 ![](Deployment_Diagram.png)
 ### Implementation Diagrams
 Includes both component and Deployment
-![[Semester1/COMP1911-ProfessionalComputing/images/Implementation_Diagram.png]]
+![](Semester1/COMP1911-ProfessionalComputing/images/Implementation_Diagram.png)

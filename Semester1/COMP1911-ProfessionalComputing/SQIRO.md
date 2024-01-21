@@ -41,7 +41,7 @@ Investigating "in the field"
 - Before the Interview
 	- Prepare interviewee – time, duration, what it’s about.Maybe give them some reading or info. e.g. Work I’ve done so far
 	- Prepare yourself – plan, a set of objectives, ensure relevant to them
-	- Prepare your material – e.g. draft UML diagrams to discuss
+	- Prepare your material – e.g. draft [[UML]] diagrams to discuss
 	- Explain who you are and the purpose of interview
 	- Get permission to record (if possible), video, audio or take notes
 - During

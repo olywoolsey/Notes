@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"305a777381290691","x":-560,"y":-320,"width":250,"height":60,"color":"#3f3131","type":"text","text":"Hello"},
+		{"id":"5ff963b39eb71f34","x":-810,"y":-140,"width":250,"height":60,"type":"text","text":""},
+		{"id":"b9a47aa75cdfb352","x":-240,"y":-580,"width":400,"height":400,"type":"file","file":"Semester1/InternationalDevelopment/J.S MILL.md"},
+		{"id":"f4d0c903e57f5823","x":-1140,"y":-660,"width":400,"height":400,"type":"file","file":"Semester1/InternationalDevelopment/Hell.canvas"},
+		{"id":"6c6d9c86398c469a","x":-685,"y":-635,"width":400,"height":255,"type":"file","file":"Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135521.png"}
+	],
+	"edges":[
+		{"id":"b11cc6b7c22d530d","fromNode":"305a777381290691","fromSide":"bottom","toNode":"5ff963b39eb71f34","toSide":"top"}
+	]
+}

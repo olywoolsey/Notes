@@ -12,7 +12,7 @@
 - Aborted transaction that is rolled back can be restarted later
 
 ## Properties Of Transactions
-- **ACID**
+- **[ACID](ACID.md)**
 	- **A**tomicity -‘All or nothing’ property
 	- **C**onsistency - Must transform database from one consistent state to another
 	- **I**solation - Partial effects of incomplete transactions should not be visible to other transactions

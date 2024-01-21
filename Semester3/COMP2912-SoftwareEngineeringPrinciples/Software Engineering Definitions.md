@@ -8,8 +8,6 @@
 - [[eXtreme Programming]]
 - Unified Process - Repeat the waterfall method quickly over a number of iterations 
 - Rational Unified Process - Iterative approach where what each cycle does changes over time
-![](Images/Rational_Unified_Process.png)
-
 ## W
 - Non Functional Requirements- what design qualities the functions and whole system must have(how well it should do what it does)
 - Encapsulation - no parts of the system should be dependent of the internal workings of another part
