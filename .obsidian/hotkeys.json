@@ -14,5 +14,13 @@
       ],
       "key": "N"
     }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
   ]
 }

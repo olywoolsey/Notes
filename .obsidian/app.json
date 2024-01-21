@@ -1,15 +1,3 @@
 {
-  "promptDelete": false,
-  "readableLineLength": false,
-  "showLineNumber": true,
-  "rightToLeft": false,
-  "spellcheck": true,
-  "alwaysUpdateLinks": true,
-  "showInlineTitle": false,
-  "autoConvertHtml": true,
-  "vimMode": true,
-  "newLinkFormat": "relative",
-  "showUnsupportedFiles": true,
-  "useMarkdownLinks": true,
-  "attachmentFolderPath": "./"
+  "alwaysUpdateLinks": true
 }

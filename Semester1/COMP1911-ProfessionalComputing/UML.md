@@ -5,11 +5,12 @@
 
 ### Diagrams
 - often spilt into structural information diagrams or behaviour diagrams
-![[Pasted image 20221107133315.png]]
+![](UML_Diagram_Chart.png)
 ## Requirements View
+---
 ### Use Case Diagram
 - Use cases were developed originally to support requirements investigation and are incorporated into UML.
-- Use case diagrams provide a user freindly overview of what the system does
+- Use case diagrams provide a user friendly overview of what the system does
 ![](images/Use_Case.png)
 ## Logical Views
 ### Class Diagram

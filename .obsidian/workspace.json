@@ -11,8 +11,23 @@
             "id": "48ba266c2f45eeef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Semester1/COMP1911-ProfessionalComputing/UML.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11d7bc12ebc7512f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Semester1/COMP1911-ProfessionalComputing/images/UML_Diagram_Chart.png"
+              }
             }
           }
         ]
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semester1/COMP1911-ProfessionalComputing/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Semester1/COMP1911-ProfessionalComputing/UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Semester1/COMP1911-ProfessionalComputing/UML.md"
+              }
             }
           },
           {
@@ -127,6 +146,18 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "54e2fed292eca55d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ]
@@ -142,12 +173,16 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "48ba266c2f45eeef",
   "lastOpenFiles": [
+    "Semester1/COMP1911-ProfessionalComputing/images/UML_Diagram_Chart.png",
+    "Semester1/COMP1911-ProfessionalComputing/UML.md",
     "Semester1/COMP1911-ProfessionalComputing/images/Use_Case.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/UseCaseDiagram.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Unified_Process.png",
@@ -157,8 +192,6 @@
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/DAD.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/AdaptiveFrameworks.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/AbandonmentReasons.png",
-    "Semester3/COMP2811-UserInterfaces/Images/OpticalIllusion2.png",
-    "Semester3/COMP2811-UserInterfaces/Images/OpticalIllusion1.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/eXtreme Programming.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Value Proposal.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Use Cases.md",
@@ -185,7 +218,6 @@
     "Semester3/COMP2711-Algorithms1/Quick Sort.md",
     "Semester3/COMP2711-Algorithms1/Queues.md",
     "Semester3/COMP2711-Algorithms1/Priority Queues.md",
-    "Semester3/COMP2711-Algorithms1/Natasha's Ramblings.md",
     "Semester3/COMP2711-Algorithms1/Images",
     "Semester3/COMP2211-OperatingSystems/Images",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples",
