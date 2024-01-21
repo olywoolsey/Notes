@@ -40,7 +40,7 @@
 - old systems often called legacy systems
 ## Models
 ### Waterfall model
-![[images/Pasted image 20221017135449.png]]
+![[V_Waterfall_Method.png]]
 ### Iterative model
 ![[Pasted image 20221017135521.png]]
 ### Combination of both

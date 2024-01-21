@@ -14,4 +14,4 @@
 11. The best architectures, requirements, and designs emerge from self-organising teams.
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.
 ## At Least 3 Iterations
-![[Pasted image 20221020174845.png]]
+![[Agile_Least_3.png]]

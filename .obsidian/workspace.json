@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/UML.md",
+                "file": "Semester1/COMP1911-ProfessionalComputing/Network Development.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,32 @@
             }
           },
           {
-            "id": "11d7bc12ebc7512f",
+            "id": "2cc6e0738e2368c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester1/COMP1911-ProfessionalComputing/Agile.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5f9a8d6ff04513e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a56c3b3f63f6837",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/images/UML_Diagram_Chart.png"
+                "file": "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135521.png"
               }
             }
           }
@@ -96,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/UML.md",
+                "file": "Semester1/COMP1911-ProfessionalComputing/Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/UML.md",
+                "file": "Semester1/COMP1911-ProfessionalComputing/Agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/UML.md"
+                "file": "Semester1/COMP1911-ProfessionalComputing/Agile.md"
               }
             }
           },
@@ -172,26 +192,34 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "48ba266c2f45eeef",
+  "active": "2cc6e0738e2368c0",
   "lastOpenFiles": [
-    "Semester1/COMP1911-ProfessionalComputing/images/UML_Diagram_Chart.png",
+    "Semester1/COMP1911-ProfessionalComputing/Network Development.md",
+    "Semester1/COMP1911-ProfessionalComputing/Coursework Help.md",
+    "Semester1/COMP1911-ProfessionalComputing/Agile.md",
+    "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221027175405.png",
+    "Semester1/COMP1911-ProfessionalComputing/A Day in The Life of a Software Engineer.md",
+    "Semester1/COMP1911-ProfessionalComputing/Comp1911-overview.md",
+    "Semester1/COMP1911-ProfessionalComputing/Software Development Life Cycle.md",
+    "Semester1/COMP1911-ProfessionalComputing/Test Driven Development.md",
+    "Semester1/COMP1911-ProfessionalComputing/Systems Modelling.md",
+    "Semester1/COMP1911-ProfessionalComputing/SQIRO.md",
     "Semester1/COMP1911-ProfessionalComputing/UML.md",
-    "Semester1/COMP1911-ProfessionalComputing/images/Use_Case.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/UseCaseDiagram.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Unified_Process.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Rational_Unified_Process.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/LegoOwen.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Implementation_Diagram.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/DAD.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/AdaptiveFrameworks.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/AbandonmentReasons.png",
+    "Semester1/COMP1911-ProfessionalComputing/The First Computers.md",
+    "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135521.png",
+    "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221107134449.png",
+    "Semester1/COMP1911-ProfessionalComputing/images/Activity_Diagram.png",
+    "Semester1/COMP1911-ProfessionalComputing/images/Agile_Least_3.png",
+    "Semester1/COMP1911-ProfessionalComputing/images/Collaboration_Diagram.png",
+    "Semester1/COMP1911-ProfessionalComputing/images/State_Diagram.png",
+    "Semester1/COMP1911-ProfessionalComputing/images/Component_Diagram.png",
+    "Semester1/COMP1911-ProfessionalComputing/images/Implementation_Diagram.png",
+    "Semester1/COMP1911-ProfessionalComputing/images/Sequence_Diagram.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/eXtreme Programming.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Value Proposal.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Use Cases.md",
@@ -207,17 +235,7 @@
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Agile Manifesto.md",
     "Semester3/COMP2811-UserInterfaces/UI Principles.md",
     "Semester3/COMP2811-UserInterfaces/Perception.md",
-    "Semester3/COMP2811-UserInterfaces/Memory.md",
     "Semester3/COMP2811-UserInterfaces/Images",
-    "Semester3/COMP2811-UserInterfaces/C++.md",
-    "Semester3/COMP2811-UserInterfaces/C++ vs Java.md",
-    "Semester3/COMP2711-Algorithms1/Stacks.md",
-    "Semester3/COMP2711-Algorithms1/Sequential Search.md",
-    "Semester3/COMP2711-Algorithms1/Selection Sort.md",
-    "Semester3/COMP2711-Algorithms1/Recursive Algorithms.md",
-    "Semester3/COMP2711-Algorithms1/Quick Sort.md",
-    "Semester3/COMP2711-Algorithms1/Queues.md",
-    "Semester3/COMP2711-Algorithms1/Priority Queues.md",
     "Semester3/COMP2711-Algorithms1/Images",
     "Semester3/COMP2211-OperatingSystems/Images",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples",
