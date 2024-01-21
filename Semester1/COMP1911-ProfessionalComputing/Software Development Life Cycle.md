@@ -1,30 +1,30 @@
 #COMP1911
-### software development life cycle
+## software development life cycle
  - value of software decreases over time, have to kill software if provides negative value
-#### Initiation
+### Initiation
 - start with an idea
 - could be to replace old system
-#### Feasibilty
+### Feasibility
 - is the app idea going to sell
 - will the app be worth the time
 - just because the app would work doesnt mean its a good buisness idea
 #### Requirement analysis
-- what benifits would stakeholders get
-- what buisness process will the system change/ create/ support
-- will the buisness be improved, and if they will make savings
+- what benefits would stakeholders get
+- what business process will the system change/ create/ support
+- will the business be improved, and if they will make savings
 - who will use the system
 #### Design Stage
 - work out how to build it
-- hardware? perfomance needs?
-#### Buid
+- hardware? performance needs?
+#### Build
 - actual programming of the product
 - reuse other parts of programs
 - test all programs 
 ##### Types of reusable software
-- copy and paste isnt maintainable
+- copy and paste isn't maintainable
 - open source is good as many people contribute
-- system librarys are also useful
-#### Implemtation
+- system library are also useful
+#### Implementation
 - 1/3 of systems fail
 - results in a live system
 - real users provide feedback

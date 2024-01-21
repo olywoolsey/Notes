@@ -1,4 +1,5 @@
 # Analysis and Design
+#COMP2912
 **Analysis** - Understanding the **Problem**
 **Design** - Understanding the **Solution**
 ## Good design is:
@@ -10,7 +11,7 @@
 - well integrated
 - flexible for the future
 ## Iterative Requirement Analysis
-Create overall use cases then specify on later itterations
+Create overall use cases then specify on later iterations
 1. Obvious Use Cases
 2. Extra Use Cases, simple case descriptions
 3. Structured Use Cases, structures Use Case descriptions, Prototypes

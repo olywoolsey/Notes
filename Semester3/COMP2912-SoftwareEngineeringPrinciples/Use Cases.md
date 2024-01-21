@@ -3,6 +3,7 @@
 Use cases represent a transaction of value
 Use Case Modelling is based on the assumption that for a use case to be used there must be a positive [[Value Proposal]] which explains why a person would want to do it
 ## Use Case Diagrams
+- A type of [UML](UML.md) Diagram
 ![](Images/UseCaseDiagram.png)
 **Functional Requirements** - what system should do for users
 ### Black Box Perspective
