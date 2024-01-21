@@ -12,9 +12,9 @@
 - flexible for the future
 ## Iterative Requirement Analysis
 Create overall [use cases](Use%20Cases.md) then specify on later iterations
-1. Obvious Use Cases
-2. Extra Use Cases, simple case descriptions
-3. Structured Use Cases, structures Use Case descriptions, Prototypes
+1. Obvious [Use Cases](Use%20Cases.md)
+2. Extra [Use Cases](Use%20Cases.md), simple case descriptions
+3. Structured [Use Cases](Use%20Cases.md), structures Use Case descriptions, Prototypes
 4. ...
 ## Designing a New Process
 Eliminate, Simplify, Integrate or Automate
@@ -29,10 +29,10 @@ Eliminate, Simplify, Integrate or Automate
 - When a component offers services to the rest of the system, it adopts a provided interface which specifies the services that other components can utilise, and how they can do so. 
 - The client does not need to know about the inner workings of the component (implementation) in order to make use of it. 
 - This principle results in components referred to as encapsulated
-## Architecturally Significant Use Cases
+## Architecturally Significant [Use Cases](Use%20Cases.md)
 - A [Use Case](Use%20Cases.md) that implies a change to the architecture of a system
 - Implies technical risk and potential extra costs, e.g. internet access
-- Will need to use a [[Implementation Diagram]] to see infrastructure needed for these use cases
+- Will need to use a [[Implementation Diagram]] to see infrastructure needed for these [use cases](Use%20Cases.md)
 - Architecturally significant because they introduce a requirement for:
 	- new actors 
 	- new deployment platforms
@@ -41,12 +41,12 @@ Eliminate, Simplify, Integrate or Automate
 	- new security etc...
 ### MuSCoW
 For Prioritising [Use Cases](Use%20Cases.md) 
-- **Mu**  Must Have Use Cases - Develop these in Proof of Architecture
-- **S**     Should Have Use Cases - Develop these in subsequent iterations
-- **Co**  Could Have Use Cases - Develop these in later iterations but only if time, resources etc. allow.
-- **W**    Wont Have Use Cases - Don’t do these at all but negotiate and make sure the relevant stakeholders are aware they are outside the scope of the project.
+- **Mu**  Must Have [Use Cases](Use%20Cases.md) - Develop these in Proof of Architecture
+- **S**     Should Have [Use Cases](Use%20Cases.md) - Develop these in subsequent iterations
+- **Co**  Could Have [Use Cases](Use%20Cases.md) - Develop these in later iterations but only if time, resources etc. allow.
+- **W**    Wont Have [Use Cases](Use%20Cases.md) - Don’t do these at all but negotiate and make sure the relevant stakeholders are aware they are outside the scope of the project.
 Initial Release should have all **Mu**s and nothing else. All further releases will expand on these
-Identify which Use Cases might be Architecturally Significant –
+Identify which [Use Cases](Use%20Cases.md) might be Architecturally Significant –
 - because they imply a significantly different design architecture. 
 - These should be treated as Must Haves simply because the design architecture needs to take them into account. 
 - They’re likely to prove expensive so the other option may be to persuade stakeholders that they should be Wont Haves

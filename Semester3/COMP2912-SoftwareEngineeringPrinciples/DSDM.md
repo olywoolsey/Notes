@@ -8,5 +8,5 @@ Nine key principles:
 5. Iterative (and incremental) development -> convergence on the best solution
 6. All changes should be reversible
 7. High Level requirements are agreed (and “frozen”) to set the scope
-8. Testing is integrated throughout (not just at the end)
+8. [Testing](Testing.md) is integrated throughout (not just at the end)
 9. Collaboration and co-operation with stakeholders throughout

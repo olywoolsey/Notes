@@ -32,6 +32,6 @@ How much public access is required vs. How valuable are the things we need to se
 ##### Abuse Cases
 Ab-use Case (or Mis-use Case) are Use Cases that we want to stop.
 The Actor is a “bad actor”. The Abuse case is a case of abusing the system.
-Their value proposal is to steal or cause harm. 
+Their [value proposal](Value%20Proposal.md) is to steal or cause harm. 
 To stop them we need to reduce reward and increase effort.
 Abuse case modelling is complementary with threat analysis and other cyber security approaches

@@ -18,14 +18,14 @@ Similar to [[Test Driven Development]]
 [[Software Development Life Cycle]]
 <marquee>I LOVE AGILE  </marguee>
 ## Disciplined Agile Development
-- DAD is the most recent form of the unified process
+- [DAD](DAD.md) is the most recent form of the unified process
 - 4 Phases of a Unified Process Project
 	1. Inception
 	2. Elaboration
 	3. Construction
 	4. Transition
 
-## eXtreme Programming
+## [eXtreme Programming](eXtreme%20Programming.md)
 - New versions built several times a day
 - Increments delivered every 2 weeks
 - All tests must be run for every build and is only accepted if all tests run correctly

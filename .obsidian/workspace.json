@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
+                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/DAD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#COMP1921",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 360.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
+                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/DAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester1/InternationalDevelopment/J.S MILL.md",
+                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/DAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester1/InternationalDevelopment/J.S MILL.md"
+                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/DAD.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,38 +162,39 @@
   },
   "active": "0aba660ac7dd0f15",
   "lastOpenFiles": [
-    "Semester1/InternationalDevelopment/Hell.canvas",
-    "Semester1/InternationalDevelopment/J.S MILL.md",
-    "Semester1/InternationalDevelopment/Gender in Global Politics.md",
-    "Semester1/COMP1911-ProfessionalComputing/UML.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/ACID.md",
-    "Semester2/COMP1121-Databases/Transaction Managment.md",
-    "Semester1/COMP1911-ProfessionalComputing/SQIRO.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Engineering Definitions.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Use Cases.md",
-    "Semester3/Deadlines.md",
-    "Semester2/COMP1121-Databases/Entity Relationship Moddeling.md",
-    "Semester1/COMP1911-ProfessionalComputing/Network Development.md",
-    "Semester1/COMP1911-ProfessionalComputing/Agile.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Scenario.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Implementation Diagram.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/eXtreme Programming.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/DSDM.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/DevOps.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/DAD.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Analysis and Design.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Agile Manifesto.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/eXtreme Programming.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Implementation Diagram.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Scenario.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Engineering Definitions.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Testing.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Use Cases.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Value Proposal.md",
+    "Semester1/COMP1911-ProfessionalComputing/UML.md",
+    "Semester3/COMP2211-OperatingSystems/Linkers and Loaders.md",
+    "Semester1/COMP1211-ComputerArchitecture/Cache Memory.md",
+    "Semester2/COMP1121-Databases/Entity Relationship Moddeling.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Analysis and Design.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/DSDM.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/ACID.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Agile Manifesto.md",
+    "Semester1/InternationalDevelopment/Gender in Global Politics.md",
+    "Semester1/InternationalDevelopment/J.S MILL.md",
+    "Semester1/InternationalDevelopment/Hell.canvas",
+    "Semester2/COMP1121-Databases/Transaction Managment.md",
+    "Semester1/COMP1911-ProfessionalComputing/SQIRO.md",
+    "Semester3/Deadlines.md",
+    "Semester1/COMP1911-ProfessionalComputing/Network Development.md",
+    "Semester1/COMP1911-ProfessionalComputing/Agile.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Trade_Off_Triangle.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Cost_Of_Removing_Bugs.png",
-    "Images/Rational_Unified_Process.md",
     "Images",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Unified_Process.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/UseCaseDiagram.png",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Rational_Unified_Process.png",
-    "Semester2/COMP1121-Databases/Security & Administration.md",
     "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221017135521.png",
     "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221027175405.png",
     "Semester1/COMP1911-ProfessionalComputing/images/Pasted image 20221107134449.png",
