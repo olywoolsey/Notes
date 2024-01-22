@@ -13,7 +13,7 @@ Computers provide a mechanism by which other modules may interrupt the normal pr
 - Hardware failure
 	e.g. power failure, memory parity error.
 ## Program Flow Control
-![[../General_Images/Pasted image 20221021123125.png]]
+![[Images/Program_Flow_Control.png]]
 	Program flow control with and without interrupts
 - by using interrupts programs can run simultaneously
 - main program doesn't have to wait for replies so can run at the same time while external commands and data is collected
@@ -26,4 +26,4 @@ Computers provide a mechanism by which other modules may interrupt the normal pr
 	- suspend execution of the current program and save its“state”;
 	- set the PC to the start address of the interrupt handler routine and process the interrupt;
 	- restore the previous state and continue the interrupted program.
-![[../General_Images/Pasted image 20221021123933.png]]
+![[Images/Interupt_Cycle.png]]

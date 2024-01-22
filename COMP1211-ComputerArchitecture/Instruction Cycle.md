@@ -11,13 +11,13 @@
 - **This constitutes a computer.**
 ---
 ## Components
-- [[Central Processing Unit |CPU]]
-- [[../../COMP1711-ProcedualProgramming/Input and Output]]
-- [[Memory]]
-![[../General_Images/Pasted image 20221020133910.png]]
+- [Central Processing Unit](Central%20Processing%20Unit.md)
+- [Input and Output](../COMP1711-ProcedualProgramming/Input%20and%20Output.md)
+- [Memory](Memory.md)
+![[Images/Components.png]]
 
 ## Instruction Cycle
-![[../General_Images/Pasted image 20221021121123.png]]
+![[Images/Instruction_Cycle.png]]
 
 ## Data Flow
 ### Instruction Fetch
@@ -27,7 +27,7 @@
 4. Control unit requests memory read
 5. Result place on data bus, copied to MBR, then to IR
 6. Meanwhile PC is incremented by 1
-![[../General_Images/Pasted image 20221028121852.png]]
+![[Images/Instruction_Fetch.png]]
 
 ### Data Fetch
 - The IR is examined

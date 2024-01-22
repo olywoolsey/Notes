@@ -22,7 +22,7 @@
 - Bit-wise operations
 - [[Conjunction|AND]] [[Dis-junction|OR]] [[negation|NOT]]
 - Shift
-![[../General_Images/Pasted image 20221027133659.png]]
+![[Images/Logical_Shift.png]]
 
 ## Conversion
 - Conversion between different data types

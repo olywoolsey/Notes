@@ -12,7 +12,7 @@ A data structure which has front end and rear end and supports only two operatio
 - Often used in:
 	- Search algorithms
 	- Time-driven simulation
-	- [Scheduling](../COMP2211-OperatingSystems/Scheduling.md)
+	- [Scheduling](../Operating%20Systems/Scheduling.md)
 ## Implementations
 ### Arrays
 1. Q[0] is the front of the queue

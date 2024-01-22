@@ -2,6 +2,7 @@
 ## Little-Endian vs Big-Endian
 - **What order do we read numbers that occupy more than one [[Binary|byte]]?**
 	- Consider 12345678 to be a hexadecimal representation of a 32-bit binary number.
+	
 | Address | Value(1) | Value(2) |
 | ------- | -------- | -------- |
 | 184     | 12       | 78       |

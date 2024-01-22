@@ -7,7 +7,7 @@
 - EI Execute instructions
 - WO Write result
 - Pipe-lining means overlapping these operations.
-![[../General_Images/Pasted image 20221028123146.png]]
+![[Images/Pipilining.png]]
 
 ## Multiple streams
 - Have two pipelines
@@ -16,5 +16,5 @@
 - Leads to bus and register contention
 - Multiple branches lead to further pipelines being needed 
 
-![[../General_Images/Pasted image 20221028123514.png]]
+![[Images/Multiple_Streams.png]]
 - In this example, Instruction 3 is a conditional branch to Instruction 15.

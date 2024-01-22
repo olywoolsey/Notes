@@ -1,3 +1,4 @@
+# Bit Twiddling
 #COMP1921
 ## 2D Arrays
 - Arrays with more than 1 dimension
