@@ -1,5 +1,5 @@
+# Accessibility
 #TRAN1011
-## Accessibility
 - How get-able a place or location is
 - Not the same as **mobility** (ability of individuals to move around)
 - Important in other fields, eg disability studies: whether they can get into buildings or use tech

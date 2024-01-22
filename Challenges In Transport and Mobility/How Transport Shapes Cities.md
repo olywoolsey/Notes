@@ -1,3 +1,4 @@
+# How Transport Shaped Cities
 #TRAN1011 
 - People choose different places to live based on transport to main destinations
 - current society  contains a mismatch of work and desirable homes therefore transport to eork is longer
@@ -36,6 +37,6 @@
 
 ## Hebden Bridge
 - built for packhorses
-- rally steep
+- really steep
 
 TOD - transit oriented development

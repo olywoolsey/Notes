@@ -1,8 +1,9 @@
+# Challenges in Transport and Mobility
 #TRAN1011 
 ## Recent Years
 - people have gained more structure at home so travel less
 - supply chain issues
-- Covid affected reductions in the workforce (less workers)
+- COVID affected reductions in the workforce (less workers)
 	- foreign workers went home
 	- focus on quality of life not extra cash so quit second jobs
 	- caused elderly to retire early
