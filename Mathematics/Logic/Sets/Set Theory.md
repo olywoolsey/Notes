@@ -51,7 +51,7 @@ $\mathbb{R}^+$ := the set of positive real numbers
 - Inside the rectangle are circles that represent sets
 
 ## Comparing Sets
-- when manipulating sets they also follow some of the [[../Logic/Logic Laws]]
+- when manipulating sets they also follow some of the [[../Logic Laws]]
 - intersection: A $\cap$ B := {x: x $\in$ A and x $\in$ B}
 - union: A $\cup$ B := {x: x $\in$ A or x $\in$ B}
 - difference: A - B := {x $\in$ A : x $\notin$ B}

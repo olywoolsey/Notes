@@ -46,3 +46,5 @@ Convoy effect - short jobs can be held waiting by long jobs
 - Ageing—increase the priority proportional to waiting time.
 - Internal priorities—time limits, memory requirements, ratio of average I/O burst.
 - External priorities—importance of the process, type and amount of funds being paid for the CPUs, who is asking to run the process, and other
+## Process Starvation
+ 

@@ -10,7 +10,7 @@
 	- The statement P(x) is also said to be the value of the propositional function P at x
 	- Once a value has been assigned to the variable x, the statement P(x)becomes a proposition and has a truth value
 	P(4) is True and P(2) would be false
-- Have to specify the Domain (use [[../Sets/Set Theory]] to do this)
+- Have to specify the Domain (use [[Sets/Set Theory]] to do this)
 
 ## More than one variable
 - denoted as P(x<sub>1</sub>,x<sub>2</sub>,x<sub>3</sub>,.......,x<sub>n</sub>):
