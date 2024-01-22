@@ -26,6 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/DAD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ae5dcdd7d35fe4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Semester3/COMP2912-SoftwareEngineeringPrinciples/Testing.md",
                 "mode": "source",
                 "backlinks": true,
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "001d78c8943c4120",
+            "id": "9c4bf57763d51fec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b0e31f5f344f025",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,26 +79,18 @@
             }
           },
           {
-            "id": "cf7ea943d9c16b76",
+            "id": "37cf4da75e1172a1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "9c4bf57763d51fec",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -108,17 +121,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "ea39a92c94fa0019",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -155,13 +157,25 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "171d68278b677142",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +187,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bf473c344a8cda72",
+  "active": "8ae5dcdd7d35fe4c",
   "lastOpenFiles": [
-    "Semester1/COMP1911-ProfessionalComputing/UML.md",
+    "Semester3/COMP2912-SoftwareEngineeringPrinciples/DAD.md",
+    "Semester2/COMP1721-OOP/Arrays in Java.md",
+    "Semester2/COLO1070-Imaging/Aspects of Digital Imaging.md",
+    "Semester2/COLO1070-Imaging/Lenses.md",
+    "Semester2/COLO1070-Imaging/Image Capture Mediums.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Testing.md",
+    "Semester1/COMP1911-ProfessionalComputing/UML.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Engineering Definitions.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Scenario.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Use Cases.md",
@@ -188,7 +207,6 @@
     "Semester2/COMP1212-ComputerProcessors/CAD.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Trade_Off_Triangle.png",
     "Semester1/COMP1911-ProfessionalComputing/SQIRO.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/DAD.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/DevOps.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/eXtreme Programming.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Implementation Diagram.md",
@@ -199,10 +217,7 @@
     "Semester1/COMP1211-ComputerArchitecture/Cache Memory.md",
     "Semester2/COMP1121-Databases/Entity Relationship Moddeling.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/DSDM.md",
-    "Semester1/InternationalDevelopment/Gender in Global Politics.md",
-    "Semester1/InternationalDevelopment/J.S MILL.md",
     "Semester1/InternationalDevelopment/Hell.canvas",
-    "Semester2/COMP1121-Databases/Transaction Managment.md",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Cost_Of_Removing_Bugs.png",
     "Images",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Unified_Process.png",

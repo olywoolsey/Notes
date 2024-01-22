@@ -4,5 +4,10 @@
   "attachmentFolderPath": "./",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true,
+  "autoPairBrackets": false,
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "showInlineTitle": false
 }
