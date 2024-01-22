@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Priority Queues.md",
+                "file": "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Priority Queues.md",
+                "file": "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Priority Queues.md",
+                "file": "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Priority Queues.md"
+                "file": "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md"
               }
             }
           },
@@ -173,39 +173,38 @@
   },
   "active": "bf473c344a8cda72",
   "lastOpenFiles": [
+    "Mathematics/COMP1421-FundamentalMathConcepts/Pasted image 20221028091959.png",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
+    "Challenges In Transport and Mobility/Transport Data.md",
+    "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
+    "Challenges In Transport and Mobility/How Transport Shapes Cities.md",
+    "Challenges In Transport and Mobility/Economics in Transport.md",
+    "Challenges In Transport and Mobility/Challenges in Transport and mobility.md",
+    "Challenges In Transport and Mobility/Accessibility.md",
+    "Algorithms/Backwards Substitution.md",
+    "Algorithms/Big O.md",
+    "Algorithms/Binary Search.md",
+    "Algorithms/Bubble Sort.md",
+    "Algorithms/Formulae.md",
+    "Algorithms/Insertion Sort.md",
+    "Algorithms/Iterative Algorithms.md",
+    "Algorithms/Recursive Algorithms.md",
+    "Algorithms/Lists.md",
+    "Algorithms/Priority Queues.md",
+    "Algorithms/Merge Sort.md",
+    "Algorithms/Queues.md",
+    "Algorithms/Quick Sort.md",
+    "Algorithms/Selection Sort.md",
+    "Algorithms/Sequential Search.md",
+    "Algorithms/Stacks.md",
     "Operating Systems/Memory Management.md",
     "Operating Systems/Process Synchronisation.md",
-    "Algorithms/Priority Queues.md",
-    "Algorithms/Queues.md",
     "Operating Systems/Processor Systems.md",
-    "README.md",
-    "COMP1921-ProgrammingProject/Debugging - cli.md",
-    "COMP1921-ProgrammingProject/Command Line Test Scripts.md",
-    "Operating Systems/Linkers and Loaders.md",
-    "COMP1711-ProcedualProgramming/Bit Twiddling.md",
-    "COMP1711-ProcedualProgramming/Linked Lists.md",
     "COMP1711-ProcedualProgramming/Linked_Lists.png",
-    "COMP1211-ComputerArchitecture/Memory.md",
     "COMP1211-ComputerArchitecture/M-Bits.png",
-    "Mathematics/Pasted image 20221028091959.png",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
-    "COMP1211-ComputerArchitecture/OverFlow and Underflow.md",
     "General_Images/Pasted image 20221122152511.png",
     "General_Images/Pasted image 20221122152456.png",
-    "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
-    "COMP1211-ComputerArchitecture/Interrupts.md",
     "COMP1211-ComputerArchitecture/Images/Interupt_Cycle.png",
-    "COMP1211-ComputerArchitecture/Von Neumann.md",
-    "COMP1211-ComputerArchitecture/Types of operations.md",
-    "COMP1211-ComputerArchitecture/Two_s Compliment.md",
-    "COMP1211-ComputerArchitecture/RISC.md",
-    "COMP1211-ComputerArchitecture/Registers.md",
-    "COMP1211-ComputerArchitecture/Pipelining.md",
-    "COMP1211-ComputerArchitecture/Parity Bits.md",
-    "COMP1211-ComputerArchitecture/One_s compliment.md",
-    "COMP1211-ComputerArchitecture/Moores_ Law.md",
-    "COMP1211-ComputerArchitecture/Instruction Sets.md",
-    "COMP1211-ComputerArchitecture/Instruction Cycle.md",
     "COMP1211-ComputerArchitecture/Images/Pipilining.png",
     "COMP1211-ComputerArchitecture/Images/Memory_Hierarchy.png",
     "Challenges In Transport and Mobility/Excess_Travel.png",

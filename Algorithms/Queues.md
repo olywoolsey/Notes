@@ -1,11 +1,11 @@
 # Queues
 #COMP2711 #DataStructures 
-*(Special type of [List](Lists.md))*
-A data structure which has front end and rear end and supports only two operations:
-- Enqueue: add to the rear of the queue
-- Dequeue: delete from the from of the queue
-- This type of queue is a **FIFO**
-***Example:** Managing requests on a shared resource (e.g., CPU)*
+- *(Special type of [List](Lists.md))*
+- A data structure which has front end and rear end and supports only two operations:
+	- Enqueue: add to the rear of the queue
+	- Dequeue: delete from the from of the queue
+	- This type of queue is a **FIFO**
+	***Example:** Managing requests on a shared resource (e.g., CPU)*
 ## Properties
 - Easy to implement
 - For both implementations (array or linked-list), enqueue/dequeue operations are fast: O(1)

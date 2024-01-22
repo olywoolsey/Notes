@@ -1,8 +1,8 @@
 # Priority Queues
 #COMP2711 #DataStructures 
-Data structure which has two main operations:
-- Insert
-- Delete: Removes the element with the largest priority
+- Data structure which has two main operations:
+	- Insert
+	- Delete: Removes the element with the largest priority
 ## Implementations
 |  | Unsorted Sequence ([Array or Linked List](Lists.md)) | Sorted Sequence ([Array or Linked Lists](../../COMP1711-ProcedualProgramming/Linked%20Lists.md)) | Heap |
 | ---- | ---- | ---- | ---- |

@@ -46,7 +46,11 @@ The domain of x is a set. We have to specify the domain of x.An element for whic
 ### Existential
 - for the negation of ∃x Q(x):
 	- ¬∃x Q(x) ≡ ∀x ¬Q(x)
-![[../Pasted image 20221028091959.png]]
+
+| Negation | Equivalent | When is Negation True? | When False? |
+| ---- | ---- | ---- | ---- |
+| $¬∃xP(x)$ | $∀x¬P(x)$ | For every $x$, $P(x)$ is false | There is an $x$, for which $P(x)$ is true |
+| $¬∀x P(x)$ | $∃x ¬P(x)$ | There exists an $x$, for which $P(x)$ is false | $P(x)$ is true for every $x$ |
 
 ## Examples
 1. **Negate "there is an honest politician"**

@@ -1,6 +1,7 @@
 # Lists
 #COMP2711 #DataStructures
-Sequences of elements (Stacks, Queues, Priority queues)
+
+- Sequences of elements (Stacks, Queues, Priority queues)
 ## Abstract Data Type (ADT)
 $$ADT = \text{specification of a data set} + \text{operations on that data}$$
 Data Structure = Implementation of an ADT in a programming language (OO languages - classes)
@@ -32,6 +33,7 @@ The efficiency of these operations is dependant on the implementation used
 	- Don't need to be allocated contiguously
 	- Order of items may differ from order stored in memory
 	- The size of nodes can be different
+
 ![](Images/Linked_List.png)
 ## Comparisons of implementations
 ### Time complexity of operations

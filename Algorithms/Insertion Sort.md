@@ -4,6 +4,7 @@
 1. Split the array into 2 sub arrays; sorted and unsorted
 2. Iterate through the unsorted array and an place each value in the sorted array
 3. Once the unsorted sub array is empty the array will be sorted
+
 ![](Images/Insertion_Sort.png)
 ### Pseudo-code
 ```pseudocode

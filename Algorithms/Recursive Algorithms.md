@@ -1,6 +1,8 @@
 # Recursive Algorithms
 #COMP2711 
-Unlike [Iterative Algorithms](Iterative%20Algorithms.md), which use loops; [Recursive Algorithms](Recursive%20Algorithms.md) is a repetitive process that calls itself
+## Overview
+- Unlike [Iterative Algorithms](Iterative%20Algorithms.md), which use loops; [Recursive Algorithms](Recursive%20Algorithms.md) is a repetitive process that calls itself
+
 ![](Images/Recursion.png)
 ## Recursive Calls
 - When the current module calls a subroutine, it suspends the processing and the subroutine takes control of the program

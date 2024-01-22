@@ -1,5 +1,6 @@
 # Iterative Algorithms
 #COMP2711 
+## Overview
 Unlike [Recursive Algorithms](Recursive%20Algorithms.md), which is a repetitive process that calls itself; [Iterative Algorithms](Iterative%20Algorithms.md), consists of statements repeated a number of times in a loop.
 ## Simple Loops
 [[Big O]] for both is O(n)
