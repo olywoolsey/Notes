@@ -8,7 +8,7 @@
 - Bytes or words are moved between the CPU registers and the memory
 ## Von Neumann architecture
 - Instruction and data stored on same memory (easier reprogramming)
-- [Fetch, execute cycle](../../Semester1/COMP1211-ComputerArchitecture/Fetch,%20execute%20cycle.md) happens to either instructions or data as they share the same bus
+- [Fetch, execute cycle](../../COMP1211-ComputerArchitecture/Fetch,%20execute%20cycle.md) happens to either instructions or data as they share the same bus
 ## I/O Structure
 - [Interrupt](Interrupts.md) driven memory access only works well for small requests
 - Direct Memory Access (DMA) offloads work from CPU

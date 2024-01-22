@@ -11,9 +11,12 @@
             "id": "bf473c344a8cda72",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/Images/Implementation_Diagram_Booking.png"
+                "file": "InternationalDevelopment/J.S MILL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -54,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "`",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/Images/Implementation_Diagram_Booking.png",
+                "file": "InternationalDevelopment/J.S MILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/Images/Implementation_Diagram_Booking.png",
+                "file": "InternationalDevelopment/J.S MILL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester1/COMP1911-ProfessionalComputing/Images/Implementation_Diagram_Booking.png"
+                "file": "InternationalDevelopment/J.S MILL.md"
               }
             }
           },
@@ -157,55 +160,55 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "bf473c344a8cda72",
   "lastOpenFiles": [
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Implementation_Diagram.png",
-    "Semester1/COMP1911-ProfessionalComputing/Images/Implementation_Diagram_Booking.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/ACID.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Agile Manifesto.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Analysis and Design.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/DAD.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/DevOps.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/DSDM.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/eXtreme Programming.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Implementation Diagram.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Owen's Intro.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Development Principles.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Software Engineering Definitions.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Testing.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Use Cases.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Value Proposal.md",
-    "Semester3/COMP2211-OperatingSystems/Threads.md",
-    "Semester3/COMP2211-OperatingSystems/Memory Management.md",
-    "Semester3/COMP2211-OperatingSystems/Linkers and Loaders.md",
-    "Semester3/COMP2211-OperatingSystems/API.md",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Scenario.md",
-    "Semester3/COMP2811-UserInterfaces/Perception.md",
-    "Semester3/COMP2811-UserInterfaces/Human Memory.md",
-    "Semester3/COMP2811-UserInterfaces/UI Principles.md",
-    "Semester3/COMP2811-UserInterfaces/C++ vs Java.md",
-    "Semester3/COMP2811-UserInterfaces/C++.md",
-    "Semester3/COMP2711-Algorithms1/Stacks.md",
-    "Semester1/COMP1911-ProfessionalComputing/Images/Activity_Swim_Lane.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Trade_Off_Triangle.png",
+    "InternationalDevelopment/Gender in Global Politics.md",
+    "COMP1721-OOP/Sets, Maps & Other Collections.md",
+    "COMP1721-OOP/Java Syntax.md",
+    "COMP1721-OOP/Intro.md",
+    "COMP1721-OOP/Inheritance.md",
+    "COMP1721-OOP/Arrays in Java.md",
+    "zImages/Pasted image 20221020134137.png",
+    "Mathmaticss",
+    "zImages/Pasted image 20221020133910.png",
+    "zImages/Pasted image 20221020132837.png",
+    "Databases/Transaction Managment.md",
+    "Databases/Security & Administration.md",
+    "Databases/Relational Model.md",
+    "Databases/Relational Algebra.md",
+    "Databases/Normalisation.md",
+    "Databases/Ethics.md",
+    "Databases/Entity Relationship Moddeling.md",
+    "Databases/Databases.md",
+    "Databases/Database Design.md",
+    "Photography Imaging/Lenses.md",
+    "Photography Imaging/Image Capture Mediums.md",
+    "Photography Imaging/History of Photography.md",
+    "Photography Imaging/Digital Printing.md",
+    "Photography Imaging/Cameras.md",
+    "Photography Imaging/Camera Filters & Lighting.md",
+    "Photography Imaging/Aspects of Digital Imaging.md",
+    "Professional Computing/ACID.md",
+    "Professional Computing/Images/AbandonmentReasons.png",
+    "Professional Computing/UML.md",
+    "Professional Computing/The First Computers.md",
+    "Professional Computing/Test Driven Development.md",
+    "Professional Computing",
+    "Professional Computing/Images/Implementation_Diagram_Booking.png",
+    "Professional Computing/Images/Implementation_Diagram.png",
+    "Professional Computing/Images/Activity_Swim_Lane.png",
+    "Professional Computing/Images/Trade_Off_Triangle.png",
     "Semester1/InternationalDevelopment/Hell.canvas",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Cost_Of_Removing_Bugs.png",
+    "Professional Computing/Images/Cost_Of_Removing_Bugs.png",
     "Images",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Unified_Process.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/UseCaseDiagram.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images/Rational_Unified_Process.png",
-    "Semester1/COMP1911-ProfessionalComputing/Images/Pasted image 20221017135521.png",
-    "Semester1/COMP1911-ProfessionalComputing/Images/Pasted image 20221027175405.png",
-    "Semester1/COMP1911-ProfessionalComputing/Images/Pasted image 20221107134449.png",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples/Images",
+    "Professional Computing/Images/Unified_Process.png",
+    "Professional Computing/Images/Images",
     "Semester3/COMP2811-UserInterfaces/Images",
     "Semester3/COMP2711-Algorithms1/Images",
     "Semester3/COMP2211-OperatingSystems/Images",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples",
     "Semester3/COMP2811-UserInterfaces",
     "Semester3/COMP2711-Algorithms1",
-    "Semester3/COMP2421-NumericatComputation",
-    "Semester3/COMP2211-OperatingSystems",
     "Untitled.canvas"
   ]
 }

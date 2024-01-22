@@ -2,7 +2,7 @@
 ## Software Eng Principles
 1. Somerville, Ian, Software Engineering, Global Edition, Pearson, 2015 (or 10th Edition, 2016/2017)
 2. Sommerville, Ian, Engineering Software Products, An Introduction to Modern Software Engineering, 2020 (or the 2019 Edition/Global Edition)
-3. Guide to [[UML]] syntax and style: http://agilemodeling.com/style/. He has an excellent small book called The Elements of [UML](UML.md) 2.0 Style
+3. Guide to [[../Professional Computing/UML]] syntax and style: http://agilemodeling.com/style/. He has an excellent small book called The Elements of [UML](../Professional%20Computing/UML.md) 2.0 Style
 - Coursework (20%) - 6 page report. Investigate the requirements for, and then design a software solution by producing a design brief.
 	- Due: Thursday 16th November 2023 at 2pm – Minerva submission
 - The Exam (80%) - Previous exam papers will be on Minerva for your reference.
