@@ -1,7 +1,7 @@
 #COMP1211 
 - the smallest [[Memory]] type
 - are very quick because of the size
-![[../zImages/Pasted image 20221020133910.png]]
+![[../General_Images/Pasted image 20221020133910.png]]
 
 ## General Purpose Registers
 - may be used for data or addressing

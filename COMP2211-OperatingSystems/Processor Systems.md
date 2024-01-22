@@ -33,6 +33,6 @@
 
 ## Timer: Periodic [[Interrupts]] from OS
 - For the OS to maintain control over the CPU we need protection against user program getting stuck in infinite loop or similar.
-- Timer is set to [[Semester3/COMP2211-OperatingSystems/Interrupts|Interrupt]] the computer after a specified period.
+- Timer is set to [[Interrupts|Interrupt]] the computer after a specified period.
 - Period can be fixed or variable.OS sets up the timer before transferring control to user programs. When the timer interrupt occurs OS gets control and can decide whether to abort the program or let it run longer.
 - Instructions that set up the timer are privileged instructions—hardware operations that can only be executed in kernel mode

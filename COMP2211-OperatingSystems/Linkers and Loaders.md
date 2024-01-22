@@ -6,7 +6,7 @@
 - **Linker:** combines these objects into a binary executable
 - **Loader:** loads executable into memory to be run on CPU
 - **Relocation:** assigns final addresses to various parts of the executable after it is places in memory
-![](Semester3/COMP2211-OperatingSystems/Images/Linker_Loader.png)
+![](Images/Linker_Loader.png)
 ## Running ./main
 - Shell creates a new process using fork() system call
 - The shell then invokes the loads with exec(); passing the name of the executable: main

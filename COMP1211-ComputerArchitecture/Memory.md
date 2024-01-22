@@ -1,6 +1,6 @@
 #COMP1211 
 ## Memory Hierarchy
-![[../zImages/Pasted image 20221117131747.png]]
+![[../General_Images/Pasted image 20221117131747.png]]
 
 #### Memory hierarchy exploits program locality
 - Programs tend to reference parts of their address space that are local in time and space
@@ -98,7 +98,7 @@ Errors can be detected and corrected at the expense of storing additional bits a
 	- no error detected;
 	- an error detected which can be (and is) corrected;
 	- an error detected (and reported) which can’t be corrected.
-![[../zImages/Pasted image 20221110134958.png]]
+![[../General_Images/Pasted image 20221110134958.png]]
 ---
 # Semiconductor Memory
 Includes RAM, ROM, and Flash memory ^291502

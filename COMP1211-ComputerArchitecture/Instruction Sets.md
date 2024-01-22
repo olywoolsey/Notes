@@ -3,7 +3,7 @@
 - Operation Code (opcode) - do this
 - Source Operand refrence - to this
 - result operand refrence - put answer here
-![[../zImages/Pasted image 20221027131057.png]]
+![[../General_Images/Pasted image 20221027131057.png]]
 
 ## Operand address
 - main memory

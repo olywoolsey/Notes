@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InternationalDevelopment/J.S MILL.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InternationalDevelopment/J.S MILL.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InternationalDevelopment/J.S MILL.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InternationalDevelopment/J.S MILL.md"
+                "file": "README.md"
               }
             }
           },
@@ -162,16 +162,26 @@
   },
   "active": "bf473c344a8cda72",
   "lastOpenFiles": [
+    "README.md",
+    "InternationalDevelopment/J.S MILL.md",
     "InternationalDevelopment/Gender in Global Politics.md",
+    "Mathematics/Discrete/Graph Theory.md",
+    "Semester3/Deadlines.md",
+    "Semester3/Assessment_Calendar.png",
+    "Mathematics/Discrete/Discrete Probability Theory.md",
+    "Mathematics/Discrete/Combinatorics.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Truth Tables.md",
+    "Mathematics/Discrete/Images/Different_Selections.png",
+    "Mathematics/Discrete/Images/Subtraction_Rule.png",
     "COMP1721-OOP/Sets, Maps & Other Collections.md",
     "COMP1721-OOP/Java Syntax.md",
     "COMP1721-OOP/Intro.md",
     "COMP1721-OOP/Inheritance.md",
     "COMP1721-OOP/Arrays in Java.md",
-    "zImages/Pasted image 20221020134137.png",
-    "Mathmaticss",
-    "zImages/Pasted image 20221020133910.png",
-    "zImages/Pasted image 20221020132837.png",
+    "General_Images/Pasted image 20221020134137.png",
+    "Mathematics",
+    "General_Images/Pasted image 20221020133910.png",
+    "General_Images/Pasted image 20221020132837.png",
     "Databases/Transaction Managment.md",
     "Databases/Security & Administration.md",
     "Databases/Relational Model.md",
@@ -185,30 +195,20 @@
     "Photography Imaging/Image Capture Mediums.md",
     "Photography Imaging/History of Photography.md",
     "Photography Imaging/Digital Printing.md",
-    "Photography Imaging/Cameras.md",
-    "Photography Imaging/Camera Filters & Lighting.md",
-    "Photography Imaging/Aspects of Digital Imaging.md",
-    "Professional Computing/ACID.md",
     "Professional Computing/Images/AbandonmentReasons.png",
-    "Professional Computing/UML.md",
-    "Professional Computing/The First Computers.md",
-    "Professional Computing/Test Driven Development.md",
     "Professional Computing",
     "Professional Computing/Images/Implementation_Diagram_Booking.png",
     "Professional Computing/Images/Implementation_Diagram.png",
     "Professional Computing/Images/Activity_Swim_Lane.png",
-    "Professional Computing/Images/Trade_Off_Triangle.png",
     "Semester1/InternationalDevelopment/Hell.canvas",
-    "Professional Computing/Images/Cost_Of_Removing_Bugs.png",
     "Images",
-    "Professional Computing/Images/Unified_Process.png",
     "Professional Computing/Images/Images",
-    "Semester3/COMP2811-UserInterfaces/Images",
-    "Semester3/COMP2711-Algorithms1/Images",
-    "Semester3/COMP2211-OperatingSystems/Images",
+    "COMP2811-UserInterfaces/Images",
+    "Algorithms/Images",
+    "COMP2211-OperatingSystems/Images",
     "Semester3/COMP2912-SoftwareEngineeringPrinciples",
-    "Semester3/COMP2811-UserInterfaces",
-    "Semester3/COMP2711-Algorithms1",
+    "COMP2811-UserInterfaces",
+    "Algorithms",
     "Untitled.canvas"
   ]
 }

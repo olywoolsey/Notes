@@ -1,9 +1,9 @@
 # Numerical Algorithms
 #COMP2421
-- Numerical algorithms are those which operate on _[[floating point numbers]]_.
+- Numerical algorithms are those which operate on _[[Floating Point Numbers]]_.
 - They are used to provide solutions (or approximations to solutions) of mathematical models of “real world” problems.
 - Such problems arise in a very wide range of applications (a few examples to follow).
-- An important feature of these algorithms is that they need to account for the fact that arithmetic with [[floating point numbers]] is not exact!
+- An important feature of these algorithms is that they need to account for the fact that arithmetic with [[Floating Point Numbers]] is not exact!
 ### Applications I: Scientific and engineering computing
 - Physical simulations are used for prediction in many different scientific and engineering areas.
 - These models are hugely complex but also hugely important!

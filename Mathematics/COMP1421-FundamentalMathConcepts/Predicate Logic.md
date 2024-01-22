@@ -46,7 +46,7 @@ The domain of x is a set. We have to specify the domain of x.An element for whic
 ### Existential
 - for the negation of ∃x Q(x):
 	- ¬∃x Q(x) ≡ ∀x ¬Q(x)
-![[../../zImages/Pasted image 20221028091959.png]]
+![[../../General_Images/Pasted image 20221028091959.png]]
 
 ## Examples
 1. **Negate "there is an honest politician"**

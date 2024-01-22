@@ -1,4 +1,5 @@
-#COMP1511
+# Combinatorics
+#COMP1511 
 [K.H.Rosen Discrete Mathematics and it's applications - Chapter 6.1 - 6.5](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYWVlZG9vbjF8Z3g6N2JmM2Y5YWEzMmRlNWUzNw)
 The study of arrangements of objects
 It is used, for example, in determining the complexity of algorithms, determining whether there are enough Internet protocol addressees to meet the demand, and when probabilities of events are computed.
@@ -18,7 +19,7 @@ It is used, for example, in determining the complexity of algorithms, determinin
 ### Subtraction Rule
 > Principle of Inclusion-Exclusion:
 - If a task can be done in either n<sub>1</sub> ways or n<sub>2</sub> ways, then the number of ways to do the task is n<sub>1</sub>+ n<sub>2</sub> minus the number of ways to do the task that are common to the two different ways.
-![[images/Pasted image 20230302214538.png]]  
+![[Images/Subtraction_Rule.png]]  
 $$ |A_1 \cup A_2| = |A_1| + |A_2| - |A_1 \cap A_2|$$
 ### Division Rule
 There are $\frac{n}{d}$ ways to do a task if it can be done using a procedure that can be carried out in n ways, and for every way $w$, exactly $d$ of the $n$ ways correspond to
@@ -48,7 +49,7 @@ $P(n, k) = \frac{n!}{(n − k)!}$
 The number of r-combinations of a set with n elements, where n is a non-negative integer and r is an integer with 0 ≤ r ≤ n, equals
 $C(n, r) = \frac{n!}{r! (n − r)!}$
 
-![[images/Pasted image 20230220133956.png]]
+![[Images/Different_Selections.png]]
 - r is number of elements
 - n is number of items in the set
 

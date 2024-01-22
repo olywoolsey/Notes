@@ -50,5 +50,5 @@ if n > 1
 	- Total Comparisons $= n^2$
 - Average Case:
 	- Total Comparisons $= nlog_2n$
-	- In practice quick sort is usually quicker than [Merge Sort](Semester3/COMP2711-Algorithms1/Merge%20Sort.md)
+	- In practice quick sort is usually quicker than [Merge Sort](Merge%20Sort.md)
 	- In place implementation also requires no additional memory

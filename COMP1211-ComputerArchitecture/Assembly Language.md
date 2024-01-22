@@ -1,5 +1,5 @@
 #COMP1211
-![[../zImages/Pasted image 20221027132642.png]]
+![[../General_Images/Pasted image 20221027132642.png]]
 ## 3 addresses
 Operand 1, operand 2, result
 - a := b + c• May be a forth - next instruction (usually implicit)

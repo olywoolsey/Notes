@@ -2,7 +2,7 @@
 ## 2 Steps
 - **Fetch** an instruction from [[Memory]]
 - **Execute** that instruction
-![[../zImages/Pasted image 20221020134137.png]]
+![[../General_Images/Pasted image 20221020134137.png]]
 ## Fetch
 - The **program counter** (PC) holds the address of the next instruction to fetch
 - The processor fetches the instruction from the memory location pointed to by the PC

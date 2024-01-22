@@ -1,3 +1,4 @@
+# Discrete Probability Theory
 #COMP1511 
 [K.H.Rosen Discrete Mathematics and it's applications - Chapter 7.1 - 7.3](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYWVlZG9vbjF8Z3g6N2JmM2Y5YWEzMmRlNWUzNw)
 - An experiment is a process that yields an outcome. The set S of all possible outcomes of a given experiment is called the sample space. An event A is a set of outcomes, i.e. a subset of the sample space S.

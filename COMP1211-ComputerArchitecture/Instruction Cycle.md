@@ -14,10 +14,10 @@
 - [[Central Processing Unit |CPU]]
 - [[../../COMP1711-ProcedualProgramming/Input and Output]]
 - [[Memory]]
-![[../zImages/Pasted image 20221020133910.png]]
+![[../General_Images/Pasted image 20221020133910.png]]
 
 ## Instruction Cycle
-![[../zImages/Pasted image 20221021121123.png]]
+![[../General_Images/Pasted image 20221021121123.png]]
 
 ## Data Flow
 ### Instruction Fetch
@@ -27,7 +27,7 @@
 4. Control unit requests memory read
 5. Result place on data bus, copied to MBR, then to IR
 6. Meanwhile PC is incremented by 1
-![[../zImages/Pasted image 20221028121852.png]]
+![[../General_Images/Pasted image 20221028121852.png]]
 
 ### Data Fetch
 - The IR is examined

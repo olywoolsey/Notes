@@ -11,10 +11,10 @@
 - Evidence that people tend to travel more / further than they need to even when engaged in mundane daily activities
 - Differs between people based on attitudes• Signifies a “fundamental human need for mobility”?
 - Challenges the perspective of transport being a wholly derived demand
-![[../zImages/Pasted image 20221025142458.png]]
+![[../General_Images/Pasted image 20221025142458.png]]
 
 ## Planned Behaviour
-![[../zImages/Pasted image 20221025142646.png]]
+![[../General_Images/Pasted image 20221025142646.png]]
 ## Cars
 - lots of young people don't get their driving licences
 - most don't want to own a car even if they have a license
