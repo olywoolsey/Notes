@@ -1,3 +1,4 @@
+# Relations
 #logic #COMP1421 #Maths  
 - Relations are subsets or Cartesian products
 - if $f : A \rightarrow B$ is a function

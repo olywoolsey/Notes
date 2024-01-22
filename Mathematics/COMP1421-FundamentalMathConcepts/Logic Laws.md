@@ -1,3 +1,4 @@
+# Logic Laws
 #logic #COMP1421 
 ## Idempotent Law
 - p $\wedge$ p $\equiv$ p
@@ -28,7 +29,9 @@ p $\vee$ F $\equiv$ p
 ## Domination Law
 p $\vee$ T $\equiv$ T
 p $\wedge$ F $\equiv$ F
-## Equivalences using conditional statements
+
+## Equivalences
+### Using Conditional Statements
 1. p → q ≡ ¬p ∨ q
 2. p → q ≡ ¬q → ¬p
 3. p ∨ q ≡ ¬p → q
@@ -38,7 +41,7 @@ p $\wedge$ F $\equiv$ F
 7. (p → r ) ∧ (q → r ) ≡ (p ∨ q) → r
 8. (p → q) ∨ (p → r ) ≡ p → (q ∨ r )
 9. (p → r ) ∨ (q → r ) ≡ (p ∧ q) → r
-## Equivalences using biconditional statements
+### Using Bi-conditional Statements
 1. p ↔ q ≡ (p → q) ∧ (q → p)
 2. p ↔ q ≡ ¬p ↔ ¬q
 3. p ↔ q ≡ (p ∧ q) ∨ (¬p ∧ ¬q)

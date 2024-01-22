@@ -1,3 +1,4 @@
+# Logically Implies
 #logic #COMP1421 
 - Let p and q be formulas
 - We say that p logically implies q, if p → q is a tautology

@@ -1,3 +1,4 @@
+# Functions
 #logic #COMP1421 #Maths
 - Domain: the input set
 - Co-domain: every possible outcome

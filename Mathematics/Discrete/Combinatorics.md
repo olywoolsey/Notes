@@ -18,8 +18,7 @@ It is used, for example, in determining the complexity of algorithms, determinin
 
 ### Subtraction Rule
 > Principle of Inclusion-Exclusion:
-- If a task can be done in either n<sub>1</sub> ways or n<sub>2</sub> ways, then the number of ways to do the task is n<sub>1</sub>+ n<sub>2</sub> minus the number of ways to do the task that are common to the two different ways.
-![[Images/Subtraction_Rule.png]]  
+- If a task can be done in either n<sub>1</sub> ways **or** n<sub>2</sub> ways, then the number of ways to do the task is n<sub>1</sub>+ n<sub>2</sub> minus the number of ways to do the task that are common to the two different ways.
 $$ |A_1 \cup A_2| = |A_1| + |A_2| - |A_1 \cap A_2|$$
 ### Division Rule
 There are $\frac{n}{d}$ ways to do a task if it can be done using a procedure that can be carried out in n ways, and for every way $w$, exactly $d$ of the $n$ ways correspond to
@@ -49,7 +48,11 @@ $P(n, k) = \frac{n!}{(n − k)!}$
 The number of r-combinations of a set with n elements, where n is a non-negative integer and r is an integer with 0 ≤ r ≤ n, equals
 $C(n, r) = \frac{n!}{r! (n − r)!}$
 
-![[Images/Different_Selections.png]]
+|  | Repeats Allowed | No Repeats |
+| ---- | ---- | ---- |
+| Permutations (Order Matters): | $$n^r$$ | $$\frac{n!}{(n-r)!}$$ |
+| Combinations (Order Doesn't Matter): | $$\frac{(r+n-1)!}{r!(n-1)!}$$ | $$\frac{(r+n-1)!}{r!(n-1)!}$$ |
+
 - r is number of elements
 - n is number of items in the set
 

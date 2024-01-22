@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
+                "file": "Mathematics/COMP2421-NumericatComputation/Floating Point Numbers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
+                "file": "Mathematics/COMP2421-NumericatComputation/Floating Point Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
+                "file": "Mathematics/COMP2421-NumericatComputation/Floating Point Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md"
+                "file": "Mathematics/COMP2421-NumericatComputation/Floating Point Numbers.md"
               }
             }
           },
@@ -171,10 +171,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bf473c344a8cda72",
+  "active": "9b0e31f5f344f025",
   "lastOpenFiles": [
-    "Mathematics/COMP1421-FundamentalMathConcepts/Pasted image 20221028091959.png",
+    "Mathematics/COMP2421-NumericatComputation/Derivitives.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Truth Tables.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Set Theory.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/SAT-Solving.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Relations.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Propositional logic.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Proofs.md",
     "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Matrices.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Logically implies.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Logic Laws.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Functions.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/COMP1421.md",
+    "Mathematics/COMP1421-FundamentalMathConcepts/All Fun Symbols.md",
+    "Mathematics/Discrete/Combinatorics.md",
+    "Mathematics/Discrete/Images/Subtraction_Rule.png",
+    "Mathematics/Discrete/Images/Different_Selections.png",
+    "Mathematics/COMP1421-FundamentalMathConcepts/Pasted image 20221028091959.png",
     "Challenges In Transport and Mobility/Transport Data.md",
     "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
     "Challenges In Transport and Mobility/How Transport Shapes Cities.md",
@@ -187,27 +203,12 @@
     "Algorithms/Bubble Sort.md",
     "Algorithms/Formulae.md",
     "Algorithms/Insertion Sort.md",
-    "Algorithms/Iterative Algorithms.md",
-    "Algorithms/Recursive Algorithms.md",
-    "Algorithms/Lists.md",
-    "Algorithms/Priority Queues.md",
-    "Algorithms/Merge Sort.md",
-    "Algorithms/Queues.md",
-    "Algorithms/Quick Sort.md",
-    "Algorithms/Selection Sort.md",
-    "Algorithms/Sequential Search.md",
-    "Algorithms/Stacks.md",
-    "Operating Systems/Memory Management.md",
-    "Operating Systems/Process Synchronisation.md",
-    "Operating Systems/Processor Systems.md",
     "COMP1711-ProcedualProgramming/Linked_Lists.png",
     "COMP1211-ComputerArchitecture/M-Bits.png",
     "General_Images/Pasted image 20221122152511.png",
     "General_Images/Pasted image 20221122152456.png",
     "COMP1211-ComputerArchitecture/Images/Interupt_Cycle.png",
     "COMP1211-ComputerArchitecture/Images/Pipilining.png",
-    "COMP1211-ComputerArchitecture/Images/Memory_Hierarchy.png",
-    "Challenges In Transport and Mobility/Excess_Travel.png",
     "COMP1211-ComputerArchitecture/Images",
     "Mathematics",
     "Professional Computing",

@@ -1,3 +1,4 @@
+# SAT-Solving
 #logic #COMP1421 
 ## Satisfiable
 - has a truth assignment that makes it true

@@ -1,3 +1,4 @@
+# Propositional Logic
 #logic #COMP1421 
 ## Proposition
 - declarative statement (true XOR false)

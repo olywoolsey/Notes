@@ -1,3 +1,4 @@
+# Proofs
 #logic #COMP1421 
 ## Direct Proof
 In a direct proof, the statement is proven ‘directly’, i. e. without any detours

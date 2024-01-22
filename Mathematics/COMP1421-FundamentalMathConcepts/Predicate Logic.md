@@ -1,3 +1,4 @@
+# Predicate Logic
 #logic #COMP1421 
 - [[Propositional logic]] isn't always suitable ie, it doesn't work with variables
 - Predicate logic includes variables
