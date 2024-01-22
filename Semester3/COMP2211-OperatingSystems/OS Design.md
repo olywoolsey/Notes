@@ -1,4 +1,5 @@
 # OS Design and Implementation
+#COMP2211
 - OS have many User and system goals
 - Internal structure can vary widely, based on the purpose of OS.
 ## Policy and Mechinism

@@ -1,3 +1,4 @@
+# Perception
 #COMP2811 
 ## Wavelength and Colour
 - Photons carry energy with them

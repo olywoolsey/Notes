@@ -1,4 +1,5 @@
 # [Process](Process.md) Management
+#COMP2211
 - Processes need resources: CPU, memory, I/O, files, initialisation data.
 - A program is not a process - it’s a passive entity.
 - Processes instead are active entities.

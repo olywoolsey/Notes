@@ -1,4 +1,5 @@
 # Value Proposal
+#COMP2912
 **Reward >> Effort**
 ## Usability
 Lower connotative effort to perform a task. If a task is enjoyable it can also increase the reward.

@@ -1,4 +1,5 @@
 # Storage Structure
+#COMP2211
 - CPU can only load instructions from memory
 - Programs must be loaded into memory to run (usually RAM)
 - EEPROM is slow and rarely changed but conserves when powers off

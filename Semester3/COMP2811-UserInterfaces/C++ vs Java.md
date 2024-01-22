@@ -1,3 +1,4 @@
+# C++ vs Java
 #COMP2811
 ## Not an Object
 - In Java, all classes inherit from the object class

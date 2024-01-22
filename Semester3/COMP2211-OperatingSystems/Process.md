@@ -1,4 +1,5 @@
 # Process
+#COMP2211
 - Process is a program in execution. One program invoked multiple times results in multiple processes
 - Status of current activity of some process:
 	- Program Counter: where are we in execution binary

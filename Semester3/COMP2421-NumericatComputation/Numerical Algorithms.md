@@ -1,3 +1,4 @@
+# Numerical Algorithms
 #COMP2421
 - Numerical algorithms are those which operate on _[[floating point numbers]]_.
 - They are used to provide solutions (or approximations to solutions) of mathematical models of “real world” problems.

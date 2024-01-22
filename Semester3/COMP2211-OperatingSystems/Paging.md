@@ -1,4 +1,5 @@
 # Paging
+#COMP2211
 - Although the logical address space appears contiguous, the equivalent physicaladdress space probably isn’t.
 - We want to be able to allocate physical memory wherever we can (the alternative is disk ‘memory’)
 - Divide physical memory into fixed sized blocks (called frames)

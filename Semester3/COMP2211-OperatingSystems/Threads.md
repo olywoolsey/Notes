@@ -1,3 +1,4 @@
+# Threads
 #COMP2211
 A basic unit of CPU utilisation; it comprises a thread ID, a program counter (PC), a register set, and a stack
 Same threads within a process share: 

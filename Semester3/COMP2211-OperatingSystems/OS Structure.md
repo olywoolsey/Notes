@@ -1,4 +1,4 @@
-# OS Structure
+# Operating System Structure
 #COMP2211
 ## Monolithic Kernel
 - OG Unix used this approach
