@@ -32,7 +32,7 @@ Eliminate, Simplify, Integrate or Automate
 ## Architecturally Significant [Use Cases](Use%20Cases.md)
 - A [Use Case](Use%20Cases.md) that implies a change to the architecture of a system
 - Implies technical risk and potential extra costs, e.g. internet access
-- Will need to use a [[Implementation Diagram]] to see infrastructure needed for these [use cases](Use%20Cases.md)
+- Will need to use a [Implementation Diagram](Implementation%20Diagram.md) to see infrastructure needed for these [use cases](Use%20Cases.md)
 - Architecturally significant because they introduce a requirement for:
 	- new actors 
 	- new deployment platforms
@@ -40,7 +40,7 @@ Eliminate, Simplify, Integrate or Automate
 	- new performance
 	- new security etc...
 ### MuSCoW
-For Prioritising [Use Cases](Use%20Cases.md) 
+For Prioritising [Use Cases](Use%20Cases.md)
 - **Mu**  Must Have [Use Cases](Use%20Cases.md) - Develop these in Proof of Architecture
 - **S**     Should Have [Use Cases](Use%20Cases.md) - Develop these in subsequent iterations
 - **Co**  Could Have [Use Cases](Use%20Cases.md) - Develop these in later iterations but only if time, resources etc. allow.

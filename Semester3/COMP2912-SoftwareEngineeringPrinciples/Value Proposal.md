@@ -5,7 +5,7 @@
 Lower connotative effort to perform a task. If a task is enjoyable it can also increase the reward.
 - Effectiveness
 	- Users find what they want
-	- [[Use Cases]] completes successfully
+	- [Use Cases](Use%20Cases.md) completes successfully
 - Efficiency
 	- Users use minimal resources or effort
 	- **Effort** is minimal to increase value proposal

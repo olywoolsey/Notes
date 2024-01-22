@@ -4,9 +4,9 @@
 - [Agile](Semester1/COMP1911-ProfessionalComputing/Agile.md) - Iterative process used to take in feedback over the course of a project 
 - Waterfall - Software design process where the previous stage has to be complete before moving on
 - Rapid Application Development (RAD)- iterative process where users suggest modifications before further prototypes and the final information system are built
-- Dynamic Systems Development Method ([[DSDM]])
-- Disciplined Agile Development ([[DAD]])
-- [[eXtreme Programming]]
+- Dynamic Systems Development Method ([DSDM](DSDM.md))
+- Disciplined Agile Development ([DAD](DAD.md))
+- [eXtreme Programming](eXtreme%20Programming.md)
 - Unified Process - Repeat the waterfall method quickly over a number of iterations 
 - Rational Unified Process - Iterative approach where what each cycle does changes over time
 ## W

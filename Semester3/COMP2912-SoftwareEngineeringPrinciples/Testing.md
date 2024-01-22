@@ -47,6 +47,6 @@ Quality is an emergent property of the system and it’s software
 - Usability, 
 - etc... etc...
 #### Trade off Triangle
-![](Trade_Off_Triangle.png)
+![](Images/Trade_Off_Triangle.png)
 ### Cost Of Removing Bugs
 ![](Images/Cost_Of_Removing_Bugs.png)

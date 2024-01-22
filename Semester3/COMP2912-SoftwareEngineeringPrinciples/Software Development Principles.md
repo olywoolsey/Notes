@@ -5,18 +5,15 @@ Fred Brookes - characteristics of software that makes it different:
 - Complexity; software is more complex than other engineered products
 - Conformity; software conforms to human “rules” rather than physical rules like gravity, human rules are subject to change.
 - Flexibility; software is flexible, it is subject to a high degree of change throughout it’s life but this change brings further complexity
-
 ## Failure
 A Project that has been cancelled or does not meet its budget, delivery or business objectives
 ![](Images/AbandonmentReasons.png)
 If we are building software we need to build fast not much, need a MVP
 As software is not set in stone you can change it therefore it is easy to change over time
-
 https://web.archive.org/web/20160910002130/http:/worrydream.com/refs/Brooks-NoSilverBullet.pdf
 For final year project try to use the Unified Process style
 ![](Images/AdaptiveFrameworks.png)
-Similar to [[Test Driven Development]] 
-[[Software Development Life Cycle]]
+Similar to [Test Driven Development](../../Semester1/COMP1911-ProfessionalComputing/Test%20Driven%20Development.md) and [Software Development Life Cycle](../../Semester1/COMP1911-ProfessionalComputing/Software%20Development%20Life%20Cycle.md)
 <marquee>I LOVE AGILE  </marguee>
 ## Disciplined Agile Development
 - [DAD](DAD.md) is the most recent form of the unified process
@@ -25,7 +22,6 @@ Similar to [[Test Driven Development]]
 	2. Elaboration
 	3. Construction
 	4. Transition
-
 ## [eXtreme Programming](eXtreme%20Programming.md)
 - New versions built several times a day
 - Increments delivered every 2 weeks
