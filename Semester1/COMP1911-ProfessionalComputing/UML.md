@@ -14,7 +14,10 @@
 ### Use Case Diagram
 - [Use cases](Use%20Cases.md) were developed originally to support requirements investigation and are incorporated into UML.
 - Use case diagrams provide a user friendly overview of what the system does
-![](images/Use_Case.png)
+- Need a name of system 
+- Use Cases have at least a verb and a noun
+- White arrow means is part of
+![](Use_Case.png)
 ---
 ## Logical Views
 ---
@@ -25,7 +28,7 @@
 ---
 #### For Design
 Class diagrams can be refined by modelling to form a logical model which can be used as part of the technical design for object-oriented software
-![](images/Class_Diagram_Design.png)
+![](Class_Diagram_Design.png)
 
 ---
 ### Object diagram
@@ -54,6 +57,8 @@ Class diagrams can be refined by modelling to form a logical model which can be 
 	- synchronisation bars
 - The synchronisation bars show activities that can happen in either order or even at the same time
 ![](Activity_Diagram.png)
+#### With Swim Lanes
+![](Activity_Swim_Lane.png)
 ## Physical Views
 ### Component Diagrams
 - Component diagrams illustrate the physical structure of the system in terms of its Software
@@ -65,4 +70,4 @@ Class diagrams can be refined by modelling to form a logical model which can be 
 ![](Deployment_Diagram.png)
 ### Implementation Diagrams
 Includes both component and Deployment
-![](Semester1/COMP1911-ProfessionalComputing/images/Implementation_Diagram.png)
+![](Semester1/COMP1911-ProfessionalComputing/Images/Implementation_Diagram.png)
