@@ -1,4 +1,4 @@
-# Note Page
+# University Notes
 ## Year 1
 ### Semester 1
 - #COMP1211 Computer Architecture
@@ -28,4 +28,3 @@
 - #COMP2721 Algorithms II
 - #COMP2913 Software Engineering Project
 - #LUBS2021 Visualising and Analysing Data Effectively
-- 

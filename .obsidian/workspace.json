@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Algorithms/Priority Queues.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8b3b481cd969d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Memory Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algorithms/Priority Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Algorithms/Priority Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Algorithms/Priority Queues.md"
               }
             }
           },
@@ -159,12 +171,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "37cf4da75e1172a1",
+  "active": "bf473c344a8cda72",
   "lastOpenFiles": [
+    "Operating Systems/Memory Management.md",
+    "Operating Systems/Process Synchronisation.md",
+    "Algorithms/Priority Queues.md",
+    "Algorithms/Queues.md",
+    "Operating Systems/Processor Systems.md",
+    "README.md",
     "COMP1921-ProgrammingProject/Debugging - cli.md",
     "COMP1921-ProgrammingProject/Command Line Test Scripts.md",
     "Operating Systems/Linkers and Loaders.md",
-    "Operating Systems/Memory Management.md",
     "COMP1711-ProcedualProgramming/Bit Twiddling.md",
     "COMP1711-ProcedualProgramming/Linked Lists.md",
     "COMP1711-ProcedualProgramming/Linked_Lists.png",
@@ -189,11 +206,6 @@
     "COMP1211-ComputerArchitecture/Moores_ Law.md",
     "COMP1211-ComputerArchitecture/Instruction Sets.md",
     "COMP1211-ComputerArchitecture/Instruction Cycle.md",
-    "COMP1211-ComputerArchitecture/Fetch, execute cycle.md",
-    "COMP1211-ComputerArchitecture/Exponential Notation.md",
-    "COMP1211-ComputerArchitecture/COMP1211.md",
-    "COMP1211-ComputerArchitecture/CISC.md",
-    "COMP1211-ComputerArchitecture/Central Processing Unit.md",
     "COMP1211-ComputerArchitecture/Images/Pipilining.png",
     "COMP1211-ComputerArchitecture/Images/Memory_Hierarchy.png",
     "Challenges In Transport and Mobility/Excess_Travel.png",
