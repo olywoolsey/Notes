@@ -7,11 +7,11 @@
 	- truth denoted as T or 1
 	- false denoted as F or 0 or⊥
 	- All propositional logic can be displayed in [[Truth Tables]] and visa versa
-	- [[Logic Laws]]
+	- [[../Logic/Logic Laws]]
 ---
 ## Symbols
 - Logically equal:     $\equiv$
-- [[Logically implies]]:   |=
+- [[../Logic/Logically implies]]:   |=
 - Negation: ¬
 - Conjunction: $\wedge$
 - Disjunction: $\vee$

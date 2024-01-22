@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/COMP2421-NumericatComputation/Floating Point Numbers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8b3b481cd969d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Memory Management.md",
+                "file": "Operating Systems/Process Synchronisation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#COMP1121",
+                "query": "tag:#COMP1421",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/COMP2421-NumericatComputation/Floating Point Numbers.md",
+                "file": "Operating Systems/Process Synchronisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/COMP2421-NumericatComputation/Floating Point Numbers.md",
+                "file": "Operating Systems/Process Synchronisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/COMP2421-NumericatComputation/Floating Point Numbers.md"
+                "file": "Operating Systems/Process Synchronisation.md"
               }
             }
           },
@@ -171,38 +159,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "bf473c344a8cda72",
   "lastOpenFiles": [
-    "Mathematics/COMP2421-NumericatComputation/Derivitives.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Truth Tables.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Set Theory.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/SAT-Solving.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Relations.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Propositional logic.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Proofs.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Predicate Logic.md",
+    "Operating Systems/OS Design.md",
+    "Mathematics/All Fun Symbols.md",
+    "Mathematics/Logic/Predicate Logic.md",
+    "Mathematics/Logic/Logically implies.md",
+    "Mathematics/Linear Algebra/Vectors.md",
+    "Mathematics/Linear Algebra/Matricies.md",
+    "Mathematics/Proofs.md",
+    "Mathematics/Sets/Set Theory.md",
+    "Mathematics/Sets/Relations.md",
+    "Mathematics/Sets/Functions.md",
+    "Mathematics/Logic/Truth Tables.md",
+    "Mathematics/Logic/SAT-Solving.md",
+    "Mathematics/Logic/Propositional logic.md",
     "Mathematics/COMP1421-FundamentalMathConcepts/Matrices.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Logically implies.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Logic Laws.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Functions.md",
+    "Mathematics/Linear Algebra",
+    "Mathematics/Sets",
+    "Mathematics/Set Theory",
+    "Mathematics/Proof",
+    "Mathematics/Logic",
+    "Mathematics/COMP2421-NumericatComputation/lec02.md",
+    "Operating Systems/Process Synchronisation.md",
+    "COMP1711-ProcedualProgramming/Command Line Test Scripts.md",
+    "COMP1711-ProcedualProgramming/Debugging - cli.md",
+    "Operating Systems/Scheduling.md",
+    "Operating Systems/Memory Management.md",
+    "Mathematics/COMP2421-NumericatComputation/Derivitives.md",
+    "COMP1211-ComputerArchitecture/Exponential Notation.md",
+    "Mathematics/COMP2421-NumericatComputation/Floating Point Numbers.md",
+    "Mathematics/Logic/Logic Laws.md",
     "Mathematics/COMP1421-FundamentalMathConcepts/COMP1421.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/All Fun Symbols.md",
     "Mathematics/Discrete/Combinatorics.md",
     "Mathematics/Discrete/Images/Subtraction_Rule.png",
     "Mathematics/Discrete/Images/Different_Selections.png",
     "Mathematics/COMP1421-FundamentalMathConcepts/Pasted image 20221028091959.png",
-    "Challenges In Transport and Mobility/Transport Data.md",
     "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
-    "Challenges In Transport and Mobility/How Transport Shapes Cities.md",
-    "Challenges In Transport and Mobility/Economics in Transport.md",
-    "Challenges In Transport and Mobility/Challenges in Transport and mobility.md",
-    "Challenges In Transport and Mobility/Accessibility.md",
-    "Algorithms/Backwards Substitution.md",
-    "Algorithms/Big O.md",
-    "Algorithms/Binary Search.md",
-    "Algorithms/Bubble Sort.md",
-    "Algorithms/Formulae.md",
-    "Algorithms/Insertion Sort.md",
     "COMP1711-ProcedualProgramming/Linked_Lists.png",
     "COMP1211-ComputerArchitecture/M-Bits.png",
     "General_Images/Pasted image 20221122152511.png",
@@ -215,11 +208,6 @@
     "Semester1/InternationalDevelopment/Hell.canvas",
     "Operating Systems/Images",
     "Professional Computing/Images/Images",
-    "User Interfaces/Images",
-    "Algorithms/Images",
-    "Operating Systems/Images",
-    "Semester3/COMP2912-SoftwareEngineeringPrinciples",
-    "User Interfaces",
     "Untitled.canvas"
   ]
 }

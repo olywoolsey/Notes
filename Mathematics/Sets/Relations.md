@@ -41,7 +41,7 @@
  An equivalence relation is a binary relation, that is reflexive, transitive and symmetric.
 
 ### Graphs
-- Used in [[../Discrete/Graph Theory]]
+- Used in [[../../Discrete/Graph Theory]]
 - A graph set $G = (V,E)$
 - Where $E\subset {(i, j) | i \in V , j \in V }$
 - For graph G with Vertices, $V := \{a, b, c\}$ and Edges, $E := \{(a, b), (b, b), (b, c), (c, a), (a, c)\}$

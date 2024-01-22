@@ -1,18 +1,18 @@
 # Fundamental Maths Symbols
 #COMP1421 
 ## Logic
-- And, $\wedge$
+- And: $\wedge$
 - Or: $\vee$
 - not: ¬
 - equivalent: $\equiv$
-- [[Logically implies]]: |=
+- [Logically implies](Logic/Logically%20implies.md): |=
 - equal: =
 - not equal: :=
 - implication: $\rightarrow$
 - Bi-conditional: $\leftrightarrow$
 - All values in domain: P(x)
-- [[Predicate Logic#Universal|Universal Quantification]]: ∀
-- [[Predicate Logic#Existential|Existential Quantification]]: ∃
+- [[../Logic/Predicate Logic#Universal|Universal Quantification]]: ∀
+- [[../Logic/Predicate Logic#Existential|Existential Quantification]]: ∃
 ## Sets
 - element of: $\in$
 - not element of: $\notin$
