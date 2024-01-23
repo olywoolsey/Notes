@@ -4,4 +4,4 @@
 - Unsigned integer
 - eg: 99 becomes 1001 1001 (as 9 is 1001 in binary)
 ## Use Case
-- certain business applications where [[../../COMP1711-ProcedualProgramming/Input and Output]] is more common than calculations
+- certain business applications where [[../Procedural Programming/Input and Output]] is more common than calculations

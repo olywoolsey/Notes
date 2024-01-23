@@ -28,7 +28,7 @@
 - Conversion between different data types
 - eg binary to decimal (or [[Binary Coded Decimal(BCD)]])
 
-## [[../../COMP1711-ProcedualProgramming/Input and Output]]
+## [[../Procedural Programming/Input and Output]]
 - May be specific instructions
 - May be done using data movement instructions
 - May be done by a separate controller (DMA, later in course)

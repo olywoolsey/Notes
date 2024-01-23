@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ed6e0e2ea5326ed5",
+        "id": "94da6167e0416c32",
         "type": "tabs",
         "children": [
           {
-            "id": "bf473c344a8cda72",
+            "id": "3c24f193c657c693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Process Synchronisation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abd29f859b9ac2d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Scheduling.md",
+                "file": "Operating Systems/OS Structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Scheduling.md",
+                "file": "Operating Systems/OS Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Scheduling.md",
+                "file": "Operating Systems/OS Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Scheduling.md"
+                "file": "Operating Systems/OS Structure.md"
               }
             }
           },
@@ -174,12 +160,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "abd29f859b9ac2d0",
+  "active": "3c24f193c657c693",
   "lastOpenFiles": [
+    "Operating Systems/Scheduling.md",
+    "Procedural Programming/Linked Lists.md",
+    "Procedural Programming/Linked_Lists.png",
     "Operating Systems/Process Synchronisation.md",
     "Operating Systems/Images/Instruction_Reordering.png",
     "Operating Systems/Images/Pasted image 20240119160536.png",
-    "Operating Systems/Scheduling.md",
     "Operating Systems/API.md",
     "Mathematics/Discrete/Discrete Probability Theory.md",
     "Mathematics/Logic/Proofs.md",
@@ -203,8 +191,8 @@
     "Mathematics/Proof",
     "Mathematics/Logic",
     "Mathematics/COMP2421-NumericatComputation/lec02.md",
-    "COMP1711-ProcedualProgramming/Command Line Test Scripts.md",
-    "COMP1711-ProcedualProgramming/Debugging - cli.md",
+    "Procedural Programming/Command Line Test Scripts.md",
+    "Procedural Programming/Debugging - cli.md",
     "Operating Systems/Memory Management.md",
     "Mathematics/COMP2421-NumericatComputation/Derivitives.md",
     "COMP1211-ComputerArchitecture/Exponential Notation.md",
@@ -212,7 +200,6 @@
     "Mathematics/Discrete/Images/Different_Selections.png",
     "Mathematics/COMP1421-FundamentalMathConcepts/Pasted image 20221028091959.png",
     "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
-    "COMP1711-ProcedualProgramming/Linked_Lists.png",
     "COMP1211-ComputerArchitecture/M-Bits.png",
     "General_Images/Pasted image 20221122152511.png",
     "General_Images/Pasted image 20221122152456.png",

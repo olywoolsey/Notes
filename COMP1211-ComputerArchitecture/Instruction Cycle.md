@@ -12,7 +12,7 @@
 ---
 ## Components
 - [Central Processing Unit](Central%20Processing%20Unit.md)
-- [Input and Output](../COMP1711-ProcedualProgramming/Input%20and%20Output.md)
+- [Input and Output](../Procedural%20Programming/Input%20and%20Output.md)
 - [Memory](Memory.md)
 ![[Images/Components.png]]
 

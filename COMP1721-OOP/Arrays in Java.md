@@ -1,6 +1,6 @@
 #COMP1721
 ## Arrays
-- [Arrays in C](../COMP1711-ProcedualProgramming/Arrays%20in%20C.md) have Static (stack) and dynamic (heap)
+- [Arrays in C](../Procedural%20Programming/Arrays%20in%20C.md) have Static (stack) and dynamic (heap)
 - Arrays in java are always on the heap
 - size can be computed at run time but remains fixed once created
 - size as property called length ( for array x, x.length gives size )
