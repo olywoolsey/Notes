@@ -2,16 +2,7 @@
   "version": 2,
   "projects": [
     {
-      "fieldConfig": {
-        "status": {
-          "options": [
-            "backlog",
-            "doing",
-            "done"
-          ],
-          "richText": true
-        }
-      },
+      "fieldConfig": {},
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
@@ -33,11 +24,7 @@
               "status",
               "due"
             ],
-            "fieldConfig": {
-              "status": {
-                "width": 180
-              }
-            }
+            "fieldConfig": {}
           },
           "filter": {
             "conditions": []
