@@ -1,6 +1,7 @@
 # Pipelining
+
 #COMP1211 
-##### Do multiple instructions at once - think of manufacturing (don't wait till product is complete before starting next one)
+## Do multiple instructions at once - think of manufacturing (don't wait till product is complete before starting next one)
 - FI Fetch instruction
 - DI Decode instruction
 - CO Calculate operands (effective addresses)
