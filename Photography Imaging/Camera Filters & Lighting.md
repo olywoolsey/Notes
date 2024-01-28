@@ -12,7 +12,7 @@ Features common to both are as below:
 
 ## Camera Filters
 - one of the main differences between the camera and the eye is that the eye can adapt to different lighting conditions yet ligh t sensitive film medium cannot and digital imaging sesnors have limitations too 
-- Thus there is a need for filters to cater for this imbalance - especially with film cameras
+- Thus there is a need for filters to cater for this imbalance - especially with film [cameras](Cameras.md)
 - Filters are available in variety of different materials:
 	1. Dyed gelatin or polyester sheets- available within a range of sizes
 	2. Optical glass fitted within a circular metal mount– screws onto the front rim of the lens & available within a range of qualities & sizes

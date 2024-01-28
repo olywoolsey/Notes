@@ -1,17 +1,17 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "search": "#COMP2211",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#COMP",
+      "query": "README",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 16777215
       }
     }
   ],

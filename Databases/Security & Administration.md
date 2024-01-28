@@ -83,7 +83,7 @@ Protect against:
 
 ## Data & DB Administration
 - Data administrator (DA)
-	- Managing data resource, including database planning, development, maintenance of standards, policies, procedures, conceptual and logical database design
+	- Managing data resource, including database planning, development, maintenance of standards, policies, procedures, conceptual and logical [database design](Database%20Design.md)
 - Database administrator (DBA)
 	- Application/physical database design to operational management including setting security and integrity control, monitoring system performance
 ### Data administration tasks

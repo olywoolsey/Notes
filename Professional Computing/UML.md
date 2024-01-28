@@ -15,7 +15,7 @@
 - [Use cases](Use%20Cases.md) were developed originally to support requirements investigation and are incorporated into UML.
 - Use case diagrams provide a user friendly overview of what the system does
 - Need a name of system 
-- Use Cases have at least a verb and a noun
+- [Use Cases](Use%20Cases.md) have at least a verb and a noun
 - White arrow means is part of
 ![](Images/Use_Case.png)
 ---

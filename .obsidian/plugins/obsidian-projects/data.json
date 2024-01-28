@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "backlog",
+            "doing",
+            "done"
+          ],
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Assessments",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "status",
+              "due"
+            ],
+            "fieldConfig": {
+              "status": {
+                "width": 180
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "due",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "488cfd3f-08b9-4249-b6ea-d619f9421342",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "includeFields": [
+              "status"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1d553ca0-b172-4272-8652-308ca0a2531f",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "fitStyle": "contain",
+            "includeFields": [
+              "due"
+            ],
+            "coverField": "status"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a81f5d8b-7cc1-4067-b1df-d07cb9df71e3",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "ee1b4810-16b5-4587-b526-9bf2573bc96d",
+      "name": "Assessments"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

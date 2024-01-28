@@ -4,23 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "94da6167e0416c32",
+        "id": "87497152c9d3f6b6",
         "type": "tabs",
         "children": [
           {
-            "id": "3c24f193c657c693",
+            "id": "7cb15ee9fa3c2efd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/OS Structure.md",
-                "mode": "source",
+                "file": "Databases/Ethics.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a69d58b712886ec",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 224.17000000000002,
+                  "y": -203.04999999999995,
+                  "zoom": 0
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,21 +73,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Maths",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -87,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/OS Structure.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/OS Structure.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/OS Structure.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -143,12 +159,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,58 +173,57 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "3c24f193c657c693",
+  "active": "0a69d58b712886ec",
   "lastOpenFiles": [
-    "Operating Systems/Scheduling.md",
-    "Procedural Programming/Linked Lists.md",
+    "Hardware/CPU.md",
+    "Untitled.canvas",
+    "Databases/Ethics.md",
+    "Databases/Entity Relationship Moddeling.md",
+    "Assessments/Networks1.md",
+    "Databases/Database Design.md",
+    "Databases/images/ChensExample.png",
+    "Assessments/Networks2.md",
+    "Assessments",
+    "A",
+    "README.md",
+    "Hardware/Registers.md",
+    "Hardware/COMP1211-ComputerArchitecture/Von Neumann.md",
+    "Hardware/COMP1211-ComputerArchitecture/Types of operations.md",
+    "Hardware/COMP1211-ComputerArchitecture/Two_s Compliment.md",
+    "Hardware/COMP1211-ComputerArchitecture/RISC.md",
+    "Hardware/COMP1211-ComputerArchitecture/Pipelining.md",
+    "Hardware/COMP1211-ComputerArchitecture/Exponential Notation.md",
+    "Hardware/COMP1211-ComputerArchitecture/Cache Memory.md",
+    "Hardware/COMP1211-ComputerArchitecture/Parity Bits.md",
+    "Hardware/COMP1211-ComputerArchitecture/OverFlow and Underflow.md",
+    "Hardware/COMP1211-ComputerArchitecture/One_s compliment.md",
+    "Hardware/COMP1211-ComputerArchitecture/Moores_ Law.md",
+    "Hardware/COMP1211-ComputerArchitecture/Instruction Cycle.md",
+    "Hardware/COMP1211-ComputerArchitecture/Fetch, execute cycle.md",
+    "Hardware/COMP1211-ComputerArchitecture/COMP1211.md",
+    "Hardware/COMP1211-ComputerArchitecture/CISC.md",
+    "Hardware/COMP1211-ComputerArchitecture/Assembly.md",
+    "Hardware/COMP1211-ComputerArchitecture/Bias Notation.md",
+    "Operating Systems/Images/Inter-process_Comminication.png",
+    "Operating Systems/Images/Process_State_Transitions.png",
+    "Hardware/Processors/Images/Pasted image 20230308103258.png",
+    "Operating Systems/Images/Queuing_Diagram.png",
+    "Operating Systems/Images/Stack_vs_Heap.png",
+    "Operating Systems/Images/Threads.png",
+    "Operating Systems/Images/User_Program_System_Call.png",
+    "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
+    "Hardware",
+    "Operating Systems/Memory Management",
+    "Operating Systems/Recording 20240123140101.webm",
+    "Operating Systems/Recording 20240123140322.webm",
+    "Operating Systems/Recording 20240123140248.webm",
     "Procedural Programming/Linked_Lists.png",
-    "Operating Systems/Process Synchronisation.md",
-    "Operating Systems/Images/Instruction_Reordering.png",
-    "Operating Systems/Images/Pasted image 20240119160536.png",
-    "Operating Systems/API.md",
-    "Mathematics/Discrete/Discrete Probability Theory.md",
-    "Mathematics/Logic/Proofs.md",
-    "Mathematics/Linear Algebra/Vectors.md",
-    "Mathematics/Linear Algebra/Matricies.md",
-    "Mathematics/Algorithms/Bubble Sort.md",
-    "Operating Systems/OS Design.md",
-    "Mathematics/Logic/All Fun Symbols.md",
-    "Mathematics/Logic/Predicate Logic.md",
-    "Mathematics/Logic/Logically implies.md",
-    "Mathematics/Logic/Sets/Set Theory.md",
-    "Mathematics/Logic/Sets/Relations.md",
-    "Mathematics/Logic/Sets/Functions.md",
-    "Mathematics/Logic/Truth Tables.md",
-    "Mathematics/Logic/SAT-Solving.md",
-    "Mathematics/Logic/Propositional logic.md",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Matrices.md",
     "Mathematics/Linear Algebra",
     "Mathematics/Logic/Sets",
     "Mathematics/Set Theory",
-    "Mathematics/Proof",
-    "Mathematics/Logic",
-    "Mathematics/COMP2421-NumericatComputation/lec02.md",
-    "Procedural Programming/Command Line Test Scripts.md",
-    "Procedural Programming/Debugging - cli.md",
-    "Operating Systems/Memory Management.md",
-    "Mathematics/COMP2421-NumericatComputation/Derivitives.md",
-    "COMP1211-ComputerArchitecture/Exponential Notation.md",
-    "Mathematics/Discrete/Images/Subtraction_Rule.png",
-    "Mathematics/Discrete/Images/Different_Selections.png",
-    "Mathematics/COMP1421-FundamentalMathConcepts/Pasted image 20221028091959.png",
-    "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
-    "COMP1211-ComputerArchitecture/M-Bits.png",
-    "General_Images/Pasted image 20221122152511.png",
-    "General_Images/Pasted image 20221122152456.png",
-    "COMP1211-ComputerArchitecture/Images",
-    "Mathematics",
-    "Professional Computing",
-    "Semester1/InternationalDevelopment/Hell.canvas",
-    "Operating Systems/Images",
-    "Professional Computing/Images/Images",
-    "Untitled.canvas"
+    "Semester1/InternationalDevelopment/Hell.canvas"
   ]
 }

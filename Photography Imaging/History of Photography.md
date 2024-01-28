@@ -25,7 +25,7 @@
 ## New Lens System
 - John Dolland
 - devised a new lens system
-- gave the image less chromatic aberration that caused colour fringing in earlier lenses
+- gave the image less chromatic aberration that caused colour fringing in earlier [lenses](Lenses.md)
 - axial aberration causes light of different colours to fall in different planes of focus
 
 ## Contact Copying
@@ -114,7 +114,7 @@
 
 ## Photographic Studies of motion
 - Edweard Maybridge - 1877-1879
-- set up experiment with 12 cameras to prove that all four hooves of a horse came off the ground
+- set up experiment with 12 [cameras](Cameras.md) to prove that all four hooves of a horse came off the ground
 
 ## Roll Film
 - 1884 - George Eastman

@@ -1,5 +1,5 @@
 # eXtreme Programming
-A very influential agile method, developed in the late 1990s, that introduced a range of agile development technique
+A very influential [agile](Agile.md) method, developed in the late 1990s, that introduced a range of agile development technique
 - New versions built several times a day
 - Increments delivered to customers every 2 weeks
 - All tests must be run for every build and the build is only accepted if tests run successfully

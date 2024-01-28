@@ -1,7 +1,7 @@
 # Linkers and Loaders
 #COMP2211
 - Programs are stored on the disk as a binary file
-- To run, the executable has to be copied to memory and placed in context of some process
+- To run, the executable has to be copied to memory and placed in context of some [Processes](Processes.md)
 - **Relocatable object file:** source code compiled into object files suitable to be moved into a particular memory location
 - **Linker:** combines these objects into a binary executable
 - **Loader:** loads executable into memory to be run on CPU

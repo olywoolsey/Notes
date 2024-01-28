@@ -16,7 +16,7 @@ Fewer than 1/5th of images are ever printed
 - Minimum 24-bit depth required to create photo-realistic image (8-bits per colour channel) _ most are now 48 bits
 ### Film Scanner
 - Good quality 35mm film scanner capable of creating a digital file that will reproduce an 11 x 17 inch hard copy without pixilation
-- Many photographers who prefer to use film are able to achieve better resolution images than many digital cameras
+- Many photographers who prefer to use film are able to achieve better resolution images than many digital [cameras](Cameras.md)
 - Attached to PC via USB port and propriety software, used for image importation
 - designed to work with a trilinear array CCD where array is moved over film surface detecting the level of transmitted light through th film (negative or positive)
 - Needs high optical input resolution and high bit depth
@@ -67,7 +67,7 @@ Contains:
 - Native file for Adobe software
 - Retains masking channel information that could be lost in other file formats
 - Compression routines are lossless
-- Used ecxtensively for digital printing, graphic design & high resolution digital photography
+- Used ecxtensively for [digital printing](Digital%20Printing.md), graphic design & high resolution digital photography
 
 ## Image Compression
 ### Lossless

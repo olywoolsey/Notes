@@ -6,5 +6,5 @@
 ![](Images/API_Open.png)
 ## Common API's
 - Windows API
-- POSIX API (UNIX, linux, macos)
+- POSIX API (UNIX, Linux, MacOS)
 - Java API (Applications based on the Java Virtual Machine)

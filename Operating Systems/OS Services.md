@@ -8,17 +8,16 @@
 - Communications
 - Error detection
 - Resource allocation
-- Logging
+- Logging (Keep track of programs and resources)
 - Protection and security
-
-## CLI
+### CLI
 - Faster but requires specialised knowledge
 - System admins
 - Can do more, have special commands not available in GUI
 - Easier to do repetitive tasks
-
 ## System Calls
 - Well defined interface to the services, used by programmers and users
+- As so many system calls are called for each task we use [APIs](API.md) to abstract this
 - usually written in C or C++
 - e.g. "cp in.txt out.txt"
 	- Entering the command, or moving a mouse to select files, causes sequence of I/O system calls.

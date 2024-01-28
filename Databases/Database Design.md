@@ -21,7 +21,7 @@
 ## Logical Database Design
 1. Derive relations
 	- i.e. 1:1 many:1, superclass:subclass
-2. Validate relations using normalisation
+2. Validate relations using [normalisation](Normalisation.md)
 3. Validate realtions against user transactions
 4. Define integrity constraints
 5. Review logical data model with user

@@ -25,7 +25,7 @@
 
 ## Hybrid/Compact System
 - Contain large sensors within small camera bodies and have manual control  
-- Interchangeable lenses but do not have a mirror box or an optical viewfinder  
+- Interchangeable [lenses](Lenses.md) but do not have a mirror box or an optical viewfinder  
 - Produced by Nikon, Canon, Pentax, Sony and Fujifilm 
 - Panasonic and Olympus produce Micro Four Thirds platform versions
 - The Hybrid/CS camera has already  claimed ~17% of the DSLR market in  Japan  
@@ -35,7 +35,7 @@
 
 ## Prosumer Digital Camera
 - Image sensor either CCD or CMOS type  
-- DSLR category & therefore capable of accepting a wide range of focal length lenses – or zoom lenses  
+- DSLR category & therefore capable of accepting a wide range of focal length or zoom [lenses](Lenses.md)
 - Real size optical viewfinder, or pentaprism, with 95-100% image coverage  
 - Built-in flash plus added hotshoe  
 - Record both JPEG & RAW files  

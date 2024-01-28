@@ -19,10 +19,11 @@
 
 ## Multiprogramming
 - Single Programs can't keep CPU occupied due to wait times so will switch between programs to keep busy
-- When 1 process pauses executing as it's waiting for an I/O, the CPU is allocated to another process that is ready to run.
-
+- When 1 process pauses executing (e.g. it's waiting for an I/O), the CPU is allocated to another process that is ready to run.
 ## Multitasking
-- Similar to multiprogramming, but the switches between processes are very frequent to provide users with a fast response time
+- Similar to multiprogramming, but the switches between processes are very frequent to provide users with a **fast response time**
+- Different from [MultiProgramming](##Multiprogramming) as Multitasking forces processes to switch even if there isn't a pause
+- **Time-sharing** is a extension of this and a part of [Scheduling](Scheduling.md)
 ## User/Kernel Modes
 - Incorrect or malicious programs should not be able to break the OS, execute code that belongs to [OS services](OS%20Services.md), or take over hardware resources
 - $\therefore$ Split apps into user mode

@@ -99,7 +99,7 @@ not present within the centre of the field of view
 - Nano coatings will reduce light reflection from 4% to < 0.1%
 
 ## Focusing Fundamentals
-- Almost all cameras have a built in focusing mechanism
+- Almost all [cameras](Cameras.md) have a built in focusing mechanism
 - Exceptions include pin-hole and basic point and shoot camera models
 - allows control of image and sharpness
 - for portraits always focus on the eyes - auto focus will often focus on the nose

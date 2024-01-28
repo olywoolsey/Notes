@@ -7,7 +7,7 @@
 - Can arise in OS as different parts manipulate shared resources
 - Also arise in multi-threaded user applications
 ## Critical Section Problem
-Consider a system with n processes/threads $P_0, P_1, ..., P_{n−1}$.
+Consider a system with n processes/[threads](Threads.md) $P_0, P_1, ..., P_{n−1}$.
 - Each process has a critical section of code.
 - In that section, shared data is being accessed (shared among at least two processes).
 - When a process is executing instructions in the critical section, no other process can do so.
@@ -29,8 +29,8 @@ while(true)
 2. **Progress**: If one process asks to execute it's critical section, only processes not in their remainder section can participate
 3. **Bounded Waiting**: There should be a limit on a number times other processes can enter their *critical sections,* when some other process is waiting. Avoid the problem of [process starvation](Scheduling.md)
 ### Solving
-- **Single Core:** disable interrupts during execution of critical code
-	- Will not solve for multi-processor systems
+- **Single Core:** disable [interrupts](Interrupts.md) during execution of critical code
+	- Will not solve for multi-[processor systems](Processor%20Systems.md) as will have to stop all cores from processing and will be very in efficient
 #### Kernel
 - **Preemptive Kernels:** 
 	- Allows processes to be interrupted while in kernel mode
@@ -41,7 +41,7 @@ while(true)
 	- Safe from race conditions on kernel data structures
 #### Peterson's Solution
 - No guarantee this works on modern architectures
-- Good starting point
+- Breaks due to **instruction reordering**
 - Restricted to two processes
 ```c
 while (true)
@@ -52,15 +52,14 @@ while (true)
 		
 		/* critical section */
 		
-	flag[i] = flase;
+	flag[i] = false;
 	
 	/* remainder section */
 }
 ```
-- May not work due to **instruction reordering**
-	- Is performed where there is no data dependencies
-	- On single threading reordering does on impact final result
-	- Multi-threading applications it may change the final result
+- Is performed where there is no data dependencies
+- On single threading reordering does on impact final result
+- Multi-threading applications it may change the final result
 	```c
 	x = 1;
 	f = true;
@@ -71,3 +70,19 @@ while (true)
 ```
 
 ![](Images/Instruction_Reordering.png)
+#### Memory Barriers
+- Hardware instruction that limits re-ordering around barriers
+#### Test-And-Modify
+- Atomic hardware instruction
+- Low level; difficult to use
+#### Compare and Swap
+- Atomic hardware instruction
+- Low level; difficult to use
+#### Atomic Variables
+- Implemented with compare and swap
+- Good for protecting single variables against racing
+#### Mutex Locks
+- High level [API](API.md)
+#### Semaphores
+- High level
+- Many uses for synchronisation

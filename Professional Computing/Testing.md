@@ -7,7 +7,7 @@
 - Tests are written before code and ‘passing’ the tests is the critical driver of development.
 - You develop code incrementally, along with a test for that increment. 
 - You don’t move on to the next increment until the code that you have developed passes its test. 
-- TDD was introduced as part of agile methods such as [eXtreme Programming](../../Professional%20Computing/eXtreme%20Programming.md) However, it can also be used in plan-driven development processes
+- TDD was introduced as part of [agile](Agile.md) methods such as [eXtreme Programming](../../Professional%20Computing/eXtreme%20Programming.md) However, it can also be used in plan-driven development processes
 ### Benefits
 - Code coverage - Every code segment that you write has at least one associated test so all code written has at least one test.
 - Regression testing - A regression test suite is developed as a program is developed.

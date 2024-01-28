@@ -90,7 +90,7 @@ int main( void ) {
 ## Testing
 - always test in stages to make sure each part is working before moving onto the next part
 - if compiled often then know most recent code is the problem
-- often prinf() is useful for testing
+- often prinf() is useful for [testing](../Professional%20Computing/Testing.md)
 
 #### Test Driven Design
 - start by defining all the tests 
