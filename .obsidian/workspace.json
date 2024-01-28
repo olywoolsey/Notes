@@ -11,30 +11,42 @@
             "id": "7cb15ee9fa3c2efd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/Ethics.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "0a69d58b712886ec",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1af64112c47c49ed",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Assessments/Networks1.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "1af64112c47c49ed",
+            "id": "9354aaf61742d8b4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Hardware/Processors/Images/DtypeFlipFlop.png"
+              }
+            }
+          },
+          {
+            "id": "cfe7f3280b284dee",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -134,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Networks/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,10 +216,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d01d2cdb9e0d98bf",
+  "active": "cfe7f3280b284dee",
   "lastOpenFiles": [
-    "Networks/Untitled 1.md",
+    "Hardware/Processors/Images/DtypeFlipFlop.png",
+    "Assessments/Networks1.md",
     "Networks/Untitled.md",
+    "Networks/Untitled 1.md",
     "Mathematics/COMP2421-NumericatComputation/lec02.md",
     "Networks",
     "README.md",
@@ -219,7 +229,6 @@
     "Hardware/CPU.md",
     "Databases/Ethics.md",
     "Databases/Entity Relationship Moddeling.md",
-    "Assessments/Networks1.md",
     "Databases/Database Design.md",
     "Databases/images/ChensExample.png",
     "Assessments/Networks2.md",
@@ -240,7 +249,6 @@
     "Hardware/COMP1211-ComputerArchitecture/Instruction Cycle.md",
     "Hardware/COMP1211-ComputerArchitecture/Fetch, execute cycle.md",
     "Hardware/COMP1211-ComputerArchitecture/COMP1211.md",
-    "Hardware/COMP1211-ComputerArchitecture/CISC.md",
     "Operating Systems/Images/Inter-process_Comminication.png",
     "Operating Systems/Images/Process_State_Transitions.png",
     "Hardware/Processors/Images/Pasted image 20230308103258.png",
