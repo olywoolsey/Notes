@@ -1,4 +1,4 @@
-# Lecture 03: Floating point number systems
+# Floating point number systems
 ## Finite precision number systems
 
 -   Computers store numbers with **finite precision**, i.e. using a finite set of bits (binary digits), typically 32 or 64 of them.

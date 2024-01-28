@@ -37,30 +37,9 @@
             "id": "1af64112c47c49ed",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "c6ac0b40ce591e3e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d01d2cdb9e0d98bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networks/Untitled.md",
+                "file": "Mathematics/COMP2421-NumericatComputation/lec09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Untitled.md",
+                "file": "Mathematics/COMP2421-NumericatComputation/lec09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Untitled.md",
+                "file": "Mathematics/COMP2421-NumericatComputation/lec09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/Untitled.md"
+                "file": "Mathematics/COMP2421-NumericatComputation/lec09.md"
               }
             }
           },
@@ -208,39 +187,40 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d01d2cdb9e0d98bf",
+  "active": "1af64112c47c49ed",
   "lastOpenFiles": [
+    "Mathematics/COMP2421-NumericatComputation/Least Squares Fitting.md",
+    "Mathematics/COMP2421-NumericatComputation/lec18.md",
+    "Mathematics/COMP2421-NumericatComputation/lec20.md",
+    "Mathematics/COMP2421-NumericatComputation/Newton's Method.md",
+    "Mathematics/COMP2421-NumericatComputation/lec15.md",
+    "Mathematics/COMP2421-NumericatComputation/lec14.md",
+    "Mathematics/COMP2421-NumericatComputation/lec13.md",
+    "Mathematics/COMP2421-NumericatComputation/lec12.md",
+    "Mathematics/COMP2421-NumericatComputation/lec11.md",
+    "Mathematics/COMP2421-NumericatComputation/lec10.md",
+    "Mathematics/COMP2421-NumericatComputation/lec09.md",
+    "Mathematics/COMP2421-NumericatComputation/Iterative Solutions of Linear Equations.md",
+    "Mathematics/COMP2421-NumericatComputation/LU Factorisation.md",
+    "Mathematics/Linear Algebra/Gaussian Elimination.md",
+    "Mathematics/COMP2421-NumericatComputation/Numerical Algorithms.md",
+    "Mathematics/Linear Algebra/lec04.md",
+    "Mathematics/COMP2421-NumericatComputation/lec17.md",
+    "Mathematics/Linear Algebra/Vectors.md",
+    "Mathematics/Linear Algebra/lec05.md",
+    "Mathematics/COMP2421-NumericatComputation/Floating Point Numbers.md",
+    "Mathematics/COMP2421-NumericatComputation/Floating Point Number Systems.md",
+    "Frml Lang&Finite Automata",
     "Networks/Untitled 1.md",
     "Networks/Untitled.md",
-    "Mathematics/COMP2421-NumericatComputation/lec02.md",
     "Networks",
     "README.md",
     "Untitled.canvas",
     "Hardware/CPU.md",
     "Databases/Ethics.md",
-    "Databases/Entity Relationship Moddeling.md",
-    "Assessments/Networks1.md",
-    "Databases/Database Design.md",
     "Databases/images/ChensExample.png",
-    "Assessments/Networks2.md",
     "Assessments",
     "A",
-    "Hardware/Registers.md",
-    "Hardware/COMP1211-ComputerArchitecture/Von Neumann.md",
-    "Hardware/COMP1211-ComputerArchitecture/Types of operations.md",
-    "Hardware/COMP1211-ComputerArchitecture/Two_s Compliment.md",
-    "Hardware/COMP1211-ComputerArchitecture/RISC.md",
-    "Hardware/COMP1211-ComputerArchitecture/Pipelining.md",
-    "Hardware/COMP1211-ComputerArchitecture/Exponential Notation.md",
-    "Hardware/COMP1211-ComputerArchitecture/Cache Memory.md",
-    "Hardware/COMP1211-ComputerArchitecture/Parity Bits.md",
-    "Hardware/COMP1211-ComputerArchitecture/OverFlow and Underflow.md",
-    "Hardware/COMP1211-ComputerArchitecture/One_s compliment.md",
-    "Hardware/COMP1211-ComputerArchitecture/Moores_ Law.md",
-    "Hardware/COMP1211-ComputerArchitecture/Instruction Cycle.md",
-    "Hardware/COMP1211-ComputerArchitecture/Fetch, execute cycle.md",
-    "Hardware/COMP1211-ComputerArchitecture/COMP1211.md",
-    "Hardware/COMP1211-ComputerArchitecture/CISC.md",
     "Operating Systems/Images/Inter-process_Comminication.png",
     "Operating Systems/Images/Process_State_Transitions.png",
     "Hardware/Processors/Images/Pasted image 20230308103258.png",
@@ -256,7 +236,6 @@
     "Operating Systems/Recording 20240123140248.webm",
     "Procedural Programming/Linked_Lists.png",
     "Mathematics/Linear Algebra",
-    "Mathematics/Logic/Sets",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
 }
