@@ -174,12 +174,12 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-projects:Open projects": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "1af64112c47c49ed",
+  "active": "9b0e31f5f344f025",
   "lastOpenFiles": [
+    "Untitled",
     "README.md",
     "Untitled.canvas",
     "Hardware/CPU.md",
