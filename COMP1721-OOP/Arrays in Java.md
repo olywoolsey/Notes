@@ -1,3 +1,4 @@
+# Java Arrays
 #COMP1721
 ## Arrays
 - [Arrays in C](../Procedural%20Programming/Arrays%20in%20C.md) have Static (stack) and dynamic (heap)

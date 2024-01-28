@@ -37,8 +37,26 @@
             "id": "1af64112c47c49ed",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Assessments/Networks1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8113a2b8cf762ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP1721-OOP/Arrays in Java.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -60,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Untitled.md",
+                "file": "Assessments/Networks2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Untitled.md",
+                "file": "COMP1721-OOP/Arrays in Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Untitled.md",
+                "file": "COMP1721-OOP/Arrays in Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/Untitled.md"
+                "file": "COMP1721-OOP/Arrays in Java.md"
               }
             }
           },
@@ -208,21 +226,31 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d01d2cdb9e0d98bf",
+  "active": "d8113a2b8cf762ca",
   "lastOpenFiles": [
-    "Networks/Untitled 1.md",
+    "Operating Systems/Interrupts.md",
+    "Mathematics/Logic/All Fun Symbols.md",
+    "Mathematics/Discrete/Graph Theory.md",
+    "Mathematics/Discrete/Combinatorics.md",
+    "Mathematics/Discrete/Discrete Probability Theory.md",
+    "Mathematics/Algorithms/Insertion Sort.md",
+    "Mathematics/Algorithms/Backwards Substitution.md",
+    "Databases/Relational Algebra.md",
+    "Databases/Normalisation.md",
+    "Databases/Ethics.md",
+    "Databases/Databases.md",
+    "Databases/Database Design.md",
+    "Assessments/Networks2.md",
+    "Assessments/Networks1.md",
     "Networks/Untitled.md",
+    "Networks/Untitled 1.md",
     "Mathematics/COMP2421-NumericatComputation/lec02.md",
     "Networks",
     "README.md",
     "Untitled.canvas",
     "Hardware/CPU.md",
-    "Databases/Ethics.md",
     "Databases/Entity Relationship Moddeling.md",
-    "Assessments/Networks1.md",
-    "Databases/Database Design.md",
     "Databases/images/ChensExample.png",
-    "Assessments/Networks2.md",
     "Assessments",
     "A",
     "Hardware/Registers.md",
@@ -231,16 +259,6 @@
     "Hardware/COMP1211-ComputerArchitecture/Two_s Compliment.md",
     "Hardware/COMP1211-ComputerArchitecture/RISC.md",
     "Hardware/COMP1211-ComputerArchitecture/Pipelining.md",
-    "Hardware/COMP1211-ComputerArchitecture/Exponential Notation.md",
-    "Hardware/COMP1211-ComputerArchitecture/Cache Memory.md",
-    "Hardware/COMP1211-ComputerArchitecture/Parity Bits.md",
-    "Hardware/COMP1211-ComputerArchitecture/OverFlow and Underflow.md",
-    "Hardware/COMP1211-ComputerArchitecture/One_s compliment.md",
-    "Hardware/COMP1211-ComputerArchitecture/Moores_ Law.md",
-    "Hardware/COMP1211-ComputerArchitecture/Instruction Cycle.md",
-    "Hardware/COMP1211-ComputerArchitecture/Fetch, execute cycle.md",
-    "Hardware/COMP1211-ComputerArchitecture/COMP1211.md",
-    "Hardware/COMP1211-ComputerArchitecture/CISC.md",
     "Operating Systems/Images/Inter-process_Comminication.png",
     "Operating Systems/Images/Process_State_Transitions.png",
     "Hardware/Processors/Images/Pasted image 20230308103258.png",
