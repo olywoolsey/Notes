@@ -47,7 +47,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/COMP2421-NumericatComputation/lec02.md",
+                "file": "Networks/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d01d2cdb9e0d98bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networks/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/COMP2421-NumericatComputation/lec02.md",
+                "file": "Networks/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/COMP2421-NumericatComputation/lec02.md",
+                "file": "Networks/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/COMP2421-NumericatComputation/lec02.md"
+                "file": "Networks/Untitled.md"
               }
             }
           },
@@ -182,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,9 +208,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "c6ac0b40ce591e3e",
+  "active": "d01d2cdb9e0d98bf",
   "lastOpenFiles": [
+    "Networks/Untitled 1.md",
     "Networks/Untitled.md",
+    "Mathematics/COMP2421-NumericatComputation/lec02.md",
     "Networks",
     "README.md",
     "Untitled.canvas",
@@ -225,8 +241,6 @@
     "Hardware/COMP1211-ComputerArchitecture/Fetch, execute cycle.md",
     "Hardware/COMP1211-ComputerArchitecture/COMP1211.md",
     "Hardware/COMP1211-ComputerArchitecture/CISC.md",
-    "Hardware/COMP1211-ComputerArchitecture/Assembly.md",
-    "Hardware/COMP1211-ComputerArchitecture/Bias Notation.md",
     "Operating Systems/Images/Inter-process_Comminication.png",
     "Operating Systems/Images/Process_State_Transitions.png",
     "Hardware/Processors/Images/Pasted image 20230308103258.png",
