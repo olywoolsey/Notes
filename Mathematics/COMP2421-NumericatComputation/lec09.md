@@ -10,7 +10,7 @@ Recall that a sparse matrix is defined to be such that it has at most $\alpha n$
 -   Typically this happens when we know there are at most $\alpha$ non-zero entries in any row.
 
 ### Sparse matrix storage
-The simplest way in which a sparse matrix is stored is using three arrays:
+The simplest way in which a sparse matrix is stored is using three arrays:git 
 -   an array of floating point numbers (`A_real` say) that stores the non-zero entries;
 
 -   an array of integers (`I_row` say) that stores the row number of the corresponding entry in the real array;
