@@ -24,14 +24,12 @@
             "id": "0a69d58b712886ec",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 224.17000000000002,
-                  "y": -203.04999999999995,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -82,8 +80,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -173,13 +170,14 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "0a69d58b712886ec",
   "lastOpenFiles": [
-    "Hardware/CPU.md",
     "Untitled.canvas",
+    "Hardware/CPU.md",
     "Databases/Ethics.md",
     "Databases/Entity Relationship Moddeling.md",
     "Assessments/Networks1.md",
