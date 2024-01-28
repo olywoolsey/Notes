@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1af64112c47c49ed",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +178,9 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "0a69d58b712886ec",
+  "active": "1af64112c47c49ed",
   "lastOpenFiles": [
+    "README.md",
     "Untitled.canvas",
     "Hardware/CPU.md",
     "Databases/Ethics.md",
@@ -186,7 +191,6 @@
     "Assessments/Networks2.md",
     "Assessments",
     "A",
-    "README.md",
     "Hardware/Registers.md",
     "Hardware/COMP1211-ComputerArchitecture/Von Neumann.md",
     "Hardware/COMP1211-ComputerArchitecture/Types of operations.md",
