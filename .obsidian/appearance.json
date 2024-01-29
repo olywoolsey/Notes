@@ -2,5 +2,5 @@
   "theme": "moonstone",
   "cssTheme": "Things",
   "accentColor": "",
-  "showViewHeader": true
+  "showViewHeader": false
 }

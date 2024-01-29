@@ -9,5 +9,7 @@
   "autoPairBrackets": false,
   "newLinkFormat": "relative",
   "newFileLocation": "current",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "propertiesInDocument": "visible",
+  "autoPairMarkdown": false
 }
