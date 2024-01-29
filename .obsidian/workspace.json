@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Ethics of AI.md",
+                "file": "Mathematics/Algorithms/Algorithm Design Methods.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Ethics of AI.md",
+                "file": "Mathematics/Algorithms/Algorithm Design Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Ethics of AI.md",
+                "file": "Mathematics/Algorithms/Algorithm Design Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Ethics of AI.md"
+                "file": "Mathematics/Algorithms/Algorithm Design Methods.md"
               }
             }
           }
@@ -160,8 +160,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "21f370e3c5a3e3dd",
+  "active": "77cc255a44a3373a",
   "lastOpenFiles": [
+    "Mathematics/Algorithms/Graphs.md",
+    "Mathematics/Algorithms/Topological Sort.md",
+    "Mathematics/Algorithms/Topological.md",
+    "Mathematics/Algorithms/Quick Sort.md",
+    "Mathematics/Algorithms/DFS.md",
+    "Mathematics/Algorithms/Algorithm Design Methods.md",
+    "AI/Ethics of AI.md",
     "Professional Computing/Testing.md",
     "Professional Computing/Agile.md",
     "Professional Computing/ACID.md",
@@ -181,13 +188,6 @@
     "Professional Computing/DSDM.md",
     "Professional Computing/DevOps.md",
     "Professional Computing/DAD.md",
-    "Professional Computing/Analysis and Design.md",
-    "Professional Computing/Agile Manifesto.md",
-    "README.md",
-    "AI/Ethics of AI.md",
-    "AI/AI.md",
-    "AI/Search.md",
-    "Assessments/AI2.md",
     "AI"
   ]
 }
