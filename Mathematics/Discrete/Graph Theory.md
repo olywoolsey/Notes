@@ -1,21 +1,30 @@
 # Graph Theory
-#COMP1511
+#COMP1511 #COMP2721 
 [K.H.Rosen Discrete Mathematics and it's applications - Chapter 10 / 11](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYWVlZG9vbjF8Z3g6N2JmM2Y5YWEzMmRlNWUzNw)
 ## Basic Graphs
-- A simple graph $G=(V(G),E(G))$ with $p$ vertices and $q$ edges consists of a vertex set( or node set) $V(G)= \{v_1, .. v_p\}$ and an edge set $E(G) = \{e_1, ..e_q\}$ 
-- each edge is an unordered pair of vertices
-- An edge $e = \{uv\}$, is also denoted by $uv$ or $vu$
+- A simple graph $G=(V(G),E(G))$
+	- $p$ vertices and $q$ edges
+	- vertex set (or node set) $V(G)= \{v_1, .. v_p\}$
+	- edge [set](../Logic/Sets/Set%20Theory.md) $E(G) = \{e_1, ..e_q\}$ 
+- each edge is a pair of vertices
+- An edge between $u$ and $v$ is $e = \{u, v\}$, is also denoted by $uv$ or $vu$
 - The vertices in an edge $e$ are it's endpoints (or endnodes or endvertices) and $e$ is said to connect $u$ and $v$
 - An edge is said to be incident to it's endpoints
 - Two vertices that are endpoints to the same edge are adjacent vertices
 - Two edges that are incident to the same vertex are said to be adjacent edges
 - Two adjacent vertices are also called neighbouring vertices
-
+### Simple Graphs
+- An undirected graph without multi-edges and loops
 ### Multi-graphs
-- allow loops (edges joining a vertex to itself)
-- allow parallel edges (several edges joining the same two vertices)
-### Directed Graphs
-- also called digraphs
+- allow **loops** (edges joining a vertex to itself)
+- allow **multi-edges** / parallel edges (several edges joining the same two vertices)
+### Undirected Graphs
+- An edge between $u$ and $v$ is $e = \{u, v\}$, is also denoted by $uv$ or $vu$
+- $\{u, v\} = \{v, u\}$ 
+### Directed Graphs (digraphs)
+- $G = (V, E)$
+- notation for an arc from $a$ to $b: (a, b)$ or $a→b$
+- $(u, v) \neq (v, u)$ 
 - edges are ordered pairs of vertices and are called directed edges or arcs
 ### Weighted Graphs
 - each edge is assigned a weight
@@ -28,7 +37,6 @@
 - We assign labels to vertices and edges in a graph for the purpose of referring to them
 ### Problem
 determine in polynomial time whether two graphs are isomorphic. (This is a very difficult problem that is still unsolved).
-
 ## Vertex Degree
 - Denoted $d_G(v)$ or $d(v)$ or $deg(v)$
 - Is the number of edges that are incident to $v$ with loops counted twice
@@ -46,7 +54,6 @@ $Proof:$ Let $G$ be a simple graph with vertex set $V(G) = \{v_1, ...,v_n\}$ den
 	- For some $i \in \{1,..,n\},d(v_i) \leq n-2$
 	- So for every $i=1, ..,n,0 \leq d(v_i) \leq n-2$
 	- Since $n$ variables $d(v_i),..,d(v_n)$ are each assigned one of $n-1$ numbers from the set $\{0,..,n-2\}$, at least two of them must have the same value
-
 ## Paths and Cycles
 >[!warning]
 Other Sources will often use different terminology so always check
@@ -67,7 +74,6 @@ $THEOREM3$ A graph is a bipartite if and only if it contains no odd simple cycle
 	Output: YES if $G$ is bipartite (together with its bipartation), otherwise NO
 		1. For some vertex $u \in V(G)$, search[^1] the graph from $u$. As vertices are discovered partition them into sets $X$ and $Y$ as follows: for $v \in V(G)$, if $v$ is reached on an even path, otherwise place $v$ in $Y$.
 		2. Check whether $G$ has an edge $ab$ such that $\{a,b\} \subseteq X$ or $\{a.b\} \subseteq Y$. If no such edge exists return YES and bipartion $(X,Y)$; otherwise return NO
-
 ## Trees
 - Is a connected graph with no cycles
 - A leaf is a vertex of degree 1
@@ -79,14 +85,26 @@ $THEOREM4$ for a simple graph $G$ with $n$ vertices $n \leq 1$, the following ar
 	4. For every pair $u,v \in V(G)$, $G$ has exactly one simple path from $u$ to $v$
 ```mermaid
 graph LR;
-A<-->B;
-B<-->C;
-C<-->E;
-C<-->D;
+C<-->B;
+B<-->A;
+A<-->E;
+A<-->D;
 E<-->F;
 E<-->G;
 E<-->I;
-F<-->G;
 I<-->H;
 ```
 [^1]: graph search - using for example Breadth First Search or Depth First Search algorithms
+### Rooted Tree (Arborescence)
+- Obtained from a tree by choosing an arbitrary vertex $r$ as the root and directing all edges away from $r$
+```mermaid
+graph TD;
+A<-->B;
+B<-->C;
+A<-->D;
+A<-->E;
+E<-->F;
+E<-->G;
+E<-->I;
+I<-->H;
+```

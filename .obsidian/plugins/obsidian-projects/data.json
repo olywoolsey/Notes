@@ -5,6 +5,7 @@
       "fieldConfig": {
         "status": {
           "options": [
+            "backlog",
             "doing",
             "done"
           ]
@@ -44,11 +45,11 @@
               {
                 "field": "name",
                 "order": "asc",
-                "enabled": true
+                "enabled": false
               },
               {
                 "field": "due",
-                "order": "desc",
+                "order": "asc",
                 "enabled": true
               }
             ]
@@ -59,10 +60,11 @@
         },
         {
           "config": {
-            "groupByField": "status",
             "includeFields": [
-              "status"
-            ]
+              "due"
+            ],
+            "groupByField": "status",
+            "columnWidth": 350
           },
           "filter": {
             "conditions": []
@@ -97,6 +99,32 @@
           "id": "a81f5d8b-7cc1-4067-b1df-d07cb9df71e3",
           "name": "Gallery",
           "type": "gallery"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "name",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4b33931f-e942-4fb9-963d-5ed07eba7fb2",
+          "name": "Due Dates Calendar",
+          "type": "calendar"
         }
       ],
       "id": "ee1b4810-16b5-4587-b526-9bf2573bc96d",
