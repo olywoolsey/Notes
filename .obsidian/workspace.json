@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assessments/Software Project.md",
+                "file": "FML/FML.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessments/Software Project.md",
+                "file": "FML/FML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessments/Software Project.md",
+                "file": "FML/FML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assessments/Software Project.md"
+                "file": "FML/FML.md"
               }
             }
           },
@@ -174,14 +174,16 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "ebb3c1fd50d07ac3",
   "lastOpenFiles": [
+    "Mathematics/Algorithms/Formulae.md",
+    "FML/FML.md",
+    "FML",
     "Assessments/Software Project.md",
     "Assessments/Exams.md",
     "Assessments/Algorithms3.md",
     "Assessments/Algorithms2.md",
     "Assessments/Algorithms1.md",
-    "Mathematics/Algorithms/Formulae.md",
     "Mathematics/Algorithms/Topological Sort.md",
     "Mathematics/Algorithms/Graphs.md",
     "Mathematics/Algorithms/Depth First Search.md",
@@ -201,7 +203,6 @@
     "COMP1721-OOP/Arrays in Java.md",
     "Mathematics/Linear Algebra/lec05.md",
     "Mathematics/Linear Algebra/lec04.md",
-    "Mathematics/Linear Algebra/Gaussian Elimination.md",
     "AI",
     "Networks",
     "Untitled.canvas",
@@ -222,7 +223,6 @@
     "Operating Systems/Recording 20240123140322.webm",
     "Operating Systems/Recording 20240123140248.webm",
     "Procedural Programming/Linked_Lists.png",
-    "Mathematics/Linear Algebra",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
 }
