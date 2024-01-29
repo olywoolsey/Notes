@@ -15,7 +15,7 @@
               "state": {
                 "file": "Mathematics/Algorithms/Graphs.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -162,13 +162,19 @@
   },
   "active": "77cc255a44a3373a",
   "lastOpenFiles": [
-    "Mathematics/Algorithms/Insertion Sort.md",
-    "Mathematics/Algorithms/Graphs.md",
+    "Mathematics/Algorithms/Formulae.md",
     "Mathematics/Algorithms/Backwards Substitution.md",
+    "Mathematics/Algorithms/BFS.md",
     "Mathematics/Algorithms/Algorithm Design Methods.md",
+    "Mathematics/Discrete/Discrete Probability Theory.md",
+    "Mathematics/Discrete/Graph Theory.md",
+    "Mathematics/Algorithms/Graphs.md",
+    "User Interfaces/Human Memory.md",
+    "Hardware/Processors/Sequential Logic & Memory.md",
+    "AI/AI.md",
+    "Mathematics/Algorithms/Insertion Sort.md",
     "Mathematics/Algorithms/Queues.md",
     "Mathematics/Algorithms/Priority Queues.md",
-    "Mathematics/Algorithms/BFS.md",
     "Mathematics/Algorithms/DFS.md",
     "Mathematics/Algorithms/Topological Sort.md",
     "Mathematics/Algorithms/Selection Sort.md",
@@ -179,15 +185,9 @@
     "Mathematics/Algorithms/Merge Sort.md",
     "Mathematics/Algorithms/Lists.md",
     "Mathematics/Algorithms/Iterative Algorithms.md",
-    "Mathematics/Algorithms/Formulae.md",
     "Mathematics/Algorithms/Bubble Sort.md",
     "Mathematics/Algorithms/Binary Search.md",
     "Mathematics/Algorithms/Big O.md",
-    "Mathematics/Algorithms/Topological.md",
-    "AI/Ethics of AI.md",
-    "Professional Computing/Testing.md",
-    "Professional Computing/Agile.md",
-    "Professional Computing/ACID.md",
     "AI"
   ]
 }
