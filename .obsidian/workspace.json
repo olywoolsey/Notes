@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Algorithms/Algorithm Design Methods.md",
+                "file": "Mathematics/Algorithms/Backwards Substitution.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Algorithms/Algorithm Design Methods.md",
+                "file": "Mathematics/Algorithms/Backwards Substitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Algorithms/Algorithm Design Methods.md",
+                "file": "Mathematics/Algorithms/Backwards Substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Algorithms/Algorithm Design Methods.md"
+                "file": "Mathematics/Algorithms/Backwards Substitution.md"
               }
             }
           }
@@ -162,32 +162,32 @@
   },
   "active": "77cc255a44a3373a",
   "lastOpenFiles": [
-    "Mathematics/Algorithms/Graphs.md",
-    "Mathematics/Algorithms/Topological Sort.md",
-    "Mathematics/Algorithms/Topological.md",
-    "Mathematics/Algorithms/Quick Sort.md",
-    "Mathematics/Algorithms/DFS.md",
     "Mathematics/Algorithms/Algorithm Design Methods.md",
+    "Mathematics/Algorithms/Queues.md",
+    "Mathematics/Algorithms/Priority Queues.md",
+    "Mathematics/Algorithms/BFS.md",
+    "Mathematics/Algorithms/Graphs.md",
+    "Mathematics/Algorithms/DFS.md",
+    "Mathematics/Algorithms/Topological Sort.md",
+    "Mathematics/Algorithms/Selection Sort.md",
+    "Mathematics/Algorithms/Stacks.md",
+    "Mathematics/Algorithms/Sequential Search.md",
+    "Mathematics/Algorithms/Recursive Algorithms.md",
+    "Mathematics/Algorithms/Quick Sort.md",
+    "Mathematics/Algorithms/Merge Sort.md",
+    "Mathematics/Algorithms/Lists.md",
+    "Mathematics/Algorithms/Iterative Algorithms.md",
+    "Mathematics/Algorithms/Insertion Sort.md",
+    "Mathematics/Algorithms/Formulae.md",
+    "Mathematics/Algorithms/Bubble Sort.md",
+    "Mathematics/Algorithms/Binary Search.md",
+    "Mathematics/Algorithms/Big O.md",
+    "Mathematics/Algorithms/Backwards Substitution.md",
+    "Mathematics/Algorithms/Topological.md",
     "AI/Ethics of AI.md",
     "Professional Computing/Testing.md",
     "Professional Computing/Agile.md",
     "Professional Computing/ACID.md",
-    "Professional Computing/Value Proposal.md",
-    "Professional Computing/Use Cases.md",
-    "Professional Computing/UML.md",
-    "Professional Computing/The First Computers.md",
-    "Professional Computing/Test Driven Development.md",
-    "Professional Computing/SQIRO.md",
-    "Professional Computing/Software Engineering Definitions.md",
-    "Professional Computing/Software Development Principles.md",
-    "Professional Computing/Software Development Life Cycle.md",
-    "Professional Computing/Owen's Intro.md",
-    "Professional Computing/Network Development.md",
-    "Professional Computing/Implementation Diagram.md",
-    "Professional Computing/eXtreme Programming.md",
-    "Professional Computing/DSDM.md",
-    "Professional Computing/DevOps.md",
-    "Professional Computing/DAD.md",
     "AI"
   ]
 }
