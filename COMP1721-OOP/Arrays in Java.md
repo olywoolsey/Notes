@@ -74,14 +74,15 @@ List<String> words = new LinkedList<>();
 
 ## Some List Methods
 - as lists are classes you need to use methods to use them
-| size    | returns number of elements in the list                                                       |
-| ------- | -------------------------------------------------------------------------------------------- |
-| isEmpty | returns number of elements in the list                                                       |
-| get     | returns element at the given integer index                                                   |
-| indexOf | returns position of the first occurrence of the specified item, or –1 if item is not present |
-| add     | adds item to the end of the list, or at the given index                                      |
-| remove  | removes the item at the given index                                                          |
-| clear   | removes all items                                                                            |
-| toArray | returns an array containing the list items                                                   |                                                                                             |     |     |
+
+| size | returns number of elements in the list |  |  |  |
+| ---- | ---- | ---- | ---- | ---- |
+| isEmpty | returns number of elements in the list |  |  |  |
+| get | returns element at the given integer index |  |  |  |
+| indexOf | returns position of the first occurrence of the specified item, or –1 if item is not present |  |  |  |
+| add | adds item to the end of the list, or at the given index |  |  |  |
+| remove | removes the item at the given index |  |  |  |
+| clear | removes all items |  |  |  |
+| toArray | returns an array containing the list items |  |  |  |
 
 
