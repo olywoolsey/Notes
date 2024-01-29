@@ -5,7 +5,7 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "autoPairBrackets": false,
   "newLinkFormat": "relative",
   "newFileLocation": "current",

@@ -1,4 +1,5 @@
-## Effects of AI
+# Ethics of [AI](AI.md)
+#COMP2611 
 ## Motivations
 - Ability to carry out complex but largely uninteresting tasks(such as housework)
 - Capability to design and maintain complex infrastructure
@@ -16,3 +17,14 @@ We should also be aware that adverse affects are also possible:
 - Manipulating human lives
 - Detaching humans from reality
 - Competing with, threatening or destroying humans
+## Levels of AI
+- Weak (aka Narrow) AI 
+	- Perform specific tasks
+	- One of a kind
+	- Tasks that would be described as requiring intelligence if done by humans
+- Strong (aka General) AI 
+	- Achieving a potentially unlimited range of tasks,which are regarded as involving intelligence. 
+	- It is generally assumed that humans have this, whereas no current computer system does. 
+- Super-intelligence 
+	- Intelligence that goes significantly beyond that of any human being. 
+	- Some theorists believe that this is possible and could potentially be dangerous for humans

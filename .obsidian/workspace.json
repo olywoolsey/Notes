@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d0dadba38685a1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/AI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7b950fed8cff0c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Search.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "395b28ac7d2b7542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/AI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "77cc255a44a3373a",
             "type": "leaf",
             "state": {
@@ -59,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b89d0b4269de3818",
@@ -145,7 +106,7 @@
               "state": {
                 "file": "AI/Ethics of AI.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -182,12 +143,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,11 +164,11 @@
   "lastOpenFiles": [
     "AI/AI.md",
     "AI/Ethics of AI.md",
+    "AI/Search.md",
     "Professional Computing/DSDM.md",
     "Professional Computing/DAD.md",
     "Professional Computing/Agile.md",
     "README.md",
-    "AI/Search.md",
     "Assessments/AI2.md",
     "Assessments/AI1.md",
     "Professional Computing/ACID.md",
