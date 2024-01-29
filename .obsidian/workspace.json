@@ -15,7 +15,7 @@
               "state": {
                 "file": "AI/Ethics of AI.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#COMP2011  ",
+                "query": "tag:#COMP2912",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b89d0b4269de3818",
@@ -148,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,17 +162,32 @@
   },
   "active": "77cc255a44a3373a",
   "lastOpenFiles": [
-    "AI/AI.md",
-    "AI/Ethics of AI.md",
-    "AI/Search.md",
-    "Professional Computing/DSDM.md",
-    "Professional Computing/DAD.md",
+    "Professional Computing/Testing.md",
     "Professional Computing/Agile.md",
-    "README.md",
-    "Assessments/AI2.md",
-    "Assessments/AI1.md",
     "Professional Computing/ACID.md",
-    "AI",
-    "conflict-files-obsidian-git.md"
+    "Professional Computing/Value Proposal.md",
+    "Professional Computing/Use Cases.md",
+    "Professional Computing/UML.md",
+    "Professional Computing/The First Computers.md",
+    "Professional Computing/Test Driven Development.md",
+    "Professional Computing/SQIRO.md",
+    "Professional Computing/Software Engineering Definitions.md",
+    "Professional Computing/Software Development Principles.md",
+    "Professional Computing/Software Development Life Cycle.md",
+    "Professional Computing/Owen's Intro.md",
+    "Professional Computing/Network Development.md",
+    "Professional Computing/Implementation Diagram.md",
+    "Professional Computing/eXtreme Programming.md",
+    "Professional Computing/DSDM.md",
+    "Professional Computing/DevOps.md",
+    "Professional Computing/DAD.md",
+    "Professional Computing/Analysis and Design.md",
+    "Professional Computing/Agile Manifesto.md",
+    "README.md",
+    "AI/Ethics of AI.md",
+    "AI/AI.md",
+    "AI/Search.md",
+    "Assessments/AI2.md",
+    "AI"
   ]
 }

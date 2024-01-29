@@ -1,5 +1,6 @@
 # Advanced Use Cases
 #COMP2912
+
 Use cases represent a transaction of value
 Use Case Modelling is based on the assumption that for a use case to be used there must be a positive [Value Proposal](Value%20Proposal.md) which explains why a person would want to do it
 ## Use Case Diagrams

@@ -1,4 +1,6 @@
 # Dynamic Systems Development Method - DSDM
+#COMP2912 
+
 Encapsulates the principles of RAD as a more formal methodology. 
 Nine key principles:
 1. Active user involvement is imperative

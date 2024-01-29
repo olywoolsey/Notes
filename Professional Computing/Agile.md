@@ -1,5 +1,5 @@
 # Agile
-#COMP1911
+#COMP1911 #COMP2912 
 ## Agile Software development
 - [Agile manifesto](Agile%20Manifesto.md): http://agilemanifesto.org/
 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.

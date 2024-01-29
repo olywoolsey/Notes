@@ -1,5 +1,5 @@
-# software development life cycle
-#COMP1911
+# Software Development Life Cycle
+#COMP1911 #COMP2912 
  - value of software decreases over time, have to kill software if provides negative value
 ## Stages
 ### Initiation
