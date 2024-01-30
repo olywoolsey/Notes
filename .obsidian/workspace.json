@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e9346a9809bcacb",
+        "id": "b94003cccfee9ab6",
         "type": "tabs",
         "children": [
           {
-            "id": "77cc255a44a3373a",
+            "id": "1a8a20fb3beabaad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,10 +151,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "77cc255a44a3373a",
+  "active": "1a8a20fb3beabaad",
   "lastOpenFiles": [
-    "Canva.canvas",
+    "Assessments/Networks1.md",
     "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+    "Canva.canvas",
     "Frml Lang&Finite Automata/Images/DFA.png",
     "Frml Lang&Finite Automata/Images",
     "FML/Untitled.md",
