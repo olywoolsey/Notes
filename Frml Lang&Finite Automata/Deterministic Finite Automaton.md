@@ -7,4 +7,4 @@
 	- $q_0 ∈ Q$ is the start state
 	- $F ⊆ Q$ is the set of accepting states
 ## Graphical Representation
-![](Pasted%20image%2020240130161726.png)
+![](Images/DFA.png)

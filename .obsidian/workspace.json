@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "0def02060054ef8c",
+    "id": "026878759446f6e8",
     "type": "split",
     "children": [
       {
-        "id": "6046b9d56f65ac80",
+        "id": "8e9346a9809bcacb",
         "type": "tabs",
         "children": [
           {
-            "id": "7ea5264d57746ff9",
+            "id": "77cc255a44a3373a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7d132adba6563df3",
+    "id": "2da9c6d7b7eb7279",
     "type": "split",
     "children": [
       {
-        "id": "0b16a149c673b3cb",
+        "id": "b1f9342b5510e9a1",
         "type": "tabs",
         "children": [
           {
-            "id": "9b0e31f5f344f025",
+            "id": "21f370e3c5a3e3dd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,83 +44,84 @@
             }
           },
           {
-            "id": "9c4bf57763d51fec",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "37cf4da75e1172a1",
+            "id": "dd101f62538bd3f3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#COMP2912",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "0c29d5f57ab47581",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 300
   },
   "right": {
-    "id": "39d6b828b6c92792",
+    "id": "b89d0b4269de3818",
     "type": "split",
     "children": [
       {
-        "id": "2623a6b2ba42e475",
+        "id": "4d6a408852e1cec5",
         "type": "tabs",
         "children": [
           {
-            "id": "ce1147f5e60aabae",
+            "id": "9cd066519915de60",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "97b25f6e76016b7d",
+            "id": "39797fc03df17e6e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "56b0d6ce46bfa759",
+            "id": "2ea625477b9dd152",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "README.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "54e2fed292eca55d",
+            "id": "f97afcfc5608bacb",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -132,83 +133,63 @@
             }
           },
           {
-            "id": "171d68278b677142",
+            "id": "0388bcff9e4a2806",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-projects:Open projects": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7ea5264d57746ff9",
+  "active": "77cc255a44a3373a",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Frml Lang&Finite Automata/Images/DFA.png",
+    "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+    "Frml Lang&Finite Automata/Images",
     "FML/Untitled.md",
-    "FML/Deterministic Finite Automaton.md",
-    "Untitled.md",
-    "FML/Pasted image 20240130161726.png",
+    "Mathematics/Algorithms/Graphs.md",
     "Mathematics/Algorithms/Depth First Search.md",
     "Mathematics/Algorithms/Breadth First Search.md",
-    "Mathematics/Algorithms/Formulae.md",
-    "Mathematics/Discrete/Graph Theory.md",
-    "Mathematics/Algorithms/Big O.md",
     "FML",
     "Assessments/Software Project.md",
     "Assessments/Exams.md",
     "Assessments/Algorithms3.md",
     "Assessments/Algorithms2.md",
     "Assessments/Algorithms1.md",
-    "Mathematics/Algorithms/Topological Sort.md",
-    "Mathematics/Algorithms/Graphs.md",
-    "Mathematics/Algorithms/Bubble Sort.md",
-    "Mathematics/Algorithms/Binary Search.md",
+    "Mathematics/Algorithms/Formulae.md",
     "Mathematics/Algorithms/Backwards Substitution.md",
-    "Mathematics/Algorithms/Stacks.md",
+    "Mathematics/Algorithms/BFS.md",
     "Mathematics/Algorithms/Algorithm Design Methods.md",
-    "Mathematics/COMP2421-NumericatComputation/lec09.md",
-    "Mathematics/Discrete/Combinatorics.md",
-    "Mathematics/Logic/Sets/Set Theory.md",
     "Mathematics/Discrete/Discrete Probability Theory.md",
-    "Assessments/Networks2.md",
-    "AI",
-    "Networks",
-    "Untitled.canvas",
-    "Databases/images/ChensExample.png",
-    "Assessments",
-    "A",
-    "Operating Systems/Images/Inter-process_Comminication.png",
-    "Operating Systems/Images/Process_State_Transitions.png",
-    "Hardware/Processors/Images/Pasted image 20230308103258.png",
-    "Operating Systems/Images/Queuing_Diagram.png",
-    "Operating Systems/Images/Stack_vs_Heap.png",
-    "Operating Systems/Images/Threads.png",
-    "Operating Systems/Images/User_Program_System_Call.png",
-    "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
-    "Hardware",
-    "Operating Systems/Memory Management",
-    "Operating Systems/Recording 20240123140101.webm",
-    "Operating Systems/Recording 20240123140322.webm",
-    "Operating Systems/Recording 20240123140248.webm",
-    "Semester1/InternationalDevelopment/Hell.canvas"
+    "Mathematics/Discrete/Graph Theory.md",
+    "User Interfaces/Human Memory.md",
+    "Hardware/Processors/Sequential Logic & Memory.md",
+    "AI/AI.md",
+    "Mathematics/Algorithms/Insertion Sort.md",
+    "Mathematics/Algorithms/Queues.md",
+    "Mathematics/Algorithms/Priority Queues.md",
+    "Mathematics/Algorithms/DFS.md",
+    "Mathematics/Algorithms/Topological Sort.md",
+    "Mathematics/Algorithms/Selection Sort.md",
+    "AI"
   ]
 }
