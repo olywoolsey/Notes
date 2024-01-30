@@ -23,7 +23,7 @@
 - #COMP2711 Algorithms I
 ### Semester 2
 - #COMP2221 Networks
-- #COMP2321 Frml Lang&Finite Automa
+- #COMP2321 Formal Languages & Finite Automata
 - #COMP2611 Artificial Intelligence
 - #COMP2721 Algorithms II
 - #COMP2913 Software Engineering Project

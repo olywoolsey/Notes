@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -160,7 +161,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7ea5264d57746ff9",
+  "active": "9b0e31f5f344f025",
   "lastOpenFiles": [
     "Untitled 1.md",
     "FML/Untitled.md",
