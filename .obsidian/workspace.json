@@ -11,14 +11,12 @@
             "id": "77cc255a44a3373a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md"
               }
             }
           }
@@ -164,8 +162,8 @@
   },
   "active": "77cc255a44a3373a",
   "lastOpenFiles": [
+    "Canva.canvas",
     "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
-    "Untitled.canvas",
     "Frml Lang&Finite Automata/Images/DFA.png",
     "Frml Lang&Finite Automata/Images",
     "FML/Untitled.md",
