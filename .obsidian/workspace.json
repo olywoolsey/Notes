@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b653da01d6826f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessments/Networks1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessments/Networks1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assessments/Networks1.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -175,8 +188,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "bef270018d2c8b54",
+  "active": "4b653da01d6826f0",
   "lastOpenFiles": [
+    "Assessments/Networks1.md",
+    "conflict-files-obsidian-git.md",
+    "Frml Lang&Finite Automata/Images/DFA.png",
+    "Frml Lang&Finite Automata/Images",
+    "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+    "Frml Lang&Finite Automata",
     "README.md",
     "Untitled 1.md",
     "FML/Untitled.md",
@@ -202,9 +221,6 @@
     "Mathematics/Algorithms/Stacks.md",
     "Mathematics/Algorithms/Algorithm Design Methods.md",
     "Mathematics/COMP2421-NumericatComputation/lec09.md",
-    "Mathematics/Discrete/Combinatorics.md",
-    "Mathematics/Logic/Sets/Set Theory.md",
-    "Mathematics/Discrete/Discrete Probability Theory.md",
     "AI",
     "Networks",
     "Untitled.canvas",
@@ -218,12 +234,9 @@
     "Operating Systems/Images/Stack_vs_Heap.png",
     "Operating Systems/Images/Threads.png",
     "Operating Systems/Images/User_Program_System_Call.png",
-    "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
     "Hardware",
     "Operating Systems/Memory Management",
     "Operating Systems/Recording 20240123140101.webm",
-    "Operating Systems/Recording 20240123140322.webm",
-    "Operating Systems/Recording 20240123140248.webm",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
 }
