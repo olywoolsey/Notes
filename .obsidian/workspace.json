@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professional Computing/DAD.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional Computing/DAD.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Professional Computing/DAD.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Professional Computing/DAD.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "1a8a20fb3beabaad",
   "lastOpenFiles": [
+    "Professional Computing/DAD.md",
     "Professional Computing/DevOps.md",
     "Assessments/Networks1.md",
     "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
@@ -191,7 +192,6 @@
     "Mathematics/Algorithms/Queues.md",
     "Mathematics/Algorithms/Priority Queues.md",
     "Mathematics/Algorithms/DFS.md",
-    "Mathematics/Algorithms/Topological Sort.md",
     "AI"
   ]
 }
