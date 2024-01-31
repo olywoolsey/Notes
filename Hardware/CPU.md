@@ -2,7 +2,7 @@
 #COMP1211 
 ## Control Unit (CU)
 - an instruction interpreter
-- It takes instructions from memory and then decodes and executes these instructions
+- It takes instructions from [Memory](COMP1211-ComputerArchitecture/Memory.md) and then decodes and executes these instructions
 - mainly regulates and maintains the information's flow across the processor
 - It does not take part in storing data and processing.
 ## Arithmetic and logic unit (ALU)

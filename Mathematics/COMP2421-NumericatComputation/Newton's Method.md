@@ -1,4 +1,5 @@
 # Newton's method
+#COMP2421
 ## Examples
 ### Example 1
 Use Newton's method to approximate the value of $\sqrt{2}$ by solving $x^2 - R = 0$.
@@ -365,6 +366,3 @@ Can you find a Newton iteration with period 3 or more?
     -   a good initial guess may sometimes be obtained from the bisection method.
 
 -   Newton's method assumes that the derivative of the function $f(x)$ is known and easily evaluated.
-
-
-The [slides used in the lecture](./lec15_.ipynb) are also available

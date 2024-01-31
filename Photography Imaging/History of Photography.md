@@ -224,7 +224,7 @@
 
 ## The Bayer Filter Mask
 - Bryce E. Bayer of Eastman Kodak patented the Bayer filter mask (US. Patent No.3,971,065) in 1976
-- The filter is universal on consumer digital cameras
+- The filter is universal on consumer digital [cameras](Cameras.md)
 - Bayer was honoured in 2009 by the Royal Photographic Society with the societies Progress Award
 
 ## Ilford XP Film

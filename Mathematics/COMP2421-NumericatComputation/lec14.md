@@ -1,4 +1,5 @@
 # Lecture 14: A modelling example
+#COMP2421
 ## A model for the trajectory of an object
 ### Newton's laws of motion
 -   A large component of many computer games is the *physics engine*.
@@ -223,5 +224,3 @@ $$
 ## Further reading
 - Wikipedia: [Projectile motion](https://en.wikipedia.org/wiki/Projectile_motion)
 - [`scipy.integrate.solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html)
-
-The [slides used in the lecture](./lec14_.ipynb) are also available

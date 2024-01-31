@@ -1,7 +1,7 @@
 # Transaction Management
 #COMP1121
 ## What is a Transaction
-- Action, or series of actions, carried out by user or application, which reads or updates contents of database
+- Action, or series of actions, carried out by user or application, which reads or updates contents of [Databases](Databases.md)
 	- Logical unit of work on the database
 	- Application program is series of transactions with non-database processing in between
 	- Transforms database from one consistent state to another, although consistency may be violated during transaction

@@ -1,5 +1,5 @@
 # Lecture 17: Quasi-Newton methods
-
+#COMP2421
 ## Approximation of the derivative
 
 -   The formula $x^{(i+1)} = x^{(i)} - \frac{f(x^{(i)})}{f'(x^{(i)})}$ requires that we are able to compute an expression for the derivative of $f(x)$.
@@ -164,5 +164,3 @@ Disadvantages:
 - Wikipedia: [Quasi-Newton method](https://en.wikipedia.org/wiki/Quasi-Newton_method)
 - Wikipedia: [Secant method](https://en.wikipedia.org/wiki/Secant_method)
 - `scipy`: Optimization and root finding [`scipy.optimize`](https://docs.scipy.org/doc/scipy/reference/optimize.html)
-
-The [slides used in the lecture](./lec17_.ipynb) are also available

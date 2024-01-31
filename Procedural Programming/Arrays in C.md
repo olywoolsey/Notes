@@ -1,4 +1,5 @@
-#COMP1711 #semester-1 
+# Arrays in C
+#COMP1711
  ordered list of data
 - strongly typed
 - allow us to collect data together and store with the same name

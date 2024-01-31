@@ -1,6 +1,6 @@
 #COMP1211 
 - alternative to [[Bias Notation]] in representing [[Binary]] numbers
-- unlike [[One's compliment]] it doesn't have two zeros and mathematical operations work on it
+- unlike One's compliment it doesn't have two zeros and mathematical operations work on it
 	- as long as there's no overflow
 - using 4 bits:
 

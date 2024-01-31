@@ -25,7 +25,7 @@
 - Data movement (I/O)
 - Program flow control
 
-## [[RISC]] vs [[CISC]]
+## [[RISC]] vs CISC
 
 
 ## [[Types of operations]]

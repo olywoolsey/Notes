@@ -1,4 +1,5 @@
 # Least squares fitting
+#COMP2421
 ## Motivation
 -   Suppose we are given data point representing a quantity over time.
 -   We want to represent the graph of this data as a simple curve.
@@ -353,5 +354,3 @@ See also: Nick Higham, [Seven sins of numerical linear algebra](https://nhigham.
 - Wikipedia: [Linear least squares](https://en.wikipedia.org/wiki/Linear_least_squares)
 - Maths is fun: [Least Squares Regression](https://www.mathsisfun.com/data/least-squares-regression.html)
 - Cross Validated StackExchange: [Is a model fitted to data or is data fitted to a model?](https://stats.stackexchange.com/questions/399094/is-a-model-fitted-to-data-or-is-data-fitted-to-a-model)
-
-The [slides used in the lecture](./lec19_.ipynb) are also available

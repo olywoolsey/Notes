@@ -139,7 +139,7 @@ A digital camera will contain either a CCD(Charge Coupled Device) or CMOS(Comple
 ![[Images/Pasted image 20230313155200.png]]
 (a) Standard Bayer Filter
 (b) Used in some video [cameras](Cameras.md)
-(c) Used in some Sony cameras for improved colour
+(c) Used in some Sony [cameras](Cameras.md) for improved colour
 (d) Bayer type with additional transparent elements for better light detection
 
 #### Storage

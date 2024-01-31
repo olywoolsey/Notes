@@ -1,4 +1,5 @@
 # Floating point number systems
+#COMP2421
 ## Finite precision number systems
 
 -   Computers store numbers with **finite precision**, i.e. using a finite set of bits (binary digits), typically 32 or 64 of them.

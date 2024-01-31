@@ -10,8 +10,8 @@
 Ukraine war caused increased energy costs
 ##  Sustainability
 - def: no reason why the current trends can't continue
-- includes environment, social, economic & political
-## Decarbonisation
+- includes environment, social, [economic](Economics%20in%20Transport.md) & political
+## De-carbonisation
 - sustainable travel
 - building back better / greener
 - levelling up

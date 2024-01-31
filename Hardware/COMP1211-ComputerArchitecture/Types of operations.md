@@ -20,7 +20,7 @@
 
 ## Logical
 - Bit-wise operations
-- [[Conjunction|AND]] [[Dis-junction|OR]] [[negation|NOT]]
+- AND, OR, NOT
 - Shift
 ![[Images/Logical_Shift.png]]
 

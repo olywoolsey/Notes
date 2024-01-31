@@ -1,3 +1,4 @@
+# Byte Ordering
 #COMP1211 
 ## Little-Endian vs Big-Endian
 - **What order do we read numbers that occupy more than one [[Binary|byte]]?**

@@ -1,4 +1,5 @@
 # Solving triangular systems
+#COMP2421
 
 A general *lower triangular* system of equations has $a_{ij} = 0$ for $j > i$ and takes the form:
 

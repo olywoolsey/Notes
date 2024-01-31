@@ -1,4 +1,5 @@
 # Lecture 08: Sparse matrices and stopping criteria
+#COMP2421
 ##  Sparse Matrices
 
 There are two main ways in which sparse matrices can be exploited in order to obtain benefits within iterative methods.

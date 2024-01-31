@@ -1,4 +1,4 @@
-# Entity Relationship Moddeling
+# Entity Relationship Modelling
 #COMP1121
 - Analysis data requirements in a systematic way to help produce a well designed database
 ## Notations

@@ -107,7 +107,7 @@ not present within the centre of the field of view
 - Focusing involves adjusting the plane of sharp focus either by moving it nearer to the camera (for close-up’s)or further away (for distant views)
 - With both manual and automatic focus, inward &outward motion of the lens is achieved via a threaded barrel
 - The focus moves from infinity to ~1-2 metres from the camera
-- Many cameras have a built-in focusing aid for manual focusing
+- Many [cameras](Cameras.md) have a built-in focusing aid for manual focusing
 ![[Images/Pasted image 20230306152357.png]]
 - mirror moves out the way when picture is taken
 - The viewing screens have incorporated into them a Focusing Screen of which there are a range of types available

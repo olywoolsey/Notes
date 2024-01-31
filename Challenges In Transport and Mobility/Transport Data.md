@@ -15,7 +15,7 @@
 - Fast Alternative Route
 - Demand < Predicted (-33%)
 - Inefficient use of resources
-- Difficult to recover costs
+- Difficult to recover [costs](Economics%20in%20Transport.md)
 #### Borders Railway Reopening
 - Demand > Predicted(+22%)
 - Insufficient Capacity

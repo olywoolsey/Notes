@@ -1,4 +1,5 @@
 # Deterministic finite automaton
+#COMP2321
 - (Finite State Machine)
 - a 5-tuple $(Q, Σ, δ, q_0, F)$, where
 	- $Q$ is a finite set called the states

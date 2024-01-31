@@ -10,7 +10,8 @@
 ## Excess Travel
 - Proposed by Mokhtarian et al (2001)
 - Evidence that people tend to travel more / further than they need to even when engaged in mundane daily activities
-- Differs between people based on attitudes• Signifies a “fundamental human need for mobility”?
+- Differs between people based on attitudes
+- Signifies a “fundamental human need for mobility”?
 - Challenges the perspective of transport being a wholly derived demand
 ![[Excess_Travel.png]]
 

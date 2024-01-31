@@ -1,3 +1,4 @@
+# Binary
 #COMP1211 
 ## Definitions
 - Bit: binary digit

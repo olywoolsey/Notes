@@ -1,4 +1,5 @@
 # LU Factorisation
+#COMP2421
 ##  The cost of Gaussian Elimination
 -   [Gaussian elimination](../Linear%20Algebra/Gaussian%20Elimination.md) (GE) is unnecessarily expensive when it is applied to many systems of equations with the same matrix $A$ but different right-hand sides $\vec{b}$.
     -   The forward elimination process is the most computationally expensive part at $O(n^3)$ but is exactly the same for any choice of $\vec{b}$.

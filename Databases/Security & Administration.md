@@ -95,7 +95,7 @@ Protect against:
 - Estimating volumes of data and likely growth
 - Determining patterns and frequencies of data usage
 - Determining data access requirements and safeguards for both legal and enterprise requirements
-- Undertaking conceptual and logical database design
+- Undertaking conceptual and logical [database design](Database%20Design.md)
 - Liaising with database administration staff and application developers to ensure applications meet all stated requirements
 - Educating users on data standards and legal responsibilities
 - Keeping up to date with IT/IS and enterprise developments

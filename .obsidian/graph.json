@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -12,6 +12,41 @@
       "color": {
         "a": 1,
         "rgb": 16777215
+      }
+    },
+    {
+      "query": "COMP1",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "COMP2",
+      "color": {
+        "a": 1,
+        "rgb": 6322903
+      }
+    },
+    {
+      "query": "Assess",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "COLO",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "TRAN",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -26,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.29530732937246734,
-  "close": true
+  "close": false
 }

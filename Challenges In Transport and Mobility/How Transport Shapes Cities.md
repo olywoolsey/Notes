@@ -9,7 +9,7 @@
 	- what happens when we become less mobile (age, cost, illness, ect)
 
 ## Determinism
-- If we invest into different types of transport we will end up with a particular environment/ lifestyle
+- If we [invest](Economics%20in%20Transport.md) into different types of transport we will end up with a particular environment/ lifestyle
 
 ## History
 - many towns and citys predate motorised travel

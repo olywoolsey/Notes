@@ -1,5 +1,5 @@
 # Graph Theory
-#COMP1511 #COMP2721 
+#COMP1511 #COMP2721 #COMP2421
 [K.H.Rosen Discrete Mathematics and it's applications - Chapter 10 / 11](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYWVlZG9vbjF8Z3g6N2JmM2Y5YWEzMmRlNWUzNw)
 ## Basic Graphs
 - A simple graph $G=(V(G),E(G))$

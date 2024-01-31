@@ -1,5 +1,5 @@
 # Iterative solutions of linear equations
-
+#COMP2421
 ## Direct methods
 
 -   [Gaussian elimination](../Linear%20Algebra/Gaussian%20Elimination.md) and [LU factorisation](LU%20Factorisation.md) are characterised as **direct** methods.

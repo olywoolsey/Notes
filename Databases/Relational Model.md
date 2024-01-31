@@ -1,5 +1,8 @@
 # Relational Model
 #COMP1121
+- Conceptual framework used in [Database](Databases.md) management and [design](Database%20Design.md)
+- The relational model is to represent data in tables, also known as relations, which consist of rows and columns.
+- Each table represents a specific entity, and the columns represent attributes or properties of that entity
 ## Defs
 | Name         | Definition                      |
 | ------------ | ------------------------------- |

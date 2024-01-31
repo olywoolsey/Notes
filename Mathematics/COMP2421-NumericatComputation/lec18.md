@@ -1,5 +1,5 @@
 # Lecture 18: Robust nonlinear solvers
-
+#COMP2421
 ### Recap
 
 -   In the previous lecture we consider a modified version of [Newton's method](Newton's%20Method.md) in which $f'(x^{(i)})$ is approximated:
@@ -194,5 +194,3 @@ brentq(naca0012, 0.0, 0.5, xtol=1.0e-4, full_output=True)
 ## Further reading
 
 - `scipy`: Optimization and root finding [`scipy.optimize`](https://docs.scipy.org/doc/scipy/reference/optimize.html)
-
-The [slides used in the lecture](./lec18_.ipynb) are also available

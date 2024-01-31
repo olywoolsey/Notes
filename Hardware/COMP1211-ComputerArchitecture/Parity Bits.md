@@ -1,6 +1,7 @@
+# Parity Bits
 #COMP1211 
 - type of error detection
-- goes with binary at the end 
+- goes with [binary](Binary.md) at the end 
 - can detect errors but can't correct it
 
 Given a set of bits, the value of the corresponding parity bit is chosen so that when it is added to this set the total number of 1s is even

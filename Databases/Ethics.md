@@ -25,7 +25,7 @@
 	- from that data in combination with other information
 - GDPR talks about "personal" data as morally important type of data
 - "Sensitive" personal data
-	- racial or ethnic origin
+	- Racial or ethnic origin
 	- Political opinions
 	- Religious or philosophical beliefs
 	- Membership of trade unions
@@ -41,7 +41,7 @@
 	2. Autonomous - Individual has to be in control of their actions. have to be competent and also under no influence like social pressure
 	3. Ongoing - Subjects can withdraw consent at a later date, the right to be forgotten
 
-## Processing and Storing Data
+## Processing and [Storing Data](Databases.md)
 - As more data is collected, anonymity becomes important.
 - The minimum that can be done is removal of direct and indirect indicators
 
@@ -60,7 +60,7 @@
 - Northpointe deny they use race in the algorithm
 - The algorithm is not open source so people cannot read the code
 
-## Survailance
+## Surveillance
 - Purposeful and systematic type of attention to personal data
 - Often involves an attempt to control or manage behaviour
 - Is often used by elements of society with power

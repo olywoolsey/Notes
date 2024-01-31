@@ -1,4 +1,5 @@
 # Lecture 15: Introduction to nonlinear equations
+#COMP2421
 ##  The problem
 
 > Given a continuous function $f(x)$, the problem is to find a point $x^*$ such that $f(x^*) = 0$. That is, $x^*$ is a solution of the equation $f(x) = 0$ and is called a **root of $f(x)$**.
@@ -507,5 +508,3 @@ $$
 - Wikipedia: [Bisection method](https://en.wikipedia.org/wiki/Bisection_method)
 - Wikipedia: [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method)
 - X-engineer: [Bisection method for root finding](https://x-engineer.org/bisection-method/)
-
-The [slides used in the lecture](./lec15_.ipynb) are also available

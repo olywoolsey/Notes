@@ -1,4 +1,4 @@
-# Ethics of [AI](AI.md)
+# Ethics of AI
 #COMP2611 
 ## Motivations
 - Ability to carry out complex but largely uninteresting tasks(such as housework)

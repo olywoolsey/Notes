@@ -5,7 +5,7 @@
 - Logical design:
 	The process of constructing a model of the data used in an enterprise based on a specific data model(e.g. relational), but independent of a particular DBMS and other physical considerations
 - Physical design:
-	The process of producing a description of the implementation of the database on secondary storage; it describes the base relations, file organisations, and indexes design used to achieve efficient access to the data, and any associated integrity constraints and security measures
+	The process of producing a description of the implementation of the database on secondary storage; it describes the base [relationals](Relational%20Model.md), file organisations, and indexes design used to achieve efficient access to the data, and any associated integrity constraints and security measures
 
 ## Build conceptual data model
 1. Identify entities

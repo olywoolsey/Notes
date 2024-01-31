@@ -1,12 +1,10 @@
-# Lecture 11: Dynamic models and rates of change
-
+# Dynamic models and rates of change
+#COMP2421
 ## Static versus dynamic problems
-
 -   So far we have considered computational models of problems that are assumed to be static, for example:
+    -   calculating the distribution of temperature inside an object for a given, fixed, temperature distribution around the boundary;
 
-    -   calculating the [distribution of temperature inside an object](./lec05.md) for a given, fixed, temperature distribution around the boundary;
-
-    -   finding the [flow of traffic in a network](./lec05.md) given a fixed set of observations;
+    -   finding the flow of traffic in a network given a fixed set of observations;
 
     -   the sparse matrix representation of the WWW, at a given instant in time, that is used by [Google's PageRank algorithm](https://en.wikipedia.org/wiki/PageRank#Algorithm).
 
@@ -114,7 +112,7 @@ We expect each of these approximations to get more and more accurate...
 
 Consider $S(t)$ given by:
 
-```{code-cell} ipython3
+```python
 def S(t):
     """
     Return a value for the speed, S, as a function of time, t.
@@ -126,9 +124,7 @@ def S(t):
 
 -   The following table of results is obtained:
 
-```{code-cell} ipython3
-:tags: [remove-input]
-
+```python
 import pandas as pd
 
 headers = ["# intervals", "increment size dt", "total distance"]
@@ -190,9 +186,7 @@ df.style.hide_index().set_caption("Total distance as a function of number of ste
 
 -   We can give a graphical interpretation of the relationship between $D(t)$ and its derivative $D'(t)$.
 
-```{code-cell} ipython3
-:tags: [remove-input]
-
+```python
 from matplotlib import pyplot as plt
 import numpy as np
 
@@ -236,9 +230,7 @@ This provides for an alternative interpretation of the derivative of a function.
 
 -   It is the steepness...
 
-```{code-cell} ipython3
-:tags: [remove-input]
-
+```python
 from matplotlib import pyplot as plt
 import numpy as np
 
@@ -281,9 +273,7 @@ plt.show()
     \frac{y(t + \mathrm{d}t) - y(t)}{\mathrm{d}t}.
     $$
 
-```{code-cell} ipython3
-:tags: [remove-input]
-
+```python
 from matplotlib import pyplot as plt
 import numpy as np
 
@@ -314,9 +304,7 @@ plot(1.0)
 
 -   We can get a better approximation by taking a smaller value for $\mathrm{d}t$...
 
-```{code-cell} ipython3
-:tags: [remove-input]
-
+```python
 from matplotlib import pyplot as plt
 import numpy as np
 
@@ -347,9 +335,7 @@ plot(0.5)
 
 -   We can get an **even** better approximation by taking an **even** smaller value for $\mathrm{d}t$...
 
-```{code-cell} ipython3
-:tags: [remove-input]
-
+```python
 from matplotlib import pyplot as plt
 import numpy as np
 
@@ -379,7 +365,6 @@ plot(0.25)
 ```
 
 By taking smaller and smaller values of $\mathrm{d}t$, it becomes clear that we can assign an instantaneous value to the slope at any point $t$:
-
 $$
 \lim_{\mathrm{d}t \to 0} \frac{y(t+\mathrm{d}t) - y(t)}{\mathrm{d}t}.
 $$
@@ -387,10 +372,7 @@ $$
 *But this is precisely the definition of derivative $y'(t)$!*
 
 ## Further reading
-
 - Wikipedia: [Rate of change](https://en.wikipedia.org/wiki/Rate_(mathematics)#Of_change)
 - Wikipedia: [Speed](https://en.wikipedia.org/wiki/Speed)
 - Wikipedia: [Derivative](https://en.wikipedia.org/wiki/Derivative)
 - Maths is fun: [Derivatives introduction](https://www.mathsisfun.com/calculus/derivatives-introduction.html)
-
-The [slides used in the lecture](./lec11_.ipynb) are also available

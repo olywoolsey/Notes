@@ -22,7 +22,7 @@
 - Blog to read before the tutorial:
 	https://www.tapforuncertainty.eu/2022/09/13/digital-accessibility-in-urban-mobility-planning/
 ---
-## Inequality
+## [Inequality](Economics%20in%20Transport.md)
 - Traditionally looked at from a class perspective
 - Significant factors are often described as ‘social determinants’ of inequality
 - Often more ‘political determinants’ of inequality, people of colour, women, and disabled people

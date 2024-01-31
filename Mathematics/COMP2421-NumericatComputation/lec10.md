@@ -1,5 +1,5 @@
 # Lecture 10: Effects of finite precision arithmetic
-
+#COMP2421
 ## The need for row swapping in GE
 
 Consider the following linear system of equations
