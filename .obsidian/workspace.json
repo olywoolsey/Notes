@@ -11,8 +11,13 @@
             "id": "1a8a20fb3beabaad",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Professional Computing/DAD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Professional Computing/DAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Professional Computing/DAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Professional Computing/DAD.md"
+              }
             }
           }
         ],
@@ -153,6 +162,7 @@
   },
   "active": "1a8a20fb3beabaad",
   "lastOpenFiles": [
+    "Professional Computing/DevOps.md",
     "Assessments/Networks1.md",
     "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
     "Canva.canvas",
@@ -182,7 +192,6 @@
     "Mathematics/Algorithms/Priority Queues.md",
     "Mathematics/Algorithms/DFS.md",
     "Mathematics/Algorithms/Topological Sort.md",
-    "Mathematics/Algorithms/Selection Sort.md",
     "AI"
   ]
 }
