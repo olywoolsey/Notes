@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recording 20240201005600.webm"
+                "file": "Networks/What am I dOinG.md"
               }
             }
           },
@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,6 +155,8 @@
   },
   "active": "9b0e31f5f344f025",
   "lastOpenFiles": [
+    "Networks/What am I dOinG.md",
+    "Networks",
     "Recording 20240201005600.webm",
     "README.md",
     "Mathematics/COMP2421-NumericatComputation/Dynamic Models and Rates of Change.md",
@@ -199,8 +202,6 @@
     "Operating Systems/Images/Queuing_Diagram.png",
     "Operating Systems/Images/Stack_vs_Heap.png",
     "Hardware",
-    "Operating Systems/Memory Management",
-    "Operating Systems/Recording 20240123140101.webm",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
 }
