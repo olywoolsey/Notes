@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assessments/lec01.md",
+                "file": "Data analysis/lec01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b89d0b4269de3818",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessments/lec01.md",
+                "file": "Data analysis/lec01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessments/lec01.md",
+                "file": "Data analysis/lec01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assessments/lec01.md"
+                "file": "Data analysis/lec01.md"
               }
             }
           }
@@ -175,10 +174,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "859a43677545ebc2",
+  "active": "21f370e3c5a3e3dd",
   "lastOpenFiles": [
+    "Data analysis",
     "Assessments/Software Project.md",
-    "Assessments/lec01.md",
+    "Data analysis/lec01.md",
     "Mathematics/COMP2421-NumericatComputation/Dynamic Models and Rates of Change.md",
     "README.md",
     "Professional Computing/DAD.md",
@@ -206,7 +206,6 @@
     "User Interfaces/Human Memory.md",
     "Hardware/Processors/Sequential Logic & Memory.md",
     "AI/AI.md",
-    "Mathematics/Algorithms/Insertion Sort.md",
     "AI"
   ]
 }
