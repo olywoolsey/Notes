@@ -153,6 +153,8 @@
   },
   "active": "9b0e31f5f344f025",
   "lastOpenFiles": [
+    "Data analysis/lec01.md",
+    "Data analysis",
     "Networks/What am I dOinG.md",
     "Networks",
     "Recording 20240201005600.webm",
@@ -180,7 +182,6 @@
     "Hardware/COMP1211-ComputerArchitecture/Binary Coded Decimal(BCD).md",
     "Procedural Programming/Input and Output.md",
     "Hardware/COMP1211-ComputerArchitecture/Binary.md",
-    "Hardware/COMP1211-ComputerArchitecture/Bias Notation.md",
     "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
     "Challenges In Transport and Mobility/Excess_Travel.png",
     "Frml Lang&Finite Automata/Images/DFA.png",
@@ -199,7 +200,6 @@
     "Hardware/Processors/Images/Pasted image 20230308103258.png",
     "Operating Systems/Images/Queuing_Diagram.png",
     "Operating Systems/Images/Stack_vs_Heap.png",
-    "Hardware",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
 }
