@@ -20,6 +20,7 @@ graph
 ```
 (Same graph as in [Breadth First Search](Breadth%20First%20Search.md) but visits in a different order)
 ## DFS Tree
+- remove unused paths
 ```mermaid
 graph
 1---2
