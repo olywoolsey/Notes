@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Mathematics/Algorithms/Breadth First Search.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#COMP1211",
+                "query": "BFS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Mathematics/Algorithms/Breadth First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Mathematics/Algorithms/Breadth First Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Mathematics/Algorithms/Breadth First Search.md"
               }
             }
           },
@@ -162,8 +163,9 @@
   },
   "active": "7190459f2a1d5d18",
   "lastOpenFiles": [
-    "README TEST.md",
+    "AI/Ethics of AI.md",
     "README.md",
+    "README TEST.md",
     "Data analysis/lec01.md",
     "Data analysis",
     "Networks/What am I dOinG.md",
@@ -190,7 +192,6 @@
     "Hardware/COMP1211-ComputerArchitecture/Cache Memory.md",
     "Hardware/COMP1211-ComputerArchitecture/Byte Ordering.md",
     "Hardware/COMP1211-ComputerArchitecture/Binary Coded Decimal(BCD).md",
-    "Procedural Programming/Input and Output.md",
     "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
     "Challenges In Transport and Mobility/Excess_Travel.png",
     "Frml Lang&Finite Automata/Images/DFA.png",
