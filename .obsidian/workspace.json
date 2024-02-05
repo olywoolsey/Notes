@@ -11,8 +11,13 @@
             "id": "7190459f2a1d5d18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README TEST.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README TEST.md"
+              }
             }
           },
           {
@@ -151,14 +160,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "7190459f2a1d5d18",
   "lastOpenFiles": [
+    "README.md",
+    "README TEST.md",
     "Data analysis/lec01.md",
     "Data analysis",
     "Networks/What am I dOinG.md",
     "Networks",
     "Recording 20240201005600.webm",
-    "README.md",
     "Mathematics/COMP2421-NumericatComputation/Dynamic Models and Rates of Change.md",
     "Hardware/COMP1211-ComputerArchitecture/Von Neumann.md",
     "Hardware/COMP1211-ComputerArchitecture/Types of operations.md",
@@ -181,7 +191,6 @@
     "Hardware/COMP1211-ComputerArchitecture/Byte Ordering.md",
     "Hardware/COMP1211-ComputerArchitecture/Binary Coded Decimal(BCD).md",
     "Procedural Programming/Input and Output.md",
-    "Hardware/COMP1211-ComputerArchitecture/Binary.md",
     "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
     "Challenges In Transport and Mobility/Excess_Travel.png",
     "Frml Lang&Finite Automata/Images/DFA.png",
