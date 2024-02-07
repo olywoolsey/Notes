@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Algorithms/Breadth First Search.md",
+                "file": "Mathematics/Algorithms/Depth First Search.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Algorithms/Breadth First Search.md",
+                "file": "Mathematics/Algorithms/Depth First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Algorithms/Breadth First Search.md",
+                "file": "Mathematics/Algorithms/Depth First Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Algorithms/Breadth First Search.md"
+                "file": "Mathematics/Algorithms/Depth First Search.md"
               }
             }
           },
@@ -163,10 +163,10 @@
   },
   "active": "a7176f072b48d9e5",
   "lastOpenFiles": [
+    "Mathematics/Algorithms/Breadth First Search.md",
     "Mathematics/Discrete/Graph Theory.md",
     "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
     "Mathematics/Algorithms/Depth First Search.md",
-    "Mathematics/Algorithms/Breadth First Search.md",
     "AI/Ethics of AI.md",
     "README.md",
     "README TEST.md",
