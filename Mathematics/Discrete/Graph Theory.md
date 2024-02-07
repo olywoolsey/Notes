@@ -9,10 +9,15 @@
 - each edge is a pair of vertices
 - An edge between $u$ and $v$ is $e = \{u, v\}$, is also denoted by $uv$ or $vu$
 - The vertices in an edge $e$ are it's endpoints (or endnodes or endvertices) and $e$ is said to connect $u$ and $v$
+- A graph $G1 = (V1, E1)$ is a **subgraph** of a graph $G2 = (V2, E2)$, if $V_1 ⊆ V_2 \text{ and } E_1 ⊆ E_2$
 - An edge is said to be incident to it's endpoints
+- An undirected graph is **connected** if there is a path between every pair of nodes in the graph
+- If the graph contains a pair of nodes without a path between them, the graph is not connected
 - Two vertices that are endpoints to the same edge are adjacent vertices
 - Two edges that are incident to the same vertex are said to be adjacent edges
 - Two adjacent vertices are also called neighbouring vertices
+#### Connected Component: 
+- A maximal connected subgraph of a graph is called a [conected component](Connected%20Component). A disconnected graph is the disjoint union of its connected components
 ### Simple Graphs
 - An undirected graph without multi-edges and loops
 ### Multi-graphs

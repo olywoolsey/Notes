@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Algorithms/Depth First Search.md",
+                "file": "Mathematics/Discrete/Connected Component.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Algorithms/Depth First Search.md",
+                "file": "Mathematics/Discrete/Connected Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Algorithms/Depth First Search.md",
+                "file": "Mathematics/Discrete/Connected Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Algorithms/Depth First Search.md"
+                "file": "Mathematics/Discrete/Connected Component.md"
               }
             }
           },
@@ -163,10 +163,14 @@
   },
   "active": "a7176f072b48d9e5",
   "lastOpenFiles": [
-    "Mathematics/Algorithms/Breadth First Search.md",
+    "Mathematics/Discrete/Pasted image 20240207114601.png",
     "Mathematics/Discrete/Graph Theory.md",
-    "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+    "Mathematics/Discrete/Connected Component.md",
+    "Mathematics/Discrete/Discrete Probability Theory.md",
+    "Assessments/Software Project.md",
     "Mathematics/Algorithms/Depth First Search.md",
+    "Mathematics/Algorithms/Breadth First Search.md",
+    "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
     "AI/Ethics of AI.md",
     "README.md",
     "README TEST.md",
@@ -188,10 +192,6 @@
     "Hardware/COMP1211-ComputerArchitecture/Moores_ Law.md",
     "Hardware/COMP1211-ComputerArchitecture/Memory.md",
     "Operating Systems/Interrupts.md",
-    "Hardware/COMP1211-ComputerArchitecture/Instruction Sets.md",
-    "Hardware/COMP1211-ComputerArchitecture/Instruction Cycle.md",
-    "Hardware/COMP1211-ComputerArchitecture/Fetch, execute cycle.md",
-    "Hardware/CPU.md",
     "Challenges In Transport and Mobility/Pasted image 20221025142646.png",
     "Challenges In Transport and Mobility/Excess_Travel.png",
     "Frml Lang&Finite Automata/Images/DFA.png",
