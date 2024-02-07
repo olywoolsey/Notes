@@ -6,4 +6,3 @@
 ### Solution
 - call [DFS](../Algorithms/Depth%20First%20Search.md)(G,s) or [BFS](../Algorithms/Breadth%20First%20Search.md)(G,s).
 - A node u is reachable from s if and only if visited[u]=true
-## Directed Graphs
