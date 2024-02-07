@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete/Connected Component.md",
+                "file": "Mathematics/Discrete/Graph Theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete/Connected Component.md",
+                "file": "Mathematics/Discrete/Graph Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete/Connected Component.md",
+                "file": "Mathematics/Discrete/Graph Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete/Connected Component.md"
+                "file": "Mathematics/Discrete/Graph Theory.md"
               }
             }
           },
@@ -163,10 +163,10 @@
   },
   "active": "a7176f072b48d9e5",
   "lastOpenFiles": [
-    "Mathematics/Discrete/Pasted image 20240207114601.png",
-    "Mathematics/Discrete/Graph Theory.md",
-    "Mathematics/Discrete/Connected Component.md",
     "Mathematics/Discrete/Discrete Probability Theory.md",
+    "Mathematics/Discrete/Connected Component.md",
+    "Mathematics/Discrete/Connected_Components.png",
+    "Mathematics/Discrete/Graph Theory.md",
     "Assessments/Software Project.md",
     "Mathematics/Algorithms/Depth First Search.md",
     "Mathematics/Algorithms/Breadth First Search.md",
@@ -209,7 +209,6 @@
     "Operating Systems/Images/Process_State_Transitions.png",
     "Hardware/Processors/Images/Pasted image 20230308103258.png",
     "Operating Systems/Images/Queuing_Diagram.png",
-    "Operating Systems/Images/Stack_vs_Heap.png",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
 }
