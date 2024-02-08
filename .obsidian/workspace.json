@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete/Untitled.md",
+                "file": "Mathematics/Discrete/Belbin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete/Untitled.md",
+                "file": "Mathematics/Discrete/Belbin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete/Untitled.md",
+                "file": "Mathematics/Discrete/Belbin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete/Untitled.md"
+                "file": "Mathematics/Discrete/Belbin.md"
               }
             }
           },
@@ -164,7 +164,7 @@
   "active": "a7176f072b48d9e5",
   "lastOpenFiles": [
     "Mathematics/Discrete/Connectivity in Directed Graphs.md",
-    "Mathematics/Discrete/Untitled.md",
+    "Mathematics/Discrete/Belbin.md",
     "Mathematics/Discrete/Pasted image 20240207121523.png",
     "Mathematics/Discrete/Connected Component.md",
     "Mathematics/Discrete/Graph Theory.md",
