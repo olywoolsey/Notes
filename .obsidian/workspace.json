@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete/Connectivity in Directed Graphs.md",
+                "file": "Mathematics/Discrete/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete/Connectivity in Directed Graphs.md",
+                "file": "Mathematics/Discrete/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete/Connectivity in Directed Graphs.md",
+                "file": "Mathematics/Discrete/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete/Connectivity in Directed Graphs.md"
+                "file": "Mathematics/Discrete/Untitled.md"
               }
             }
           },
@@ -163,9 +163,10 @@
   },
   "active": "a7176f072b48d9e5",
   "lastOpenFiles": [
+    "Mathematics/Discrete/Connectivity in Directed Graphs.md",
+    "Mathematics/Discrete/Untitled.md",
     "Mathematics/Discrete/Pasted image 20240207121523.png",
     "Mathematics/Discrete/Connected Component.md",
-    "Mathematics/Discrete/Connectivity in Directed Graphs.md",
     "Mathematics/Discrete/Graph Theory.md",
     "Mathematics/Discrete/Discrete Probability Theory.md",
     "Mathematics/Discrete/Connected_Components.png",
@@ -209,7 +210,6 @@
     "Operating Systems/Images/Inter-process_Comminication.png",
     "Operating Systems/Images/Process_State_Transitions.png",
     "Hardware/Processors/Images/Pasted image 20230308103258.png",
-    "Operating Systems/Images/Queuing_Diagram.png",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
 }
