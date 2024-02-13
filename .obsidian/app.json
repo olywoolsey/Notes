@@ -1,5 +1,6 @@
 {
   "autoPairMarkdown": false,
   "smartIndentList": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }

@@ -2,7 +2,7 @@
 
 The concept of non-determinism is a concept that appears throughout the topic of complexity and theory of computation. In the automata we have considered up to now the action of the automaton is known, given the current state and an input symbol the next state is determined by the transition function-- this is called determinism. In a non-deterministic automaton the next state is not determined by the current state and input symbol alone, there may be many choices for the next state.
 
-In a finite state automaton (FSA), non-determinism refers to the presence of multiple transitions out of a state that are labelled with the same symbol. This means that, given a certain input symbol and current state, there is more than one possible next state that the FSA could transition to.
+In a [finite state automaton (FSA)](Deterministic%20Finite%20Automaton), non-determinism refers to the presence of multiple transitions out of a state that are labelled with the same symbol. This means that, given a certain input symbol and current state, there is more than one possible next state that the FSA could transition to.
 
 Non-determinism can be useful in some cases because it allows the FSA to recognize multiple strings or patterns simultaneously. However, it can also make the FSA more difficult to design and understand, because there may be multiple possible paths through the FSA for a given input string.
 
@@ -56,7 +56,7 @@ Let $M = (Q,\Sigma,\delta, q_0, F)$ where,
 3. $q_0$ is the start state
 5. $F = \{q_4\}$, and
 6. $\delta = \{((q_0, \epsilon),q_1),((q_0,\epsilon),q_2),((q_1, 1),q_4),((q_1, 1),q_1),((q_2,0),q_3),((q_2, 1), q_2),((q_3,0),q_2),((q_3,1), q_3),((q_3, 1), q_4)\}$
-![](Pasted%20image%2020240213161735.png)
+![](NFA.png)
 The non-deterministic finite state automaton $M$ accepts strings if the string only contains the symbol $1$ and ends in a $1$, or if the string contains an odd number of $0$'s and ends in a $1$. The machine is non-deterministic for a number of reasons,
 
 1. The state $q_0$ does not define a transition for the alphabet symbols $0$, and $1$. Also, the state has two distinct transitions for the empty string.
