@@ -4,7 +4,7 @@ The concept of non-determinism is a concept that appears throughout the topic of
 
 In a [finite state automaton (FSA)](Deterministic%20Finite%20Automaton), non-determinism refers to the presence of multiple transitions out of a state that are labelled with the same symbol. This means that, given a certain input symbol and current state, there is more than one possible next state that the FSA could transition to.
 
-Non-determinism can be useful in some cases because it allows the FSA to recognize multiple strings or patterns simultaneously. However, it can also make the FSA more difficult to design and understand, because there may be multiple possible paths through the FSA for a given input string.
+Non-determinism can be useful in some cases because it allows the FSA to recognise multiple strings or patterns simultaneously. However, it can also make the FSA more difficult to design and understand, because there may be multiple possible paths through the FSA for a given input string.
 
 Non-determinism can be contrasted with determinism, which refers to the case where there is only one possible transition out of each state for each input symbol. Determinism is often easier to work with.
 

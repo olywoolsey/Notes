@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frml Lang&Finite Automata/non-deterministic.md",
+                "file": "Frml Lang&Finite Automata/equivalence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frml Lang&Finite Automata/non-deterministic.md",
+                "file": "Frml Lang&Finite Automata/equivalence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frml Lang&Finite Automata/non-deterministic.md",
+                "file": "Frml Lang&Finite Automata/equivalence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frml Lang&Finite Automata/non-deterministic.md"
+                "file": "Frml Lang&Finite Automata/equivalence.md"
               }
             }
           },
@@ -161,17 +161,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "6074b5dc6a0e33e7",
   "lastOpenFiles": [
+    "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+    "Frml Lang&Finite Automata/reg_languages.md",
+    "Frml Lang&Finite Automata/equivalence.md",
+    "Frml Lang&Finite Automata/non-deterministic.md",
     "Frml Lang&Finite Automata/non-regularity.md",
     "Frml Lang&Finite Automata/closure.md",
-    "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
     "Frml Lang&Finite Automata/Images/NFA.png",
     "Frml Lang&Finite Automata/Images/NFA.png",
-    "Frml Lang&Finite Automata/non-deterministic.md",
-    "Frml Lang&Finite Automata/equivalence.md",
     "Frml Lang&Finite Automata/applications.md",
-    "Frml Lang&Finite Automata/reg_languages.md",
     "Frml Lang&Finite Automata/Non Deterministic Finite State Automata.md",
     "User Interfaces/Images/OpticalIllusion2.png",
     "User Interfaces/Images/OpticalIllusion1.png",

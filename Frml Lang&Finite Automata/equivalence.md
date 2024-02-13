@@ -2,12 +2,8 @@
 
 It may seem from first observation that the differences between deterministic finite automaton and non-deterministic finite automaton would cause  the class of languages accepted by non-deterministic finite state automata is larger than the class accepted by deterministic finite state automata, however, this is not the case. In fact non-deterministic finite automaton and deterministic finite automaton recognise the same class of languages; this of course requires a proof. Consequently, from {prf:ref}`reg_lang`, non-deterministic finite automaton recognise the class of regular languages.
 
-````{prf:theorem} DFA/NFA Equivalence
-:label: dfa_equiv_nfa
-
+> [! info] DFA/NFA Equivalence
 Every non-deterministic finite automaton has an equivalent deterministic finite automaton.
-
-````
 
 ````{prf:proof}
 
