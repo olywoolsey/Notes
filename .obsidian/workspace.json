@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+                "file": "Frml Lang&Finite Automata/non-deterministic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+                "file": "Frml Lang&Finite Automata/non-deterministic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+                "file": "Frml Lang&Finite Automata/non-deterministic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md"
+                "file": "Frml Lang&Finite Automata/non-deterministic.md"
               }
             }
           },
@@ -163,8 +163,12 @@
   },
   "active": "6074b5dc6a0e33e7",
   "lastOpenFiles": [
-    "Frml Lang&Finite Automata/Non Deterministic Finite Automita.md",
+    "Pasted image 20240213161735.png",
+    "Frml Lang&Finite Automata/Pasted image 20240213161627.png",
+    "Frml Lang&Finite Automata/reg_languages.md",
+    "Frml Lang&Finite Automata/non-deterministic.md",
     "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+    "Frml Lang&Finite Automata/Non Deterministic Finite State Automata.md",
     "User Interfaces/Images/OpticalIllusion2.png",
     "User Interfaces/Images/OpticalIllusion1.png",
     "User Interfaces/Perception.md",
@@ -181,7 +185,6 @@
     "Professional Computing/Images/UML_Diagram_Chart.png",
     "Professional Computing/Images/Trade_Off_Triangle.png",
     "Professional Computing/Images/State_Diagram.png",
-    "Professional Computing/Images/Sequence_Diagram.png",
     "Professional Computing/eXtreme Programming.md",
     "Professional Computing/Value Proposal.md",
     "Professional Computing/Use Cases.md",
@@ -199,9 +202,6 @@
     "Professional Computing/DevOps.md",
     "Professional Computing/DSDM.md",
     "Professional Computing/DAD.md",
-    "Professional Computing/Analysis and Design.md",
-    "Professional Computing/Agile.md",
-    "Professional Computing/Agile Manifesto.md",
     "Professional Computing",
     "Procedural Programming",
     "Photography Imaging/Images",

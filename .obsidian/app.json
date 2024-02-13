@@ -1,15 +1,5 @@
 {
-  "alwaysUpdateLinks": true,
-  "vimMode": true,
-  "attachmentFolderPath": "./",
-  "useMarkdownLinks": true,
-  "showUnsupportedFiles": true,
-  "promptDelete": false,
-  "showLineNumber": false,
-  "autoPairBrackets": false,
-  "newLinkFormat": "relative",
-  "newFileLocation": "current",
-  "showInlineTitle": false,
-  "propertiesInDocument": "visible",
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "smartIndentList": false,
+  "useMarkdownLinks": true
 }
