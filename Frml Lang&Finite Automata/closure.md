@@ -6,25 +6,17 @@ We will show that the set of Regular languages are closed a number of operations
 
 ## Complement
 
-````{prf:definition} Complement
-:label: complement
+> [! info] Definition
+> Let $A$ be languages over some finite alphabet $\Sigma$.
+> 
+> *Complement*: $\overline{A} = \{x \in \Sigma^* \mid x \not\in A\}$ 
 
-Let $A$ be languages over some finite alphabet $\Sigma$.
-
-*Complement*: $\overline{A} = \{x \in \Sigma^* \mid x \not\in A\}$ 
-
-````
-
-````{prf:theorem}
-:label: regclosecomplement
-Regular languages are closed with respect to complement
-
-````
+> [! info]
+> Regular languages are closed with respect to complement
 
 To prove that Regular languages are closed with respect to the complement operation, we must prove that for an arbitrary regular language there exists a deterministic finite state automaton that recognises the complement.
-
+### Proof
 ````{prf:proof}
-
 Let $A$ be a regular language and let $M=(Q, \Sigma, \delta, q, F)$ recognise $A$. We construct an automaton $M'=(Q', \Sigma', \delta', q', F')$ that recognises $\overline{A}$.
 
 - $Q'=Q$
@@ -61,18 +53,13 @@ A deterministic finite state automata that recognised $\overline{L(M_1)}$.
 
 ## Union
 
-````{prf:definition} Union
-:label: union
+> [! info] Definition: Union
+> Let $A$ and $B$ be languages over some finite alphabets $\Sigma_{A}$ and $\Sigma_{B}$ respectively.
+> 
+> *Union*: $A \cup B = \{x \in (\Sigma_{A} \cup \Sigma_{B})^* \mid x \in A \text{ or } x \in B\}$
 
-Let $A$ and $B$ be languages over some finite alphabets $\Sigma_{A}$ and $\Sigma_{B}$ respectively.
-
-*Union*: $A \cup B = \{x \in (\Sigma_{A} \cup \Sigma_{B})^* \mid x \in A \text{ or } x \in B\}$
-
-````
-````{prf:theorem}
-:label: regcloseunion
+> [! info] Theorm: 
 Regular languages are closed with respect to finite union.
-
 ````
 
 To prove that Regular languages are closed with respect to the finite union operation, we must prove that for any arbitrary pair of regular languages there exists a deterministic finite state automaton that recognises their union.
@@ -212,17 +199,13 @@ $(((q_3,q_2),0),(q_3,q_1)),(((q_3,q_2),1),(q_3,q_1)),(((q_3,q_3),0),(q_3,q_3)) ,
 
 ## Concatenation
 
-````{prf:definition} Concatenation
-:label: concatenation
+> [! info] Definition: Star
+> Let $A$ and $B$ be languages over some finite alphabets $\Sigma_{A}$ and $\Sigma_{B}$ respectively.
+> *Concatenation*: $A \circ B = \{xy \in (\Sigma_A \cup \Sigma_B)^* \mid x \in A \text{ and } y \in B\}$
 
-Let $A$ and $B$ be languages over some finite alphabets $\Sigma_{A}$ and $\Sigma_{B}$ respectively.
-
-*Concatenation*: $A \circ B = \{xy \in (\Sigma_A \cup \Sigma_B)^* \mid x \in A \text{ and } y \in B\}$
-
-````
-````{prf:theorem}
-:label: regcloseconcatenation
-Regular languages are closed with respect to concetenation.
+> [! info] Theorm
+> :label: regcloseconcatenation
+> Regular languages are closed with respect to concetenation.
 
 ````
 
