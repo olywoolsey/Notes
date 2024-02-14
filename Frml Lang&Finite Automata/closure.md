@@ -199,39 +199,21 @@ $(((q_3,q_2),0),(q_3,q_1)),(((q_3,q_2),1),(q_3,q_1)),(((q_3,q_3),0),(q_3,q_3)) ,
 
 ## Concatenation
 
-> [! info] Definition: Star
+> [! info] Definition: Concatination
 > Let $A$ and $B$ be languages over some finite alphabets $\Sigma_{A}$ and $\Sigma_{B}$ respectively.
 > *Concatenation*: $A \circ B = \{xy \in (\Sigma_A \cup \Sigma_B)^* \mid x \in A \text{ and } y \in B\}$
 
 > [! info] Theorm
-> :label: regcloseconcatenation
 > Regular languages are closed with respect to concetenation.
 
-````
-
-
 To prove that Regular languages are closed with respect to the concatenation operation, we must prove that for any arbitrary pair of regular languages there exists a deterministic finite state automaton that recognises their concatenation, or there exists a non-deterministic finite state automaton that recognises their concetenation (Why? see {prf:ref}`reg_lang_ndfsm`). 
-
-````{prf:proof}
-Theroem 1.26, Theorem 1.47 {cite}`sipser`
-````
-
 ## Kleene star
-````{prf:definition} Star
-:label: kleene_star
-
+> [! info] Definition: Star
 Let $A$ be a language over some finite alphabet $\Sigma$.
+> 
+> *Star*: $A^* = \{x_1x_2\ldots x_k \in \Sigma^* \mid k \geq 0 \text{ and } x_i \in A \text{ for each } 1\leq i \leq k \}$
 
-*Star*: $A^* = \{x_1x_2\ldots x_k \in \Sigma^* \mid k \geq 0 \text{ and } x_i \in A \text{ for each } 1\leq i \leq k \}$
-````
-````{prf:theorem}
-:label: regclosekleene
-Regular languages are closed with respect to Kleene star.
+> [! info] Theorm
+> Regular languages are closed with respect to Kleene star.
 
-````
 To prove that Regular languages are closed with respect to the Kleene star operation, we must prove that for an arbitrary regular languages there exists a deterministic finite state automaton that recognises the Kleene star of the language, or there exists a non-deterministic finite state automaton that recognises the Kleene start of the language (Why? see {prf:ref}`reg_lang_ndfsm`).
-
-````{prf:proof}
-Theorem 1.49 {cite}`sipser`
-
-````
