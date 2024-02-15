@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/TCP IP.md",
+                "file": "Networks/Ports.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b89d0b4269de3818",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/TCP IP.md",
+                "file": "Networks/Ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +104,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/TCP IP.md",
+                "file": "Networks/Ports.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/TCP IP.md"
+                "file": "Networks/Ports.md"
               }
             }
           }
@@ -147,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,9 +163,11 @@
   },
   "active": "add4f792b9d9146e",
   "lastOpenFiles": [
-    "Networks/OSI Model.md",
-    "Networks/TCP IP.md",
     "Networks/Protocol Stack.md",
+    "Networks/Ports.md",
+    "Mathematics/Algorithms/Stacks.md",
+    "Networks/TCP IP.md",
+    "Networks/OSI Model.md",
     "Networks/LAN.md",
     "Networks/Ethernet.md",
     "Networks/WAN.md",
@@ -171,7 +175,6 @@
     "Networks/Untitled",
     "Networks/IP Addresses.md",
     "Networks/POP3.md",
-    "Networks/Ports.md",
     "Networks/SMPT.md",
     "Networks/DHCP.md",
     "Networks/UDP.md",
@@ -193,7 +196,6 @@
     "Assessments/AI2.md",
     "User Interfaces/Images/OpticalIllusion2.png",
     "User Interfaces/Images/OpticalIllusion1.png",
-    "User Interfaces/Perception.md",
     "User Interfaces/Images",
     "User Interfaces",
     "Professional Computing/Images/V_Waterfall_Method.png",
