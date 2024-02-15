@@ -20,4 +20,33 @@
 	- We can use any freely available ports in this range.
 - To see ports on a UNIX machine, look at `` /etc/services ``
 ### Port Examples
-#### 
+#### telenet
+- Port 23
+- Short for teletype network
+- The original client-server communication protocol
+- Now is rarely used as is insecure
+#### ssh
+- Port 22
+- Secure Shell
+#### ftp
+- File Transfer Protocol
+- Port 21 for commands (dir, put, get, etc)
+- Port 20 used for data (the og use ; slow)
+#### smtp
+- Port 25
+- Stands for simple Mail Transfer Protocol
+#### imap
+- Port 143
+- Used to access mail
+- Stands for Internet Message Access Protocol
+#### pop3
+- Port 110
+- Used to access mail
+- Stands for Post Office Protocol
+#### http
+- Port 80
+- Stands for Hypertext Transfer Protocol
+- Insecure
+#### https
+- Port 443
+- Secure version of http, requires authentication

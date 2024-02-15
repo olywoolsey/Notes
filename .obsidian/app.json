@@ -1,6 +1,7 @@
 {
-  "autoPairMarkdown": false,
-  "smartIndentList": false,
+  "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "autoPairMarkdown": false,
+  "smartIndentList": true,
+  "vimMode": true
 }
