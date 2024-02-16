@@ -8,16 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6074b5dc6a0e33e7",
+            "id": "4acbbd123cb1a77e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Common Data Types.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Common Data Types.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,11 +152,16 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "4acbbd123cb1a77e",
   "lastOpenFiles": [
-    "Untitled",
-    "Data Analysis.md",
-    "Common Data Types.md",
+    "Assessments/NetworksCWK1.md",
+    "Assessments/Networks Exam.md",
+    "README.md",
+    "Untitled.md",
+    "Data Analysis/Common Data Types.md",
+    "Data Analysis/lec01.md",
+    "Data Analysis",
+    "Data Analysis/Data Analysis.md",
     "Exploratary Data.md",
     "Explanitory Data.md",
     "Atte.md",
@@ -187,14 +183,10 @@
     "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
     "Frml Lang&Finite Automata/reg_languages.md",
     "Frml Lang&Finite Automata/non-deterministic.md",
-    "Frml Lang&Finite Automata/non-regularity.md",
     "Frml Lang&Finite Automata/Images/NFA.png",
     "Frml Lang&Finite Automata/Images/NFA.png",
-    "Frml Lang&Finite Automata/Non Deterministic Finite State Automata.md",
     "User Interfaces/Images/OpticalIllusion2.png",
     "User Interfaces/Images/OpticalIllusion1.png",
-    "User Interfaces/Perception.md",
-    "User Interfaces/Human Memory.md",
     "User Interfaces/Images",
     "User Interfaces",
     "Professional Computing/Images/V_Waterfall_Method.png",
@@ -208,7 +200,6 @@
     "Photography Imaging",
     "Operating Systems/Memory Management",
     "Operating Systems/Images",
-    "Operating Systems",
     "Untitled.canvas",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
