@@ -1,8 +1,9 @@
 ---
 status: backlog
 due: 2024-05-31
+Type: Exam
 ---
-# Exams
+# Frml Lanf Exam
 | Module | Percent of Module |
 | ---- | ---- |
 | Frml Lang&Finite Automata | 100% |

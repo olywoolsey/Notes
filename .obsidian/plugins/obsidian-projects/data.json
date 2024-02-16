@@ -9,6 +9,12 @@
             "doing",
             "done"
           ]
+        },
+        "Type": {
+          "options": [
+            "Course Work",
+            "Exam"
+          ]
         }
       },
       "defaultName": "",
@@ -30,7 +36,9 @@
               "name",
               "path",
               "status",
-              "due"
+              "due",
+              "Percent",
+              "Type"
             ],
             "fieldConfig": {}
           },
@@ -38,7 +46,17 @@
             "conditions": []
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#ff3d3d",
+                "condition": {
+                  "field": "Type",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Exam"
+                }
+              }
+            ]
           },
           "sort": {
             "criteria": [

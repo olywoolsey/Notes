@@ -1,6 +1,7 @@
 ---
 status: backlog
 due: 2024-03-07
+Type: Course Work
 ---
 # Software Engineering Project
 |Teaching week|Date| |Sprint|Submit|
