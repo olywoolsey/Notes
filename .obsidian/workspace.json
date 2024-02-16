@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis.md",
+                "file": "Common Data Types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis.md",
+                "file": "Common Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis.md",
+                "file": "Common Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis.md"
+                "file": "Common Data Types.md"
               }
             }
           },
@@ -161,10 +161,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6074b5dc6a0e33e7",
+  "active": "9b0e31f5f344f025",
   "lastOpenFiles": [
-    "Common Data Types.md",
+    "Untitled",
     "Data Analysis.md",
+    "Common Data Types.md",
     "Exploratary Data.md",
     "Explanitory Data.md",
     "Atte.md",
@@ -195,7 +196,6 @@
     "User Interfaces/Perception.md",
     "User Interfaces/Human Memory.md",
     "User Interfaces/Images",
-    "User Interfaces/C++.md",
     "User Interfaces",
     "Professional Computing/Images/V_Waterfall_Method.png",
     "Professional Computing/Images/Use_Case.png",
