@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Atte.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Atte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Atte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Atte.md"
               }
             }
           },
@@ -163,8 +163,18 @@
   },
   "active": "6074b5dc6a0e33e7",
   "lastOpenFiles": [
+    "Networks/WAN.md",
+    "Networks/UDP.md",
+    "Networks/SMPT.md",
+    "Networks/Protocol Stack.md",
+    "Networks/POP3.md",
+    "Networks/OSI Model.md",
+    "Networks/MAN.md",
+    "Networks/LAN.md",
+    "Networks/Ethernet.md",
+    "Networks/DHCP.md",
     "Frml Lang&Finite Automata/closure.md",
-    "Untitled.md",
+    "Atte.md",
     "Frml Lang&Finite Automata/applications.md",
     "Frml Lang&Finite Automata/equivalence.md",
     "Frml Lang&Finite Automata/Images/Pasted image 20240213164044.png",
@@ -191,16 +201,6 @@
     "Professional Computing/Images/Unified_Process.png",
     "Professional Computing/eXtreme Programming.md",
     "Professional Computing/Value Proposal.md",
-    "Professional Computing/Use Cases.md",
-    "Professional Computing/UML.md",
-    "Professional Computing/The First Computers.md",
-    "Professional Computing/Testing.md",
-    "Professional Computing/Software Engineering Definitions.md",
-    "Professional Computing/Software Development Principles.md",
-    "Professional Computing/Software Development Life Cycle.md",
-    "Professional Computing/SQIRO.md",
-    "Professional Computing/Owen's Intro.md",
-    "Professional Computing/Network Development.md",
     "Professional Computing/Images",
     "Professional Computing",
     "Procedural Programming",
