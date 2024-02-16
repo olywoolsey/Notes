@@ -39,9 +39,8 @@ One sentence that articulates your point of view and what is at stake.
 - **Don't use 3D**
 - **Bar Charts must have zero baseline**
 - **Secondary Y-axis – Generally confusing**
-	- Try Labeling each node seperately
-	- 
-
+	- Try Labelling each node separately
+- **Ask someone else what they think**
 ## Reading
 - Useful breakdown of different graphs: https://www.storytellingwithdata.com/chart-guideKnaflic, 
 - C. N. (2015). Storytelling with data a data visualization guide for business professionals :Chapter 1 (Who, What, How considerations)

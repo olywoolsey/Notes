@@ -22,4 +22,3 @@
 - Example:
 	- Stock price
 	- Sales volume over time
-## 
