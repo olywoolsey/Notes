@@ -3,5 +3,7 @@
   "useMarkdownLinks": true,
   "autoPairMarkdown": false,
   "smartIndentList": true,
-  "vimMode": true
+  "vimMode": true,
+  "showInlineTitle": false,
+  "promptDelete": false
 }

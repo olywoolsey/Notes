@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atte.md",
+                "file": "Data Analysis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atte.md",
+                "file": "Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atte.md",
+                "file": "Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atte.md"
+                "file": "Data Analysis.md"
               }
             }
           },
@@ -161,8 +161,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6074b5dc6a0e33e7",
+  "active": "9b0e31f5f344f025",
   "lastOpenFiles": [
+    "Exploratary Data.md",
+    "Data Analysis.md",
+    "Explanitory Data.md",
+    "Atte.md",
     "Networks/WAN.md",
     "Networks/UDP.md",
     "Networks/SMPT.md",
@@ -174,7 +178,6 @@
     "Networks/Ethernet.md",
     "Networks/DHCP.md",
     "Frml Lang&Finite Automata/closure.md",
-    "Atte.md",
     "Frml Lang&Finite Automata/applications.md",
     "Frml Lang&Finite Automata/equivalence.md",
     "Frml Lang&Finite Automata/Images/Pasted image 20240213164044.png",
@@ -194,13 +197,10 @@
     "User Interfaces/C++.md",
     "User Interfaces/C++ vs Java.md",
     "User Interfaces",
-    "README.md",
     "Professional Computing/Images/V_Waterfall_Method.png",
     "Professional Computing/Images/Use_Case.png",
     "Professional Computing/Images/UseCaseDiagram.png",
     "Professional Computing/Images/Unified_Process.png",
-    "Professional Computing/eXtreme Programming.md",
-    "Professional Computing/Value Proposal.md",
     "Professional Computing/Images",
     "Professional Computing",
     "Procedural Programming",
