@@ -18,3 +18,8 @@
 	- Country: Germany, France, UK, China
 	- Latitude and Longitude
 ## Time-Series
+- Univariate or multivariate data, but over time (years, months, days, hours, minutes, seconds etc.)
+- Example:
+	- Stock price
+	- Sales volume over time
+## 

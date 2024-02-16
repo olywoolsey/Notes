@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Data Types.md",
+                "file": "Data Analysis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Data Types.md",
+                "file": "Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Data Types.md",
+                "file": "Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Data Types.md"
+                "file": "Data Analysis.md"
               }
             }
           },
@@ -163,8 +163,8 @@
   },
   "active": "6074b5dc6a0e33e7",
   "lastOpenFiles": [
-    "Data Analysis.md",
     "Common Data Types.md",
+    "Data Analysis.md",
     "Exploratary Data.md",
     "Explanitory Data.md",
     "Atte.md",

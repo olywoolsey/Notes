@@ -34,4 +34,15 @@ One sentence that articulates your point of view and what is at stake.
 - Consider the sequence of information you want to describe
 - Sketch visualisations
 
-## Types Of Data
+## Visulisation
+- **Do not use Pie/Doughnutcharts**
+- **Don't use 3D**
+- **Bar Charts must have zero baseline**
+- **Secondary Y-axis – Generally confusing**
+	- Try Labeling each node seperately
+	- 
+
+## Reading
+- Useful breakdown of different graphs: https://www.storytellingwithdata.com/chart-guideKnaflic, 
+- C. N. (2015). Storytelling with data a data visualization guide for business professionals :Chapter 1 (Who, What, How considerations)
+- Knaflic, C. N. (2019). Storytelling with data Let’s Practice.Chapter 1 – Big ideas and storytelling examples
