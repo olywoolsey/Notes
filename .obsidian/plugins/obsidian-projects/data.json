@@ -3,11 +3,18 @@
   "projects": [
     {
       "fieldConfig": {
-        "status": {
+        "Status": {
           "options": [
             "Backlog",
             "Doing",
             "Done"
+          ]
+        },
+        "Due": {},
+        "Typ": {
+          "options": [
+            "Course Work",
+            "Exam"
           ]
         },
         "Type": {
@@ -55,20 +62,39 @@
           "colors": {
             "conditions": [
               {
-                "color": "#ff3d3d",
+                "color": "#a882ff",
                 "condition": {
                   "field": "Type",
-                  "operator": "contains",
+                  "operator": "is",
                   "enabled": true,
                   "value": "Exam"
                 }
               },
               {
-                "color": "#a882ff",
+                "color": "#ff3d3d",
                 "condition": {
-                  "field": "name",
-                  "operator": "is-not-empty",
-                  "enabled": true
+                  "field": "Status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Backlog"
+                }
+              },
+              {
+                "color": "#ff881a",
+                "condition": {
+                  "field": "Status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Doing"
+                }
+              },
+              {
+                "color": "#14ff7a",
+                "condition": {
+                  "field": "Status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Done"
                 }
               }
             ]
@@ -77,11 +103,6 @@
             "criteria": [
               {
                 "field": "name",
-                "order": "asc",
-                "enabled": false
-              },
-              {
-                "field": "due",
                 "order": "asc",
                 "enabled": true
               }
@@ -94,10 +115,12 @@
         {
           "config": {
             "includeFields": [
-              "due"
+              "due",
+              "Percent",
+              "Due"
             ],
-            "groupByField": "status",
-            "columnWidth": 350
+            "columnWidth": 350,
+            "groupByField": "Status"
           },
           "filter": {
             "conditions": []
@@ -114,11 +137,14 @@
         },
         {
           "config": {
-            "fitStyle": "contain",
+            "fitStyle": "cover",
             "includeFields": [
-              "due"
+              "due",
+              "Due",
+              "Percent",
+              "Type"
             ],
-            "coverField": "status"
+            "coverField": "Status"
           },
           "filter": {
             "conditions": []
