@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ebab7100f4efd01",
+        "id": "fa75a98a859c1808",
         "type": "tabs",
         "children": [
           {
-            "id": "4acbbd123cb1a77e",
+            "id": "9888b9bcd1fd9756",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -152,10 +152,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4acbbd123cb1a77e",
+  "active": "9888b9bcd1fd9756",
   "lastOpenFiles": [
-    "Assessments/NetworksCWK1.md",
+    "Assessments/Exams.md",
     "Assessments/Networks Exam.md",
+    "Assessments/AI 2.md",
+    "Assessments/Algorithms 3.md",
+    "Assessments/Networks 1.md",
+    "Assessments/Algorithms 2.md",
+    "Assessments/Software Project.md",
+    "Assessments/AI 1.md",
+    "Assessments/Algorithms 1.md",
     "README.md",
     "Untitled.md",
     "Data Analysis/Common Data Types.md",
@@ -174,15 +181,8 @@
     "Networks/MAN.md",
     "Networks/LAN.md",
     "Networks/Ethernet.md",
-    "Networks/DHCP.md",
-    "Frml Lang&Finite Automata/closure.md",
-    "Frml Lang&Finite Automata/applications.md",
-    "Frml Lang&Finite Automata/equivalence.md",
     "Frml Lang&Finite Automata/Images/Pasted image 20240213164044.png",
     "Frml Lang&Finite Automata/Images/Equivalences.png",
-    "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
-    "Frml Lang&Finite Automata/reg_languages.md",
-    "Frml Lang&Finite Automata/non-deterministic.md",
     "Frml Lang&Finite Automata/Images/NFA.png",
     "Frml Lang&Finite Automata/Images/NFA.png",
     "User Interfaces/Images/OpticalIllusion2.png",
