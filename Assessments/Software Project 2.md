@@ -1,7 +1,8 @@
 ---
-status: backlog
-due: 2024-03-07
+status: Backlog
+due: 2024-05-08
 Type: Course Work
+Percent: 100%
 ---
 # Software Engineering Project
 |Teaching week|Date| |Sprint|Submit|

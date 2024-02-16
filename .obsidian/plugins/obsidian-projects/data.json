@@ -5,9 +5,9 @@
       "fieldConfig": {
         "status": {
           "options": [
-            "backlog",
-            "doing",
-            "done"
+            "Backlog",
+            "Doing",
+            "Done"
           ]
         },
         "Type": {
@@ -40,7 +40,14 @@
               "Percent",
               "Type"
             ],
-            "fieldConfig": {}
+            "fieldConfig": {
+              "name": {
+                "width": 207
+              },
+              "path": {
+                "hide": true
+              }
+            }
           },
           "filter": {
             "conditions": []
@@ -54,6 +61,14 @@
                   "operator": "contains",
                   "enabled": true,
                   "value": "Exam"
+                }
+              },
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "name",
+                  "operator": "is-not-empty",
+                  "enabled": true
                 }
               }
             ]

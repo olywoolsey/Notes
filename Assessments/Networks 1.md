@@ -1,5 +1,5 @@
 ---
-status: backlog
+status: Backlog
 due: 2024-03-21
 Percent: 30%
 Type: Course Work

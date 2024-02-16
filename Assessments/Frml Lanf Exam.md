@@ -1,7 +1,8 @@
 ---
-status: backlog
+status: Backlog
 due: 2024-05-31
 Type: Exam
+Percent: 100%
 ---
 # Frml Lanf Exam
 | Module | Percent of Module |
