@@ -5,6 +5,8 @@ Due: 2024-02-26
 Type: Course Work
 ---
 # Q1
+![Original](BFSDFSCWQ1.png)
 ## BFS
-![](BSF_CWK1.png)
+![BFS](BSF_CWK1.png)
 ## DFS
+![DFS](DFS_CWK1.png)
