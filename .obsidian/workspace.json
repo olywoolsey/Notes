@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete/Graph Theory.md",
+                "file": "Assessments/Algorithms 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete/Graph Theory.md",
+                "file": "Assessments/Algorithms 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete/Graph Theory.md",
+                "file": "Assessments/Algorithms 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete/Graph Theory.md"
+                "file": "Assessments/Algorithms 1.md"
               }
             }
           },
@@ -163,6 +163,9 @@
   },
   "active": "9b0e31f5f344f025",
   "lastOpenFiles": [
+    "Assessments/Images",
+    "Assessments/Images/BSF_CWK1.png",
+    "Mathematics/Discrete/Graph Theory.md",
     "Assessments/Algorithms Exam.md",
     "Assessments/AI Exam.md",
     "Assessments/Software Project 1.md",
@@ -188,8 +191,6 @@
     "Networks/WAN.md",
     "Networks/UDP.md",
     "Networks/SMPT.md",
-    "Networks/Protocol Stack.md",
-    "Networks/POP3.md",
     "Frml Lang&Finite Automata/Images/Pasted image 20240213164044.png",
     "Frml Lang&Finite Automata/Images/Equivalences.png",
     "Frml Lang&Finite Automata/Images/NFA.png",
@@ -201,7 +202,6 @@
     "Professional Computing/Images/V_Waterfall_Method.png",
     "Professional Computing/Images/Use_Case.png",
     "Professional Computing/Images/UseCaseDiagram.png",
-    "Professional Computing/Images/Unified_Process.png",
     "Professional Computing/Images",
     "Professional Computing",
     "Procedural Programming",

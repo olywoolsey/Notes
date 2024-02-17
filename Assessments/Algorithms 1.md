@@ -4,5 +4,7 @@ Status: Doing
 Due: 2024-02-26
 Type: Course Work
 ---
-# Greedy
-
+# Q1
+## BFS
+![](BSF_CWK1.png)
+## DFS
