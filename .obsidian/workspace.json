@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessments/Algorithms 1.md",
+                "file": "Mathematics/Algorithms/Stacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessments/Algorithms 1.md",
+                "file": "Mathematics/Algorithms/Stacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assessments/Algorithms 1.md"
+                "file": "Mathematics/Algorithms/Stacks.md"
               }
             }
           },
@@ -196,7 +196,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "85f54dad910177c3",
+  "active": "9b0e31f5f344f025",
   "lastOpenFiles": [
     "Mathematics/Algorithms/Breadth First Search.md",
     "Assessments/Algorithms 1.md",
