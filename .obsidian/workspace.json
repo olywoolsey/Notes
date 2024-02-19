@@ -19,17 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c2cf87d92ed4fd4c",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +161,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "c2cf87d92ed4fd4c",
+  "active": "65580e124c64e88c",
   "lastOpenFiles": [
     "Mathematics/Algorithms/Stacks.md",
     "Mathematics/Algorithms/Breadth First Search.md",
