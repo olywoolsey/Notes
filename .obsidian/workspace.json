@@ -6,7 +6,6 @@
       {
         "id": "93d712060f04aeaf",
         "type": "tabs",
-        "dimension": 38.059701492537314,
         "children": [
           {
             "id": "65580e124c64e88c",
@@ -20,42 +19,17 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "fa75a98a859c1808",
-        "type": "tabs",
-        "dimension": 61.940298507462686,
-        "children": [
-          {
-            "id": "85f54dad910177c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assessments/Algorithms 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           },
           {
-            "id": "2c9d062b84409262",
+            "id": "c2cf87d92ed4fd4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Algorithms/Breadth First Search.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Algorithms/Stacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Algorithms/Stacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics/Algorithms/Stacks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,11 +166,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "c2cf87d92ed4fd4c",
   "lastOpenFiles": [
+    "Mathematics/Algorithms/Stacks.md",
     "Mathematics/Algorithms/Breadth First Search.md",
     "Assessments/Algorithms 1.md",
-    "Mathematics/Algorithms/Stacks.md",
     "Assessments/Images/BFSDFSCWQ1.png",
     "Assessments/Images/DFS_CWK1.png",
     "Assessments/Images",
