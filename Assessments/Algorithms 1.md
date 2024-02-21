@@ -39,7 +39,4 @@ k
 ```
 kgdc  beai  npol  hmjf
 # Q4
-```mermaid
-graph
-a--4--b
-```
+![](Pasted%20image%2020240221201534.png)
