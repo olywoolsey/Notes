@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -200,7 +201,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "2f1ba4e963f51f80",
   "lastOpenFiles": [
     "Assessments/Images/TO.png",
     "Mathematics/Algorithms/Depth First Search.md",
