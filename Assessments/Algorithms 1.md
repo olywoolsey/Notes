@@ -24,6 +24,18 @@ Type: Course Work
 graph
 a-->f
 a-->i
-
+i-->j
+i-->n
+n-->m
+n-->p
+p-->h
+p-->l
+p-->o
+b-->e
+c
+d
+g
+k
 ```
+afijnmphlo
 # Q4
