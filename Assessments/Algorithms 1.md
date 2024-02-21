@@ -39,3 +39,7 @@ k
 ```
 kgdc  beai  npol  hmjf
 # Q4
+```mermaid
+graph
+a--4--b
+```
