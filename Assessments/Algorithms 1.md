@@ -14,8 +14,15 @@ Type: Course Work
 
 # Q3
 ![](TO.png)
+## Khans
 1. kgdc
 2. beai
 3. fnjp
 4. olhm
+## DFS
+```mermaid
+graph TD;
+a -> f;
+
+```
 # Q4
