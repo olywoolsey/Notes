@@ -21,8 +21,9 @@ Type: Course Work
 4. olhm
 ## DFS
 ```mermaid
-graph TD;
-a -> f;
+graph
+a-->f
+a-->i
 
 ```
 # Q4
