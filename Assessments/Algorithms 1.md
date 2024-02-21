@@ -40,3 +40,9 @@ k
 kgdc  beai  npol  hmjf
 # Q4
 ![](Pasted%20image%2020240221201534.png)
+```mermaid
+graph
+A((A)) -- 2 --> E((E))
+	 A -- 2 --> M((M))
+	 F -- 2 --> G((G))
+```
