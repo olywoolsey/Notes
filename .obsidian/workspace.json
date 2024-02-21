@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2975b3e6f0748c40",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessments/Algorithms 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessments/Algorithms 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assessments/Algorithms 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,12 +178,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "8101de9b6e0218ea",
+  "active": "2975b3e6f0748c40",
   "lastOpenFiles": [
+    "Assessments/Algorithms 1.md",
     "Mathematics/Algorithms/Stacks.md",
     "jasashkhasdkjadsads",
     "Mathematics/Algorithms/Breadth First Search.md",
-    "Assessments/Algorithms 1.md",
     "Assessments/Images/BFSDFSCWQ1.png",
     "Assessments/Images/DFS_CWK1.png",
     "Assessments/Images",
