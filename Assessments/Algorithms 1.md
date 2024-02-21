@@ -10,21 +10,12 @@ Type: Course Work
 ![BFS](BSF_CWK1.png)
 ## DFS
 ![DFS](DFS_CWK1.png)
+# Q2
+
 # Q3
 ![](TO.png)
-k
-g
-d
-c
-b
-e
-a
-i
-f
-n
-j
-p
-o
-l
-h
-m
+1. kgdc
+2. beai
+3. fnjp
+4. olhm
+# Q4
