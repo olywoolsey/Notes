@@ -42,7 +42,27 @@ kgdc  beai  npol  hmjf
 ![](Pasted%20image%2020240221201534.png)
 ```mermaid
 graph
-A((A)) -- 2 --> E((E))
-	 A -- 2 --> M((M))
-	 F -- 2 --> G((G))
+A((A))
+B((B))
+C((C))
+D((D))
+E((E))
+F((F))
+G((G))
+H((H))
+I((I))
+J((J))
+K((K))
+L((L))
+M((M))
+N((N))
+O((O))
+P((P))
+A -- 2 --- E
+A -- 2 --- M
+F -- 2 --- G
+G -- 2 --- L
+L -- 2 --- P
+A -- 3 --- F
+B -- 3 --- G
 ```
