@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8101de9b6e0218ea",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Algorithms/Stacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Algorithms/Stacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics/Algorithms/Stacks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,10 +165,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "65580e124c64e88c",
+  "active": "8101de9b6e0218ea",
   "lastOpenFiles": [
-    "jasashkhasdkjadsads",
     "Mathematics/Algorithms/Stacks.md",
+    "jasashkhasdkjadsads",
     "Mathematics/Algorithms/Breadth First Search.md",
     "Assessments/Algorithms 1.md",
     "Assessments/Images/BFSDFSCWQ1.png",
@@ -207,7 +212,6 @@
     "Procedural Programming",
     "Photography Imaging/Images",
     "Photography Imaging",
-    "Operating Systems/Memory Management",
     "Untitled.canvas",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
