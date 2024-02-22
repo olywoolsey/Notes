@@ -63,8 +63,13 @@
             "id": "4c435a275f31afd7",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Assessments/AI 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -135,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Assessments/AI 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Assessments/AI 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Assessments/AI 1.md"
+              }
             }
           },
           {

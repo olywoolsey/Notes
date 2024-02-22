@@ -120,7 +120,18 @@
               "Due"
             ],
             "columnWidth": 350,
-            "groupByField": "Status"
+            "groupByField": "Status",
+            "columns": {
+              "Backlog": {
+                "weight": 0
+              },
+              "Doing": {
+                "weight": 1
+              },
+              "Done": {
+                "weight": 2
+              }
+            }
           },
           "filter": {
             "conditions": []
@@ -129,7 +140,13 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "Due",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "1d553ca0-b172-4272-8652-308ca0a2531f",
           "name": "Board",
