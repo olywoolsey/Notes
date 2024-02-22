@@ -58,9 +58,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c435a275f31afd7",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessments/Algorithms 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessments/Algorithms 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assessments/Algorithms 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,8 +205,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "2f1ba4e963f51f80",
+  "active": "4c435a275f31afd7",
   "lastOpenFiles": [
+    "Assessments/Algorithms 1.md",
     "Pasted image 20240221201534.png",
     "Mathematics/Discrete/Graph Theory.md",
     "Mathematics/Discrete/Discrete Probability Theory.md",
@@ -218,7 +223,6 @@
     "Mathematics/Logic/All Fun Symbols.md",
     "Mathematics/Discrete/Connected_Components.png",
     "Mathematics/Algorithms/Depth First Search.md",
-    "Assessments/Algorithms 1.md",
     "Assessments/Images/TO.png",
     "Mathematics/Algorithms/Stacks.md",
     "jasashkhasdkjadsads",
@@ -241,7 +245,6 @@
     "Frml Lang&Finite Automata/Images/Equivalences.png",
     "Frml Lang&Finite Automata/Images/NFA.png",
     "Frml Lang&Finite Automata/Images/NFA.png",
-    "User Interfaces/Images/OpticalIllusion2.png",
     "User Interfaces/Images",
     "User Interfaces",
     "Professional Computing/Images",
