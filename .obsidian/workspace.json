@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assessments/AI 1.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessments/AI 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessments/AI 1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assessments/AI 1.md"
+                "file": "README.md"
               }
             }
           },
@@ -216,6 +215,7 @@
   },
   "active": "4c435a275f31afd7",
   "lastOpenFiles": [
+    "Assessments/AI 1.md",
     "Assessments/Algorithms 1.md",
     "Pasted image 20240221201534.png",
     "Mathematics/Discrete/Graph Theory.md",
@@ -246,7 +246,6 @@
     "Assessments/Software Project 2.md",
     "Assessments/Networks Exam.md",
     "Assessments/Frml Lanf Exam.md",
-    "Assessments/AI 1.md",
     "Assessments/AI 2.md",
     "Assessments/Algorithms 3.md",
     "Data Analysis",
