@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a776714ec268deac",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/MAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/MAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Networks/MAN.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,8 +165,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9cc4f05a4b4440f3",
+  "active": "a776714ec268deac",
   "lastOpenFiles": [
+    "Networks/MAN.md",
     "README.md",
     "Assessments/AI 1.md",
     "Assessments/Algorithms 1.md",
@@ -195,7 +201,6 @@
     "Assessments/Networks Exam.md",
     "Assessments/Frml Lanf Exam.md",
     "Assessments/AI 2.md",
-    "Assessments/Algorithms 3.md",
     "Data Analysis",
     "Frml Lang&Finite Automata/Images/Pasted image 20240213164044.png",
     "Frml Lang&Finite Automata/Images/Equivalences.png",
