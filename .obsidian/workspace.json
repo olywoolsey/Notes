@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Networks/MAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Networks/MAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Networks/MAN.md"
+              }
             }
           },
           {
@@ -167,9 +171,9 @@
   },
   "active": "a776714ec268deac",
   "lastOpenFiles": [
+    "Assessments/AI 1.md",
     "Networks/MAN.md",
     "README.md",
-    "Assessments/AI 1.md",
     "Assessments/Algorithms 1.md",
     "Pasted image 20240221201534.png",
     "Mathematics/Discrete/Graph Theory.md",
