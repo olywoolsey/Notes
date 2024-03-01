@@ -1,5 +1,10 @@
 # Optimising Visualisations
+## Visual Heirarchy
 ![](Order_Of_Reading.png)
+- Creating a visual hierarchy will mean that your audience does not have to do as much work to understand your key messages.
+- Look away from your visualisation and then look back to see what your eyes are drawn to.
+- Make sure that the data relating to your key points are what your eye is drawn to when you look at the visualisation.
+- Remember that by highlighting something you may make other information harder to read
 ## Memory
 - **Iconic memory** is unconscious and is ruled by pre-attentive attributes.Guide your audience to look at certain aspects of your visualisation.
 - **Short term memory** can hold about 4 pieces of visual information.Do not overload or make your audience work too hard.
@@ -54,3 +59,22 @@ People like things to be simple and fit into constructs that are already in our 
 - Every single element you add to a page or screen takes up cognitive load(mental effort).
 - That means we should take a discerning eye to the elements we allow on our page or screen and work to identify those things that are taking up brainpower unnecessarily and remove them.
 - Visual elements that take up space and cognitive load but do not improve understanding can be seen as clutter
+### White Space
+- Can get the attention of your audience like a dramatic pause when someone is speaking.
+- Resist the urge to fill all the space on the screen on page
+### Alignment
+- In the previous example we switched from centre to left justification of text to create clean horizontal lines.
+- The audience will naturally start at the top left of the page or screen and move their eyesin a “z” shape.
+- 45 degree rotated text is on average 52% slower to read.
+- 90 degree rotated text is 205% slower to read.
+- Turn on rulers or grid lines when aligning things on a page to so you can precisely align all the elements to create clean horizontal and vertical lines
+
+## Removing Clutter
+![](Pasted%20image%2020240301143334.png)
+1. Remove Chart Border
+2. Can you remove grid lines
+3. Do you need data markers
+4. Can you clean up axis labels(remove decimal point and remove tilt)
+5. Label data directly
+6. Leverage consistent colour (change data labels to match)
+![](Pasted%20image%2020240301143320.png)
