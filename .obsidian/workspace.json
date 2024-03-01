@@ -11,8 +11,13 @@
             "id": "e96de97de3d5635d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysis/Optimising Visulisations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Analysis/Optimising Visulisations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Analysis/Optimising Visulisations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Analysis/Optimising Visulisations.md"
+              }
             }
           },
           {
@@ -138,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,11 +161,15 @@
   },
   "active": "e96de97de3d5635d",
   "lastOpenFiles": [
+    "Pasted image 20240221201534.png",
+    "Data Analysis/Optimising Visulisations.md",
+    "Data Analysis/Order_Of_Reading.png",
+    "Data Analysis/Common Data Types.md",
+    "Data Analysis/Data Analysis.md",
     "Networks/MAN.md",
     "Assessments/AI 1.md",
     "README.md",
     "Assessments/Algorithms 1.md",
-    "Pasted image 20240221201534.png",
     "Mathematics/Discrete/Graph Theory.md",
     "Mathematics/Discrete/Discrete Probability Theory.md",
     "Mathematics/Discrete/Connectivity in Directed Graphs.md",
@@ -183,14 +195,9 @@
     "Assessments/Algorithms Exam.md",
     "Assessments/AI Exam.md",
     "Assessments/Software Project 1.md",
-    "Assessments/Software Project 2.md",
-    "Assessments/Networks Exam.md",
-    "Assessments/Frml Lanf Exam.md",
-    "Assessments/AI 2.md",
     "Data Analysis",
     "Frml Lang&Finite Automata/Images/Pasted image 20240213164044.png",
     "Frml Lang&Finite Automata/Images/Equivalences.png",
-    "Frml Lang&Finite Automata/Images/NFA.png",
     "Frml Lang&Finite Automata/Images/NFA.png",
     "User Interfaces/Images",
     "User Interfaces",
