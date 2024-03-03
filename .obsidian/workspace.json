@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "006720f26ba65e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assessments/Data Analysis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Optimising Visulisations.md",
+                "file": "Assessments/Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Optimising Visulisations.md",
+                "file": "Assessments/Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Optimising Visulisations.md"
+                "file": "Assessments/Data Analysis.md"
               }
             }
           },
@@ -159,8 +173,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e96de97de3d5635d",
+  "active": "006720f26ba65e51",
   "lastOpenFiles": [
+    "Assessments/Data Analysis.md",
+    "Data Analysis/Optimising Visulisations.md",
     "Pasted image 20240301143334.png",
     "Pasted image 20240301143320.png",
     "Data Analysis/Pasted image 20240301142828.png",
@@ -169,7 +185,6 @@
     "Assessments/Pasted image 20240221201534.png",
     "Data Analysis/Pasted image 20240301142249.png",
     "Data Analysis/Pasted image 20240301142438.png",
-    "Data Analysis/Optimising Visulisations.md",
     "Data Analysis/Order_Of_Reading.png",
     "Data Analysis/Common Data Types.md",
     "Data Analysis/Data Analysis.md",
@@ -191,7 +206,6 @@
     "Mathematics/Logic/All Fun Symbols.md",
     "Mathematics/Discrete/Connected_Components.png",
     "Mathematics/Algorithms/Depth First Search.md",
-    "Assessments/Images/TO.png",
     "Mathematics/Algorithms/Stacks.md",
     "jasashkhasdkjadsads",
     "Mathematics/Algorithms/Breadth First Search.md",
