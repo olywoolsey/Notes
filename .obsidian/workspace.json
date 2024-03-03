@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ecb47f293ee99ec",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessments/Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessments/Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assessments/Data Analysis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,7 +177,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "006720f26ba65e51",
+  "active": "1ecb47f293ee99ec",
   "lastOpenFiles": [
     "Assessments/Data Analysis.md",
     "Data Analysis/Optimising Visulisations.md",
