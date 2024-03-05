@@ -108,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Analysis/Optimising Visulisations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Analysis/Optimising Visulisations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Analysis/Optimising Visulisations.md"
+              }
             }
           },
           {
