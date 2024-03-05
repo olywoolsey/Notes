@@ -40,9 +40,22 @@
               "type": "obsidian-projects",
               "state": {}
             }
+          },
+          {
+            "id": "6d45be4b10340099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Algorithms/Greedy Algorithms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Optimising Visulisations.md",
+                "file": "Mathematics/Algorithms/Greedy Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Optimising Visulisations.md",
+                "file": "Mathematics/Algorithms/Greedy Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Optimising Visulisations.md"
+                "file": "Mathematics/Algorithms/Greedy Algorithms.md"
               }
             }
           },
@@ -181,12 +194,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "1ecb47f293ee99ec",
+  "active": "6d45be4b10340099",
   "lastOpenFiles": [
+    "README.md",
+    "Data Analysis/Pasted image 20240301143320.png",
+    "Data Analysis/Pasted image 20240301143334.png",
+    "Mathematics/Algorithms/Greedy Algorithms.md",
     "Assessments/Data Analysis.md",
     "Data Analysis/Optimising Visulisations.md",
-    "Pasted image 20240301143334.png",
-    "Pasted image 20240301143320.png",
     "Data Analysis/Pasted image 20240301142828.png",
     "Data Analysis/Pasted image 20240301142731.png",
     "Data Analysis/Pasted image 20240301142611.png",
@@ -198,7 +213,6 @@
     "Data Analysis/Data Analysis.md",
     "Networks/MAN.md",
     "Assessments/AI 1.md",
-    "README.md",
     "Assessments/Algorithms 1.md",
     "Mathematics/Discrete/Graph Theory.md",
     "Mathematics/Discrete/Discrete Probability Theory.md",
@@ -219,8 +233,6 @@
     "Mathematics/Algorithms/Breadth First Search.md",
     "Assessments/Images",
     "Assessments/Algorithms Exam.md",
-    "Assessments/AI Exam.md",
-    "Assessments/Software Project 1.md",
     "Data Analysis",
     "User Interfaces/Images",
     "User Interfaces",
