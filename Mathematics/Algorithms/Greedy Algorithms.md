@@ -14,3 +14,8 @@ Given a connected, undirected graph a MST is the graph that connects all the nod
 Start with some root node $s$ and greedily grow a tree $T$ from $s$ outward. At each step, add a cheapest edge $e$ to $T$ that has exactly one endpoint in $T$
 ### Kruskal's Algorithm
 Start with $E(T ) = ∅$. Consider edges in ascending order of weight. Insert edge $e \text{ in } T$ unless doing so would create a cycle
+## Cuts and Cycles
+### Cycles
+Set of edges the form $a-b, b-c, c-d, . . . , y-z, z-a$
+### Cutset
+A cut is a subset of nodes $S$. The corresponding cutset $D$ is the subset of edges with exactly one endpoint in $S$
