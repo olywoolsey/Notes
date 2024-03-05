@@ -6,5 +6,6 @@
 - works for problems, where a non-optimal solution can be improved to an optimalsolution by incrementally replacing locally non-optimal solution components
 - leads to very efficient algorithms
 ## Minimum Spanning Tree
+Given a connected, undirected graph a MST is the graph that connects all the nodes with the lowest total edge weight
 ### Prim's Algorithm
 ### Kruskal's Algorithm
