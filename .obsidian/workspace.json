@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matricies.md",
+                "file": "Dynamic Programmin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matricies.md",
+                "file": "Dynamic Programmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matricies.md",
+                "file": "Dynamic Programmin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matricies.md"
+                "file": "Dynamic Programmin.md"
               }
             }
           },
@@ -196,8 +196,8 @@
   },
   "active": "6d45be4b10340099",
   "lastOpenFiles": [
-    "Dynamic Programmin.md",
     "Mathematics/Linear Algebra/Matricies.md",
+    "Dynamic Programmin.md",
     "Mathematics/Algorithms/Greedy Algorithms.md",
     "README.md",
     "Data Analysis/Pasted image 20240301143320.png",

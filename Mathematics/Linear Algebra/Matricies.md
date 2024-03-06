@@ -21,7 +21,7 @@ We call $A$ an $m×n$ matrix
 ### Matrix Multiplication
 - $AB$ Possible if the number of columns in $A$ equals the number of rows in $B$
 - For every element in the matrix dot the column vector of the first matrix($A$) with the row vector of the second($B$)
-- $\vec{AB} = A_1B_1+A_2B_2+A_3B_3$
+- $A\cdot B = A_1B_1+A_2B_2+A_3B_3$
 - result will be size of rows of $A$ and columns of $B$
 	- i.e. if $A$ = m x n and $B$ = p x j
 	- can multiply is n = p
