@@ -11,16 +11,20 @@
             "id": "7e999a16179ba290",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Algorithms/Dynamic Programmin.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "42b50d35af6466dc",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Algorithms/Dynamic Programmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Algorithms/Dynamic Programmin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics/Algorithms/Dynamic Programmin.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +159,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7e999a16179ba290",
+  "active": "42b50d35af6466dc",
   "lastOpenFiles": [
     "Mathematics/Algorithms/Dynamic Programmin.md",
     "Assessments/Data Analysis.md",
