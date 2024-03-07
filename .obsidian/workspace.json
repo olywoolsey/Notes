@@ -4,58 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "104f38d9a0c1f9bf",
+        "id": "1aab88a2e0d0efa9",
         "type": "tabs",
         "children": [
           {
-            "id": "e96de97de3d5635d",
+            "id": "7e999a16179ba290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Optimising Visulisations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "006720f26ba65e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assessments/Data Analysis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ecb47f293ee99ec",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "6d45be4b10340099",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Programmin.md",
+                "file": "Mathematics/Algorithms/Dynamic Programmin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programmin.md",
+                "file": "Mathematics/Algorithms/Dynamic Programmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programmin.md",
+                "file": "Mathematics/Algorithms/Dynamic Programmin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programmin.md"
+                "file": "Mathematics/Algorithms/Dynamic Programmin.md"
               }
             }
           },
@@ -194,15 +159,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6d45be4b10340099",
+  "active": "9b0e31f5f344f025",
   "lastOpenFiles": [
+    "Mathematics/Algorithms/Dynamic Programmin.md",
+    "Assessments/Data Analysis.md",
     "Mathematics/Linear Algebra/Matricies.md",
-    "Dynamic Programmin.md",
     "Mathematics/Algorithms/Greedy Algorithms.md",
     "README.md",
     "Data Analysis/Pasted image 20240301143320.png",
     "Data Analysis/Pasted image 20240301143334.png",
-    "Assessments/Data Analysis.md",
     "Data Analysis/Optimising Visulisations.md",
     "Data Analysis/Pasted image 20240301142828.png",
     "Data Analysis/Pasted image 20240301142731.png",
