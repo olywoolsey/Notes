@@ -19,8 +19,13 @@
             "id": "42b50d35af6466dc",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Algorithms/Dynamic Programming.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics/Algorithms/Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematics/Algorithms/Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematics/Algorithms/Dynamic Programming.md"
+              }
             }
           },
           {
@@ -161,7 +170,7 @@
   },
   "active": "42b50d35af6466dc",
   "lastOpenFiles": [
-    "Mathematics/Algorithms/Dynamic Programmin.md",
+    "Mathematics/Algorithms/Dynamic Programming.md",
     "Assessments/Data Analysis.md",
     "Mathematics/Linear Algebra/Matricies.md",
     "Mathematics/Algorithms/Greedy Algorithms.md",
