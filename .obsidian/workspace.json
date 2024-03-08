@@ -11,8 +11,13 @@
             "id": "7e999a16179ba290",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Algorithms/Dynamic Programming.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Algorithms/Dynamic Programming.md",
+                "file": "Assessments/Algorithms 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Algorithms/Dynamic Programming.md",
+                "file": "Assessments/Algorithms 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Algorithms/Dynamic Programming.md",
+                "file": "Assessments/Algorithms 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Algorithms/Dynamic Programming.md"
+                "file": "Assessments/Algorithms 2.md"
               }
             }
           },
@@ -171,6 +176,7 @@
   "active": "42b50d35af6466dc",
   "lastOpenFiles": [
     "Mathematics/Algorithms/Dynamic Programming.md",
+    "Assessments/Algorithms 2.md",
     "Assessments/Data Analysis.md",
     "Mathematics/Linear Algebra/Matricies.md",
     "Mathematics/Algorithms/Greedy Algorithms.md",
@@ -206,7 +212,6 @@
     "Mathematics/Algorithms/Depth First Search.md",
     "Mathematics/Algorithms/Stacks.md",
     "jasashkhasdkjadsads",
-    "Mathematics/Algorithms/Breadth First Search.md",
     "Assessments/Images",
     "Data Analysis",
     "User Interfaces/Images",
