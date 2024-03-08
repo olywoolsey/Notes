@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessments/Algorithms 2.md",
+                "file": "Mathematics/Algorithms/Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessments/Algorithms 2.md",
+                "file": "Mathematics/Algorithms/Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assessments/Algorithms 2.md"
+                "file": "Mathematics/Algorithms/Dynamic Programming.md"
               }
             }
           },
@@ -173,10 +172,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "42b50d35af6466dc",
+  "active": "7e999a16179ba290",
   "lastOpenFiles": [
-    "Mathematics/Algorithms/Dynamic Programming.md",
+    "Pasted image 20240308162532.png",
     "Assessments/Algorithms 2.md",
+    "Mathematics/Algorithms/Dynamic Programming.md",
     "Assessments/Data Analysis.md",
     "Mathematics/Linear Algebra/Matricies.md",
     "Mathematics/Algorithms/Greedy Algorithms.md",
@@ -210,7 +210,6 @@
     "Mathematics/Logic/All Fun Symbols.md",
     "Mathematics/Discrete/Connected_Components.png",
     "Mathematics/Algorithms/Depth First Search.md",
-    "Mathematics/Algorithms/Stacks.md",
     "jasashkhasdkjadsads",
     "Assessments/Images",
     "Data Analysis",
