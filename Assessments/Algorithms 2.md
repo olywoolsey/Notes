@@ -37,3 +37,4 @@ arr = [3,4,6,4,2,3,5]
 n = len(arr)
 print("Minimum number of multiplications is",MatrixChainOrder(arr, n))
 ```
+# Q2 
