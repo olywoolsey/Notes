@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Algorithms/Greedy Algorithms.md",
+                "file": "Assessments/Algorithms 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Algorithms/Greedy Algorithms.md",
+                "file": "Assessments/Algorithms 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Algorithms/Greedy Algorithms.md",
+                "file": "Assessments/Algorithms 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Algorithms/Greedy Algorithms.md"
+                "file": "Assessments/Algorithms 2.md"
               }
             }
           },
@@ -174,12 +174,12 @@
   },
   "active": "7e999a16179ba290",
   "lastOpenFiles": [
+    "Mathematics/Algorithms/Greedy Algorithms.md",
     "Assessments/Algorithms 2.md",
     "Mathematics/Algorithms/Dynamic Programming.md",
     "Pasted image 20240308162532.png",
     "Assessments/Data Analysis.md",
     "Mathematics/Linear Algebra/Matricies.md",
-    "Mathematics/Algorithms/Greedy Algorithms.md",
     "README.md",
     "Data Analysis/Pasted image 20240301143320.png",
     "Data Analysis/Pasted image 20240301143334.png",
