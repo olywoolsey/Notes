@@ -21,6 +21,14 @@
             }
           },
           {
+            "id": "0929705446209fd0",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
             "id": "42b50d35af6466dc",
             "type": "leaf",
             "state": {
@@ -33,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessments/Algorithms 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessments/Algorithms 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assessments/Algorithms 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,10 +177,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7e999a16179ba290",
+  "active": "0929705446209fd0",
   "lastOpenFiles": [
-    "Mathematics/Algorithms/Greedy Algorithms.md",
     "Assessments/Algorithms 2.md",
+    "Mathematics/Algorithms/Greedy Algorithms.md",
     "Mathematics/Algorithms/Dynamic Programming.md",
     "Pasted image 20240308162532.png",
     "Assessments/Data Analysis.md",
