@@ -1,12 +1,14 @@
 # Equivalences
 
 It may seem from first observation that the differences between deterministic finite automaton and non-deterministic finite automaton would cause  the class of languages accepted by non-deterministic finite state automata is larger than the class accepted by deterministic finite state automata, however, this is not the case. In fact non-deterministic finite automaton and deterministic finite automaton recognise the same class of languages; this of course requires a proof. Consequently, from {prf:ref}`reg_lang`, non-deterministic finite automaton recognise the class of regular languages.
-## Theorem 1
-> [! info] DFA/NFA Equivalence
-Every non-deterministic finite automaton has an equivalent deterministic finite automaton.
-### proof
+
+> [!info] Theorem (DFA/NFA Equivalence)
+> Every non-deterministic finite automaton has an equivalent deterministic finite automaton.
+
+>proof
 
 Let $N=(Q, \Sigma, \delta, q_0, F)$ be a non-deterministic finite automaton that recognises the language $L$. We will construct a deterministic finite automaton $D = (Q', \Sigma, \delta',q_0',F')$ that recognises $L$. Let us first consider the easier case where $N$ contains no $\epsilon$ transitions, we will later extend this construction to allow $\epsilon$ transitions.
+
 
 - $Q' = \mathcal{P}(Q)$. The states of $D$ is the powerset of the states of the automaton $N$.
 
@@ -34,9 +36,11 @@ q_0' = E(\{q_0\}).
 ```
 
 The automaton $D$ accepts a string $w$ if and only if $N$ accepts $w$. At every step of the computation of $D$ it is in the state that represents the set of possible states that $N$ would be in having read the same portion of input.
+````
+
 ## Example
 
-Consider the following non-deterministic finite state automaton. The automaton recognises the language which contains the string over the alphabet $\{0,1\}$ where the string contains at least 2 occurrences of the $0$ symbol and the last symbol is $0$. The automaton is clearly non-deterministic as the state $q_0$ has two transition for the symbol $0$.
+Consider the following non-deterministic finite state automaton. The automaton recognises the language which contains the string over the alphabet $\{0,1\}$ where the string contains atleast 2 occurences of the $0$ symbol and the last symbol is $0$. The automaton is clearly non-deterministic as the state $q_0$ has two transition for the symbol $0$.
 
 Let $N=(Q, \Sigma, \delta, q_0, F)$ where 
 
@@ -45,12 +49,26 @@ Let $N=(Q, \Sigma, \delta, q_0, F)$ where
 3. $\delta = \{((q_0,0),q_0),((q_0,0),q_1),((q_0,1),q_0),((q_1,0),q_1),((q_1,0),q_2),((q_1,1),q_1)\}$
 4. The initial state is $q_0$
 5. $F = \{q_2\}$
-![](Equivalences.png)
+
+```{figure} ../../../images/nfa_to_dfa.png
+
+$M_\text{NFA}$
+```
+
 Following the construction in the proof of {prf:ref}`dfa_equiv_nfa` we construct an equivalent deterministic finite state automaton.  
-![](Pasted%20image%2020240213164044.png)
+
+
+```{figure} ../../../images/nfa_to_dfa_DFA.png
+
+$M_\text{DFA}$
+```
+
 Notice that the construction does not produce an equivalent deterministic finite state automata with the minimum number of state, however the construction will always produce an equivalent deterministic finite state automata. There are states in the constructed automaton which are not _reachable_. How could you find states in a finite state machine which are not reachable? Is it sufficient to remove state which are reachable in order to produce a minimum finite state automata for a language? 
 
 As a language is regular if there exists a deterministic finite state automaton that recognises it, and for every non-deterministic finite state automaton there exists a deterministic finite state automaton that recognises the same language we can derive the following corollary.
 
-> [! warning] Corollary 1
-> A language is called a **regular language** if some non-deterministic finite automaton recognises it (corollary to Theorem 1).
+```{prf:corollary} 
+:label: reg_lang_ndfsm
+
+A language is called a **regular language** if some non-deterministic finite automaton recognises it (corollary to {prf:ref}`dfa_equiv_nfa`).
+```

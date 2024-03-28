@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frml Lang&Finite Automata/Regular Languages.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frml Lang&Finite Automata/Notation.md",
+                "file": "Formal Languages & Finite Automata/Notation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frml Lang&Finite Automata/Regular Languages.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frml Lang&Finite Automata/Regular Languages.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frml Lang&Finite Automata/Regular Languages.md"
+                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md"
               }
             }
           },
@@ -182,17 +182,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0929705446209fd0",
+  "active": "9b0e31f5f344f025",
   "lastOpenFiles": [
-    "Frml Lang&Finite Automata/non-regularity.md",
-    "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
-    "Frml Lang&Finite Automata/Non-Deterministic Finite State Automata.md",
-    "Frml Lang&Finite Automata/Regular Languages.md",
+    "Formal Languages & Finite Automata/Finite State Automata",
+    "Formal Languages & Finite Automata/non-regularity.md",
+    "Formal Languages & Finite Automata/Applications.md",
+    "Formal Languages & Finite Automata/Closure.md",
+    "Formal Languages & Finite Automata/Finite State Automata/Regular Languages.md",
+    "Formal Languages & Finite Automata/Finite State Automata/Non-Deterministic Finite State Automata.md",
+    "Formal Languages & Finite Automata/Finite State Automata/Deterministic Finite Automata.md",
     "Mathematics/Logic/All Fun Symbols.md",
-    "Frml Lang&Finite Automata/Notation.md",
-    "Frml Lang&Finite Automata/Images/Pasted image 20240308162532.png",
-    "Frml Lang&Finite Automata/Closure.md",
-    "Frml Lang&Finite Automata/Applications.md",
+    "Formal Languages & Finite Automata/Notation.md",
+    "Formal Languages & Finite Automata/Images/Pasted image 20240308162532.png",
     "Assessments/Algorithms 2.md",
     "Mathematics/Algorithms/Greedy Algorithms.md",
     "Mathematics/Algorithms/Dynamic Programming.md",
@@ -219,7 +220,6 @@
     "Mathematics/Discrete/Connectivity in Directed Graphs.md",
     "Mathematics/Discrete/Connected Component.md",
     "Mathematics/Discrete/Combinatorics.md",
-    "Mathematics/Linear Algebra/Gaussian Elimination.md",
     "jasashkhasdkjadsads",
     "Assessments/Images",
     "Data Analysis",

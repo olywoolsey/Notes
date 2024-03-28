@@ -1,7 +1,7 @@
 # Deterministic Finite Automata (DFA)
 #COMP2321
 - (Finite State Machine)
-> [!Definition] Definition (Deterministic Finite State Automata)
+> [!info]+ Definition (Deterministic Finite State Automata)
 > Is a 5-tuple $(Q, Σ, δ, q_0, F)$, where
 > 1. $Q$ is a finite set called the states
 > 2. $\sum$ is a finite set called the alphabet
@@ -27,4 +27,4 @@ Let $M = (Q, \sum, \delta, q_0, F)$
 3. $\delta = \set{((q_0, 0)q_0), ((q_0, 1) q_1), ((q_1, 0)q_2), ((q_1, 1)q_1), ((q_2, 0)q_1), ((q_2, 1)q_1)}$
 4. $q_0 = q_0$
 5. $F = \set q_1$
-![](Images/DFA.png)
+![](DFA.png)
