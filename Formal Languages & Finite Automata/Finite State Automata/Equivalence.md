@@ -38,7 +38,7 @@ It may seem from first observation that the differences between deterministic fi
 
 ## Example
 
-Consider the following non-deterministic finite state automaton. The automaton recognises the language which contains the string over the alphabet $\{0,1\}$ where the string contains atleast 2 occurences of the $0$ symbol and the last symbol is $0$. The automaton is clearly non-deterministic as the state $q_0$ has two transition for the symbol $0$.
+Consider the following non-deterministic finite state automaton. The automaton recognises the language which contains the string over the alphabet $\{0,1\}$ where the string contains at least 2 occurrences of the $0$ symbol and the last symbol is $0$. The automaton is clearly non-deterministic as the state $q_0$ has two transition for the symbol $0$.
 
 Let $N=(Q, \Sigma, \delta, q_0, F)$ where 
 
@@ -48,18 +48,11 @@ Let $N=(Q, \Sigma, \delta, q_0, F)$ where
 4. The initial state is $q_0$
 5. $F = \{q_2\}$
 
-```{figure} ../../../images/nfa_to_dfa.png
+![](NDSA_Equiv.png)
 
-$M_\text{NFA}$
-```
+Following the construction in the proof of [Theorem 1](https://alt-6100e9398f586.blackboard.com/bbcswebdav/courses/202324_32878_COMP2321/_build/html/parts/chapters/fsm/equivalence.html#dfa_equiv_nfa) we construct an equivalent deterministic finite state automaton.
 
-Following the construction in the proof of {prf:ref}`dfa_equiv_nfa` we construct an equivalent deterministic finite state automaton.  
-
-
-```{figure} ../../../images/nfa_to_dfa_DFA.png
-
-$M_\text{DFA}$
-```
+![](DSA_Equiv%201.png)
 
 Notice that the construction does not produce an equivalent deterministic finite state automata with the minimum number of state, however the construction will always produce an equivalent deterministic finite state automata. There are states in the constructed automaton which are not _reachable_. How could you find states in a finite state machine which are not reachable? Is it sufficient to remove state which are reachable in order to produce a minimum finite state automata for a language? 
 

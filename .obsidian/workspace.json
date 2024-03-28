@@ -11,12 +11,9 @@
             "id": "0929705446209fd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Formal Languages & Finite Automata/Images/DSA_Equiv.png"
               }
             }
           },
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
+                "file": "Formal Languages & Finite Automata/Images/DSA_Equiv.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
+                "file": "Formal Languages & Finite Automata/Images/DSA_Equiv.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md"
+                "file": "Formal Languages & Finite Automata/Images/DSA_Equiv.png"
               }
             }
           },
@@ -182,8 +179,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "0929705446209fd0",
   "lastOpenFiles": [
+    "Formal Languages & Finite Automata/Images/DSA_Equiv 1.png",
+    "Formal Languages & Finite Automata/Images/NDSA_Equiv.png",
+    "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
+    "Formal Languages & Finite Automata/Images/DSA_Equiv.png",
     "Formal Languages & Finite Automata/Finite State Automata",
     "Formal Languages & Finite Automata/non-regularity.md",
     "Formal Languages & Finite Automata/Applications.md",
@@ -207,9 +208,6 @@
     "Data Analysis/Pasted image 20240301142731.png",
     "Data Analysis/Pasted image 20240301142611.png",
     "Assessments/Pasted image 20240221201534.png",
-    "Data Analysis/Pasted image 20240301142249.png",
-    "Data Analysis/Pasted image 20240301142438.png",
-    "Data Analysis/Order_Of_Reading.png",
     "Data Analysis/Common Data Types.md",
     "Data Analysis/Data Analysis.md",
     "Networks/MAN.md",
@@ -219,7 +217,6 @@
     "Mathematics/Discrete/Discrete Probability Theory.md",
     "Mathematics/Discrete/Connectivity in Directed Graphs.md",
     "Mathematics/Discrete/Connected Component.md",
-    "Mathematics/Discrete/Combinatorics.md",
     "jasashkhasdkjadsads",
     "Assessments/Images",
     "Data Analysis",
@@ -229,7 +226,6 @@
     "Professional Computing",
     "Procedural Programming",
     "Photography Imaging/Images",
-    "Photography Imaging",
     "Untitled.canvas",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
