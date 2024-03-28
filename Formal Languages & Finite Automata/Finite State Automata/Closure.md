@@ -33,22 +33,6 @@ To prove that Regular languages are closed with respect to the complement operat
 >
 > The automaton $M'$ is a finite state automaton and therefore by the theorem $\overline{A}$ is a regular language.
 
-````{prf:example}
-Consider the following deterministic finite automata.
-
-```{figure} ../../../images/complement_example.png
-
-$M_1$
-```
-
-The automata $M_1$ recognises the unary language (a language over an alphabet with a single symbol) which contains strings who length is an integer multiple of 3, i.e., the following strings are in $L(M_1)$; $\epsilon$, $111$, $111111$. The language is regular as there exists a deterministic finite state automata that recognises it. The complement of $L(M_1)$ is the language which contains the strings who length is $1 \mod 3$ or $2 \mod 3$. Following the construction from the proof of {prf:ref}`regclosecomplement` we obtain the following automaton.
-
-```{figure} ../../../images/complement_complement_example.png
-
-A deterministic finite state automata that recognised $\overline{L(M_1)}$.
-```
-````
-
 ## Union
 
 > [! info] Definition: Union
@@ -58,31 +42,30 @@ A deterministic finite state automata that recognised $\overline{L(M_1)}$.
 
 > [! info] Theorm: 
 Regular languages are closed with respect to finite union.
-````
 
 To prove that Regular languages are closed with respect to the finite union operation, we must prove that for any arbitrary pair of regular languages there exists a deterministic finite state automaton that recognises their union.
 
-````{prf:proof}
-Let $A$ and $B$ be regular languages and let $M_1 = (Q_1, \Sigma_1, \delta_1, q_1, F_1)$ recognise $A$ and let $M_2 = (Q_2, \Sigma_2, \delta_2, q_2, F_2)$ recognise $B$. We construct a deterministic finite state automaton $M = (Q, \Sigma, \delta, q, F)$ that recognises $A \cup B$, assuming $\Sigma_1 = \Sigma_2$. The construction can be generalised for when $\Sigma_1 \not = \Sigma_2$.
-
-
-- $Q = \{(r_1, r_2) \mid r_1 \in Q_1, r_2 \in Q_2\}$.
-The set of states of $M$ is the **Cartesian product** of the sets $Q_1$ and $Q_2$.
-- $\Sigma = \Sigma_1 \cup \Sigma_2$
-The alphabet is the union of the alphabets from $M_1$ and $M_2$.
-- $\delta$ is defined as follows; for each $(r_1, r_2) \in Q$ and for each $a \in \Sigma$. The transition function keeps track of which states $M_1$ and $M_2$ would be in if they had processed the same portion of the input string as $M$.
-```{math}
-\delta((r_1,r_2), a) = (\delta_1(r_1,a), \delta_2(r_2, a))
-```
-
-- $q$ is the pair $(q_1, q_2)$
-The initial state is the pair that contains the initial state of $M_1$ and the initial state of $M_2$.
-- $F$ is defined as follows. The automaton $M$ should accept the string if the final state is a pair that contains either a final state from $M_1$ or a final state from $M_2$.
-```{math}
-F = \{(r_1, r_2) \mid r_1 \in F_1 \text{ or } r_2 \in F_2\}.
-```
-
-The automaton $M$ by construction accepts exactly $A \cup B$. By {prf:ref}`reg_lang` $A \cup B$ is a regular language.
+> [!Proof]
+> Let $A$ and $B$ be regular languages and let $M_1 = (Q_1, \Sigma_1, \delta_1, q_1, F_1)$ recognise $A$ and let $M_2 = (Q_2, \Sigma_2, \delta_2, q_2, F_2)$ recognise $B$. We construct a deterministic finite state automaton $M = (Q, \Sigma, \delta, q, F)$ that recognises $A \cup B$, assuming $\Sigma_1 = \Sigma_2$. The construction can be generalised for when $\Sigma_1 \not = \Sigma_2$.
+> 
+> 
+> - $Q = \{(r_1, r_2) \mid r_1 \in Q_1, r_2 \in Q_2\}$.
+> The set of states of $M$ is the **Cartesian product** of the sets $Q_1$ and $Q_2$.
+> - $\Sigma = \Sigma_1 \cup \Sigma_2$
+> The alphabet is the union of the alphabets from $M_1$ and $M_2$.
+> - $\delta$ is defined as follows; for each $(r_1, r_2) \in Q$ and for each $a \in \Sigma$. The transition function keeps track of which states $M_1$ and $M_2$ would be in if they had processed the same portion of the input string as $M$.
+> ```{math}
+> \delta((r_1,r_2), a) = (\delta_1(r_1,a), \delta_2(r_2, a))
+> ```
+> 
+> - $q$ is the pair $(q_1, q_2)$
+> The initial state is the pair that contains the initial state of $M_1$ and the initial state of $M_2$.
+> - $F$ is defined as follows. The automaton $M$ should accept the string if the final state is a pair that contains either a final state from $M_1$ or a final state from $M_2$.
+> ```{math}
+> F = \{(r_1, r_2) \mid r_1 \in F_1 \text{ or } r_2 \in F_2\}.
+> ```
+> 
+> The automaton $M$ by construction accepts exactly $A \cup B$. By {prf:ref}`reg_lang` $A \cup B$ is a regular language.
 ````
 An alternative proof of {prf:ref}`regcloseunion` that uses non-determinism can be found in {cite}`sipser` [Theorem 1.45]. The proof above can be modified easily to relax the condition that $\Sigma_1 = \Sigma_2$.
 
