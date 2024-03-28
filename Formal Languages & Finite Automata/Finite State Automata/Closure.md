@@ -54,16 +54,16 @@ To prove that Regular languages are closed with respect to the finite union oper
 > - $\Sigma = \Sigma_1 \cup \Sigma_2$
 > The alphabet is the union of the alphabets from $M_1$ and $M_2$.
 > - $\delta$ is defined as follows; for each $(r_1, r_2) \in Q$ and for each $a \in \Sigma$. The transition function keeps track of which states $M_1$ and $M_2$ would be in if they had processed the same portion of the input string as $M$.
-> ```{math}
+> $$
 > \delta((r_1,r_2), a) = (\delta_1(r_1,a), \delta_2(r_2, a))
-> ```
+> $$
 > 
 > - $q$ is the pair $(q_1, q_2)$
 > The initial state is the pair that contains the initial state of $M_1$ and the initial state of $M_2$.
 > - $F$ is defined as follows. The automaton $M$ should accept the string if the final state is a pair that contains either a final state from $M_1$ or a final state from $M_2$.
-> ```{math}
+> $$
 > F = \{(r_1, r_2) \mid r_1 \in F_1 \text{ or } r_2 \in F_2\}.
-> ```
+> $$
 > 
 > The automaton $M$ by construction accepts exactly $A \cup B$. By {prf:ref}`reg_lang` $A \cup B$ is a regular language.
 ````
