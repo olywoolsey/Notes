@@ -1,4 +1,4 @@
-# Deterministic finite automaton
+# Deterministic Finite Automata (DFA)
 #COMP2321
 - (Finite State Machine)
 - a 5-tuple $(Q, Σ, δ, q_0, F)$, where
@@ -23,5 +23,7 @@ If a **deterministic** automaton does not accept a given string then the machi
 Let $M = (Q, \sum, \delta, q_0, F)$
 1. $Q = \set{q_0, q_1, q_2}$
 2. $\sum = \set{0,1}$
-3. $\delta = 
+3. $\delta = \set{((q_0, 0)q_0), ((q_0, 1) q_1), ((q_1, 0)q_2), ((q_1, 1)q_1), ((q_2, 0)q_1), ((q_2, 1)q_1)}$
+4. $q_0 = q_0$
+5. $F = \set q_1$
 ![](Images/DFA.png)
