@@ -1,6 +1,6 @@
 # Closure properties of regular languages
 
-The concept of closure is a concept that appears across mathematics and computer science. A set $A$ is **closed** with respect to some operation if when the operation is applied to one or more element of $A$ the result is also an element of $A$. This should not be unfamiliar from arithmetics, the integers $\mathbb{Z}$ are closed with respect to addition ($+$).
+The concept of closure is a concept that appears across mathematics and computer science. A set $A$ is **closed** with respect to some operation if when the operation is applied to one or more element of $A$ the result is also an element of $A$. This should not be unfamiliar from arithmetic, the integers $\mathbb{Z}$ are closed with respect to addition ($+$).
 
 We will show that the set of Regular languages are closed a number of operations. These operations are chosen because we will use them later in the modules.
 

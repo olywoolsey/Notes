@@ -24,8 +24,13 @@
             "id": "0929705446209fd0",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Frml Lang&Finite Automata/Notation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -108,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessments/Algorithms 2.md",
+                "file": "Frml Lang&Finite Automata/Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessments/Algorithms 2.md",
+                "file": "Frml Lang&Finite Automata/Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assessments/Algorithms 2.md"
+                "file": "Frml Lang&Finite Automata/Notation.md"
               }
             }
           },
@@ -183,10 +188,14 @@
   },
   "active": "0929705446209fd0",
   "lastOpenFiles": [
+    "Frml Lang&Finite Automata/Notation.md",
+    "Frml Lang&Finite Automata/Notation.md",
+    "Frml Lang&Finite Automata/Images/Pasted image 20240308162532.png",
+    "Frml Lang&Finite Automata/Closure.md",
+    "Frml Lang&Finite Automata/Applications.md",
     "Assessments/Algorithms 2.md",
     "Mathematics/Algorithms/Greedy Algorithms.md",
     "Mathematics/Algorithms/Dynamic Programming.md",
-    "Pasted image 20240308162532.png",
     "Assessments/Data Analysis.md",
     "Mathematics/Linear Algebra/Matricies.md",
     "README.md",
@@ -215,9 +224,6 @@
     "Mathematics/Logic/Logically implies.md",
     "Mathematics/Logic/Predicate Logic.md",
     "Mathematics/Logic/Truth Tables.md",
-    "Mathematics/Logic/SAT-Solving.md",
-    "Mathematics/Logic/All Fun Symbols.md",
-    "Mathematics/Algorithms/Depth First Search.md",
     "jasashkhasdkjadsads",
     "Assessments/Images",
     "Data Analysis",
