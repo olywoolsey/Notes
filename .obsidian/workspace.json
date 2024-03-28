@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e999a16179ba290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assessments/Algorithms 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0929705446209fd0",
             "type": "leaf",
             "state": {
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "42b50d35af6466dc",
+            "id": "e97112b703c93fd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assessments/Algorithms 2.md",
+                "file": "Frml Lang&Finite Automata/Notation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -174,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +178,7 @@
   "active": "0929705446209fd0",
   "lastOpenFiles": [
     "Frml Lang&Finite Automata/Notation.md",
-    "Frml Lang&Finite Automata/Notation.md",
+    "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
     "Frml Lang&Finite Automata/Images/Pasted image 20240308162532.png",
     "Frml Lang&Finite Automata/Closure.md",
     "Frml Lang&Finite Automata/Applications.md",
@@ -223,7 +212,6 @@
     "Mathematics/Linear Algebra/Vectors.md",
     "Mathematics/Logic/Logically implies.md",
     "Mathematics/Logic/Predicate Logic.md",
-    "Mathematics/Logic/Truth Tables.md",
     "jasashkhasdkjadsads",
     "Assessments/Images",
     "Data Analysis",
