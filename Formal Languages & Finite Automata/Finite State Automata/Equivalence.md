@@ -5,38 +5,36 @@ It may seem from first observation that the differences between deterministic fi
 > [!info] Theorem (DFA/NFA Equivalence)
 > Every non-deterministic finite automaton has an equivalent deterministic finite automaton.
 
->proof
-
-Let $N=(Q, \Sigma, \delta, q_0, F)$ be a non-deterministic finite automaton that recognises the language $L$. We will construct a deterministic finite automaton $D = (Q', \Sigma, \delta',q_0',F')$ that recognises $L$. Let us first consider the easier case where $N$ contains no $\epsilon$ transitions, we will later extend this construction to allow $\epsilon$ transitions.
-
-
-- $Q' = \mathcal{P}(Q)$. The states of $D$ is the powerset of the states of the automaton $N$.
-
-- For $R \in Q'$ and $a \in \Sigma$, let $\delta'(R, a) = \{q \in Q \mid q \in \delta(r, a)$ for some $r \in R\}$
-If $R$ is a state of $D$ then when $D$ reads a symbol $a \in \Sigma$ in state $R$ the automaton $D$ will transition to the state which contains all the possible states reachable from an element of $R$ in $N$ when $a$ is encountered.
-
-- $q_0' = \{ q_0\}$
-$D$ starts in the state corresponding to the collection containing the start state of $N$.
-
-- $F' = \{R \in Q' \mid R \text{ contains  an accepting state of } N\}$.
-The automaton $D$ will accept if the finite state contains, as an element, one of the finite states of $N$.
-
-
-This construction allows a deterministic finite automaton to emulate a non-deterministic finite automaton which contains no $\epsilon$ transitions.
-
-To extend this idea to allow $\epsilon$ transitions we define the set $E(R)$ to be the set of states that can be reached from members of $R$ by following zero or more $\epsilon$ transitions. Note that $E(R) \in Q'$. We replace the previously defined transition function with the following
-
-```{math}
-\delta'(R, a) = \{q \in Q \mid q \in E(\delta(r, a)) \text{ for some } r \in R\}.
-```
-
-We must also redefine the set $q_0'$. The redefinition includes all states that are reachable from $q_0$ via zero or more $\epsilon$ transitions.
-```{math}
-q_0' = E(\{q_0\}).
-```
-
-The automaton $D$ accepts a string $w$ if and only if $N$ accepts $w$. At every step of the computation of $D$ it is in the state that represents the set of possible states that $N$ would be in having read the same portion of input.
-````
+> [!note] proof
+> 
+> Let $N=(Q, \Sigma, \delta, q_0, F)$ be a non-deterministic finite automaton that recognises the language $L$. We will construct a deterministic finite automaton $D = (Q', \Sigma, \delta',q_0',F')$ that recognises $L$. Let us first consider the easier case where $N$ contains no $\epsilon$ transitions, we will later extend this construction to allow $\epsilon$ transitions.
+> 
+> 
+> - $Q' = \mathcal{P}(Q)$. The states of $D$ is the powerset of the states of the automaton $N$.
+> 
+> - For $R \in Q'$ and $a \in \Sigma$, let $\delta'(R, a) = \{q \in Q \mid q \in \delta(r, a)$ for some $r \in R\}$
+> If $R$ is a state of $D$ then when $D$ reads a symbol $a \in \Sigma$ in state $R$ the automaton $D$ will transition to the state which contains all the possible states reachable from an element of $R$ in $N$ when $a$ is encountered.
+> 
+> - $q_0' = \{ q_0\}$
+> $D$ starts in the state corresponding to the collection containing the start state of $N$.
+> 
+> - $F' = \{R \in Q' \mid R \text{ contains  an accepting state of } N\}$.
+> The automaton $D$ will accept if the finite state contains, as an element, one of the finite states of $N$.
+> 
+> 
+> This construction allows a deterministic finite automaton to emulate a non-deterministic finite automaton which contains no $\epsilon$ transitions.
+> 
+> To extend this idea to allow $\epsilon$ transitions we define the set $E(R)$ to be the set of states that can be reached from members of $R$ by following zero or more $\epsilon$ transitions. Note that $E(R) \in Q'$. We replace the previously defined transition function with the following
+> $$
+> \delta'(R, a) = \{q \in Q \mid q \in E(\delta(r, a)) \text{ for some } r \in R\}
+> $$
+> 
+> We must also redefine the set $q_0'$. The redefinition includes all states that are reachable from $q_0$ via zero or more $\epsilon$ transitions.
+> $$
+> q_0' = E(\{q_0\}).
+>$$
+> 
+> The automaton $D$ accepts a string $w$ if and only if $N$ accepts $w$. At every step of the computation of $D$ it is in the state that represents the set of possible states that $N$ would be in having read the same portion of input.
 
 ## Example
 
