@@ -11,29 +11,27 @@ We will show that the set of Regular languages are closed a number of operations
 > 
 > *Complement*: $\overline{A} = \{x \in \Sigma^* \mid x \not\in A\}$ 
 
-> [! info]
+> [! info] Theorem
 > Regular languages are closed with respect to complement
 
 To prove that Regular languages are closed with respect to the complement operation, we must prove that for an arbitrary regular language there exists a deterministic finite state automaton that recognises the complement.
-### Proof
-````{prf:proof}
-Let $A$ be a regular language and let $M=(Q, \Sigma, \delta, q, F)$ recognise $A$. We construct an automaton $M'=(Q', \Sigma', \delta', q', F')$ that recognises $\overline{A}$.
 
-- $Q'=Q$
-The set of states is the same as the automaton $M$.
-- $\Sigma'=\Sigma$
-The alphabet is the same as the automaton $M$.
-- $\delta'=\delta$
-The transition function is the same as the automaton $M$.
-- $q'=q$
-The start state is the same as the automaton $M$.
-- $F' = Q \setminus F$
-The set of final states is all states in $M$ that are not final states.
-
-The automaton $M'$ recognises $\overline{A}$ as any computation of $M$ that ends in a none final state, and therefore is rejected, will end in a final state in $M'$ and will be accepted.
-
-The automaton $M'$ is a finite state automaton and therefore by {prf:ref}`reg_lang` $\overline{A}$ is a regular language.
-````
+> [!note] Proof
+> Let $A$ be a regular language and let $M=(Q, \Sigma, \delta, q, F)$ recognise $A$. We construct an automaton $M'=(Q', \Sigma', \delta', q', F')$ that recognises $\overline{A}$.
+> - $Q'=Q$
+> The set of states is the same as the automaton $M$.
+> - $\Sigma'=\Sigma$
+> The alphabet is the same as the automaton $M$.
+> - $\delta'=\delta$
+> The transition function is the same as the automaton $M$.
+> - $q'=q$
+> The start state is the same as the automaton $M$.
+> - $F' = Q \setminus F$
+> The set of final states is all states in $M$ that are not final states.
+> 
+> The automaton $M'$ recognises $\overline{A}$ as any computation of $M$ that ends in a none final state, and therefore is rejected, will end in a final state in $M'$ and will be accepted.
+>
+> The automaton $M'$ is a finite state automaton and therefore by the theorem $\overline{A}$ is a regular language.
 
 ````{prf:example}
 Consider the following deterministic finite automata.

@@ -52,14 +52,11 @@ Let $N=(Q, \Sigma, \delta, q_0, F)$ where
 
 Following the construction in the proof of [Theorem 1](https://alt-6100e9398f586.blackboard.com/bbcswebdav/courses/202324_32878_COMP2321/_build/html/parts/chapters/fsm/equivalence.html#dfa_equiv_nfa) we construct an equivalent deterministic finite state automaton.
 
-![](DSA_Equiv%201.png)
+![](DSA_Equiv.png)
 
 Notice that the construction does not produce an equivalent deterministic finite state automata with the minimum number of state, however the construction will always produce an equivalent deterministic finite state automata. There are states in the constructed automaton which are not _reachable_. How could you find states in a finite state machine which are not reachable? Is it sufficient to remove state which are reachable in order to produce a minimum finite state automata for a language? 
 
 As a language is regular if there exists a deterministic finite state automaton that recognises it, and for every non-deterministic finite state automaton there exists a deterministic finite state automaton that recognises the same language we can derive the following corollary.
 
-```{prf:corollary} 
-:label: reg_lang_ndfsm
-
-A language is called a **regular language** if some non-deterministic finite automaton recognises it (corollary to {prf:ref}`dfa_equiv_nfa`).
-```
+> [!note] Corollary
+A language is called a **regular language** if some non-deterministic finite automaton recognises it (corollary to earlier theorem).
