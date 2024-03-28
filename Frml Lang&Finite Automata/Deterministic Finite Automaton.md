@@ -8,14 +8,20 @@
 	- $q_0 ∈ Q$ is the start state
 	- $F ⊆ Q$ is the set of accepting states
 ## Formal Definition of Computation
-We have developed an intuition of computation in the deterministic finite automaton model but we require a formal definition. This does not introduce any new concepts, instead it will formalises our intuition. Let  be a finite automaton and let  be a string where  for . The automaton  **accepts**  if a sequence of states  exists such that:
+- Let  $M = (Q, \sum , \delta, q_0, F)$ be a finite automaton
+- Let $w = w_1 ... w_n$ be a string where $w_i \in \sum \text{ for } 1 \leq i \leq n$.
+- The automaton  **accepts** $w$ if a sequence of states $r_0, \dots, r_n \in Q$ exists such that:
 1. $r_0 = q_0$
 2. $\delta (r_i, w_{i+1}) = r_{i+1} \text{ for } 0 \leq i < n$
-3. $r_i \subset F$
+3. $r_i \in F$
 
-Put simply, the first condition says that the sequence of state must start with the start state. The second condition says that the sequence of states progresses in accordance with the transition function and the third condition says that the final state is an accepting state. We say that an automaton  recognises a language  if .
+Put simply, the first condition says that the sequence of state must start with the start state. The second condition says that the sequence of states progresses in accordance with the transition function and the third condition says that the final state is an accepting state. We say that an automaton $M$ recognises a language $A$ if $A = \{w \in \sum^* | M \text{ accepts } w$.
 
 If a **deterministic** automaton does not accept a given string then the machine **rejects** the string, and the string is not part of the language recognised by the automaton.
 
 ## Graphical Representation
+Let $M = (Q, \sum, \delta, q_0, F)$
+1. $Q = \set{q_0, q_1, q_2}$
+2. $\sum = \set{0,1}$
+3. $\delta = 
 ![](Images/DFA.png)
