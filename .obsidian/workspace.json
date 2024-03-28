@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frml Lang&Finite Automata/Non-Deterministic Finite State Automata.md",
+                "file": "Frml Lang&Finite Automata/Regular Languages.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frml Lang&Finite Automata/Non-Deterministic Finite State Automata.md",
+                "file": "Frml Lang&Finite Automata/Regular Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frml Lang&Finite Automata/Non-Deterministic Finite State Automata.md",
+                "file": "Frml Lang&Finite Automata/Regular Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frml Lang&Finite Automata/Non-Deterministic Finite State Automata.md"
+                "file": "Frml Lang&Finite Automata/Regular Languages.md"
               }
             }
           },
@@ -184,7 +184,10 @@
   },
   "active": "0929705446209fd0",
   "lastOpenFiles": [
+    "Frml Lang&Finite Automata/non-regularity.md",
     "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+    "Frml Lang&Finite Automata/Non-Deterministic Finite State Automata.md",
+    "Frml Lang&Finite Automata/Regular Languages.md",
     "Mathematics/Logic/All Fun Symbols.md",
     "Frml Lang&Finite Automata/Notation.md",
     "Frml Lang&Finite Automata/Images/Pasted image 20240308162532.png",
@@ -217,9 +220,6 @@
     "Mathematics/Discrete/Connected Component.md",
     "Mathematics/Discrete/Combinatorics.md",
     "Mathematics/Linear Algebra/Gaussian Elimination.md",
-    "Mathematics/Linear Algebra/Vectors.md",
-    "Mathematics/Logic/Logically implies.md",
-    "Mathematics/Logic/Predicate Logic.md",
     "jasashkhasdkjadsads",
     "Assessments/Images",
     "Data Analysis",

@@ -10,15 +10,15 @@ Non-determinism can be contrasted with determinism, which refers to the case whe
 
 From this idea it is clear to see a trivial transformation between a deterministic finite automaton and a non-deterministic finite automaton. {prf:ref}`nfa` formalises non-deterministic finite automaton.
 
+> [!Note] Definition  (Non-deterministic Finite State Automata)
 A **non-deterministic finite automaton** is a 5-tuple $(Q,\Sigma,\delta, q_0, F)$, where
-
-1. $Q$ is a finite set called the *states*,
-2. $\Sigma$ is a finite set called the *alphabet*,
-3. $\delta : Q \times \Sigma_\epsilon  \rightarrow \mathcal{P}(Q)$ is the *transition function*,
-4. $q_0 \in Q$ is the *start state*, and
-5. $F \subseteq Q$ is the set of *accepting states*.
-
- Where $\Sigma_\epsilon = \Sigma \cup \{\epsilon\}$.
+> 1. $Q$ is a finite set called the *states*,
+> 2. $\Sigma$ is a finite set called the *alphabet*,
+> 3. $\delta : Q \times \Sigma_\epsilon  \rightarrow \mathcal{P}(Q)$ is the *transition function*,
+> 4. $q_0 \in Q$ is the *start state*, and
+>5. $F \subseteq Q$ is the set of *accepting states*.
+>
+>Where $\Sigma_\epsilon = \Sigma \cup \{\epsilon\}$.
 
 From this we can see that there are a number of differences between deterministic finite automaton and non-deterministic finite automaton. Firstly, every state in a deterministic finite automaton has exactly one exiting transition for each symbol in the alphabet. Whereas in non-deterministic finite automaton every state may have zero, one, or many exiting transitions for each symbol in the alphabet. Secondly, in a deterministic finite automaton each transition is associated with an element of the alphabet. In non-deterministic finite automaton transitions may be associated with an **empty transition** denoted by the $\epsilon$ symbol.
 

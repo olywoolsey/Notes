@@ -1,12 +1,13 @@
 # Deterministic Finite Automata (DFA)
 #COMP2321
 - (Finite State Machine)
-- a 5-tuple $(Q, Σ, δ, q_0, F)$, where
-	- $Q$ is a finite set called the states
-	- $\sum$ is a finite set called the alphabet
-	- $δ : Q × Σ \rightarrow Q$ is the transition function
-	- $q_0 ∈ Q$ is the start state
-	- $F ⊆ Q$ is the set of accepting states
+> [!Definition] Definition (Deterministic Finite State Automata)
+> Is a 5-tuple $(Q, Σ, δ, q_0, F)$, where
+> 1. $Q$ is a finite set called the states
+> 2. $\sum$ is a finite set called the alphabet
+> 3. $δ : Q × Σ \rightarrow Q$ is the transition function
+> 4. $q_0 ∈ Q$ is the start state
+> 5. $F ⊆ Q$ is the set of accepting states
 ## Formal Definition of Computation
 - Let  $M = (Q, \sum , \delta, q_0, F)$ be a finite automaton
 - Let $w = w_1 ... w_n$ be a string where $w_i \in \sum \text{ for } 1 \leq i \leq n$.
