@@ -10,10 +10,6 @@ Non-determinism can be contrasted with determinism, which refers to the case whe
 
 From this idea it is clear to see a trivial transformation between a deterministic finite automaton and a non-deterministic finite automaton. {prf:ref}`nfa` formalises non-deterministic finite automaton.
 
-
-````{prf:definition} Non-deterministic Finite State Automata
-:label: nfa
-
 A **non-deterministic finite automaton** is a 5-tuple $(Q,\Sigma,\delta, q_0, F)$, where
 
 1. $Q$ is a finite set called the *states*,
@@ -24,9 +20,7 @@ A **non-deterministic finite automaton** is a 5-tuple $(Q,\Sigma,\delta, q_0, F)
 
  Where $\Sigma_\epsilon = \Sigma \cup \{\epsilon\}$.
 
-````
-
-From {prf:ref}`nfa` we can see that there are a number of differences between deterministic finite automaton and non-deterministic finite automaton. Firstly, every state in a deterministic finite automaton has exactly one exiting transition for each symbol in the alphabet. Whereas in non-deterministic finite automaton every state may have zero, one, or many exiting transitions for each symbol in the alphabet. Secondly, in a deterministic finite automaton each transition is associated with an element of the alphabet. In non-deterministic finite automaton transitions may be associated with an **empty transition** denoted by the $\epsilon$ symbol.
+From this we can see that there are a number of differences between deterministic finite automaton and non-deterministic finite automaton. Firstly, every state in a deterministic finite automaton has exactly one exiting transition for each symbol in the alphabet. Whereas in non-deterministic finite automaton every state may have zero, one, or many exiting transitions for each symbol in the alphabet. Secondly, in a deterministic finite automaton each transition is associated with an element of the alphabet. In non-deterministic finite automaton transitions may be associated with an **empty transition** denoted by the $\epsilon$ symbol.
 
 A non-deterministic finite automaton computes in a similar manner to deterministic finite automaton, however the transition function no longer provides a deterministic path of computation. One way of considering the computation of a non-deterministic finite automaton is to consider a branching finite automaton. At each symbol of the input, the automaton branches into multiple copies of the same automaton, one for each element of the elements in the set indicated by the transition function, each automaton proceeding in parallel. Each copy of the automaton takes one of the states from the set indicated by the transition function. Each of the automata will independently continue to branch as the automaton computes. The non-deterministic finite automaton accepts the string if any one of the copies of the automaton finishes reading in the input in an accepting state.
 
@@ -62,19 +56,3 @@ The non-deterministic finite state automaton $M$ accepts strings if the string o
 1. The state $q_0$ does not define a transition for the alphabet symbols $0$, and $1$. Also, the state has two distinct transitions for the empty string.
 3. The state $q_1$ contains two distinct transitions for the symbol $1$. Also, the state does not define a transition for the symbol $0$.
 4. The state $q_4$ does not define a transition for the symbols $0$ or $1$.
-
-````{exercise}
-:label: simple_nfa
-Which of the following strings are accepted by the machine $M$? What is the computation of the machine on each string?
-
-1. $\epsilon$
-2. $10$
-3. $0001$
-````
-
-````{solution} simple_nfa
-
-1. The string $\epsilon$ is **rejected** by $M$. The computation is $q_0$.
-2. The string $10$ is **rejected** by $M$. No computation terminates with the machine in $q_4$.
-3. The string $01$ is **accepted** by $M$.  An accepting computation is $q_0, q_2,q_3,q_2,q_3, q_4$.
-````

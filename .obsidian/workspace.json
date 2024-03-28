@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+                "file": "Frml Lang&Finite Automata/Non-Deterministic Finite State Automata.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,6 +31,14 @@
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "7783bed7e9d030c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -100,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+                "file": "Frml Lang&Finite Automata/Non-Deterministic Finite State Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+                "file": "Frml Lang&Finite Automata/Non-Deterministic Finite State Automata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frml Lang&Finite Automata/Deterministic Finite Automaton.md"
+                "file": "Frml Lang&Finite Automata/Non-Deterministic Finite State Automata.md"
               }
             }
           },
@@ -176,8 +184,8 @@
   },
   "active": "0929705446209fd0",
   "lastOpenFiles": [
-    "Mathematics/Logic/All Fun Symbols.md",
     "Frml Lang&Finite Automata/Deterministic Finite Automaton.md",
+    "Mathematics/Logic/All Fun Symbols.md",
     "Frml Lang&Finite Automata/Notation.md",
     "Frml Lang&Finite Automata/Images/Pasted image 20240308162532.png",
     "Frml Lang&Finite Automata/Closure.md",
