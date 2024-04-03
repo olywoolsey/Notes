@@ -8,36 +8,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0929705446209fd0",
+            "id": "a2821388e7f8b64d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e97112b703c93fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formal Languages & Finite Automata/Notation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7783bed7e9d030c1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "obsidian-projects",
               "state": {}
             }
           }
@@ -108,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,8 +152,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0929705446209fd0",
+  "active": "a2821388e7f8b64d",
   "lastOpenFiles": [
+    "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
     "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
     "Formal Languages & Finite Automata/Images/DSA_Equiv.png",
     "Formal Languages & Finite Automata/Images/DSA_Equiv 1.png",
@@ -191,7 +162,6 @@
     "Formal Languages & Finite Automata/Finite State Automata",
     "Formal Languages & Finite Automata/non-regularity.md",
     "Formal Languages & Finite Automata/Applications.md",
-    "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
     "Formal Languages & Finite Automata/Finite State Automata/Regular Languages.md",
     "Formal Languages & Finite Automata/Finite State Automata/Non-Deterministic Finite State Automata.md",
     "Formal Languages & Finite Automata/Finite State Automata/Deterministic Finite Automata.md",
