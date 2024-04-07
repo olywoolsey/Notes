@@ -18,3 +18,22 @@ for b ← 1 to n − 1 do
 					V (i, k) ← V (i, k) ∪ {A} ;
 if S ∈ V (1, n) then accept w else reject w;
 ```
+### Example
+We consider the CFG $(V, T, P, S)$ with $T = {a, b}, V = {S, A, B, C}$ and the productions:
+$$
+\begin{aligned}
+S \rightarrow AB | BC \\
+A \rightarrow BA | a  \\
+B \rightarrow CC | b  \\
+C \rightarrow AB | a  \\
+\end{aligned}
+$$
+1. Fill in
+
+|       | $k=1$ | k=2   | k=3   | k=4 | k=5 |
+| ----- | ----- | ----- | ----- | --- | --- |
+| $i=1$ | {B}   |       |       |     |     |
+| $i=2$ |       | {A,C} |       |     |     |
+| $i=3  |       |       | {A,C} |     |     |
+| $i=4  |       |       |       | {B} |     |
+| $i=5$ |       |       |       |     |     |
