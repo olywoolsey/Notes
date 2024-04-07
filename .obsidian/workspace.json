@@ -11,8 +11,13 @@
             "id": "a2821388e7f8b64d",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Algorithms/CYK.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics/Algorithms/CYK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematics/Algorithms/CYK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematics/Algorithms/CYK.md"
+              }
             }
           },
           {
@@ -154,6 +163,10 @@
   },
   "active": "a2821388e7f8b64d",
   "lastOpenFiles": [
+    "Context Free Grammer.md",
+    "Mathematics/Algorithms/CYK.md",
+    "Chomsky Normal Form.md",
+    "Chomsky.md",
     "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
     "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
     "Formal Languages & Finite Automata/Images/DSA_Equiv.png",
@@ -187,9 +200,6 @@
     "Assessments/AI 1.md",
     "Assessments/Algorithms 1.md",
     "Mathematics/Discrete/Graph Theory.md",
-    "Mathematics/Discrete/Discrete Probability Theory.md",
-    "Mathematics/Discrete/Connectivity in Directed Graphs.md",
-    "Mathematics/Discrete/Connected Component.md",
     "jasashkhasdkjadsads",
     "Assessments/Images",
     "Data Analysis",
