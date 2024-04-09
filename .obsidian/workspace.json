@@ -11,8 +11,13 @@
             "id": "a2856fa7873c1f8c",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Algorithms/Recurrences.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -66,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics/Algorithms/Recurrences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematics/Algorithms/Recurrences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematics/Algorithms/Recurrences.md"
+              }
             }
           },
           {
@@ -155,6 +163,7 @@
   },
   "active": "a2856fa7873c1f8c",
   "lastOpenFiles": [
+    "Mathematics/Algorithms/Recurrences.md",
     "Mathematics/Algorithms/CYK.md",
     "Context Free Grammer.md",
     "Chomsky Normal Form.md",
@@ -191,7 +200,6 @@
     "Networks/MAN.md",
     "Assessments/AI 1.md",
     "Assessments/Algorithms 1.md",
-    "Mathematics/Discrete/Graph Theory.md",
     "jasashkhasdkjadsads",
     "Assessments/Images",
     "Data Analysis",
