@@ -7,7 +7,7 @@
 - Always applies
 - Substitute LHS of the function into the RHS of the function
 #### Example
-1. <F$T (n) = n + T (n − 1)$	
+1. $T (n) = n + T (n − 1)$	
 2. $= n + (n − 1) + T (n − 2)$
 3. $= n + (n − 1) + (n − 2) + T (n − 3)$
 4. $= n + (n − 1) + (n − 2) + · · · + 2 + 1 + T (0)$
