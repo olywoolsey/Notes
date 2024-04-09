@@ -38,7 +38,7 @@ The Master Theorem provides three cases:
 2. If $f(n) = O(n^{log_b a})$:
 	- $T(n) = O(n^{log_b a}log n)$.
 	- If the work done outside the recursive calls is of the same order as the work done by the recursive calls, then the time complexity is multiplied by a logarithmic factor. 
-3. If $n^{logb a+ε} = O(f (n))$ for some constant $ε > 0$, and if $af ( nb ) ⩽ cf (n)$ for some constant $c < 1$ and almost all $n$:
+3. If $n^{log_b a+ε} = O(f (n))$ for some constant $ε > 0$, and if $af ( nb ) ⩽ cf (n)$ for some constant $c < 1$ and almost all $n$:
 	- Time Complexity is $T (n) = O(f (n))$
 	- If the work done outside the recursive calls is greater than the work done by the recursive calls and satisfies the regularity condition, then the time complexity is dominated by the work done outside the recursive calls.
 
