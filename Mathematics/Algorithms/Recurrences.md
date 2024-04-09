@@ -35,7 +35,7 @@ where:
 - $f(n)$ is the work done outside of the recursive calls, which includes the cost of dividing the problem and combining the solutions.
 
 The Master Theorem provides three cases:
-1. If $f(n) = O(n^(log_b a - ε))$ for some $ε > 0$:
+1. If $f(n) = O(n^{log_b a - ε})$ for some $ε > 0$:
 	- If the work done outside the recursive calls is bounded by a polynomial of $n$ with a lower exponent than $log_b (a)$, then the time complexity is dominated by the recursive calls. In this case, the time complexity is $Θ(n^(log_b a))$.
 2. If $f(n) = Θ(n^(log_b a))$: 
 	- If the work done outside the recursive calls is of the same order as the work done by the recursive calls, then the time complexity is multiplied by a logarithmic factor. In this case, the time complexity is `Θ(n^(log_b a) * log n)`.
