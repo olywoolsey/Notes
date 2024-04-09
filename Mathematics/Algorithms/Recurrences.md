@@ -17,4 +17,9 @@
 ### Guessing Solution 
 - Applies to recurrences of the form $T (n) = a_1T (n − 1) + a_2T (n − 2) + a_3T (n − 3) + ··· + a_kT (n − k)$
 ### Master Method
-- Applies to recurrences of the form $T (n) = aT (n/b) + f (n)$
+- Applies to recurrences of the form $$T (n) = aT (n/b) + f (n)$$ where $a ⩾ 1$ and $b > 1$ are constants and $f (n) > 0$ for almost all n
+- Let a, b, f , and T as above.
+- T (n) can be bounded asymptotically as follows.
+	- If $f(n) = O(n^{log_b a−ε})$ for some constant $ε > 0$ then $T (n) = O(n^{log_b a})$.
+	- If $f(n) = O(n^{log_b a})$ then $T(n) = O(n^{log_b a}log n)$.
+	- If $n^{logb a+ε} = O(f (n))$ for some constant $ε > 0$, and if $af ( nb ) ⩽ cf (n)$ for some constant $c < 1$ and almost all $n$, then $T (n) = O(f (n))$
