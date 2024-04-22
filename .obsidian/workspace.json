@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing_language.md",
+                "file": "Formal Languages & Finite Automata/turing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing_language.md",
+                "file": "Formal Languages & Finite Automata/turing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing_language.md",
+                "file": "Formal Languages & Finite Automata/turing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing_language.md"
+                "file": "Formal Languages & Finite Automata/turing.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "2ee8a40eb228c90c",
   "lastOpenFiles": [
+    "Formal Languages & Finite Automata/Finite State Automata/Deterministic Finite Automata.md",
     "Formal Languages & Finite Automata/turing.md",
     "Formal Languages & Finite Automata/Turing_language.md",
     "Formal Languages & Finite Automata/Applications.md",
@@ -185,7 +186,6 @@
     "Formal Languages & Finite Automata/non-regularity.md",
     "Formal Languages & Finite Automata/Finite State Automata/Regular Languages.md",
     "Formal Languages & Finite Automata/Finite State Automata/Non-Deterministic Finite State Automata.md",
-    "Formal Languages & Finite Automata/Finite State Automata/Deterministic Finite Automata.md",
     "Mathematics/Logic/All Fun Symbols.md",
     "Formal Languages & Finite Automata/Notation.md",
     "Formal Languages & Finite Automata/Images/Pasted image 20240308162532.png",
