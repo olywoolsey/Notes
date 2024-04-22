@@ -7,8 +7,8 @@ To capture the essence of a Turing machine we should consider the transition fun
 A **Turing machine** is a 7-tuple $(Q,\Sigma, \Gamma, \delta, q_0, q_\text{accept}, q_\text{reject})$, where
 1. $Q$ is a finite set called the **states**,
 2. $\Sigma$ is a finite set called the **input alphabet** not containing the **blank symbol** $\sqcup$,
-3. $\Gamma$ is a finite set called the **tape alphabet**, where $\sqcup $\in \Gamma$ and $ \Sigma \subseteq \Gamma$,
-4. $\delta : Q \times \Gamma \rightarrow Q \times \Gamma \times \{\text{L},\text{R}\}$ is the **transition function**, \label{def:dtmdelta}
+3. $\Gamma$ is a finite set called the **tape alphabet**, where $\sqcup \in \Gamma \text{ and } \Sigma \subseteq \Gamma$,
+4. $\delta : Q \times \Gamma \rightarrow Q \times \Gamma \times \{\text{L},\text{R}\}$ is the **transition function**
 5. $q_0 \in Q$ is the **start state**,
 6. $q_\text{accept} \in Q$ is the **accept state**, and 
 7. $q_\text{reject} \in Q$ is the **reject state**, where $q_\text{accept} \not=q_\text{reject}$.
@@ -17,10 +17,9 @@ A **Turing machine** is a 7-tuple $(Q,\Sigma, \Gamma, \delta, q_0, q_\text{accep
 
 To define the computation of a Turing machine we must first define a Turing machine configuration. As a Turing machine computes, changes occur in the current state, the current tape contents and the current head location. A setting of these three items is called a **configuration** of the Turing machine. Configurations are often represented in a specific format. For a state $q$ and two strings $u$ and $v$ over the tape alphabet $\Gamma$, we write $u\,q\,v$ for the configuration where the current state is $q$, the current tape content is $uv$ and the current head location is the first symbol of $v$. The tape will contain \sqcup in all tape cells after the end of $v$.
 
-We say that a configuration $C_1$ **yields** a configuration $C_2$ if the Turing machine can legally go from $C_1$ to $C_2$ in one step. This is defined formally as follows. Suppose that we have $a,b, c \in \Gamma$, as well as $u, v \in \Gamma^*$ and states $q_i$ and $q_j$. In the case $ua\,q_i\, bv$ and $u\, q_j \, acv$ are two configurations we say that 
-\[ua\,q_i\, bv \text{ yields } u\, q_j \, acv\]
+We say that a configuration $C_1$ **yields** a configuration $C_2$ if the Turing machine can legally go from $C_1$ to $C_2$ in one step. This is defined formally as follows. Suppose that we have $a,b, c \in \Gamma$, as well as $u, v \in \Gamma^*$ and states $q_i$ and $q_j$. In the case $ua\,q_i\, bv$ and $u\, q_j \, acv$ are two configurations we say that $[ua\,q_i\, bv \text{ yields } u\, q_j \, acv]$
 if $\delta(q_i, b) = (q_j, c, L)$. This accounts for left moves of the tape head. For right moves we say
-\[ua\,q_i\, bv \text{ yields } uac\, q_j \, v\]
+$[ua\,q_i\, bv \text{ yields } uac\, q_j \, v]$
 if $\delta(q_i, b) = (q_j, c, R)$.
 
 There is a special case to consider, when the head is at the leftmost position. We say $q_i \,bv$ yields $q_j \, cv$ if the transition is left moving and $c\, q_j \, v$ if the transition is right moving.
@@ -39,10 +38,8 @@ A non-deterministic Turing machine is defined in a similar manner to all non-det
 A **non-deterministic Turing machine** is a 7-tuple $(Q,\Sigma, \Gamma, \delta, q_0, q_\text{accept}, q_\text{reject})$, where
 
 1. $Q$ is a finite set called the **states**,
-2. $\Sigma$ is a finite set called the **input alphabet** not containing the \textbf{blank symbol} \sqcup,
-
-3. $\Gamma$ is a finite set called the **tape alphabet**, where \sqcup $\in \Gamma$ and $ \Sigma \subseteq \Gamma$,
-
+2. $\Sigma$ is a finite set called the **input alphabet** not containing the $\textbf{ blank symbol } \sqcup$,
+3. $\Gamma$ is a finite set called the **tape alphabet**, where $\sqcup \in \Gamma \text{ and } \Sigma \subseteq \Gamma$,
 4. $\delta : Q \times \Gamma \rightarrow \mathcal{P}({Q \times \Gamma \times \{\text{L},\text{R}\}})$ is the **transition function**, 
 5. $q_0 \in Q$ is the **start state**,
 6. $q_\text{accept} \in Q$ is the **accept state**, and 
