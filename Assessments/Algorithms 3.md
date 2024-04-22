@@ -1,6 +1,6 @@
 ---
 Percent: 6%
-Status: Doing
+Status: Done
 Due: 2024-03-25
 Type: Course Work
 ---

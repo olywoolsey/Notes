@@ -8,16 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2856fa7873c1f8c",
+            "id": "2ee8a40eb228c90c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Algorithms/Recurrences.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
         ],
@@ -71,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Algorithms/Recurrences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Algorithms/Recurrences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics/Algorithms/Recurrences.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,10 +153,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a2856fa7873c1f8c",
+  "active": "2ee8a40eb228c90c",
   "lastOpenFiles": [
-    "Mathematics/Algorithms/CYK.md",
     "Mathematics/Algorithms/Recurrences.md",
+    "Mathematics/Algorithms/CYK.md",
     "Context Free Grammer.md",
     "Chomsky Normal Form.md",
     "Mathematics/Algorithms/Lists.md",
