@@ -11,8 +11,13 @@
             "id": "2ee8a40eb228c90c",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Formal Languages & Finite Automata/Turing_language.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -66,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Formal Languages & Finite Automata/Turing_language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Formal Languages & Finite Automata/Turing_language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Formal Languages & Finite Automata/Turing_language.md"
+              }
             }
           },
           {
@@ -155,6 +163,9 @@
   },
   "active": "2ee8a40eb228c90c",
   "lastOpenFiles": [
+    "Formal Languages & Finite Automata/turing.md",
+    "Formal Languages & Finite Automata/Turing_language.md",
+    "Formal Languages & Finite Automata/Applications.md",
     "Mathematics/Algorithms/Recurrences.md",
     "Mathematics/Algorithms/CYK.md",
     "Context Free Grammer.md",
@@ -172,7 +183,6 @@
     "Formal Languages & Finite Automata/Images/NDSA_Equiv.png",
     "Formal Languages & Finite Automata/Finite State Automata",
     "Formal Languages & Finite Automata/non-regularity.md",
-    "Formal Languages & Finite Automata/Applications.md",
     "Formal Languages & Finite Automata/Finite State Automata/Regular Languages.md",
     "Formal Languages & Finite Automata/Finite State Automata/Non-Deterministic Finite State Automata.md",
     "Formal Languages & Finite Automata/Finite State Automata/Deterministic Finite Automata.md",
@@ -184,10 +194,8 @@
     "Mathematics/Algorithms/Dynamic Programming.md",
     "Assessments/Data Analysis.md",
     "Mathematics/Linear Algebra/Matricies.md",
-    "README.md",
     "Data Analysis/Pasted image 20240301143320.png",
     "Data Analysis/Pasted image 20240301143334.png",
-    "Data Analysis/Optimising Visulisations.md",
     "Data Analysis/Pasted image 20240301142828.png",
     "Data Analysis/Pasted image 20240301142731.png",
     "Data Analysis/Pasted image 20240301142611.png",
