@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing.md",
+                "file": "Mathematics/Discrete/Connected Component.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing.md",
+                "file": "Mathematics/Discrete/Connected Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing.md",
+                "file": "Mathematics/Discrete/Connected Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing.md"
+                "file": "Mathematics/Discrete/Connected Component.md"
               }
             }
           },
@@ -163,8 +163,8 @@
   },
   "active": "2ee8a40eb228c90c",
   "lastOpenFiles": [
-    "Formal Languages & Finite Automata/Turing_language.md",
     "Formal Languages & Finite Automata/Turing.md",
+    "Formal Languages & Finite Automata/Turing_language.md",
     "Formal Languages & Finite Automata/Finite State Automata/Deterministic Finite Automata.md",
     "Formal Languages & Finite Automata/Applications.md",
     "Mathematics/Algorithms/Recurrences.md",
