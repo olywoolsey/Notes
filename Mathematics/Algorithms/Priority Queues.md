@@ -19,7 +19,7 @@
 - The depth $d$ of a heap with $n$ elements is $log_2n$
 - The size will get lower in each row but the order within the row is arbitrary
 
-![](Images/Priorety_Queue.png)
+![](priorety-queue.png)
 #### Array implementation of a heap
 If there are n elements, then we use the first n positions of array A.
 - The root element is the element A[0] of the array

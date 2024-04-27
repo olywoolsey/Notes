@@ -4,7 +4,7 @@
 1. Search the array for the smallest element
 2. Swap with the first element
 3. Repeat moving along elements through the whole array
-![](Images/Selection_Sort.png)
+![](selection-sort.png)
 ### Pseudo code
 ```pseudocode
 ALGORITHM selectionSort(A[0..n-1])

@@ -40,4 +40,4 @@ What speedup can we expect when we add additional cores to an application that c
 $$\text{speedup} \leq \frac{1}{S+\frac{1-S}{N}}$$
 $N$ - number of cores
 $S$ - portion of the application that must be performed serially
-![](Images/Amdahl's_Law.png)
+![](amdahl's-law.png)

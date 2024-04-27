@@ -21,7 +21,7 @@
 ## Life-cycle
 ![](Images/Queuing_Diagram.png)
 ## Inter-process Communication
-![](Images/Inter-process_Comminication.png)
+![](interprocess-comminication.png)
 ### Ordinary Pipes
 - Produced-consumer model: producer writes to the write end of the pipe while the
 consumer reads from the read end.

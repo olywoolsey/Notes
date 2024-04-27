@@ -3,11 +3,11 @@
 - Analysis data requirements in a systematic way to help produce a well designed database
 ## Notations
 - [[../../Professional Computing/UML]] - Unified Modelling Language
-![UMLExample](images/UMLExample.png)
+![UMLExample](uml-example.png)
 -  Chen's Notation
-![ChensExample](images/ChensExample.png)
+![ChensExample](chens-example.png)
 - Crow's feet notation
-![CrowsExample](images/CrowsExample.png)
+![CrowsExample](crows-example.png)
 
 ## Three major concepts:
 ### Entities

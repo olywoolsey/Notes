@@ -1,6 +1,6 @@
 # Optimising Visualisations
 ## Visual Heirarchy
-![](Order_Of_Reading.png)
+![](order-of-reading.png)
 - Creating a visual hierarchy will mean that your audience does not have to do as much work to understand your key messages.
 - Look away from your visualisation and then look back to see what your eyes are drawn to.
 - Make sure that the data relating to your key points are what your eye is drawn to when you look at the visualisation.
@@ -13,7 +13,7 @@
 - These unconsciously grab your audiences attention and can be used to highlight your key points.
 - The main pre-attentive attributes are **Colour**, $_{\text{Size}}$ and $Font$
 - When creating a visual close your eyes or look away then note where your eyes are drawn to when you look back
-![](Pasted%20image%2020240301142828.png)
+![](preattentive-attributes.png)
 ### Colour
 - Be conscious of your use of colour - resist the urge to use colour for the sake of being colourful.
 - Be consistent with colours – never change colours just for the sake of novelty.
@@ -36,23 +36,23 @@ The word Gestalt is used in modern German to mean the way a thing has been “pl
 ### Proximity
 - We tend to think of objects that are physically close together as belonging to part of a group.
 - Used in tables; see there are no lines but still see in groups
-![](Pasted%20image%2020240301142249.png)
+![](gestalt-proximity.png)
 ### Similarity
 - We presume that objects that are visually similar are all part of a group.
 ### Enclosure
 - We think of objects that are physically enclosed together as belonging to part of agroup.
 - It can draw a visual distinction within data
-![](Pasted%20image%2020240301142438.png)
+![](gestalt-enclosure.png)
 ### Closure
 People like things to be simple and fit into constructs that are already in our mind
 ### Continuity
 - When looking at objects we seek the smoothest path and naturally create continuity even where it may not explicitly exist
-![](Pasted%20image%2020240301142611.png)
+![](gestalt-continuity.png)
 ### Connection
 - We tend to think of objects that a physically connected as part of the same group.
 - The connective property has a stronger connection than similar colour, size or shape that we saw in the similarity principle.
 - However it is not stronger than enclosure.
-![](Pasted%20image%2020240301142731.png)
+![](gestalt-connection.png)
 
 ## Cognitive Load
 - Every time we take in information we experience cognitive load. It can bethought of as mental effort.
@@ -70,11 +70,11 @@ People like things to be simple and fit into constructs that are already in our 
 - Turn on rulers or grid lines when aligning things on a page to so you can precisely align all the elements to create clean horizontal and vertical lines
 
 ## Removing Clutter
-![](Pasted%20image%2020240301143334.png)
+![](graph-before.png)
 1. Remove Chart Border
 2. Can you remove grid lines
 3. Do you need data markers
 4. Can you clean up axis labels(remove decimal point and remove tilt)
 5. Label data directly
 6. Leverage consistent colour (change data labels to match)
-![](Pasted%20image%2020240301143320.png)
+![](graph-after.png)

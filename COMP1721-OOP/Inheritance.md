@@ -4,7 +4,7 @@
 - Collaboration isnʼt just temporary
 - ... so an instance of one class has a field that maintains a reference to an instance of the other
 - ... allowing it to call methods on that instance whenever it wants (calling methods = ʻcollaborationʼ)
-![[Images/Pasted image 20230302140921.png]]
+![[association.png]]
 
 ## Composition / Aggregation
 "" X is composed of Y""
@@ -12,7 +12,7 @@
 - Representation in code can be same as association
 - ... although we often see cases where there are multiple parts making up the whole
 - ... in which case, an instance of the composite class will need to maintain a collection of references to instances of the component class
-![[Images/Pasted image 20230302141440.png]]
+![[composition.png]]
 ```java
 class Band {
 	private Set<Musician> members;
@@ -30,7 +30,7 @@ class Band {
 - Subclass inherits attributes & behaviour of the superclass
 - Subclass can introduce additional attributes and new behaviour that isnʼt found in superclass
 - Subclass can also alter behaviour specified by superclass
-![[Images/Pasted image 20230302142623.png]]
+![[inheritance.png]]
 ### When to use
 If you have two classes X & Y and you want to know if Y should inherit from X, ask yourself: 
 	Does the phrase “Y is a kind of X” make sense?

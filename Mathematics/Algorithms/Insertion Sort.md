@@ -5,7 +5,7 @@
 2. Iterate through the unsorted array and an place each value in the sorted array
 3. Once the unsorted sub array is empty the array will be sorted
 
-![](Images/Insertion_Sort.png)
+![](insertion-sort.png)
 ### Pseudo-code
 ```pseudocode
 ALGORITHM insertionSort(A[0..n-1])

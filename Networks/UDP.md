@@ -11,4 +11,4 @@ Why is there a UDP?
 - Can add reliability at the Application layer if needed.
 - DNS uses UDP (fast; small messages).
 - So does SNMP (Simple Network Management Protocol) for similar reasons.
-![](UDP_Segment_Structure.png)
+![](UDP-segment-structure.png)

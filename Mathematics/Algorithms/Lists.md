@@ -34,7 +34,7 @@ The efficiency of these operations is dependant on the implementation used
 	- Order of items may differ from order stored in memory
 	- The size of nodes can be different
 
-![](Images/Linked_List.png)
+![](linked-list.png)
 ## Comparisons of implementations
 ### Time complexity of operations
 |  | Array Implementation | Linked Implementation |

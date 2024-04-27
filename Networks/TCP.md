@@ -7,4 +7,8 @@
 - Connection oriented: Handshaking (exchange of control messages) before actual packet transmission
 - Flow control: Sender will notoverwhelm the receiver
 ## TCP Segment Structure
-![](TCP_Segment_Structure.png)
+![](TCP-segment-structure.png)
+## TCP Flow Control
+- The idea of flow control is that the sender won’t overrunreceiver’s buffer by transmitting too much, too fast
+- **Receiver:** Explicitly informs the sender the (dynamically changing) amount of free bufferspace. The Rcv Window field in TCP segment 
+- **Sender:** Keeps the amount of transmitted, unacknowledged data less than most recently received Rcv Window
