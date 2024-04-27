@@ -13,10 +13,10 @@
 - Differs between people based on attitudes
 - Signifies a “fundamental human need for mobility”?
 - Challenges the perspective of transport being a wholly derived demand
-![[Excess_Travel.png]]
+![[excess-travel.png]]
 
 ## Planned Behaviour
-![[Pasted image 20221025142646.png]]
+![[planned-behaviour.png]]
 ## Cars
 - lots of young people don't get their driving licences
 - most don't want to own a car even if they have a license
