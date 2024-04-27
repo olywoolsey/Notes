@@ -28,7 +28,7 @@ The most widely used mode for the internet, and the most relevant for this cours
 		- Ensures all packets/segments are received.
 		- May ask for re-transmission.
 		- Can have a high overhead.
-	- UDP - User Datagram Protocol
+	- [UDP](UDP.md) - User Datagram Protocol
 		- Detects corruption, but not ordering or lost pack-ets/segments.
 		- Low overhead.
 ### Network Layer

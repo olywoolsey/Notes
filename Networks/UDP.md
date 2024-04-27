@@ -1,0 +1,2 @@
+# UDP: User Datagram Protocol
+Best effort’  UDP segments may be deliveredout-of-order, or lost altogether.Connectionless — no handshaking between sender andreceiver.Each UDP segment is handled independently of the others
