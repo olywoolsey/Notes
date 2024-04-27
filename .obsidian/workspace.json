@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/UDP.md",
+                "file": "Networks/The Book.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/UDP.md",
+                "file": "Networks/The Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/UDP.md",
+                "file": "Networks/The Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/UDP.md"
+                "file": "Networks/The Book.md"
               }
             }
           },
@@ -161,8 +161,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "2ee8a40eb228c90c",
   "lastOpenFiles": [
+    "Networks/Images/networking-book.png",
+    "Networks/UDP.md",
+    "Networks/The Book.md",
     "Networks/Untitled",
     "Networks/TCP.md",
     "Networks/Protocol Stack.md",
@@ -183,7 +186,6 @@
     "Challenges In Transport and Mobility/Economics in Transport.md",
     "Challenges In Transport and Mobility/How Transport Shapes Cities.md",
     "Challenges In Transport and Mobility/Transport Data.md",
-    "Networks/UDP.md",
     "Networks/SMPT.md",
     "Networks/Images",
     "Networks/TCP IP.md",
@@ -199,7 +201,6 @@
     "Chomsky Normal Form.md",
     "Context Free Grammer.md",
     "Mathematics/Discrete/Connected Component.md",
-    "Formal Languages & Finite Automata/Turing.md",
     "Formal Languages & Finite Automata/Finite State Automata",
     "jasashkhasdkjadsads",
     "Assessments/Images",
@@ -208,7 +209,6 @@
     "User Interfaces",
     "Professional Computing/Images",
     "Professional Computing",
-    "Procedural Programming",
     "Untitled.canvas",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
