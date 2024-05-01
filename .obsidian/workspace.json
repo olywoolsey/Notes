@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/The Book.md",
+                "file": "Formal Languages & Finite Automata/Notation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/The Book.md",
+                "file": "Formal Languages & Finite Automata/Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/The Book.md",
+                "file": "Formal Languages & Finite Automata/Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/The Book.md"
+                "file": "Formal Languages & Finite Automata/Notation.md"
               }
             }
           },
@@ -163,9 +163,10 @@
   },
   "active": "2ee8a40eb228c90c",
   "lastOpenFiles": [
+    "Formal Languages & Finite Automata/Applications.md",
+    "Networks/The Book.md",
     "Networks/Images/networking-book.png",
     "Networks/UDP.md",
-    "Networks/The Book.md",
     "Networks/Untitled",
     "Networks/TCP.md",
     "Networks/Protocol Stack.md",
@@ -180,7 +181,6 @@
     "Data Analysis/Optimising Visulisations.md",
     "Data Analysis/graph-after.png",
     "Data Analysis/graph-before.png",
-    "Data Analysis/gestalt-enclosure.png",
     "COMP1721-OOP/Inheritance.md",
     "COMP1721-OOP/Arrays in Java.md",
     "Challenges In Transport and Mobility/Economics in Transport.md",
