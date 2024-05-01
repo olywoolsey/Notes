@@ -1,4 +1,4 @@
-!!# Notation
+# Notation
 
 
 For the most part of this module will we use the notation from the "Introduction to the Theory of Computation" {cite}`sipser` book. However we will deviate slightly in the following way, for consistency with Fundamental Mathematical Concepts.
