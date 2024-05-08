@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/TCP IP.md",
+                "file": "Networks/UDP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/TCP IP.md",
+                "file": "Networks/UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/TCP IP.md",
+                "file": "Networks/UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/TCP IP.md"
+                "file": "Networks/UDP.md"
               }
             }
           },
@@ -163,23 +162,31 @@
   },
   "active": "bdfea8ff67fb5cfb",
   "lastOpenFiles": [
-    "Networks/TCP IP.md",
+    "Networks/WAN.md",
     "Networks/UDP.md",
+    "Networks/The Book.md",
+    "Networks/TCP IP.md",
+    "Networks/TCP.md",
+    "Networks/Protocol Stack.md",
+    "Networks/SMPT.md",
+    "Networks/Ports.md",
+    "Networks/OSI Model.md",
+    "Networks/IP Addresses.md",
+    "Networks/POP3.md",
+    "Networks/MAN.md",
+    "Networks/LAN.md",
+    "Networks/Ethernet.md",
+    "Networks/DNS.md",
+    "Networks/DHCP.md",
     "Networks/Layer - Transport.md",
     "Networks/Layer - Network.md",
     "Networks/Layer - Link.md",
     "Networks/Layer - Physical.md",
     "Networks/Layer - Application.md",
-    "Networks/LAN.md",
-    "Networks/MAN.md",
-    "Networks/Protocol Stack.md",
-    "Networks/TCP.md",
     "Formal Languages & Finite Automata/Notation.md",
     "Formal Languages & Finite Automata/Applications.md",
-    "Networks/The Book.md",
     "Networks/Images/networking-book.png",
     "Networks/Untitled",
-    "Networks/DHCP.md",
     "Operating Systems/Images/API-open.png",
     "Mathematics/Discrete/Pasted image 20240207121523.png",
     "Formal Languages & Finite Automata/Images/NDSA_Equiv.png",
@@ -192,15 +199,7 @@
     "Data Analysis/graph-before.png",
     "COMP1721-OOP/Inheritance.md",
     "COMP1721-OOP/Arrays in Java.md",
-    "Challenges In Transport and Mobility/Economics in Transport.md",
-    "Challenges In Transport and Mobility/How Transport Shapes Cities.md",
-    "Challenges In Transport and Mobility/Transport Data.md",
-    "Networks/SMPT.md",
     "Networks/Images",
-    "Networks/OSI Model.md",
-    "Networks/Ports.md",
-    "Networks/POP3.md",
-    "Networks/IP Addresses.md",
     "Formal Languages & Finite Automata/Finite State Automata",
     "jasashkhasdkjadsads",
     "Assessments/Images",

@@ -1,4 +1,5 @@
 {
   "cssTheme": "Adwaita",
-  "accentColor": ""
+  "accentColor": "",
+  "nativeMenus": true
 }
