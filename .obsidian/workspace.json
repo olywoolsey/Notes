@@ -161,10 +161,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "bdfea8ff67fb5cfb",
   "lastOpenFiles": [
     "Networks/Application Layer.md",
     "Networks/TCP IP.md",
+    "Networks/IP Addresses.md",
+    "Networks/Connecting To The Network.md",
     "Networks/UDP.md",
     "Networks/WAN.md",
     "Networks/The Book.md",
@@ -173,7 +175,6 @@
     "Networks/SMPT.md",
     "Networks/Ports.md",
     "Networks/OSI Model.md",
-    "Networks/IP Addresses.md",
     "Networks/POP3.md",
     "Networks/MAN.md",
     "Networks/LAN.md",
@@ -199,7 +200,6 @@
     "Data Analysis/graph-after.png",
     "Data Analysis/graph-before.png",
     "COMP1721-OOP/Inheritance.md",
-    "COMP1721-OOP/Arrays in Java.md",
     "Networks/Images",
     "Formal Languages & Finite Automata/Finite State Automata",
     "jasashkhasdkjadsads",

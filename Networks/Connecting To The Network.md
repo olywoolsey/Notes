@@ -1,0 +1,2 @@
+# The Full Picture
+- Laptop’s OS places a [DHCP](DHCP.md) request1 into a [UDP](UDP.md) segment, itself placed into an IP datagram, which is then broadcast across the ethernet within a link-layer frame
