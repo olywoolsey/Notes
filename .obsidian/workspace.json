@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1aab88a2e0d0efa9",
+        "id": "74a18764a0002d4d",
         "type": "tabs",
         "children": [
           {
-            "id": "2ee8a40eb228c90c",
+            "id": "bdfea8ff67fb5cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages & Finite Automata/Notation.md",
+                "file": "Networks/Layer - Network.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages & Finite Automata/Notation.md",
+                "file": "Networks/Layer - Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formal Languages & Finite Automata/Notation.md",
+                "file": "Networks/Layer - Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formal Languages & Finite Automata/Notation.md"
+                "file": "Networks/Layer - Network.md"
               }
             }
           },
@@ -161,15 +161,24 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "2ee8a40eb228c90c",
+  "active": "bdfea8ff67fb5cfb",
   "lastOpenFiles": [
+    "Networks/Layer - Transport.md",
+    "Networks/Layer - Application.md",
+    "Networks/LAN.md",
+    "Networks/Layer - Link.md",
+    "Networks/MAN.md",
+    "Networks/Layer - Network.md",
+    "Networks/Layer - Physical.md",
+    "Networks/TCP IP.md",
+    "Networks/Protocol Stack.md",
+    "Networks/TCP.md",
+    "Formal Languages & Finite Automata/Notation.md",
     "Formal Languages & Finite Automata/Applications.md",
     "Networks/The Book.md",
     "Networks/Images/networking-book.png",
     "Networks/UDP.md",
     "Networks/Untitled",
-    "Networks/TCP.md",
-    "Networks/Protocol Stack.md",
     "Networks/DHCP.md",
     "Operating Systems/Images/API-open.png",
     "Mathematics/Discrete/Pasted image 20240207121523.png",
@@ -188,19 +197,10 @@
     "Challenges In Transport and Mobility/Transport Data.md",
     "Networks/SMPT.md",
     "Networks/Images",
-    "Networks/TCP IP.md",
     "Networks/OSI Model.md",
     "Networks/Ports.md",
     "Networks/POP3.md",
-    "Networks/MAN.md",
-    "Networks/LAN.md",
     "Networks/IP Addresses.md",
-    "Networks/Ethernet.md",
-    "Networks/DNS.md",
-    "Networks/Transport Layer.md",
-    "Chomsky Normal Form.md",
-    "Context Free Grammer.md",
-    "Mathematics/Discrete/Connected Component.md",
     "Formal Languages & Finite Automata/Finite State Automata",
     "jasashkhasdkjadsads",
     "Assessments/Images",

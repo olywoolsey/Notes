@@ -1,18 +1,18 @@
 # Transition Control Protocol
-The most widely used mode for the internet, and the most relevant for this course, is a simplified version of the [OSI Model](OSI%20Model.md)
+The most widely used [Protocol Stack](Protocol%20Stack.md) mode for the internet, and the most relevant for this course, is a simplified version of the [OSI Model](OSI%20Model.md)
 
-| Stack |
-| ---- |
+| Stack       |
+| ----------- |
 | Application |
-| Transport |
-| Network |
-| Link |
-| Physical |
+| Transport   |
+| Network     |
+| Link        |
+| Physical    |
 - Presentation and Session layers merged into Application.
 - Network layer sometimes called the Internet layer.
 - (Data-)Link and Physical layers sometimes merged to give a4-layer model (or the Physical layer simply dropped).
 ## Layers
-### Application Layer
+### [Layer - Application](Layer%20-%20Application.md)
 - User code and interface reside here.
 - Sends data into the Transport layer, and delivers data to the user from the Transport layer.
 - The protocol used determines what is done with incoming data :
