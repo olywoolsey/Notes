@@ -1,2 +1,2 @@
 # Network Layer
-- Layer that handles IP Addresses for hosts and router
+- Layer that handles IP Addresses for hosts and routers

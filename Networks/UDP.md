@@ -1,6 +1,6 @@
 # UDP: User Datagram Protocol
 - Best effort’: UDP segments may be delivered out-of-order, or lost altogether.
-- Connectionless: no handshaking between sender and receiver
+- Connection-less: no handshaking between sender and receiver
 - Each UDP segment is handled independently of the others
 Why is there a UDP?
 - Connection establishment can add a delay
