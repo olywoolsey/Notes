@@ -18,14 +18,13 @@ IPv6 is gradually replacing IPv4, although there is no road map for the end of I
 - There are only (256)4 ≈ 4.29 × 109 possible addresses, i.e. about 4.3 billion
 #### Classful Addressing
 Originally there were several classes of IPv4 address:
-- Class A: 0.*.*.* to 127.*.*.*
-- Class B: 128.*.*.* to 191.*.*.*
-- Class C: 192.*.*.* to 223.*.*.*
-- Class D: 224.*.*.* to 239.*.*.*
-- Class E: 240.*.*.* to 255.*.*.*
+- Class A: 0.\*.\*.\* to 127.\*.\*.\*
+- Class B: 128.\*.\*.\* to 191.\*.\*.\*
+- Class C: 192.\*.\*.\* to 223.\*.\*.\*
+- Class D: 224.\*.\*.\* to 239.\*.\*.\*
+- Class E: 240.\*.\*.\* to 255.\*.\*.\*
 where the ‘\*’ means ‘any value.’
 They vary in size: Class A > Class B > Class C > Class D, E
-
 ### IPv6
 - Uses 16 byte addresses
 - Total of $256^{16}$ possible addresses
@@ -33,5 +32,13 @@ They vary in size: Class A > Class B > Class C > Class D, E
 - Some legacy systems don't support IPv6
 	- Can wrap IPv6 datagrams into IPv4 datagrams if some intermediate routers only support IPv4
 	- Know as Tunneling
-- 
+- Usually written in hexadecimal, with 8 groups (pairs of bytes) separated by colons
+- E.G. 2001:0630:0062:0059:0000:0000:0000:0053 or 2001:630:62:59:0:0:0:53 or
+- Replace consecutive sections of 0s with double colon, e.g. 2001:630:62:59::53
+	- Only can replace one section per address
+	- If more than 1 section of 0s, replace largest (or leftmost if equal)
+	
 ![](Pasted%20image%2020240509164022.png)
+
+
+## CIDR: Classless Inter-Domain Routing
