@@ -11,3 +11,6 @@
 - **Link Layer Protocol:** The method each link uses to send data
 - **Frames:** Data packets (information being sent)
 
+## Services
+**Framing and link access:**
+- Encapsulate the datagram/packet into a frame, adding a 
