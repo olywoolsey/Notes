@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/TCP IP.md",
+                "file": "Networks/DNS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/TCP IP.md",
+                "file": "Networks/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/TCP IP.md",
+                "file": "Networks/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/TCP IP.md"
+                "file": "Networks/DNS.md"
               }
             }
           },
@@ -163,9 +163,9 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
+    "Networks/TCP IP.md",
     "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
     "Assessments/Networks 1.md",
-    "Networks/TCP IP.md",
     "Networks/TCP.md",
     "Networks/DNS.md",
     "Networks/Layer - Network.md",
