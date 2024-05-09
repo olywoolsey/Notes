@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Ports.md",
+                "file": "Networks/DNS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Ports.md",
+                "file": "Networks/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Ports.md",
+                "file": "Networks/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/Ports.md"
+                "file": "Networks/DNS.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
+    "Networks/Ports.md",
     "Networks/DNS.md",
     "Networks/IP Addresses.md",
     "Pasted image 20240509164022.png",
@@ -176,7 +177,6 @@
     "Networks/UDP.md",
     "Networks/Layer - Transport.md",
     "Networks/Application Layer.md",
-    "Networks/Ports.md",
     "Networks/Images/port-usage.png",
     "Operating Systems/Memory Management/Frames.md",
     "Networks/Layer - Physical.md",

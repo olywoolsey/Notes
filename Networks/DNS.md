@@ -14,6 +14,7 @@ DNS is the way computers turn the readable host name to an [IP Addresses](IP%20A
 - Scalable.  
 ### Caching:  
 - Local caching of DNS results for re-use
+
 ## Uniqueness
 One hostname can map to multiple IP addresses:  
 - Popular servers will typically have multiple IP addresses around the world
@@ -25,3 +26,11 @@ Multiple Names can map to a single [IP Addresses](IP%20Addresses.md)
 - Known as aliasing
 - Especially useful in mail addresses
 - Can simplify host names for web sites
+
+## Terminal Commands
+
+| Command               | Reason                                                                                                     |
+| --------------------- | ---------------------------------------------------------------------------------------------------------- |
+| nslookup (depricated) | Resolves hostnames to IP addresses                                                                         |
+| host                  | Basic resolution of hostnames and IP addresses                                                             |
+| dig                   | Resolves hostnames and IP addresses<br>Can also trace the DNS query<br>Allows for a more detailed response |
