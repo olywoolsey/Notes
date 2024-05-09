@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/UDP.md",
+                "file": "Networks/DNS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/UDP.md",
+                "file": "Networks/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/UDP.md",
+                "file": "Networks/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/UDP.md"
+                "file": "Networks/DNS.md"
               }
             }
           },
@@ -163,22 +163,23 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
+    "Networks/Layer - Network.md",
+    "Networks/DNS.md",
+    "Networks/Layer - Link.md",
+    "Networks/MAC Addresses.md",
+    "Networks/TCP.md",
+    "Networks/UDP.md",
     "Networks/Layer - Transport.md",
     "Networks/TCP IP.md",
     "Networks/Application Layer.md",
-    "Networks/Layer - Network.md",
-    "Networks/Layer - Link.md",
     "Networks/Ports.md",
     "Networks/Images/port-usage.png",
-    "Networks/MAC Addresses.md",
     "Operating Systems/Memory Management/Frames.md",
     "Networks/Layer - Physical.md",
     "Networks/Connecting To The Network.md",
     "Networks/IP Addresses.md",
-    "Networks/UDP.md",
     "Networks/WAN.md",
     "Networks/The Book.md",
-    "Networks/TCP.md",
     "Networks/Protocol Stack.md",
     "Networks/SMPT.md",
     "Networks/OSI Model.md",

@@ -12,6 +12,7 @@
 - **Link:** Communication channel that connect **adjacent** nodes (wired or wireless)
 - **Link Layer Protocol:** The method each link uses to send data
 - **Frames:** Data packets (information being sent)
+- **[MAC Addresses](MAC%20Addresses.md):** For source and destination
 
 ## Services
 **Framing and link access:**

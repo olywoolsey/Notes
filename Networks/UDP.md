@@ -12,6 +12,10 @@
 - DNS uses UDP (fast; small messages).
 - So does SNMP (Simple Network Management Protocol) for similar reasons.
 - Also useful for real-time multi-media, often wrapped into the Real-time Transport Protocol
+	- Sits between Application and Transport Layers
+	- UDP packets are numbered such that receiver can determine if packets are missing
+	- No correction or re-transmission
+	- Receiver can interpolate lost data
 ### Header
 Prepends an 8-byte header to the message including:
 - Destination port number

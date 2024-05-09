@@ -1,6 +1,7 @@
 # Transition Control Protocol
+- Connection-oriented protocol
 - Point-to-point: One sender, one receiver
-- Reliable
+- Reliable as requests lost data again
 - Send and receive buffers
 - Pipelined: Send multiple packets without waiting for acknowledgement of the first
 - Bidirectional data flow in same connection
@@ -12,11 +13,3 @@
 - The idea of flow control is that the sender won’t overrun receiver’s buffer by transmitting too much, too fast
 - **Receiver:** Explicitly informs the sender the (dynamically changing) amount of free buffer space. The Rcv Window field in TCP segment 
 - **Sender:** Keeps the amount of transmitted, unacknowledged data less than most recently received Rcv Window
-```python
-for i in range(3)
-	print("Hello, World!")
-```
-
-- - -
-
-- - -
