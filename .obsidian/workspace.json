@@ -11,13 +11,8 @@
             "id": "6e4247ce741870c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networks/DNS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Networks/DNS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,14 +154,16 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
-    "Networks/Layer - Network.md",
+    "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
+    "Assessments/Networks 1.md",
+    "Networks/TCP IP.md",
+    "Networks/TCP.md",
     "Networks/DNS.md",
+    "Networks/Layer - Network.md",
     "Networks/Layer - Link.md",
     "Networks/MAC Addresses.md",
-    "Networks/TCP.md",
     "Networks/UDP.md",
     "Networks/Layer - Transport.md",
-    "Networks/TCP IP.md",
     "Networks/Application Layer.md",
     "Networks/Ports.md",
     "Networks/Images/port-usage.png",
@@ -187,9 +180,7 @@
     "Networks/MAN.md",
     "Networks/LAN.md",
     "Networks/Ethernet.md",
-    "Networks/DNS.md",
     "Networks/DHCP.md",
-    "Formal Languages & Finite Automata/Notation.md",
     "Networks/Images/networking-book.png",
     "Networks/Untitled",
     "Operating Systems/Images/API-open.png",
