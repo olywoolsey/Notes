@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Java Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Java Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Java Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/IP Addresses.md"
+                "file": "Java Networks.md"
               }
             }
           },
@@ -163,11 +163,12 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
+    "Networks/IP Addresses.md",
+    "Java Networks.md",
     "Networks/DNS.md",
     "Pasted image 20240509172239.png",
     "Pasted image 20240509172224.png",
     "Networks/Ports.md",
-    "Networks/IP Addresses.md",
     "Pasted image 20240509164022.png",
     "Networks/TCP IP.md",
     "Formal Languages & Finite Automata/Finite State Automata/Closure.md",

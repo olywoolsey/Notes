@@ -40,8 +40,8 @@ They vary in size: Class A > Class B > Class C > Class D, E
 	
 ![](Pasted%20image%2020240509164022.png)
 
-
-## CIDR: Classless Inter-Domain Routing
+## Temporary Fixes For Not Having Enough Addresses
+### CIDR: Classless Inter-Domain Routing
 Define subnetworks by any number of bits  
 - Greater range of subnetwork sizes (i.e. 256, 512, 1024, . . . )  
 - Notation: a.b.c.d/x with x the number of common bits.  
@@ -53,3 +53,7 @@ Define subnetworks by any number of bits
 		- 220.10.128.0  
 		- . . .  
 		- 220.10.143.255  
+### NAT: Network Address Translation
+Private netowrks to have their own internal addresses, and only public servers to have actual IP addresses
+- Re-direct messages to/from private hosts using ports
+- 10.\*.\*.\* most common
