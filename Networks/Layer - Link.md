@@ -17,7 +17,7 @@
 **Framing and link access:**
 - Encapsulate the datagram/packet into a frame, adding a header and possibly footer
 - Channel access if the medium is shared
-- MAC addresses used in frame headers
+- MAC Addresses used in frame headers
 
 **Reliable delivery between adjacent nodes:**
 - Similar strategy to [TCP](TCP.md)
