@@ -4,6 +4,7 @@
 	- This allows multiple applications to run simultaneously on the same host with the same IP address.
 	- Purely software, provided by the OS.
 	- Can be allocated to a particular service, e.g. email, HTTP etc
+	![](port-usage.png)
 ## Sending and Receiving
 - Converting host-to-host delivery to process-to-process delivery is the job of the Transport layer.
 	- Known as multiplexing (sending) and demultiplexing(receiving)
@@ -13,7 +14,7 @@
 ## Available Ports
 - Ports 1-65535 are available on any given host.
 	- 16-bit unsigned int, with zero not allowed.
-	- TCP and UDP ports and independent.
+	- [TCP](TCP.md) and [UDP](UDP.md) ports and independent.
 - Ports are characterised by:
 	- Ports 1-1023 are reserved; approved by IANA (InternetAssigned Numbers Authority).
 	- Commonly used ports lie outside this range, i.e. 1024-65535.

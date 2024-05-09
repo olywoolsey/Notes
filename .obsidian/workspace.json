@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Ports.md",
+                "file": "Networks/Application Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
+    "width": 305.5,
     "collapsed": true
   },
   "right": {
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Ports.md",
+                "file": "Networks/Application Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Ports.md",
+                "file": "Networks/Application Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/Ports.md"
+                "file": "Networks/Application Layer.md"
               }
             }
           },
@@ -163,14 +163,16 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
+    "Networks/Layer - Network.md",
     "Networks/Layer - Link.md",
+    "Networks/Ports.md",
+    "Networks/Images/port-usage.png",
     "Networks/MAC Addresses.md",
     "Operating Systems/Memory Management/Frames.md",
     "Networks/TCP IP.md",
     "Networks/Layer - Physical.md",
     "Networks/Connecting To The Network.md",
     "Networks/IP Addresses.md",
-    "Networks/Layer - Network.md",
     "Networks/Layer - Transport.md",
     "Networks/Application Layer.md",
     "Networks/UDP.md",
@@ -179,7 +181,6 @@
     "Networks/TCP.md",
     "Networks/Protocol Stack.md",
     "Networks/SMPT.md",
-    "Networks/Ports.md",
     "Networks/OSI Model.md",
     "Networks/POP3.md",
     "Networks/MAN.md",
@@ -188,7 +189,6 @@
     "Networks/DNS.md",
     "Networks/DHCP.md",
     "Formal Languages & Finite Automata/Notation.md",
-    "Formal Languages & Finite Automata/Applications.md",
     "Networks/Images/networking-book.png",
     "Networks/Untitled",
     "Operating Systems/Images/API-open.png",
@@ -199,7 +199,6 @@
     "Formal Languages & Finite Automata/Images/Pasted image 20240213164044.png",
     "Databases/Images/chens-example.png",
     "Data Analysis/graph-after.png",
-    "Data Analysis/graph-before.png",
     "Networks/Images",
     "Formal Languages & Finite Automata/Finite State Automata",
     "jasashkhasdkjadsads",
