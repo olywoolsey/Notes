@@ -42,3 +42,14 @@ They vary in size: Class A > Class B > Class C > Class D, E
 
 
 ## CIDR: Classless Inter-Domain Routing
+Define subnetworks by any number of bits  
+- Greater range of subnetwork sizes (i.e. 256, 512, 1024, . . . )  
+- Notation: a.b.c.d/x with x the number of common bits.  
+- For example, 220.10.128.0/20 means ‘all addresses that share their first 20 bits with 220.10.128.0’:  
+	- All of the first byte (220).  
+	- All of the second byte (10).  
+	- The most significant 4-bits of the third byte (128-143 inc.):  
+	- Full range is:  
+		- 220.10.128.0  
+		- . . .  
+		- 220.10.143.255  
