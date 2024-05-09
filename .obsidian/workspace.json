@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/MAC Addresses.md",
+                "file": "Networks/Layer - Link.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/MAC Addresses.md",
+                "file": "Networks/Layer - Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/MAC Addresses.md",
+                "file": "Networks/Layer - Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/MAC Addresses.md"
+                "file": "Networks/Layer - Link.md"
               }
             }
           },
@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,6 +162,7 @@
   },
   "active": "bdfea8ff67fb5cfb",
   "lastOpenFiles": [
+    "Operating Systems/Memory Management/Frames.md",
     "Networks/Layer - Link.md",
     "Networks/MAC Addresses.md",
     "Networks/TCP IP.md",
@@ -197,7 +197,6 @@
     "Formal Languages & Finite Automata/Images/NFA.png",
     "Formal Languages & Finite Automata/Images/Pasted image 20240213164044.png",
     "Databases/Images/chens-example.png",
-    "Data Analysis/Optimising Visulisations.md",
     "Data Analysis/graph-after.png",
     "Data Analysis/graph-before.png",
     "Networks/Images",

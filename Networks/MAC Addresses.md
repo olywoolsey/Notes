@@ -1,13 +1,8 @@
 # MAC Addresses
-Whatever the protocol, each node must have a unique MAC (Media Access Control) address
-
-The MAC (or LAN, physical, Ethernet) address:  
-- Used ‘locally’ to get frame from one interface to another.  
-- Both interfaces in the same network (in IP sense).  
-- 48-bit MAC addresses burned into NIC ROM.  
-- e.g. 1A-2F-BB-76-09-AD
-
-MAC addresses only matter locally so can be 
+- Identify a device on a local network (LAN) and are used for communication between devices on the same network.
+- Are unique to a specific network interface or device, making them a reliable way to identify a device on a LAN.
+- Allow for efficient packet transfer within a LAN, as they are used to determine the destination device on the same network.
+- Are used by the data [Link Layer](Layer%20-%20Link.md) of the [OSI Model](OSI%20Model.md) to manage data transmission within a LAN.
 
 ## Creation of MAC Addresses
 - MAC address allocation done be IEEE
