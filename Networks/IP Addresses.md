@@ -1,5 +1,6 @@
 # IP Addresses
 Every public host on the internet has a unique IP address.
+They are converted from human readable names to computer readable addresses using [DNS](DNS.md)
 Hosts in private networks (LANs) can use internal addresses (10.\*.\*.\*)
 Outward-facing servers, i.e. the public hosts visible to the Wide Area Network (WAN), do have a unique IP address
 - They forward messages from LAN hosts to the WAN, and vice versa, using a Network Address Translation (NAT) table
@@ -26,4 +27,11 @@ where the ‘\*’ means ‘any value.’
 They vary in size: Class A > Class B > Class C > Class D, E
 
 ### IPv6
+- Uses 16 byte addresses
+- Total of $256^{16}$ possible addresses
+- Should never run out
+- Some legacy systems don't support IPv6
+	- Can wrap IPv6 datagrams into IPv4 datagrams if some intermediate routers only support IPv4
+	- Know as Tunneling
+- 
 ![](Pasted%20image%2020240509164022.png)

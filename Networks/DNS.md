@@ -48,9 +48,12 @@ To improve performance query results are cached on the local DNS server
 - Cache is checked before the root DNS server is used
 - Can cache IP addresses for TLD servers, bypassing the need to access the root server
 If a query is successful:  
-The returned DNS message will include a TTL, or a  
-time-to-live.  
-Will cache until the TTL expires, typically days
+- The returned DNS message will include a TTL, or a time-to-live.  
+- Will cache until the TTL expires, typically days
+If a query is unsuccessful:
+- Overhead for unknown domains is greater as requires exhaustive search
+- Caching avoids repeat of this overhead
+- In this instance, typically has a shorted TLL, or the order of hours
 ## Terminal Commands
 
 | Command               | Reason                                                                                                     |
