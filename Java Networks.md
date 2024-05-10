@@ -25,4 +25,4 @@ Java's built in *Thread* class
 - Shared memory (uses multiple cores for one machine, but only one machine node)
 - One thread per client
 
-**SEE LECTURE 10**
+**SEE LECTURE 10 / 11 / 12**
