@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Computation.md",
+                "file": "Java Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parallel Computation.md",
+                "file": "Java Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parallel Computation.md",
+                "file": "Java Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parallel Computation.md"
+                "file": "Java Networks.md"
               }
             }
           },
@@ -163,9 +163,9 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
+    "Parallel Computation.md",
     "Screenshot_20240510_230408.png",
     "Networks/IP Addresses.md",
-    "Parallel Computation.md",
     "Java Networks.md",
     "Networks/DNS.md",
     "Pasted image 20240509172239.png",
@@ -199,7 +199,6 @@
     "Mathematics/Discrete/Pasted image 20240207121523.png",
     "Formal Languages & Finite Automata/Images/NDSA_Equiv.png",
     "Formal Languages & Finite Automata/Images/equivilances.png",
-    "Formal Languages & Finite Automata/Images/NFA.png",
     "Networks/Images",
     "Formal Languages & Finite Automata/Finite State Automata",
     "jasashkhasdkjadsads",
