@@ -15,7 +15,7 @@ Con: Software must be specifically developed to take into account these processi
 ### Shared memory architectures
 All processing units access the same memory
 - Includes anything with one or more multi-core CPU (most modern laptops, phones ..etc)
-![](Screenshot_20240510_230408.png)
+![](shared-memory.png)
 
 ### Distributed memory architectures
 Processing units only access a fraction of total memory available

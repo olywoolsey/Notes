@@ -11,12 +11,9 @@
             "id": "6e4247ce741870c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Security.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Networks/Screenshot_20240510_235050.png"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -87,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security.md",
+                "file": "Networks/Screenshot_20240510_235050.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security.md",
+                "file": "Networks/Screenshot_20240510_235050.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security.md"
+                "file": "Networks/Screenshot_20240510_235050.png"
               }
             }
           },
@@ -163,16 +159,20 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
-    "Java Networks.md",
-    "Security.md",
-    "Parallel Computation.md",
-    "Screenshot_20240510_230408.png",
+    "Networks/Images/shared-memory.png",
+    "Networks/Screenshot_20240510_235050.png",
+    "Networks/Images/DNS-server-method.png",
+    "Networks/Pasted image 20240509172224.png",
+    "Networks/Images/IPv6-parts.png",
+    "Networks/Transport Layer.md",
+    "Networks/UDP.md",
+    "Networks/NETWORKS TODO.md",
+    "Networks/Java Networks.md",
+    "Networks/Security.md",
+    "Networks/Parallel Computation.md",
     "Networks/IP Addresses.md",
     "Networks/DNS.md",
-    "Pasted image 20240509172239.png",
-    "Pasted image 20240509172224.png",
     "Networks/Ports.md",
-    "Pasted image 20240509164022.png",
     "Networks/TCP IP.md",
     "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
     "Assessments/Networks 1.md",
@@ -180,8 +180,6 @@
     "Networks/Layer - Network.md",
     "Networks/Layer - Link.md",
     "Networks/MAC Addresses.md",
-    "Networks/UDP.md",
-    "Networks/Layer - Transport.md",
     "Networks/Application Layer.md",
     "Networks/Images/port-usage.png",
     "Operating Systems/Memory Management/Frames.md",
@@ -192,14 +190,11 @@
     "Networks/Protocol Stack.md",
     "Networks/SMPT.md",
     "Networks/OSI Model.md",
-    "Networks/POP3.md",
-    "Networks/MAN.md",
     "Networks/Images/networking-book.png",
     "Networks/Untitled",
     "Operating Systems/Images/API-open.png",
     "Mathematics/Discrete/Pasted image 20240207121523.png",
     "Formal Languages & Finite Automata/Images/NDSA_Equiv.png",
-    "Formal Languages & Finite Automata/Images/equivilances.png",
     "Networks/Images",
     "Formal Languages & Finite Automata/Finite State Automata",
     "jasashkhasdkjadsads",

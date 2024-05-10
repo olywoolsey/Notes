@@ -39,7 +39,7 @@ Multiple Names can map to a single [IP Addresses](IP%20Addresses.md)
 	- . . . and then negotiates with TLD server to find Authoritative DNS server . . .  
 	- . . . and then negotiates with Authoritative DNS server to resolve host name to IP address . . .  
 	- . . . and then returns this IP address to the local host.  
-	![](Pasted%20image%2020240509172239.png)
+	![](DNS-server-method.png)
 ## DNS Caching
 The query process has an overhead
 - Primarily a delay, especially if one of the queries is lost and needs to be resent

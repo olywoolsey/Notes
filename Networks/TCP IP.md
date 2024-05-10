@@ -7,7 +7,7 @@ The most widely used [Protocol Stack](Protocol%20Stack.md) mode for the internet
 | Layer                                 | Usual Name For Packet     | Address Or Similar                               |
 | ------------------------------------- | ------------------------- | ------------------------------------------------ |
 | [Application](Application%20Layer.md) | Message                   | -                                                |
-| [Transport](Layer%20-%20Transport.md) | Segment ([UDP](UDP.md))   | Port                                             |
+| [Transport](Transport%20Layer.md) | Segment ([UDP](UDP.md))   | Port                                             |
 | [Network](Layer%20-%20Network.md)     | Dataframe ([UDP](UDP.md)) | IP (converted to host-names using [DNS](DNS.md)) |
 | [Link](Layer%20-%20Link.md)           | Frame                     | MAC                                              |
 | [Physical](Layer%20-%20Physical.md)   | -                         | -                                                |

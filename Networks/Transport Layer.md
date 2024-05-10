@@ -9,3 +9,6 @@
 	- [UDP](UDP.md) - User Datagram Protocol
 		- Detects corruption, but not ordering or lost pack-ets/segments
 		- Low overhead
+
+## Reliable Data Transfer
+![](Screenshot_20240510_235050.png)

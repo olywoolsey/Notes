@@ -38,7 +38,7 @@ They vary in size: Class A > Class B > Class C > Class D, E
 	- Only can replace one section per address
 	- If more than 1 section of 0s, replace largest (or leftmost if equal)
 	
-![](Pasted%20image%2020240509164022.png)
+![](IPv6-parts.png)
 
 ## Temporary Fixes For Not Having Enough Addresses
 ### CIDR: Classless Inter-Domain Routing
