@@ -26,3 +26,31 @@ Hardware specifically designed to rapidly perform calculations that arise in the
 - Some devices design for general-purpose calculations
 	- Known as GPGPUs for General-Pupose GPUs
 - GPU hardware has multiple memory stores, some of which can be viewed as distributed, some shared
+
+## Programming in Parallel
+Parallel architectures allow multiple calculations to be performed simultaneously
+- Can improve performance without increasing the clock speed
+### Concurrency
+*When two or more tasks are in progress at the same time*
+For instance, for an event-driven GUI, a user event (e.g. a mouse click) might result in a callback function being called.  
+- Would normally be called by a separate task (thread), so that the main loop can continue (and detect other user events)
+- Can be achieved using interrupts:  
+	- OS ‘slices’ CPU time amongst all running tasks.  
+	- Most commonly pre-emptive multi-tasking
+### Parallelism
+*The ability to perform multiple calculations simultaneously by using more than one processing unit*
+**Possible to be concurrent but not parallel**
+- Multi-tasking is possible in a single-core CPU, 
+
+### Processes versus threads
+**Process:**
+- Self contatined execution enviroment
+- Private set of run-time resoures
+- Has its own heap memory
+- Has its own stack memory
+- Expensive to create and destroy
+- Normally 1 application = 1 process (not always):
+	- E.G: Each tab in an app may be a different process
+**Threads:**
+- Launhed by and exist within a process
+- Every process has at least on
