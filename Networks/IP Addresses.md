@@ -54,6 +54,6 @@ Define subnetworks by any number of bits
 		- . . .  
 		- 220.10.143.255  
 ### NAT: Network Address Translation
-Private netowrks to have their own internal addresses, and only public servers to have actual IP addresses
+Private networks to have their own internal addresses, and only public servers to have actual IP addresses
 - Re-direct messages to/from private hosts using ports
 - 10.\*.\*.\* most common

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Networks.md",
+                "file": "Networks/IP Addresses.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Networks.md",
+                "file": "Networks/IP Addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Networks.md",
+                "file": "Networks/IP Addresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Networks.md"
+                "file": "Networks/IP Addresses.md"
               }
             }
           },
@@ -163,8 +163,8 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
-    "Networks/IP Addresses.md",
     "Java Networks.md",
+    "Networks/IP Addresses.md",
     "Networks/DNS.md",
     "Pasted image 20240509172239.png",
     "Pasted image 20240509172224.png",
