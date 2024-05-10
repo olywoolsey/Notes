@@ -21,8 +21,8 @@ Originally there were several classes of IPv4 address:
 - Class A: 0.\*.\*.\* to 127.\*.\*.\*
 - Class B: 128.\*.\*.\* to 191.\*.\*.\*
 - Class C: 192.\*.\*.\* to 223.\*.\*.\*
-- Class D: 224.\*.\*.\* to 239.\*.\*.\*
-- Class E: 240.\*.\*.\* to 255.\*.\*.\*
+- Class D: 224.\*.\*.\* to 239.\*.\*.\*  (Multi-casting)
+- Class E: 240.\*.\*.\* to 255.\*.\*.\*   (Future use)
 where the ‘\*’ means ‘any value.’
 They vary in size: Class A > Class B > Class C > Class D, E
 ### IPv6

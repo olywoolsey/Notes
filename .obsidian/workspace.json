@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Parallel Computation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Parallel Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Parallel Computation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/IP Addresses.md"
+                "file": "Parallel Computation.md"
               }
             }
           },
@@ -163,8 +163,9 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
-    "Java Networks.md",
     "Networks/IP Addresses.md",
+    "Parallel Computation.md",
+    "Java Networks.md",
     "Networks/DNS.md",
     "Pasted image 20240509172239.png",
     "Pasted image 20240509172224.png",
@@ -192,7 +193,6 @@
     "Networks/POP3.md",
     "Networks/MAN.md",
     "Networks/LAN.md",
-    "Networks/Ethernet.md",
     "Networks/Images/networking-book.png",
     "Networks/Untitled",
     "Operating Systems/Images/API-open.png",
