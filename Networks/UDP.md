@@ -29,5 +29,5 @@ Prepends an 8-byte header to the message including:
 ![](UDP-segment-structure.png)
 > [!note]
 > There are no host(IP) addresses in the header for UDP (same as [TCP](TCP.md))
-> This is the [Layer - Network](Layer%20-%20Network.md) Responsibility
+> This is the [Network Layer](Network%20Layer.md) Responsibility
 

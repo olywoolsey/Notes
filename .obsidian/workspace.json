@@ -11,9 +11,12 @@
             "id": "6e4247ce741870c8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Networks/Screenshot_20240510_235050.png"
+                "file": "Networks/Link Layer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -83,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Screenshot_20240510_235050.png",
+                "file": "Networks/Link Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Screenshot_20240510_235050.png",
+                "file": "Networks/Link Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/Screenshot_20240510_235050.png"
+                "file": "Networks/Link Layer.md"
               }
             }
           },
@@ -159,14 +163,17 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
+    "Networks/NETWORKS TODO.md",
+    "Networks/Physical Layer.md",
+    "Networks/Link Layer.md",
+    "Networks/Network Layer.md",
+    "Networks/Transport Layer.md",
+    "Networks/UDP.md",
+    "Networks/Images/reliable-data-transfer.png",
     "Networks/Images/shared-memory.png",
-    "Networks/Screenshot_20240510_235050.png",
     "Networks/Images/DNS-server-method.png",
     "Networks/Pasted image 20240509172224.png",
     "Networks/Images/IPv6-parts.png",
-    "Networks/Transport Layer.md",
-    "Networks/UDP.md",
-    "Networks/NETWORKS TODO.md",
     "Networks/Java Networks.md",
     "Networks/Security.md",
     "Networks/Parallel Computation.md",
@@ -177,13 +184,10 @@
     "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
     "Assessments/Networks 1.md",
     "Networks/TCP.md",
-    "Networks/Layer - Network.md",
-    "Networks/Layer - Link.md",
     "Networks/MAC Addresses.md",
     "Networks/Application Layer.md",
     "Networks/Images/port-usage.png",
     "Operating Systems/Memory Management/Frames.md",
-    "Networks/Layer - Physical.md",
     "Networks/Connecting To The Network.md",
     "Networks/WAN.md",
     "Networks/The Book.md",

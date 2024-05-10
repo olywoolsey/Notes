@@ -11,4 +11,5 @@
 		- Low overhead
 
 ## Reliable Data Transfer
-![](Screenshot_20240510_235050.png)
+![](reliable-data-transfer.png)
+**SEE LECTURE 16**

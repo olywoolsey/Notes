@@ -6,3 +6,6 @@
 - A datagram is produced containing the data and header information.
 - Also ICMP (Internet Control Message Protocol), which is how routers communicate to ensure efficient transport of messages through the network
 - Java only understands IP
+
+
+**SEE LECTURE 17 / 18**

@@ -2,7 +2,7 @@
 - Identify a device on a local network (LAN) and are used for communication between devices on the same network.
 - Are unique to a specific network interface or device, making them a reliable way to identify a device on a LAN.
 - Allow for efficient packet transfer within a LAN, as they are used to determine the destination device on the same network.
-- Are used by the data [Link Layer](Layer%20-%20Link.md) of the [OSI Model](OSI%20Model.md) to manage data transmission within a LAN.
+- Are used by the data [Link Layer](Link%20Layer.md) of the [OSI Model](OSI%20Model.md) to manage data transmission within a LAN.
 
 ## Creation of MAC Addresses
 - MAC address allocation done be IEEE

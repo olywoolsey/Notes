@@ -33,8 +33,9 @@
 - Receivers detect presence of errors; signals sender to retransmint or drops frame
 
 **Error Correction**
-- Receiver identifies and corrects bit errors using checksum, without requiring retransmission
+- Receiver identifies and corrects bit errors using checksum, without requiring re-transmission
 
 **Half-duplex and full-duplex**
 - Half-duplex means nodes at both ends of a link can transmit, but not at same time
-- 
+
+**SEE LECTURE 19**
