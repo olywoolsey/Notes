@@ -157,8 +157,7 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-projects:Open projects": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "6e4247ce741870c8",
