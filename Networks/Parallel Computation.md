@@ -12,12 +12,12 @@ CPUs also have **multiple functional units**
 ## Current Parallel Architectures
 Pro: Scales better than automated parallelism
 Con: Software must be specifically developed to take into account these processing units
-### Shared memory architectures
+### Shared Memory Architectures
 All processing units access the same memory
 - Includes anything with one or more multi-core CPU (most modern laptops, phones ..etc)
 ![](shared-memory.png)
 
-### Distributed memory architectures
+### Distributed Memory Architectures
 Processing units only access a fraction of total memory available
 - Includes High-Performance Computing (HPC) clusters (e.g. supercomputers), and distributed systems (‘cloud computing’)
 ### Graphics Processing Units (GPUs)
@@ -42,7 +42,7 @@ For instance, for an event-driven GUI, a user event (e.g. a mouse click) might r
 **Possible to be concurrent but not parallel**
 - Multi-tasking is possible in a single-core CPU, 
 
-### Processes versus threads
+### Processes versus Threads
 **Process:**
 - Self contained execution environment
 - Private set of run-time resources

@@ -19,8 +19,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b9f3c4306e5fcce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d564f9fcc30b62d1",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Analysis/Data Analysis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +173,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6e4247ce741870c8",
+  "active": "d564f9fcc30b62d1",
   "lastOpenFiles": [
+    "Assessments/Algorithms 1.md",
+    "Networks/Parallel Computation.md",
+    "Operating Systems/Threads.md",
+    "Hardware/COMP1211-ComputerArchitecture/Memory.md",
+    "Networks/Images/shared-memory.png",
+    "Data Analysis/Data Analysis.md",
     "Networks/Link Layer.md",
     "Networks/NETWORKS TODO.md",
     "Networks/Physical Layer.md",
@@ -170,13 +188,11 @@
     "Networks/Transport Layer.md",
     "Networks/UDP.md",
     "Networks/Images/reliable-data-transfer.png",
-    "Networks/Images/shared-memory.png",
     "Networks/Images/DNS-server-method.png",
     "Networks/Pasted image 20240509172224.png",
     "Networks/Images/IPv6-parts.png",
     "Networks/Java Networks.md",
     "Networks/Security.md",
-    "Networks/Parallel Computation.md",
     "Networks/IP Addresses.md",
     "Networks/DNS.md",
     "Networks/Ports.md",
@@ -191,9 +207,6 @@
     "Networks/Connecting To The Network.md",
     "Networks/WAN.md",
     "Networks/The Book.md",
-    "Networks/Protocol Stack.md",
-    "Networks/SMPT.md",
-    "Networks/OSI Model.md",
     "Networks/Images/networking-book.png",
     "Networks/Untitled",
     "Operating Systems/Images/API-open.png",
