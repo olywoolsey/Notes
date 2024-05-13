@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Data Analysis.md",
+                "file": "Networks/NETWORKS TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Data Analysis.md",
+                "file": "Networks/NETWORKS TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Data Analysis.md",
+                "file": "Networks/NETWORKS TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Data Analysis.md"
+                "file": "Networks/NETWORKS TODO.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
-    "Assessments/Data Analysis.md",
     "Data Analysis/Data Analysis.md",
+    "Assessments/Data Analysis.md",
     "Untitled.canvas",
     "Assessments/Algorithms 1.md",
     "Networks/Parallel Computation.md",
