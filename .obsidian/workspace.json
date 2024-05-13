@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/NETWORKS TODO.md",
+                "file": "Networks/Link Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/NETWORKS TODO.md",
+                "file": "Networks/Link Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/NETWORKS TODO.md",
+                "file": "Networks/Link Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/NETWORKS TODO.md"
+                "file": "Networks/Link Layer.md"
               }
             }
           },
@@ -169,6 +170,8 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
+    "Networks/NETWORKS TODO.md",
+    "Networks/Link Layer.md",
     "Data Analysis/Data Analysis.md",
     "Assessments/Data Analysis.md",
     "Untitled.canvas",
@@ -177,8 +180,6 @@
     "Operating Systems/Threads.md",
     "Hardware/COMP1211-ComputerArchitecture/Memory.md",
     "Networks/Images/shared-memory.png",
-    "Networks/Link Layer.md",
-    "Networks/NETWORKS TODO.md",
     "Networks/Physical Layer.md",
     "Networks/Network Layer.md",
     "Networks/Transport Layer.md",

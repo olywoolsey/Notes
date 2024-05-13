@@ -30,7 +30,7 @@
 
 **Error Detection**
 - Errors caused by signal attenuation / noise
-- Receivers detect presence of errors; signals sender to retransmint or drops frame
+- Receivers detect presence of errors; signals sender to re-transmit or drops frame
 
 **Error Correction**
 - Receiver identifies and corrects bit errors using checksum, without requiring re-transmission
