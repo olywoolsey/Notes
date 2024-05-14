@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/MAC Addresses.md",
+                "file": "Networks/Link Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/MAC Addresses.md",
+                "file": "Networks/Link Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/MAC Addresses.md",
+                "file": "Networks/Link Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/MAC Addresses.md"
+                "file": "Networks/Link Layer.md"
               }
             }
           },
@@ -162,6 +162,8 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
+    "Networks/MAC Addresses.md",
+    "Ethernet.md",
     "Networks/Link Layer.md",
     "Data Analysis/Optimising Visulisations.md",
     "Data Analysis/graph-before.png",
@@ -195,8 +197,6 @@
     "Networks/DNS.md",
     "Networks/Ports.md",
     "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
-    "Assessments/Networks 1.md",
-    "Networks/MAC Addresses.md",
     "Networks/Images/port-usage.png",
     "Networks/Images/networking-book.png",
     "Networks/Untitled",
