@@ -38,4 +38,6 @@
 **Half-duplex and full-duplex**
 - Half-duplex means nodes at both ends of a link can transmit, but not at same time
 
-**SEE LECTURE 19**
+## Where Is It?
+- Implemented in each host
+- Adaptor (NIC = Network Interface Card) / chip
