@@ -1,7 +1,4 @@
 # Transport Layer
-
-## Services
-- Logical 
 - Provides ports to control data transfer between processes
 - Raw data packets can be corrupted, arrive out-of-order, or not arrive at all!
 - Essentially two protocols exist at this layer:
