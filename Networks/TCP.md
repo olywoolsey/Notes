@@ -14,6 +14,19 @@
 - **Receiver:** Explicitly informs the sender the (dynamically changing) amount of free buffer space. The Rcv Window field in TCP segment 
 - **Sender:** Keeps the amount of transmitted, unacknowledged data less than most recently received Rcv Window
 
+## TCP Congestion Control
+Two Phases
+(CW = Congestion Window)
+### Slow Start
+When a connection is established, the sender starts with a small CW and gradually increases it as the receiver acknowledges the received data.
+- MSS: Maximum Segment Size.  
+- RTT: Round Trip Time.  
+- Exponential increase as increments happen more quickly (not such a slow start!)  
+- Loss event: Timeout and/or three duplicate ACKs.
+![](Pasted%20image%2020240514172040.png)
+### Congestion Avoidance
+ - When the CW reaches a certain threshold, the sender enters the congestion avoidance phase, where the CW is increased linearly with time
+
 ## Reliable Data Transfer (RDT)
 The sender waits until one acknowledgement(ACK) or another is received and re-sends the packet if necessary
 - Only need 2 sequnce numbers for ACKs but will use more if pipelining (sending multiple packages)
