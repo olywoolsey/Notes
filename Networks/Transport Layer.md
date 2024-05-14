@@ -12,4 +12,10 @@
 
 ## Reliable Data Transfer
 ![](reliable-data-transfer.png)
-**SEE LECTURE 16**
+
+## Congestion Control
+- Routers typically have multiple input and output lines.  
+- If streams of packets arriving on multiple lines and all need the same output line, a queue will build up.  
+- If capacity of the buffer is exceeded, packets will be discarded (lost)
+- Slow processors can also cause congestion:  
+	- Queueing buffers, updating router tables etc. usually require processing
