@@ -38,6 +38,25 @@
 **Half-duplex and full-duplex**
 - Half-duplex means nodes at both ends of a link can transmit, but not at same time
 
-## Where Is It?
-- Implemented in each host
-- Adaptor (NIC = Network Interface Card) / chip
+## Multiple Access Protocols
+### Single, shared access channel.
+- Two or more simultaneous transmissions may interfere
+- Collision if node receives two or more signals at once
+$\therefore$ need a multiple access protocol:
+	- Distributed algorithm that determines how nodes share the channel
+		- e.g. when a node transmitts
+	- Coordination needed for better channel sharing and communication
+
+### Types of Multiple Access Protocols
+**Channel Partitioning**
+- Divide channel into 'peices' (time slots; frequency; code)
+- Allocate pieces for node exclusive use
+- e.g. TDMA = Time Division Multiple Access
+**Random Access**
+- Randomise send times to minimise chances of collision
+- If collision detected, recover(i.e. transmit)
+- e.g. CSMA = Carrier Sends Multiple Access, and variations
+**Taking Turns**
+- Nodes take turns, but nodes with more to send can take longer turns (coordinate using tokens)
+- TDMA = Time Division Multiple Access
+- 
