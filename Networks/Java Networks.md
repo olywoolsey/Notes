@@ -73,21 +73,21 @@ private void runServer () {
 private void runClient () {  
 	try {  
 		BufferedReader bIn = new BufferedReader (  
-		new InputStreamReader (  
-		System . in ) ) ;  
-BufferedWriter bOut = new BufferedWriter (  
-new OutputStreamWriter (  
-sslsocket . getOutputStream () ) ) ;  
-String string = null ;  
-while ( ( string = bIn () ) != null ) {  
-bOut ( string + ’\ n ’ ) ;  
-bOut () ;  
-}  
-sslsocket . close () ;  
-}  
-catch ( IOException ex ) { ... }  
+								new InputStreamReader(System . in ) ) ;
+		BufferedWriter bOut = new BufferedWriter(  
+								new OutputStreamWriter(
+									sslsocket.getOutputStream()));
+		String string = null ;  
+		while ( ( string = bIn () ) != null ) {  
+			bOut ( string + ’\ n ’ ) ;  
+			bOut();
+		}  
+		sslsocket . close () ;  
+	}  
+	catch ( IOException ex ) { ... }  
 }
 ```
+The text sent by bOut.write() is now encrypted
 ## Multi Threaded Server
 Java's built in *Thread* class
 - Shared memory (uses multiple cores for one machine, but only one machine node)

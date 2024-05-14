@@ -7,7 +7,7 @@
 - Smaller segment header
 - No congestion control, so can send as fast as desired
 - Often used for streaming applications that are loss tolerant but rate sensitive.
-- Can add reliability at the Application layer if needed.
+- Can add reliability at the Application layer if needed.(e.g. VoIP - Voice over IP; RTP - Real-time Transport Protocol)
 ## Usages
 - DNS uses UDP (fast; small messages).
 - So does SNMP (Simple Network Management Protocol) for similar reasons.
@@ -16,6 +16,12 @@
 	- UDP packets are numbered such that receiver can determine if packets are missing
 	- No correction or re-transmission
 	- Receiver can interpolate lost data
+#### RTP
+- Open standard for real-time conversational applications:  
+Runs on-top of UDP (typically) — seen as any other UDP  
+packet in the Network layer.  
+12-byte RTP header — sequence numbers, time-stamps, etc.  
+Better chance of interacting if both end applications use RTP
 ### One To Many
 
 **SEE LECTURE 15**
