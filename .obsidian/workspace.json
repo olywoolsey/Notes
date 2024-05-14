@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Casting.md",
+                "file": "Networks/Casting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Casting.md",
+                "file": "Networks/Casting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Casting.md",
+                "file": "Networks/Casting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Casting.md"
+                "file": "Networks/Casting.md"
               }
             }
           },
@@ -162,8 +162,10 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
+    "Networks/Images/Pasted image 20240514144209.png",
+    "Networks/Casting.md",
+    "DHCP.md",
     "Photography Imaging/Camera Filters & Lighting.md",
-    "Casting.md",
     "Networks/UDP.md",
     "Networks/Transport Layer.md",
     "Networks/Parallel Computation.md",
@@ -173,7 +175,6 @@
     "Networks/Network Layer.md",
     "Networks/Link Layer.md",
     "Networks/Physical Layer.md",
-    "Pasted image 20240514144209.png",
     "Networks/MAC Addresses.md",
     "Ethernet.md",
     "Data Analysis/Optimising Visulisations.md",
@@ -196,8 +197,6 @@
     "Networks/Images/DNS-server-method.png",
     "Networks/Pasted image 20240509172224.png",
     "Networks/Images/IPv6-parts.png",
-    "Networks/IP Addresses.md",
-    "Networks/DNS.md",
     "Networks/Images/port-usage.png",
     "Networks/Untitled",
     "Networks/Images",
