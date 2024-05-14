@@ -1,7 +1,4 @@
 # Security
-
-**LECTURE 13**
-
 ## Examples
 
 | Layer       | Examples of Security Protocols                |
@@ -62,5 +59,17 @@ A possible scenario is:
 - A encrypts his/her message using kM pub.  
 - M intercepts the message, decrypts and reads it.  
 - M then encrypts the message using kB pub and relays it to B.  
-##
+## Authentication
 Client can trust they are connected to the server they think they are - server authentication
+- Adds trust to the transmitted public key
+- The server sends a certificate containing its public key to any new client
+- The certificate gaurantees it came from the server
+- The client can check this
+- The client then sends their public key for communication
+The certificate is signed by an approved certification authority
+- Very hard but not impossible to fake this
+
+### Obtaining a certificate
+- Commercial entities buy a certificate from a certification authority. 
+	-  e.g. VeriSign for SSL (Secure Sockets Layer)
+	- [Java Networks](Java%20Networks.md) use X.509 certificates

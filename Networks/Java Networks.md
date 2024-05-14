@@ -19,6 +19,11 @@ public static Inet Address[] getAllByName( String hostname )
 // The address of host running code
 public static InetAddress getLocalHost()
 ```
+### SSLSocket class
+An SSLSocket is constructed by an SSLSocketFactory.  
+Use of factory (rather than a constructor) allows additional  
+security (e.g. authentication)
+
 
 ## Multi Threaded Server
 Java's built in *Thread* class
@@ -27,6 +32,17 @@ Java's built in *Thread* class
 
 **SEE LECTURE 10 / 11 / 12**
 
+
+## Security
+*LECTURE 13*
+- Can generate and manage certificates using the keytool utility.  
+- Part of the standard Java distribution Java SE.  
+- Require certificates to implement our own secure communication
+- Java Secure Socket Extension (JSSE):  
+	- javax.net.*  
+	- Includes Secure Sockets Layer (SSL) as javax.net.ssl.*  
+	- Also includes the more recent Transport Layer Security (TLS)
+- Technically break 5 layer [TCP IP](TCP%20IP.md) protocol but not 7 layer [OSI Model](OSI%20Model.md)
 
 ## UDP
 **SEE LECTURE 14**
