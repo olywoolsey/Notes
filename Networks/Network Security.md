@@ -13,4 +13,14 @@
 | Physical    | Quantum communication (incomming)             |
 
 ## Encryption
+Traffic is ‘secure’ even if intercepted
+
+Start with a plain text message M.  
+Assume an encryption algorithm E exists such that it  
+encrypts M into cypher text form C = E (M).  
+Further assume that a corresponding decryption algorithm  
+D exists such that M = D(C )
+### Symmetric Key Algorithms
+The 2 participants in the commun 
 ## Authentication
+Client can trust they are connected to the server they think they are - server authentication
