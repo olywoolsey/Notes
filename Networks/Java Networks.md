@@ -95,4 +95,7 @@ Java's built in *Thread* class
 
 **SEE LECTURE 10 / 11 / 12**
 
+## Multicast Socket class
+**SEE LECTURE 15**
+
 **SEE LECTURE 14**

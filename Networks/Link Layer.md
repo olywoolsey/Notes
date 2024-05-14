@@ -89,4 +89,4 @@ There are many different standards
 - Common MAC protocol and frame format
 - Different speeds: 2 Mbps, 10 Mbps, 100 Mbps, 1 Gbps, 10 Gbps
 - Different [Physical Layer](Physical%20Layer.md) media: fibre, cable.
-![](Pasted%20image%2020240514144209.png)
+![](MAC-protocol.png)
