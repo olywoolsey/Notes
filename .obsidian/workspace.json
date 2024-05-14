@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "relitively",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
