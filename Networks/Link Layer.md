@@ -37,14 +37,14 @@
 
 **Half-duplex and full-duplex**
 - Half-duplex means nodes at both ends of a link can transmit, but not at same time
-
+- Full-duplex means both nodes can transfer data simultaneously as they use different channels 
 ## Multiple Access Protocols
 ### Single, shared access channel.
 - Two or more simultaneous transmissions may interfere
 - Collision if node receives two or more signals at once
 $\therefore$ need a multiple access protocol:
 	- Distributed algorithm that determines how nodes share the channel
-		- e.g. when a node transmitts
+		- e.g. when a node transmits
 	- Coordination needed for better channel sharing and communication
 
 ### Types of Multiple Access Protocols
@@ -76,3 +76,17 @@ $\therefore$ need a multiple access protocol:
 	- Other protocols can achieve higher efficiency
 #### Taking Turns
 - Nodes take turns, but nodes with more to send can take longer turns (coordinate using tokens)
+
+## Ethernet
+### Frame Structure
+**| Preamble | dest. address | source address | type | data (payload) | CRC |**
+- Preamble has a fixed bit pattern, for synchronisation
+- Destination and source [MAC Addresses](MAC%20Addresses.md)
+- Type, usually IP, but can be another higher-level protocol
+- CRC = Cyclic Redundancy Check, for detecting errors
+### Standards
+There are many different standards
+- Common MAC protocol and frame format
+- Different speeds: 2 Mbps, 10 Mbps, 100 Mbps, 1 Gbps, 10 Gbps
+- Different [Physical Layer](Physical%20Layer.md) media: fibre, cable.
+![](Pasted%20image%2020240514144209.png)

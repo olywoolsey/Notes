@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Link Layer.md",
+                "file": "Networks/Network Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Link Layer.md",
+                "file": "Networks/Network Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Link Layer.md",
+                "file": "Networks/Network Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/Link Layer.md"
+                "file": "Networks/Network Security.md"
               }
             }
           },
@@ -162,9 +162,13 @@
   },
   "active": "6e4247ce741870c8",
   "lastOpenFiles": [
+    "Networks/NETWORKS TODO.md",
+    "Networks/Network Layer.md",
+    "Networks/Link Layer.md",
+    "Networks/Physical Layer.md",
+    "Pasted image 20240514144209.png",
     "Networks/MAC Addresses.md",
     "Ethernet.md",
-    "Networks/Link Layer.md",
     "Data Analysis/Optimising Visulisations.md",
     "Data Analysis/graph-before.png",
     "Data Analysis/graph-after.png",
@@ -173,12 +177,9 @@
     "Networks/Application Layer.md",
     "Networks/OSI Model.md",
     "Networks/Parallel Computation.md",
-    "Networks/Physical Layer.md",
     "Networks/TCP IP.md",
-    "Networks/Network Layer.md",
     "Networks/TCP.md",
     "Assessments/Software Project 2.md",
-    "Networks/NETWORKS TODO.md",
     "Data Analysis/Data Analysis.md",
     "Assessments/Data Analysis.md",
     "Untitled.canvas",
@@ -192,13 +193,11 @@
     "Networks/Pasted image 20240509172224.png",
     "Networks/Images/IPv6-parts.png",
     "Networks/Java Networks.md",
-    "Networks/Security.md",
+    "Networks/Network Security.md",
     "Networks/IP Addresses.md",
     "Networks/DNS.md",
     "Networks/Ports.md",
-    "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
     "Networks/Images/port-usage.png",
-    "Networks/Images/networking-book.png",
     "Networks/Untitled",
     "Networks/Images",
     "Formal Languages & Finite Automata/Finite State Automata",
