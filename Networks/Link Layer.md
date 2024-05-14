@@ -48,15 +48,31 @@ $\therefore$ need a multiple access protocol:
 	- Coordination needed for better channel sharing and communication
 
 ### Types of Multiple Access Protocols
-**Channel Partitioning**
-- Divide channel into 'peices' (time slots; frequency; code)
+#### Channel Partitioning
+- Divide channel into 'pieces' (time slots; frequency; code)
 - Allocate pieces for node exclusive use
-- e.g. TDMA = Time Division Multiple Access
-**Random Access**
+##### TDMA = Time Division Multiple Access
+- Each node gets a fixed length time slot
+- Issue:
+	- Used slots go idle: not an efficient use of bandwidth
+	- Normally have to wait to start communicating
+##### FDMA = Frequency Division Multiple Access
+- Dividing channel into frequency bands
+- Each node is assigned one band
+- Meaning each node can listen for just their frequency therefore can send packages at the same time. 
+- Issue: 
+	- Not efficient use of bandwidth as can't use all frequency and some will be idle
+#### Random Access
 - Randomise send times to minimise chances of collision
 - If collision detected, recover(i.e. transmit)
 - e.g. CSMA = Carrier Sends Multiple Access, and variations
-**Taking Turns**
+##### Slotted ALOHA
+- Start sending immediately
+- If hardware detects collision, resend after a random time interval
+- Repeat if necessary
+- If only one node is communicating it uses full bandwidth
+- Issues:
+	- Collisions result in wasted slots
+	- Other protocols can achieve higher efficiency
+#### Taking Turns
 - Nodes take turns, but nodes with more to send can take longer turns (coordinate using tokens)
-- TDMA = Time Division Multiple Access
-- 
