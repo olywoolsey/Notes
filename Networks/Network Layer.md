@@ -56,7 +56,6 @@ Greater control possible by using generalised forwarding:
 - Actions can include dropping packets — firewalling.  
 
 Forwarding based on IP destination address only is now seen as a simple case of match-action forwarding
-
 ### Software Defined Networks
 The demand for generalised forwarding has lead to the development of devices that support SDN = Software Defined Networks.  
 - Flow-based forwarding based on any information in the header fields.  
@@ -64,3 +63,8 @@ The demand for generalised forwarding has lead to the development of devices tha
 - Software can exist on separate servers to the router and be broken down in modules that can be developed independently.  
 - Network is programmable.  
 - Widespread standard is OpenFlow
+### Routing Algorithms
+#### Dijkstra's
+#### RIP
+#### OSPF
+#### BGP
