@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Networks/Network Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Networks/Network Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Networks/Network Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/IP Addresses.md"
+                "file": "Networks/Network Layer.md"
               }
             }
           },
@@ -163,10 +163,12 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
+    "Pasted image 20240515164702.png",
+    "Networks/IP Addresses.md",
+    "Pasted image 20240515164205.png",
     "Pasted image 20240515164029.png",
     "Pasted image 20240515164014.png",
     "Networks/Network Layer.md",
-    "Networks/IP Addresses.md",
     "Networks/NETWORKS TODO.md",
     "Networks/OSI Model.md",
     "Networks/Transport Layer.md",
@@ -198,8 +200,6 @@
     "Assessments/Algorithms 1.md",
     "Networks/Images/shared-memory.png",
     "Networks/Images/reliable-data-transfer.png",
-    "Networks/Images/DNS-server-method.png",
-    "Networks/Pasted image 20240509172224.png",
     "Networks/Untitled",
     "Networks/Images",
     "Formal Languages & Finite Automata/Finite State Automata",

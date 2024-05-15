@@ -23,3 +23,17 @@ When $n$th datagram arrives at the $n$th router:
 - Destination returns 'prt unreachable' (ICMMP message type 3) because port doesn't exist
 - When source gets this, it stops
 
+## Tunnelling
+- Therefore IPv4 and IPv6 must co-exist (while switching)
+- IPv6 carried as payload in IPv4 datagram among IPv4 routers
+![](Pasted%20image%2020240515164702.png)
+## Routers
+> [!Note]
+> Note that although an idealised router has no Application or  
+> Transport layer, in reality these higher layers are sometimes used. 
+> Technically breaks the layered architecture model.
+> Perform two functions:
+### Run routing algorithms to determine and efficient onward path
+### Forward datagrams from and incoming link to an outgoing link
+- Using a forwarding table determined by the routing algorithm
+- 

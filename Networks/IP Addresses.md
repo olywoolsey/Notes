@@ -27,8 +27,10 @@ IPv6 is gradually replacing IPv4, although there is no road map for the end of I
 - The ‘4’ in IPv4 does not refer to the number of bytes
 - There are only (256)4 ≈ 4.29 × 109 possible addresses, i.e. about 4.3 billion
 #### Header
+- len: Length of header, including options (20 bytes if none).  
+- service: Type of service (TOS), e.g. real-time versus file transfer.  
+- 16-bit i.d., flags, frag. offset: Used for fragmentation (breaking large messages into smaller ones at a router)
 ![](Pasted%20image%2020240515164014.png)
-
 #### Classfull Addressing
 Originally there were several classes of IPv4 address:
 - Class A: 0.\*.\*.\* to 127.\*.\*.\*
@@ -50,9 +52,22 @@ They vary in size: Class A > Class B > Class C > Class D, E
 - Replace consecutive sections of 0s with double colon, e.g. 2001:630:62:59::53
 	- Only can replace one section per address
 	- If more than 1 section of 0s, replace largest (or leftmost if equal)
-	
 ![](IPv6-parts.png)
-
+#### Header
+![](Pasted%20image%2020240515164205.png)
+- Priority: Identify priority among datagrams in flow.  
+- Flow label: Identify datagrams in some ‘flow’ (concept of flow not well-defined).  
+- Next header: Identify upper layer protocol in the data (e.g. TCP, UDP, Options)
+#### Changes from IPv4
+**Checksum**
+- Removed to reducing processing time at each 'hop'
+- Still checked at the transport layer (TCP and UDP), and possibly the link layer
+**Options**
+- Still allowed, but outside of the header , as indicated by the Next header field
+**ICMPv6:**
+- New version of ICMP
+- Additional message types, i.e. 'Packet too big'
+- Multicast group management functions
 ## Temporary Fixes For Not Having Enough Addresses
 ### CIDR: Classless Inter-Domain Routing
 Define subnetworks by any number of bits  
