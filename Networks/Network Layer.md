@@ -33,6 +33,9 @@ When $n$th datagram arrives at the $n$th router:
 > Transport layer, in reality these higher layers are sometimes used. 
 > Technically breaks the layered architecture model.
 > Perform two functions:
+
+### Architecture
+
 ### Run routing algorithms to determine and efficient onward path
 ### Forward datagrams from and incoming link to an outgoing link
 - Using a forwarding table determined by the routing algorithm
