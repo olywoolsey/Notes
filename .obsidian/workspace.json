@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/TCP.md",
+                "file": "Networks/NETWORKS TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/TCP.md",
+                "file": "Networks/NETWORKS TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/TCP.md",
+                "file": "Networks/NETWORKS TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/TCP.md"
+                "file": "Networks/NETWORKS TODO.md"
               }
             }
           },
@@ -163,9 +162,11 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
-    "Pasted image 20240514172040.png",
     "Networks/Transport Layer.md",
     "Networks/TCP.md",
+    "Networks/The Book.md",
+    "Networks/TCP IP.md",
+    "Pasted image 20240514172040.png",
     "Networks/NETWORKS TODO.md",
     "Networks/UDP.md",
     "Networks/Java Networks.md",
@@ -187,7 +188,6 @@
     "Data Analysis/gestalt-proximity.png",
     "Networks/Application Layer.md",
     "Networks/OSI Model.md",
-    "Networks/TCP IP.md",
     "Assessments/Software Project 2.md",
     "Data Analysis/Data Analysis.md",
     "Assessments/Data Analysis.md",
@@ -199,7 +199,6 @@
     "Networks/Images/DNS-server-method.png",
     "Networks/Pasted image 20240509172224.png",
     "Networks/Images/IPv6-parts.png",
-    "Networks/Images/port-usage.png",
     "Networks/Untitled",
     "Networks/Images",
     "Formal Languages & Finite Automata/Finite State Automata",
