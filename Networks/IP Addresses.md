@@ -26,7 +26,10 @@ IPv6 is gradually replacing IPv4, although there is no road map for the end of I
 - Each byte takes a value from 0 to 255 (i.e. unsigned).
 - The ‘4’ in IPv4 does not refer to the number of bytes
 - There are only (256)4 ≈ 4.29 × 109 possible addresses, i.e. about 4.3 billion
-#### Classful Addressing
+#### Header
+![](Pasted%20image%2020240515164014.png)
+
+#### Classfull Addressing
 Originally there were several classes of IPv4 address:
 - Class A: 0.\*.\*.\* to 127.\*.\*.\*
 - Class B: 128.\*.\*.\* to 191.\*.\*.\*
@@ -41,7 +44,7 @@ They vary in size: Class A > Class B > Class C > Class D, E
 - Should never run out
 - Some legacy systems don't support IPv6
 	- Can wrap IPv6 datagrams into IPv4 datagrams if some intermediate routers only support IPv4
-	- Know as Tunneling
+	- Know as Tunnelling
 - Usually written in hexadecimal, with 8 groups (pairs of bytes) separated by colons
 - E.G. 2001:0630:0062:0059:0000:0000:0000:0053 or 2001:630:62:59:0:0:0:53 or
 - Replace consecutive sections of 0s with double colon, e.g. 2001:630:62:59::53
