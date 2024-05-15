@@ -58,6 +58,8 @@ They vary in size: Class A > Class B > Class C > Class D, E
 - Priority: Identify priority among datagrams in flow.  
 - Flow label: Identify datagrams in some ‘flow’ (concept of flow not well-defined).  
 - Next header: Identify upper layer protocol in the data (e.g. TCP, UDP, Options)
+- Longer than IPv4 but simpler
+- Doesn't check for data corruption
 #### Changes from IPv4
 **Checksum**
 - Removed to reducing processing time at each 'hop'
