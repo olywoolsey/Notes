@@ -6,9 +6,15 @@ Outward-facing servers, i.e. the public hosts visible to the Wide Area Network (
 - They forward messages from LAN hosts to the WAN, and vice versa, using a Network Address Translation (NAT) table
 - Does this by (ab-)using port numbers
 ## How to get one
+### Host
 **Hard Coded** by a system administrator file
 - UNIX: /etc/rc.config, /etc/hostname (old)
 - Windows: TCP/IP properties in control panel / system properties
+**DHCP** = Dynamic Host Configuration Protocol
+- Dynamically gets address from server
+- 'Plug-and-play'
+### Subnet
+Gets allocated a portion of its ISP = Internet Service Provider’s address space.
 ## Protocols
 Two protocols are currently in use:
 - IPv4: Internet Protocol version 4.
