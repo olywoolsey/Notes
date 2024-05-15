@@ -13,5 +13,5 @@
 
 **ARP (Address Resolution Protocol)**: 
 - When a device on the network needs to send a packet to another device, it uses ARP to resolve the IP address to a MAC address. 
-- The router, as a Layer 2 device, maintains an ARP table that maps IP addresses to MAC addresses. 
+- The router, as a Layer 2 device, maintains an ARP table that maps [IP addresses](IP%20Addresses.md) to MAC addresses. 
 - When a packet is received, the router checks the ARP table to determine the MAC address of the destination device.

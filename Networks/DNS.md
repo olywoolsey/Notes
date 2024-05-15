@@ -5,12 +5,12 @@ A host can be addressed in either
 DNS is the way computers turn the readable host name to an [IP Addresses](IP%20Addresses.md)
 ## Key Concepts:
 ### Indirection:  
-- Names replace IP addresses.  
-- We rarely use IP addresses directly.  
+- Names replace [IP addresses](IP%20Addresses.md).  
+- We rarely use [IP addresses](IP%20Addresses.md) directly.  
 ### Hierarchy:  
 - Apparent in IP addresses, their names, and the DNS server structure itself.  
 ### Distribution:  
-- No single DNS server contains all names or IP addresses.  
+- No single DNS server contains all names or [IP addresses](IP%20Addresses.md).  
 - Scalable.  
 ### Caching:  
 - Local caching of DNS results for re-use

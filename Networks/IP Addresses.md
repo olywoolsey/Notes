@@ -59,8 +59,8 @@ They vary in size: Class A > Class B > Class C > Class D, E
 - Flow label: Identify datagrams in some ‘flow’ (concept of flow not well-defined).  
 - Next header: Identify upper layer protocol in the data (e.g. TCP, UDP, Options)
 - Longer than IPv4 but simpler
-- Doesn't check for data corruption
-#### Changes from IPv4
+##### Changes from IPv4
+Now a fixed size
 **Checksum**
 - Removed to reducing processing time at each 'hop'
 - Still checked at the transport layer (TCP and UDP), and possibly the link layer

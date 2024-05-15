@@ -19,7 +19,7 @@ The server delivers duplicate data to multiple clients . . .
 - . . . but only sends one copy onto the network.  
 - Low risk of congestion in the link between server and the first (edge) router
 #### Multicast Address
-A set of IP addresses are available for multicast communication
+A set of [IP addresses](IP%20Addresses.md) are available for multicast communication
 - IPv4: [ClassD](IP%20Addresses.md)
 - IPv6: Prefix ff00::/8
 Each address represents a multicast group.  
