@@ -26,7 +26,7 @@ When $n$th datagram arrives at the $n$th router:
 ## Tunnelling
 - Therefore IPv4 and IPv6 must co-exist (while switching)
 - IPv6 carried as payload in IPv4 datagram among IPv4 routers
-![](Pasted%20image%2020240515164702.png)
+![](tunnelling.png)
 ## Routers
 > [!Note]
 > Note that although an idealised router has no Application or  
@@ -35,6 +35,7 @@ When $n$th datagram arrives at the $n$th router:
 > Perform two functions:
 
 ### Architecture
+![](router-architecture.png)
 
 ### Run routing algorithms to determine and efficient onward path
 ### Forward datagrams from and incoming link to an outgoing link

@@ -30,7 +30,7 @@ IPv6 is gradually replacing IPv4, although there is no road map for the end of I
 - len: Length of header, including options (20 bytes if none).  
 - service: Type of service (TOS), e.g. real-time versus file transfer.  
 - 16-bit i.d., flags, frag. offset: Used for fragmentation (breaking large messages into smaller ones at a router)
-![](Pasted%20image%2020240515164014.png)
+![](IPv4-header.png)
 #### Classfull Addressing
 Originally there were several classes of IPv4 address:
 - Class A: 0.\*.\*.\* to 127.\*.\*.\*
@@ -54,7 +54,7 @@ They vary in size: Class A > Class B > Class C > Class D, E
 	- If more than 1 section of 0s, replace largest (or leftmost if equal)
 ![](IPv6-parts.png)
 #### Header
-![](Pasted%20image%2020240515164205.png)
+![IPv4-header](IPv4-header.png)]
 - Priority: Identify priority among datagrams in flow.  
 - Flow label: Identify datagrams in some ‘flow’ (concept of flow not well-defined).  
 - Next header: Identify upper layer protocol in the data (e.g. TCP, UDP, Options)
