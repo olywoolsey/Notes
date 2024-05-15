@@ -5,6 +5,10 @@ Hosts in private networks (LANs) can use internal addresses (10.\*.\*.\*)
 Outward-facing servers, i.e. the public hosts visible to the Wide Area Network (WAN), do have a unique IP address
 - They forward messages from LAN hosts to the WAN, and vice versa, using a Network Address Translation (NAT) table
 - Does this by (ab-)using port numbers
+## How to get one
+**Hard Coded** by a system administrator file
+- UNIX: /etc/rc.config, /etc/hostname (old)
+- Windows: TCP/IP properties in control panel / system properties
 ## Protocols
 Two protocols are currently in use:
 - IPv4: Internet Protocol version 4.
@@ -53,6 +57,12 @@ Define subnetworks by any number of bits
 		- 220.10.128.0  
 		- . . .  
 		- 220.10.143.255  
+#### E.G. 200.23.16.0/23
+
+| 11001000     00010111    0001000 | 0    00000000 |
+| -------------------------------- | ------------- |
+| Subnet part                      | Host part     |
+
 ### NAT: Network Address Translation
 Private networks to have their own internal addresses, and only public servers to have actual IP addresses
 - Re-direct messages to/from private hosts using ports

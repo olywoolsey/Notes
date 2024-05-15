@@ -7,4 +7,4 @@
 - Also ICMP (Internet Control Message Protocol), which is how routers communicate to ensure efficient transport of messages through the network
 - Java only understands IP
 ## Classless Inter-Domain Routing
-- [IP Addresses](IP%20Addresses.md) now follow 
+- [IP Addresses](IP%20Addresses.md) now follow CIDR
