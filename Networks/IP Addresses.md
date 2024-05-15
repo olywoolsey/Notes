@@ -54,7 +54,7 @@ They vary in size: Class A > Class B > Class C > Class D, E
 	- If more than 1 section of 0s, replace largest (or leftmost if equal)
 ![](IPv6-parts.png)
 #### Header
-![IPv4-header](IPv4-header.png)]
+![](IPv6-header.png)
 - Priority: Identify priority among datagrams in flow.  
 - Flow label: Identify datagrams in some ‘flow’ (concept of flow not well-defined).  
 - Next header: Identify upper layer protocol in the data (e.g. TCP, UDP, Options)

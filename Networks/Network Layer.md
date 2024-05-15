@@ -38,6 +38,29 @@ When $n$th datagram arrives at the $n$th router:
 ![](router-architecture.png)
 
 ### Run routing algorithms to determine and efficient onward path
-### Forward datagrams from and incoming link to an outgoing link
+### Forward datagrams from an incoming link to an outgoing link
 - Using a forwarding table determined by the routing algorithm
-- 
+### Forwarding Table
+The forwarding table selects the output port for each packet.  
+- Too many IP addresses to consider each one.  
+- Therefore maps ranges of IP address destinations.  
+- Uses prefixes a.b.c.d/x.  
+- If multiple entries, use the longest prefix x, i.e. the smallest range of addresses
+#### Generalised Forwarding
+Early routers only used the destination IP address to determine the onward path for each packet.  
+
+Greater control possible by using generalised forwarding:  
+- Match incoming packets to actions.  
+- Can use all header fields from Transport, Network and Link layer headers.  
+	- Ports (source and destination), IP addresses, protocols, . . .  
+- Actions can include dropping packets — firewalling.  
+
+Forwarding based on IP destination address only is now seen as a simple case of match-action forwarding
+
+### Software Defined Networks
+The demand for generalised forwarding has lead to the development of devices that support SDN = Software Defined Networks.  
+- Flow-based forwarding based on any information in the header fields.  
+- Separates the control from the data.  
+- Software can exist on separate servers to the router and be broken down in modules that can be developed independently.  
+- Network is programmable.  
+- Widespread standard is OpenFlow

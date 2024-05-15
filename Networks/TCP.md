@@ -23,7 +23,7 @@ When a connection is established, the sender starts with a small CW and graduall
 - RTT: Round Trip Time.  
 - Exponential increase as increments happen more quickly (not such a slow start!)  
 - Loss event: Timeout and/or three duplicate ACKs.
-![](Pasted%20image%2020240514172040.png)
+![](TCP-slow-start.png)
 ### Congestion Avoidance
  - When the CW reaches a certain threshold, the sender enters the congestion avoidance phase, where the CW is increased linearly with time
 

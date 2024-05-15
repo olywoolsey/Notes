@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Networks/Network Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Networks/Network Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/IP Addresses.md",
+                "file": "Networks/Network Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/IP Addresses.md"
+                "file": "Networks/Network Layer.md"
               }
             }
           },
@@ -162,14 +163,15 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
+    "Networks/Images/TCP-slow-start.png",
+    "Networks/Pasted image 20240515164029.png",
+    "Networks/IP Addresses.md",
+    "Networks/Images/IPv6-header.png",
     "Networks/Network Layer.md",
-    "Networks/Pasted image 20240514172040.png",
     "Networks/Images/router-architecture.png",
     "Networks/Images/tunnelling.png",
-    "Networks/Pasted image 20240515164029.png",
     "Networks/Images/IPv4-header.png",
     "Networks/Pasted image 20240515164205.png",
-    "Networks/IP Addresses.md",
     "Networks/DNS.md",
     "Networks/NETWORKS TODO.md",
     "Networks/OSI Model.md",
@@ -192,7 +194,6 @@
     "Data Analysis/Optimising Visulisations.md",
     "Data Analysis/graph-before.png",
     "Data Analysis/graph-after.png",
-    "Data Analysis/gestalt-proximity.png",
     "Networks/Application Layer.md",
     "Assessments/Software Project 2.md",
     "Data Analysis/Data Analysis.md",
