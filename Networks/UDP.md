@@ -18,7 +18,7 @@
 - Can add reliability at the Application layer if needed.(e.g. VoIP - Voice over IP; RTP - Real-time Transport Protocol)
 #### RTP
 Open standard for real-time conversational applications:  
-- Runs on-top of UDP (typically) — seen as any other UDP packet in the Network layer.  
+- Runs on-top of UDP (typically) — seen as any other UDP packet in the [Network layer](Network%20Layer.md).  
 - 12-byte RTP header — sequence numbers, time-stamps, etc.  
 - Better chance of interacting if both end applications use RTP
 ### Header

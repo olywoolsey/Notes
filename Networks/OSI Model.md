@@ -27,15 +27,15 @@
 - Layer organises and structures the dialogue between applications.
 - Delimiting and synchronisation
 ### Transport Layer
-- (Downwards) Accepts session data and splits into segments before passing to the Network layer.
-- (Upwards) Receives Network layer segments and constructs Session layer data.
+- (Downwards) Accepts session data and splits into segments before passing to the [Network layer](Network%20Layer.md).
+- (Upwards) Receives [Network layer](Network%20Layer.md) segments and constructs Session layer data.
 - Data integrity depends on the protocol.Host-to-host communication 
 	- Includes destination address in a header.
 	- Oblivious to network infrastructure.
 ### Network Layer
 - Controls the operation of the sub-network between hosts.
 - Determines how packets (often called datagrams for this layer)are routed dynamically.
-	- Links may be made or broken as machines are added to thenetwork, break down etc.
+	- Links may be made or broken as machines are added to the network, break down etc.
 - May also offer congestion control and quality of service.
 - The highest level of the protocol stack for simple routers.
 	- i.e. routers do not need Transport or Application layers, but will often have software to help routing, firewalls etc
