@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniform Cost.md",
+                "file": "Mathematics/Algorithms/Dijkstra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uniform Cost.md",
+                "file": "Mathematics/Algorithms/Dijkstra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uniform Cost.md",
+                "file": "Mathematics/Algorithms/Dijkstra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uniform Cost.md"
+                "file": "Mathematics/Algorithms/Dijkstra.md"
               }
             }
           },
@@ -162,8 +163,8 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
-    "Mathematics/Algorithms/Dijkstra.md",
     "Uniform Cost.md",
+    "Mathematics/Algorithms/Dijkstra.md",
     "Mathematics/Algorithms/Adversarial Games.md",
     "Mathematics/Algorithms/Dynamic Programming.md",
     "Networks/Network Layer.md",
