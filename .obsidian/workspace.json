@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Algorithms/Adversarial Games.md",
+                "file": "Uniform Cost.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Algorithms/Adversarial Games.md",
+                "file": "Uniform Cost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Algorithms/Adversarial Games.md",
+                "file": "Uniform Cost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Algorithms/Adversarial Games.md"
+                "file": "Uniform Cost.md"
               }
             }
           },
@@ -164,6 +163,7 @@
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
     "Mathematics/Algorithms/Dijkstra.md",
+    "Uniform Cost.md",
     "Mathematics/Algorithms/Adversarial Games.md",
     "Mathematics/Algorithms/Dynamic Programming.md",
     "Networks/Network Layer.md",
@@ -196,7 +196,6 @@
     "Networks/Link Layer.md",
     "Networks/Physical Layer.md",
     "Networks/MAC Addresses.md",
-    "Ethernet.md",
     "Data Analysis/graph-before.png",
     "Data Analysis/graph-after.png",
     "Untitled.canvas",
