@@ -89,9 +89,29 @@ update D(v) for each neighbor v of w and not in N'
 	least path cost to w plus cost from w to v */
 until N' = N
 ```
-#### RIP
-- Distance vector algorithm, an iterative algorithm that only knows about local links and connected nodes.  
-- Included in BSD-UNIX1, the precursor to FreeBSD, OpenBSD etc., in 1982.  
+#### RIP: Routing Information Protocol
+- Distance vector algorithm, an iterative algorithm that only knows about local links and connected nodes
+- Included in BSD-UNIX1, the precursor to FreeBSD, OpenBSD etc., in 1982
 - Distance metric is the number of hops (maximum of 15)
-#### OSPF
+##### RIP Advertisements
+- Distributed algorithm that communicates asynchronously with directly connected nodes
+- Distance vectors are exchanged among neighbours every 30 seconds via a response message, also known as an advertisement
+- Each advertisement is list of up to 25 destination networks with the subnetwork
+- The costs, defined as the number of hops
+- Smaller messages that Dijkstra’s algorithm
+- Tends to have slower convergence, with no guarantees
+##### RIP Link Failure and Recovery
+- If no advertisement is received after 180 seconds, that neighbour or link is declared dead
+- Routes via the dead neighbour are invalidated
+- New advertisements send to neighbours
+- Neighbours in turn send out new advertisements, if their tables changed
+- Link failure information quickly propagates into the network
+##### RIP Table Processing
+- RIP routing tables are managed by Application layer processes called route-d ('daemon')
+- Advertisements are sent in UDP packets periodically repeated
+Note this technically breaks the layered network architecture
+#### OSPF: Open Shortest Path First
+- 'Open' = publicly available
+- 
+
 #### BGP
