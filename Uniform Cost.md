@@ -1,10 +1,6 @@
 # Uniform Cost Search
-Although closely related randomness and uncertainty are not the  
-same thing.  
-The term ‘randomness’ is usually applied to situations where the  
-range and frequency of outcomes is known. For instance, when  
-rolling a standard die, each of the numbers 1–6 occurs with 1/6  
-probability  
-Taking into account the randomness of a dice roll is in most cases  
-easier to model than the uncertainty of not knowing what your  
-opponent will do in a given situation
+The total cost to reach a node is obtained by adding the cost of each action along the path from the start node to that node
+
+> [!Note]
+> Note: if all actions have the same cost, then uniform cost search is the same as breadth first search
+
