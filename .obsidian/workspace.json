@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -162,7 +163,7 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
-    "Dijkstra.md",
+    "Mathematics/Algorithms/Dijkstra.md",
     "Mathematics/Algorithms/Adversarial Games.md",
     "Mathematics/Algorithms/Dynamic Programming.md",
     "Networks/Network Layer.md",
