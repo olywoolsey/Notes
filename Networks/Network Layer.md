@@ -65,6 +65,33 @@ The demand for generalised forwarding has lead to the development of devices tha
 - Widespread standard is OpenFlow
 ### Routing Algorithms
 #### Dijkstra's
+- Computes least cost path from source node to all others
+- Gives forwarding table for that node
+- Iterative: After $K$ iterations, knows least cost to $K$ destinations
+- Notation:
+	- c(x, y ) is link cost for x → y , or ∞ if no direct link.  
+	- D(v ) is current path cost from source to v .  
+	- p(v ) is the predecessor node along path to v .  
+	- N′ is set of nodes whose least cost path is known
+```Pseudocode
+N' = {u}
+for all nodes v:
+	if v is a neighbor of u
+		then D(v) = c(u,v)
+	else
+		D(v) = infinity
+
+find w not in N' such that D(w) is a minimum
+add w to N'
+update D(v) for each neighbor v of w and not in N'
+	D(v) = min( D(v), D(w)+c(w,v) )
+	/* New cost to v is either old cost to v or known
+	least path cost to w plus cost from w to v */
+until N' = N
+```
 #### RIP
+- Distance vector algorithm, an iterative algorithm that only knows about local links and connected nodes.  
+- Included in BSD-UNIX1, the precursor to FreeBSD, OpenBSD etc., in 1982.  
+- Distance metric is the number of hops (maximum of 15)
 #### OSPF
 #### BGP
