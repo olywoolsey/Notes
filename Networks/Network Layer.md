@@ -64,6 +64,13 @@ The demand for generalised forwarding has lead to the development of devices tha
 - Network is programmable.  
 - Widespread standard is OpenFlow
 ### Routing Algorithms
+Global or decentralised information?  
+- If global, all routers have complete knowledge of topology and link costs. Leads to link state algorithms
+- If decentralised, each router knows only physically-connected routers and link costs to them
+	- Iterative process of computation and information exchange with neighbours (distance vector algorithms)
+Can also be static or dynamic:  
+- Static suitable if routes change slowly
+- Dynamic if routes change more quickly, including link cost changes
 #### Dijkstra's
 - Computes least cost path from source node to all others
 - Gives forwarding table for that node
@@ -115,7 +122,7 @@ Note this technically breaks the layered network architecture
 Use link state algorithm but only on subnetwork
 - Topology map known at each node
 - Route computation using **Dijstra's** algorithm
-Only intended to act within an AS = Automated System
+Only intended to act within an **AS = Automated System**
 - Each ISP will have one or more AS's
 - Gives subnetwork administrator greater control
 - OSPF advertisements carry one entry per neighbour
@@ -125,3 +132,4 @@ Even a single ISP is normally too large for the whole network to be considered, 
 - Link-state advertisements only in the local area
 - Each node has detailed area toptology, but only knows the shortest path to networks in other areas
 #### BGP: Border Gateway Protocol
+Provides each AS 
