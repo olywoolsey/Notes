@@ -127,9 +127,25 @@ Only intended to act within an **AS = Automated System**
 - Gives subnetwork administrator greater control
 - OSPF advertisements carry one entry per neighbour
 - Carried directly over IP; does not use TCP or UDP
-##### Heirarchal OSPF
-Even a single ISP is normally too large for the whole network to be considered, so a two-level heirarchy is typically used with local areas and a backbone
+##### Hierarchical OSPF
+Even a single ISP is normally too large for the whole network to be considered, so a two-level hierarchy is typically used with local areas and a backbone
 - Link-state advertisements only in the local area
-- Each node has detailed area toptology, but only knows the shortest path to networks in other areas
+- Each node has detailed area topology, but only knows the shortest path to networks in other areas
 #### BGP: Border Gateway Protocol
-Provides each AS 
+Provides each AS as a means to:
+- Obtain the reachability information of a subnetwork to all routers internal to an AS
+- Propagate reachability information to all routers internal to an AS
+- Determine efficient routed to subnetworks based on reachability information and policy
+- Allows subnetwork to advertise it's existence to the rest of the internet
+##### Basics
+Pairs of routers (BGP peers) exchange routing information over semi-permanent TCP connections: BGP sessions
+- Need not correspond to physical links
+- **External session:** Spans to AS's
+- **Internal session:** Both BGP routers in the same AS
+##### BGP Route Selection
+A BGP router may learn about more than one route to a prefix, in which case it needs to select one
+To help in this, there are some elimination rules:  
+- Each potential route is assigned a local preference by the system administrator as per any policies
+- For all routes with the highest local preference, the ones with the shortest AS-PATH (i.e. the number of AS’s the packet would pass through)
+- If still tied, the shortest cost (i.e. number of physical links) to the first router in the next AS is used
+- If still tied, other criteria could be considered
