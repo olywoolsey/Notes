@@ -112,6 +112,16 @@ until N' = N
 Note this technically breaks the layered network architecture
 #### OSPF: Open Shortest Path First
 - 'Open' = publicly available
-- 
-
-#### BGP
+Use link state algorithm but only on subnetwork
+- Topology map known at each node
+- Route computation using **Dijstra's** algorithm
+Only intended to act within an AS = Automated System
+- Each ISP will have one or more AS's
+- Gives subnetwork administrator greater control
+- OSPF advertisements carry one entry per neighbour
+- Carried directly over IP; does not use TCP or UDP
+##### Heirarchal OSPF
+Even a single ISP is normally too large for the whole network to be considered, so a two-level heirarchy is typically used with local areas and a backbone
+- Link-state advertisements only in the local area
+- Each node has detailed area toptology, but only knows the shortest path to networks in other areas
+#### BGP: Border Gateway Protocol
