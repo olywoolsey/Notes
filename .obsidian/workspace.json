@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Ethics of AI.md",
+                "file": "Mathematics/Logic/Predicate Logic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Ethics of AI.md",
+                "file": "Mathematics/Logic/Predicate Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Ethics of AI.md",
+                "file": "Mathematics/Logic/Predicate Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Ethics of AI.md"
+                "file": "Mathematics/Logic/Predicate Logic.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
+    "AI/Ethics of AI.md",
     "Networks/Network Layer.md",
     "Networks/Images/TCP-slow-start.png",
     "Networks/Pasted image 20240515164029.png",
