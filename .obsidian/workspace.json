@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Logic/Predicate Logic.md",
+                "file": "Mathematics/Algorithms/Adversarial Games.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Logic/Predicate Logic.md",
+                "file": "Mathematics/Algorithms/Adversarial Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Logic/Predicate Logic.md",
+                "file": "Mathematics/Algorithms/Adversarial Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Logic/Predicate Logic.md"
+                "file": "Mathematics/Algorithms/Adversarial Games.md"
               }
             }
           },
@@ -163,8 +162,14 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
-    "AI/Ethics of AI.md",
+    "Dijkstra.md",
+    "Mathematics/Algorithms/Adversarial Games.md",
+    "Mathematics/Algorithms/Dynamic Programming.md",
     "Networks/Network Layer.md",
+    "Networks/Network Security.md",
+    "Networks/Connecting To The Network.md",
+    "Mathematics/Logic/Predicate Logic.md",
+    "AI/Ethics of AI.md",
     "Networks/Images/TCP-slow-start.png",
     "Networks/Pasted image 20240515164029.png",
     "Networks/IP Addresses.md",
@@ -187,18 +192,12 @@
     "DHCP.md",
     "Photography Imaging/Camera Filters & Lighting.md",
     "Networks/Parallel Computation.md",
-    "Networks/Network Security.md",
     "Networks/Link Layer.md",
     "Networks/Physical Layer.md",
     "Networks/MAC Addresses.md",
     "Ethernet.md",
-    "Data Analysis/Optimising Visulisations.md",
     "Data Analysis/graph-before.png",
     "Data Analysis/graph-after.png",
-    "Networks/Application Layer.md",
-    "Assessments/Software Project 2.md",
-    "Data Analysis/Data Analysis.md",
-    "Assessments/Data Analysis.md",
     "Untitled.canvas",
     "Networks/Untitled",
     "Networks/Images",
