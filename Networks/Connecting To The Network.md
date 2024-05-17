@@ -1,6 +1,6 @@
 # The Full Picture
 After connecting, the laptop needs an IP address:
-- Laptop’s OS places a [DHCP](DHCP.md) request1 into a [UDP](UDP.md) segment, itself placed into an IP datagram, which is then broadcast across the ethernet within a link-layer frame
+- Laptop’s OS places a DHCP request into a [UDP](UDP.md) segment, itself placed into an IP datagram, which is then broadcast across the Ethernet within a link-layer frame
 - Ethernet switch sends this message to all outgoing ports, including the router which extracts the request
 - Router returns an DHCP message (inside a UDP segment, inside an IP datagram, inside a link-layer frame)
 - Laptop extracts DHCP message, its IP address, and the address of the DNS server it will use.
