@@ -73,3 +73,13 @@ The certificate is signed by an approved certification authority
 - Commercial entities buy a certificate from a certification authority. 
 	-  e.g. VeriSign for SSL (Secure Sockets Layer)
 	- [Java Networks](Java%20Networks.md) use X.509 certificates
+
+## Java Security
+Java provides the following packages for secure communication:  
+Java Secure Socket Extension (JSSE):  
+- javax.net.*  
+- Includes Secure Sockets Layer (SSL) as javax.net.ssl.*  
+- Also includes the more recent Transport Layer Security (TLS).  
+These protocols lie inbetween the Application and Transport layers.  
+Technically breaks the 5-layer TCP/IP protocol (although not the 7-layer OSI protocol; see Lecture 2)
+#### SSLSocket Class
