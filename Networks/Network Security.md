@@ -83,3 +83,34 @@ Java Secure Socket Extension (JSSE):
 These protocols lie inbetween the Application and Transport layers.  
 Technically breaks the 5-layer TCP/IP protocol (although not the 7-layer OSI protocol; see Lecture 2)
 #### SSLSocket Class
+An SSLSocket is constructed by an SSLSocketFactory.  
+- Use of factory (rather than a constructor) allows additional security (e.g. authentication).  
+Plain Socket with added layers of security protection:  
+```java
+public class SSLSocket extends Socket  
+```
+Once created they act like a plain Socket.  
+Example:  
+```java
+SSLSocketFactory factory = (SSLSocketFactory) SSLSocketFactory.getDefault();  
+SSLSocket socket = (SSLSocket) factory.createSocket(host,port);
+```
+By choosing different factories, can choose e.g. different methods  
+and algorithms for authorisation or encryption.  
+getDefault() returns a factory class for server-side  
+authentication with encrypted communication1.  
+Alternatives can be found using the  
+getSupportedCipherSuites() method of SSLSocketFactory.  
+getEnabledCipherSuites() gives those that are allowed.  
+Needs to be negotiated by client and server.  
+Network communication functionality is inherited from the Socket.
+
+#### SSLServerSocket class
+Plain ServerSocket with added layers of security protection: 
+```java
+public class SSLServerSocket extends ServerSocket  
+```
+Once created they act like a plain ServerSocket, i.e. they inherit network functionality from ServerSocket.  
+Any client that wishes to connect must follow the server’s security protocol.  
+- Part of the server protocol.  
+- Avoids risk of malicious client deliberately requested weak security
