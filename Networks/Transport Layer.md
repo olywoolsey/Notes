@@ -18,7 +18,7 @@
 - If streams of packets arriving on multiple lines and all need the same output line, a queue will build up.  
 - If capacity of the buffer is exceeded, packets will be discarded (lost)
 - Slow processors can also cause congestion:  
-	- Queueing buffers, updating router tables etc. usually require processing
+	- Queuing buffers, updating router tables etc. usually require processing
 ### End-to-end Congestion Control
 I.E. Flow Control (Like as is adopted by [TCP](TCP.md)):
 - The idea of flow control is that the sender won’t overrun receiver’s buffer by transmitting too much, too fast
