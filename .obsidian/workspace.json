@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Network Security.md",
+                "file": "Networks/Parallel Computation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "39d6b828b6c92792",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Network Security.md",
+                "file": "Networks/Parallel Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Network Security.md",
+                "file": "Networks/Parallel Computation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/Network Security.md"
+                "file": "Networks/Parallel Computation.md"
               }
             }
           },
@@ -163,6 +162,7 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
+    "Networks/Network Security.md",
     "Networks/Transport Layer.md",
     "Networks/Link Layer.md",
     "Networks/Connecting To The Network.md",
@@ -172,7 +172,6 @@
     "Mathematics/Algorithms/Adversarial Games.md",
     "Mathematics/Algorithms/Dynamic Programming.md",
     "Networks/Network Layer.md",
-    "Networks/Network Security.md",
     "Mathematics/Logic/Predicate Logic.md",
     "AI/Ethics of AI.md",
     "Networks/Images/TCP-slow-start.png",
