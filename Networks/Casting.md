@@ -35,3 +35,13 @@ How far do we want our message to travel?
 - There is no direct connection.  
 - We do no know who is listening.  
 - Without some sort of control packets could proliferate, even without multicasting
+
+
+If not all of the services for TCP are necessary, can start with UDP and add required services in the Application layer.  
+A common application is for real-time conversation:  
+- Need rapid response — no more than 400ms.  
+- Can still follow the conversation with some packet loss.  
+- Need some strategy to recover from packet loss — including if it arrives ‘too late.’  
+Common examples include: 
+- VoIP — Voice–over–IP.  
+- RTP — Real–time Transport Protocol
