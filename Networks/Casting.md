@@ -38,12 +38,3 @@ How far do we want our message to travel?
 
 
   
-Two types of constructor depending on context of use:  
-For receiving a datagram:  
-```public DatagramPacket( byte[] buffer, int length )  ```
-- Maximum length specified by protocol; 8K is typical.  
-- Buffer capacity buffer.length must be at least as large as the length argument.  
-For sending a datagram:  
-```public DatagramPacket( byte[] data, int length, InetAddress destination, int port )  ```
-- Data is loaded from the given array.  
-- Destination address and port included.
