@@ -37,11 +37,13 @@ How far do we want our message to travel?
 - Without some sort of control packets could proliferate, even without multicasting
 
 
-If not all of the services for TCP are necessary, can start with UDP and add required services in the Application layer.  
-A common application is for real-time conversation:  
-- Need rapid response — no more than 400ms.  
-- Can still follow the conversation with some packet loss.  
-- Need some strategy to recover from packet loss — including if it arrives ‘too late.’  
-Common examples include: 
-- VoIP — Voice–over–IP.  
-- RTP — Real–time Transport Protocol
+  
+Two types of constructor depending on context of use:  
+For receiving a datagram:  
+```public DatagramPacket( byte[] buffer, int length )  ```
+- Maximum length specified by protocol; 8K is typical.  
+- Buffer capacity buffer.length must be at least as large as the length argument.  
+For sending a datagram:  
+```public DatagramPacket( byte[] data, int length, InetAddress destination, int port )  ```
+- Data is loaded from the given array.  
+- Destination address and port included.
