@@ -1,6 +1,6 @@
 # Ports
 - Applications are linked to the Transport [layer](Protocol%20Stack.md) via network ports.
-	- Different port numbers can be associated with different Application layer processes.
+	- Different port numbers can be associated with different [Application layer](Application%20Layer.md) processes.
 	- This allows multiple applications to run simultaneously on the same host with the same IP address.
 	- Purely software, provided by the OS.
 	- Can be allocated to a particular service, e.g. email, HTTP etc

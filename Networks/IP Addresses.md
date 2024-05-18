@@ -88,7 +88,6 @@ Define subnetworks by any number of bits
 | 11001000     00010111    0001000 | 0    00000000 |
 | -------------------------------- | ------------- |
 | Subnet part                      | Host part     |
-
 ### NAT: Network Address Translation
 Private networks to have their own internal addresses, and only public servers to have actual IP addresses
 - Re-direct messages to/from private hosts using ports

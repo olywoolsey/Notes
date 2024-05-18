@@ -162,13 +162,15 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
+    "Networks/Application Layer.md",
+    "Networks/IP Addresses.md",
+    "Data Analysis/Images",
     "Networks/Ports.md",
     "Networks/Parallel Computation.md",
     "Networks/The Book.md",
     "Networks/Network Layer.md",
     "Networks/UDP.md",
     "Networks/TCP.md",
-    "Networks/IP Addresses.md",
     "Networks/Transport Layer.md",
     "Networks/Network Security.md",
     "Networks/Casting.md",
@@ -194,10 +196,9 @@
     "Networks/Images/tunnelling.png",
     "Networks/Images/IPv4-header.png",
     "Networks/Pasted image 20240515164205.png",
-    "Networks/NETWORKS TODO.md",
     "Networks/Images/MAC-protocol.png",
-    "Data Analysis/graph-before.png",
-    "Data Analysis/graph-after.png",
+    "Data Analysis/Images/graph-before.png",
+    "Data Analysis/Images/graph-after.png",
     "Untitled.canvas",
     "Networks/Untitled",
     "Networks/Images",
@@ -208,7 +209,6 @@
     "User Interfaces/Images",
     "User Interfaces",
     "Professional Computing/Images",
-    "Professional Computing",
     "Semester1/InternationalDevelopment/Hell.canvas"
   ]
 }

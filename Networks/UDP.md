@@ -15,7 +15,7 @@
 	- UDP packets are numbered such that receiver can determine if packets are missing
 	- No correction or re-transmission
 	- Receiver can interpolate lost data
-- Can add reliability at the Application layer if needed.(e.g. VoIP - Voice over IP; RTP - Real-time Transport Protocol)
+- Can add reliability at the [Application layer](Application%20Layer.md) if needed.(e.g. VoIP - Voice over IP; RTP - Real-time Transport Protocol)
 #### RTP
 Open standard for real-time conversational applications:  
 - Runs on-top of UDP (typically) — seen as any other UDP packet in the [Network layer](Network%20Layer.md).  

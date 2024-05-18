@@ -54,4 +54,4 @@
 - Very general design that could be applied to any network (defence, cash machines etc.), not just the internet
 ### Cons
 - Often overly complex.
-- The Presentation and Session layers have minimal functionality that could easily be subsumed into the Application layer
+- The Presentation and Session layers have minimal functionality that could easily be subsumed into the [Application layer](Application%20Layer.md)

@@ -42,7 +42,7 @@ When $n$th datagram arrives at the $n$th router:
 - Using a forwarding table determined by the routing algorithm
 ### Forwarding Table
 The forwarding table selects the output port for each packet.  
-- Too many IP addresses to consider each one.  
+- Too many [IP addresses](IP%20Addresses.md) to consider each one.  
 - Therefore maps ranges of IP address destinations.  
 - Uses prefixes a.b.c.d/x.  
 - If multiple entries, use the longest prefix x, i.e. the smallest range of addresses
@@ -114,7 +114,7 @@ until N' = N
 - Neighbours in turn send out new advertisements, if their tables changed
 - Link failure information quickly propagates into the network
 ##### RIP Table Processing
-- RIP routing tables are managed by Application layer processes called route-d ('daemon')
+- RIP routing tables are managed by [Application layer](Application%20Layer.md) processes called route-d ('daemon')
 - Advertisements are sent in UDP packets periodically repeated
 Note this technically breaks the layered network architecture
 #### OSPF: Open Shortest Path First
