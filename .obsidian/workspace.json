@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Algorithms/Uniform Cost.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Algorithms/Uniform Cost.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Algorithms/Uniform Cost.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Algorithms/Uniform Cost.md"
+                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md"
               }
             }
           },
@@ -160,10 +160,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9b0e31f5f344f025",
+  "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
-    "DHCP.md",
     "Mathematics/Algorithms/Uniform Cost.md",
+    "DHCP.md",
     "Formal Languages & Finite Automata/Finite State Automata/Non-Deterministic Finite State Automata.md",
     "Formal Languages & Finite Automata/Finite State Automata/Deterministic Finite Automata.md",
     "Formal Languages & Finite Automata/non-regularity.md",
