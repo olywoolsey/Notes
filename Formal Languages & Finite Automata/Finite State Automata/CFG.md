@@ -18,4 +18,4 @@ A context-free grammar is in **Chomsky normal form** if every rule is of the for
 ###  Proof
 1. Add a new start variable $S_0 \rightarrow S$
 2. Remove all  $A \rightarrow \epsilon$ where $A$ is not the start variable. For each occurrence of an on the right hand side of a rule, we add a new rule with that occurrence deleted
-3. 
+3. Remove all $A \rightarrow B$ and replace with $B \rightarrow \dots$ so that 
