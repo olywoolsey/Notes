@@ -1,8 +1,8 @@
-# Non-deterministic Finite State Automata (NFA)
+# Non-deterministic Finite State Automata
 
 The concept of non-determinism is a concept that appears throughout the topic of complexity and theory of computation. In the automata we have considered up to now the action of the automaton is known, given the current state and an input symbol the next state is determined by the transition function-- this is called determinism. In a non-deterministic automaton the next state is not determined by the current state and input symbol alone, there may be many choices for the next state.
 
-In a [finite state automaton (FSA)](Deterministic%20Finite%20Automata.md), non-determinism refers to the presence of multiple transitions out of a state that are labelled with the same symbol. This means that, given a certain input symbol and current state, there is more than one possible next state that the FSA could transition to.
+In a [finite state automaton (FSA)](DFA.md), non-determinism refers to the presence of multiple transitions out of a state that are labelled with the same symbol. This means that, given a certain input symbol and current state, there is more than one possible next state that the FSA could transition to.
 
 Non-determinism can be useful in some cases because it allows the FSA to recognise multiple strings or patterns simultaneously. However, it can also make the FSA more difficult to design and understand, because there may be multiple possible paths through the FSA for a given input string.
 

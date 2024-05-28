@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/CFG.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/CFG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/CFG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Closure.md"
+                "file": "Formal Languages & Finite Automata/Finite State Automata/CFG.md"
               }
             }
           },
@@ -162,10 +162,15 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
+    "Formal Languages & Finite Automata/Finite State Automata/DFA.md",
+    "Formal Languages & Finite Automata/Finite State Automata/CFG.md",
+    "Formal Languages & Finite Automata/Finite State Automata/PDA.md",
+    "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
+    "Formal Languages & Finite Automata/Finite State Automata/NFA.md",
+    "Formal Languages & Finite Automata/Finite State Automata/Regular Languages.md",
+    "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
     "Mathematics/Algorithms/Uniform Cost.md",
     "DHCP.md",
-    "Formal Languages & Finite Automata/Finite State Automata/Non-Deterministic Finite State Automata.md",
-    "Formal Languages & Finite Automata/Finite State Automata/Deterministic Finite Automata.md",
     "Formal Languages & Finite Automata/non-regularity.md",
     "Networks/Network Layer.md",
     "Networks/Network Security.md",
@@ -184,11 +189,6 @@
     "Networks/Physical Layer.md",
     "Networks/Protocol Stack.md",
     "Networks/Java Networks.md",
-    "Networks/MAC Addresses.md",
-    "Networks/DNS.md",
-    "Networks/Connecting To The Network.md",
-    "Mathematics/Algorithms/Dijkstra.md",
-    "Mathematics/Algorithms/Adversarial Games.md",
     "Networks/Images/TCP-slow-start.png",
     "Networks/Pasted image 20240515164029.png",
     "Networks/Images/IPv6-header.png",

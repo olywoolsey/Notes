@@ -1,4 +1,4 @@
-# Deterministic Finite Automata (DFA)
+# Deterministic Finite Automata
 #COMP2321
 - (Finite State Machine)
 > [!info]+ Definition (Deterministic Finite State Automata)
