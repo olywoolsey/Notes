@@ -6,3 +6,16 @@
 > 3. $R$ is a finite set of **rules**, with each rule being a variable and a string of variables and terminals, and
 > 4. $S \in V$ is the **start variable**.
 
+## Chomsky Normal Form
+> [!Note] Defintion
+> Chomsky normal form
+A context-free grammar is in **Chomsky normal form** if every rule is of the form
+> 1.  $A \rightarrow BC,$ or
+> 2. $A \rightarrow \texttt{a}$
+> 
+> where $\texttt{a}$ is any terminal and $A$, $B$, and $C$ are any variables-- except that $B$ and $C$ may not be the start variable. In addition, we permit the rule $S \rightarrow \epsilon$, where $S$ is the start variable.
+
+###  Proof
+1. Add a new start variable $S_0 \rightarrow S$
+2. Remove all  $A \rightarrow \epsilon$ where $A$ is not the start variable. For each occurrence of an on the right hand side of a rule, we add a new rule with that occurrence deleted
+3. 
