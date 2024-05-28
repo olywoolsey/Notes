@@ -1,4 +1,5 @@
 # Equivalences
+## [NFA](NFA.md) to [DFA](DFA.md)
 
 It may seem from first observation that the differences between deterministic finite automaton and non-deterministic finite automaton would cause  the class of languages accepted by non-deterministic finite state automata is larger than the class accepted by deterministic finite state automata, however, this is not the case. In fact non-deterministic finite automaton and deterministic finite automaton recognise the same class of languages; this of course requires a proof. Consequently, from {prf:ref}`reg_lang`, non-deterministic finite automaton recognise the class of regular languages.
 
@@ -60,3 +61,5 @@ As a language is regular if there exists a deterministic finite state automaton 
 
 > [!note] Corollary
 A language is called a **regular language** if some non-deterministic finite automaton recognises it (corollary to earlier theorem).
+
+## [PDA](PDA.md) to [CFG](CFG.md)
