@@ -9,3 +9,9 @@
 > 5. $q_0 \in Q$ is the start state, and
 > 6. $F \subseteq Q$ is the set of accept states.
 
+## Example
+![](pushdown-automata.png)
+**Form > a , b ; c**
+- a = symbol read from input
+- b = symbol read from stack
+- c = symbol pushed to stack
