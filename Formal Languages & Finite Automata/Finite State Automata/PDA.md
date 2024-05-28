@@ -5,7 +5,7 @@
 > 1. $Q$ is the set of states,
 > 2. $\Sigma$ is the input alphabet,
 > 3. $\Gamma$ is the stack alphabet,
-> 4. $\delta: Q \times \Sigma_{\epsilon} \times \Gamma_\epsilon \rightarrow \mathcal{P} (Q \times \Gamma_\epsilon) $ is the transition function,
+> 4. $\delta: Q \times \Sigma_{\epsilon} \times \Gamma_\epsilon \rightarrow \mathcal{P} (Q \times \Gamma_\epsilon)$ is the transition function,
 > 5. $q_0 \in Q$ is the start state, and
 > 6. $F \subseteq Q$ is the set of accept states.
 
