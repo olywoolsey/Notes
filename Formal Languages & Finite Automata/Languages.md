@@ -1,3 +1,26 @@
+# Languages
+
+- A language is a set of strings of symbols over an alphabet. 
+- For example, the set of all strings over the alphabet $\{\texttt{a}, \texttt{b}, \texttt{c}, \ldots, \texttt{z}\}$ that contain an even number of a's and an odd number of b's is a language.
+
+Languages can be classified based on the kinds of patterns that they contain. Some common types of languages include regular languages, context-free languages, and context-sensitive languages. Each of these types of languages can be recognised by a different type of machine, such as a finite state automaton, a pushdown automaton, or a linear-bounded automaton.
+## Regular Languages
+
+>[!info] Definition (Regular Language)
+> A language is called a **regular language** if some deterministic finite automaton recognises it.
+
+If there does not exists a finite automaton that recognises a given language $L$, then $L$ is said to be **non-regular**. 
+
+The language of a machine $M$ will be denoted as $L(M)$. We say that a machine $M$ recognises a language $L$ if $L(M)=L$.
+## Context Free Language
+
+> [!Info] Definition
+> A language is called a **context-free language** (CFL) if some context-free grammar generates it.
+
+If there does not exists a context-free grammar that generates a given language $L$, then $L$ is said to be **non-context-free**. 
+
+The **language of a grammar**, denoted $L(G)$ (a slight corruption of notation), is $\{w \in \Sigma^* \mid S \stackrel{\ast}{\Rightarrow} w\}$.
+
 # Language relating to Turing machines
 
 ## Recursively enumerable languages 
