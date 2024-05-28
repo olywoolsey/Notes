@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/CFG.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/PDA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/CFG.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/PDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/CFG.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/PDA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/CFG.md"
+                "file": "Formal Languages & Finite Automata/Finite State Automata/PDA.md"
               }
             }
           },
@@ -162,12 +162,13 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
-    "Formal Languages & Finite Automata/Finite State Automata/DFA.md",
+    "Formal Languages & Finite Automata/Finite State Automata/CFL.md",
+    "Formal Languages & Finite Automata/Finite State Automata/Regular Languages.md",
     "Formal Languages & Finite Automata/Finite State Automata/CFG.md",
+    "Formal Languages & Finite Automata/Finite State Automata/DFA.md",
     "Formal Languages & Finite Automata/Finite State Automata/PDA.md",
     "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
     "Formal Languages & Finite Automata/Finite State Automata/NFA.md",
-    "Formal Languages & Finite Automata/Finite State Automata/Regular Languages.md",
     "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
     "Mathematics/Algorithms/Uniform Cost.md",
     "DHCP.md",
@@ -188,7 +189,6 @@
     "Networks/Casting.md",
     "Networks/Physical Layer.md",
     "Networks/Protocol Stack.md",
-    "Networks/Java Networks.md",
     "Networks/Images/TCP-slow-start.png",
     "Networks/Pasted image 20240515164029.png",
     "Networks/Images/IPv6-header.png",

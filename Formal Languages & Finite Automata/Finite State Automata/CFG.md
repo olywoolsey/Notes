@@ -7,7 +7,7 @@
 > 4. $S \in V$ is the **start variable**.
 
 ## Chomsky Normal Form
-> [!Note] Defintion
+> [!Info] Defintion
 > Chomsky normal form
 A context-free grammar is in **Chomsky normal form** if every rule is of the form
 > 1.  $A \rightarrow BC,$ or
@@ -18,4 +18,6 @@ A context-free grammar is in **Chomsky normal form** if every rule is of the for
 ###  Proof
 1. Add a new start variable $S_0 \rightarrow S$
 2. Remove all  $A \rightarrow \epsilon$ where $A$ is not the start variable. For each occurrence of an on the right hand side of a rule, we add a new rule with that occurrence deleted
-3. Remove all $A \rightarrow B$ and replace with $B \rightarrow \dots$ so that 
+3. Remove all $A\rightarrow B$ and replace with $B\rightarrow\dots$ so that $A\rightarrow\dots$  so that there are no single variables on the RHS
+4. Remove all occurrences of $A\rightarrow {Variables}$ where ${Variables} \neq 2$ and ensure no occurences of $A\rightarrow Bc$ by replacing with $A\rightarrow BC\text{ and new rule} C\rightarrow c$
+
