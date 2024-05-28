@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages & Finite Automata/PDA.md",
+                "file": "Formal Languages & Finite Automata/Turing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages & Finite Automata/PDA.md",
+                "file": "Formal Languages & Finite Automata/Turing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formal Languages & Finite Automata/PDA.md",
+                "file": "Formal Languages & Finite Automata/Turing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formal Languages & Finite Automata/PDA.md"
+                "file": "Formal Languages & Finite Automata/Turing.md"
               }
             }
           },
@@ -162,10 +162,10 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
+    "Formal Languages & Finite Automata/PDA.md",
     "Formal Languages & Finite Automata/Turing.md",
     "Formal Languages & Finite Automata/RegExp.md",
     "Formal Languages & Finite Automata/Notation.md",
-    "Formal Languages & Finite Automata/PDA.md",
     "Formal Languages & Finite Automata/Languages.md",
     "Formal Languages & Finite Automata/Turing_language.md",
     "Formal Languages & Finite Automata/non-regularity.md",

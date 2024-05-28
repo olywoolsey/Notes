@@ -35,15 +35,14 @@ The **start configuration** of $M$ on input $w$ is the configuration $q_0 \, w$,
 
 A non-deterministic Turing machine is defined in a similar manner to all non-deterministic automata we have encountered so far. During the processing on the input a non-deterministic Turing machine may branch, each branch following one possible state from the set defined by the transition function. {prf:ref}`ndtm` is the formal definition of a non-deterministic Turing machine. Take note to identify and understand the differences between the definition of the transition functions in {prf:ref}`ndtm` and {prf:ref}`dtm`.
 
-
-A **non-deterministic Turing machine** is a 7-tuple $(Q,\Sigma, \Gamma, \delta, q_0, q_\text{accept}, q_\text{reject})$, where
-
-1. $Q$ is a finite set called the **states**,
-2. $\Sigma$ is a finite set called the **input alphabet** not containing the $\textbf{ blank symbol } \sqcup$,
-3. $\Gamma$ is a finite set called the **tape alphabet**, where $\sqcup \in \Gamma \text{ and } \Sigma \subseteq \Gamma$,
-4. $\delta : Q \times \Gamma \rightarrow \mathcal{P}({Q \times \Gamma \times \{\text{L},\text{R}\}})$ is the **transition function**, 
-5. $q_0 \in Q$ is the **start state**,
-6. $q_\text{accept} \in Q$ is the **accept state**, and 
-7. $q_\text{reject} \in Q$ is the **reject state**, where $q_\text{accept} \not=q_\text{reject}$.
+> [!Info] Definition
+> A **non-deterministic Turing machine** is a 7-tuple $(Q,\Sigma, \Gamma, \delta, q_0, q_\text{accept}, q_\text{reject})$, where
+> 1. $Q$ is a finite set called the **states**,
+> 2. $\Sigma$ is a finite set called the **input alphabet** not containing the $\textbf{ blank symbol } \sqcup$,
+> 3. $\Gamma$ is a finite set called the **tape alphabet**, where $\sqcup \in \Gamma \text{ and } \Sigma \subseteq \Gamma$,
+> 4. $\delta : Q \times \Gamma \rightarrow \mathcal{P}({Q \times \Gamma \times \{\text{L},\text{R}\}})$ is the **transition function**, 
+> 5. $q_0 \in Q$ is the **start state**,
+> 6. $q_\text{accept} \in Q$ is the **accept state**, and 
+> 7. $q_\text{reject} \in Q$ is the **reject state**, where $q_\text{accept} \not=q_\text{reject}$.
 
 Every non-deterministic Turing machine has an equivalent deterministic Turing machine.
