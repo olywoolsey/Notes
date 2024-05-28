@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/CFL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/CFL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
+                "file": "Formal Languages & Finite Automata/Finite State Automata/CFL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md"
+                "file": "Formal Languages & Finite Automata/Finite State Automata/CFL.md"
               }
             }
           },
@@ -162,13 +162,14 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
+    "Formal Languages & Finite Automata/Finite State Automata/CFG.md",
+    "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
+    "Pasted image 20240528180559.png",
     "Formal Languages & Finite Automata/Finite State Automata/CFL.md",
     "Formal Languages & Finite Automata/Finite State Automata/pushdown-automata.png",
-    "Formal Languages & Finite Automata/Finite State Automata/CFG.md",
     "Formal Languages & Finite Automata/Finite State Automata/Regular Languages.md",
     "Formal Languages & Finite Automata/Finite State Automata/PDA.md",
     "Formal Languages & Finite Automata/Finite State Automata/DFA.md",
-    "Formal Languages & Finite Automata/Finite State Automata/Equivalence.md",
     "Formal Languages & Finite Automata/Finite State Automata/NFA.md",
     "Formal Languages & Finite Automata/Finite State Automata/Closure.md",
     "Mathematics/Algorithms/Uniform Cost.md",
@@ -197,7 +198,6 @@
     "Networks/Images/IPv4-header.png",
     "Networks/Pasted image 20240515164205.png",
     "Networks/Images/MAC-protocol.png",
-    "Data Analysis/Images/graph-before.png",
     "Untitled.canvas",
     "Networks/Untitled",
     "Networks/Images",

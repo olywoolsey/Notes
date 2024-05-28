@@ -62,4 +62,5 @@ As a language is regular if there exists a deterministic finite state automaton 
 > [!note] Corollary
 A language is called a **regular language** if some non-deterministic finite automaton recognises it (corollary to earlier theorem).
 
-## [PDA](PDA.md) to [CFG](CFG.md)
+## [CFG](CFG.md) to [PDA](PDA.md)
+![](Pasted%20image%2020240528180559.png)
