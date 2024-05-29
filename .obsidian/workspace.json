@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formal Languages & Finite Automata/Turing.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -162,8 +162,9 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
-    "Formal Languages & Finite Automata/PDA.md",
     "Formal Languages & Finite Automata/Turing.md",
+    "Untitled 1.md",
+    "Formal Languages & Finite Automata/PDA.md",
     "Formal Languages & Finite Automata/RegExp.md",
     "Formal Languages & Finite Automata/Notation.md",
     "Formal Languages & Finite Automata/Languages.md",
@@ -190,7 +191,6 @@
     "Networks/Application Layer.md",
     "Data Analysis/Images",
     "Networks/Ports.md",
-    "Networks/Parallel Computation.md",
     "Networks/Images/TCP-slow-start.png",
     "Networks/Pasted image 20240515164029.png",
     "Networks/Images/IPv6-header.png",
