@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Logic/Sets/Set Theory.md",
+                "file": "Formal Languages & Finite Automata/Turing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Logic/Sets/Set Theory.md",
+                "file": "Formal Languages & Finite Automata/Turing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Logic/Sets/Set Theory.md",
+                "file": "Formal Languages & Finite Automata/Turing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Logic/Sets/Set Theory.md"
+                "file": "Formal Languages & Finite Automata/Turing.md"
               }
             }
           },
@@ -162,19 +162,20 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
+    "Formal Languages & Finite Automata/CFG.md",
+    "Formal Languages & Finite Automata/RegExp.md",
+    "Formal Languages & Finite Automata/Languages.md",
+    "Formal Languages & Finite Automata/PDA.md",
+    "Mathematics/Logic/Sets/Set Theory.md",
     "Formal Languages & Finite Automata/NFA.md",
     "Formal Languages & Finite Automata/DFA.md",
     "Untitled 1.md",
     "Formal Languages & Finite Automata/Turing.md",
-    "Formal Languages & Finite Automata/PDA.md",
-    "Formal Languages & Finite Automata/RegExp.md",
     "Formal Languages & Finite Automata/Notation.md",
-    "Formal Languages & Finite Automata/Languages.md",
     "Formal Languages & Finite Automata/Turing_language.md",
     "Formal Languages & Finite Automata/non-regularity.md",
     "Untitled.md",
     "Formal Languages & Finite Automata/Finite State Automata/CFL.md",
-    "Formal Languages & Finite Automata/CFG.md",
     "Formal Languages & Finite Automata/Equivalence.md",
     "Pasted image 20240528180559.png",
     "Formal Languages & Finite Automata/Images/pushdown-automata.png",
@@ -190,7 +191,6 @@
     "Networks/TCP IP.md",
     "Networks/Application Layer.md",
     "Data Analysis/Images",
-    "Networks/Ports.md",
     "Networks/Images/TCP-slow-start.png",
     "Networks/Pasted image 20240515164029.png",
     "Networks/Images/IPv6-header.png",
