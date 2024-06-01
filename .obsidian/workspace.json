@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages & Finite Automata/PDA.md",
+                "file": "Mathematics/Logic/Predicate Logic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formal Languages & Finite Automata/PDA.md",
+                "file": "Mathematics/Logic/Predicate Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formal Languages & Finite Automata/PDA.md",
+                "file": "Mathematics/Logic/Predicate Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formal Languages & Finite Automata/PDA.md"
+                "file": "Mathematics/Logic/Predicate Logic.md"
               }
             }
           },
@@ -162,8 +162,8 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Formal Languages & Finite Automata/PDA.md",
+    "Untitled 1.md",
     "Formal Languages & Finite Automata/NFA.md",
     "Formal Languages & Finite Automata/Turing.md",
     "Formal Languages & Finite Automata/CFG.md",
