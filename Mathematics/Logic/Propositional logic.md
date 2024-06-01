@@ -11,7 +11,7 @@
 ---
 ## Symbols
 - Logically equal:     $\equiv$
-- [[../Logic/Logically implies]]:   |=
+- [Logically implies](Logically%20implies.md)]:   |=
 - Negation: ¬
 - Conjunction: $\wedge$
 - Disjunction: $\vee$
