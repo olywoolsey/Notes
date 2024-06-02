@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Logic/Logic Laws.md",
+                "file": "Mathematics/Logic/Predicate Logic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Logic/Logic Laws.md",
+                "file": "Mathematics/Logic/Predicate Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Logic/Logic Laws.md",
+                "file": "Mathematics/Logic/Predicate Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Logic/Logic Laws.md"
+                "file": "Mathematics/Logic/Predicate Logic.md"
               }
             }
           },
@@ -162,8 +162,9 @@
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
-    "Mathematics/Logic/Propositional logic.md",
     "Mathematics/Logic/Logically implies.md",
+    "Mathematics/Logic/Logic Laws.md",
+    "Mathematics/Logic/Propositional logic.md",
     "Mathematics/Logic/Predicate Logic.md",
     "Formal Languages & Finite Automata/PDA.md",
     "Untitled 1.md",
@@ -189,7 +190,6 @@
     "Networks/Network Security.md",
     "Networks/Link Layer.md",
     "Networks/IP Addresses.md",
-    "Networks/Transport Layer.md",
     "Data Analysis/Images",
     "Networks/Images/TCP-slow-start.png",
     "Networks/Pasted image 20240515164029.png",
