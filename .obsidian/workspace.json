@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Logic/Predicate Logic.md",
+                "file": "Mathematics/Algorithms/CYK.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Logic/Predicate Logic.md",
+                "file": "Mathematics/Algorithms/CYK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +103,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Logic/Predicate Logic.md",
+                "file": "Mathematics/Algorithms/CYK.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Logic/Predicate Logic.md"
+                "file": "Mathematics/Algorithms/CYK.md"
               }
             }
           },
@@ -156,15 +156,27 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "ddd6707a241f5d9d",
   "lastOpenFiles": [
+    "Mathematics/Algorithms/Depth First Search.md",
+    "Mathematics/Algorithms/Uniform Cost.md",
+    "Mathematics/Algorithms/Stacks.md",
+    "Mathematics/Algorithms/Selection Sort.md",
+    "Mathematics/Algorithms/Recursive Algorithms.md",
+    "Mathematics/Algorithms/Quick Sort.md",
+    "Mathematics/Algorithms/Queues.md",
+    "Mathematics/Algorithms/Priority Queues.md",
+    "Formal Languages & Finite Automata/Images/Pasted image 20240213164044.png",
+    "Formal Languages & Finite Automata/Images/Pasted image 20240528180559.png",
+    "Formal Languages & Finite Automata/Images/Pasted image 20240308162532.png",
+    "Mathematics/Logic/Predicate Logic.md",
     "Mathematics/Logic/Logically implies.md",
     "Mathematics/Logic/Logic Laws.md",
     "Mathematics/Logic/Propositional logic.md",
-    "Mathematics/Logic/Predicate Logic.md",
     "Formal Languages & Finite Automata/PDA.md",
     "Untitled 1.md",
     "Formal Languages & Finite Automata/NFA.md",
@@ -179,16 +191,7 @@
     "Formal Languages & Finite Automata/non-regularity.md",
     "Untitled.md",
     "Formal Languages & Finite Automata/Finite State Automata/CFL.md",
-    "Formal Languages & Finite Automata/Equivalence.md",
-    "Pasted image 20240528180559.png",
     "Formal Languages & Finite Automata/Images/pushdown-automata.png",
-    "Formal Languages & Finite Automata/Closure.md",
-    "Mathematics/Algorithms/Uniform Cost.md",
-    "DHCP.md",
-    "Networks/Network Layer.md",
-    "Networks/Network Security.md",
-    "Networks/Link Layer.md",
-    "Networks/IP Addresses.md",
     "Data Analysis/Images",
     "Networks/Images/TCP-slow-start.png",
     "Networks/Pasted image 20240515164029.png",
@@ -196,8 +199,6 @@
     "Networks/Images/router-architecture.png",
     "Networks/Images/tunnelling.png",
     "Networks/Images/IPv4-header.png",
-    "Networks/Pasted image 20240515164205.png",
-    "Networks/Images/MAC-protocol.png",
     "Untitled.canvas",
     "Networks/Untitled",
     "Networks/Images",
